@@ -31277,11 +31277,6 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20200127013000 -0600" stop="20200127023000 -0600" channel="Canal Telemundo (México)">
-    <title lang="es">Cámbiame el look</title>
-    <desc lang="es">Con Finola Hughes. Un reality show donde el invitado es vestido según criterios de un estilista, dos amigos y sus parientes,  donde le escogen tres mudadas.(n)</desc>
-    <category lang="es">Reality Show</category>
-    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/cambiame_el_look.jpg" />
-  </programme>
+  
 
 </tv>
