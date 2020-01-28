@@ -96,8 +96,8 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal A&amp;E (México)">
-    <display-name lang="es">Canal A&amp;E (Latinoamérica)</display-name>
+  <channel id="Canal AyE">
+    <display-name lang="es">Canal A&amp;E (México)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_mexico-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_mexico-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -7506,74 +7506,74 @@
   <programme start="20200201213000 -0600" stop="20200201230000 -0600" channel="Canal BitMe">
     <title lang="es">Arte geek</title>
   </programme>
-  <programme start="20200128013500 -0600" stop="20200128020000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128013500 -0600" stop="20200128020000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E41</episode-num>
   </programme>
-  <programme start="20200128020000 -0600" stop="20200128022500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128020000 -0600" stop="20200128022500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E42</episode-num>
   </programme>
-  <programme start="20200128022500 -0600" stop="20200128031500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128022500 -0600" stop="20200128031500 -0600" channel="Canal AyE">
     <title lang="es">Crímenes no resueltos</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200128031500 -0600" stop="20200128041000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128031500 -0600" stop="20200128041000 -0600" channel="Canal AyE">
     <title lang="es">Metropoli</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200128041000 -0600" stop="20200128050000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128041000 -0600" stop="20200128050000 -0600" channel="Canal AyE">
     <title lang="es">Patrulla nocturna: Emergencias</title>
   </programme>
-  <programme start="20200128050000 -0600" stop="20200128053000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128050000 -0600" stop="20200128053000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas: E.U</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200128053000 -0600" stop="20200128060000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128053000 -0600" stop="20200128060000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas: E.U</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200128060000 -0600" stop="20200128065000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128060000 -0600" stop="20200128065000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E73</episode-num>
   </programme>
-  <programme start="20200128065000 -0600" stop="20200128071500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128065000 -0600" stop="20200128071500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20200128071500 -0600" stop="20200128074000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128071500 -0600" stop="20200128074000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20200128074000 -0600" stop="20200128080500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128074000 -0600" stop="20200128080500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E41</episode-num>
   </programme>
-  <programme start="20200128080500 -0600" stop="20200128083000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128080500 -0600" stop="20200128083000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E42</episode-num>
   </programme>
-  <programme start="20200128083000 -0600" stop="20200128092000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128083000 -0600" stop="20200128092000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E54</episode-num>
   </programme>
-  <programme start="20200128092000 -0600" stop="20200128101000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128092000 -0600" stop="20200128101000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E43</episode-num>
   </programme>
-  <programme start="20200128101000 -0600" stop="20200128110000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128101000 -0600" stop="20200128110000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E73</episode-num>
   </programme>
-  <programme start="20200128110000 -0600" stop="20200128113000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128110000 -0600" stop="20200128113000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20200128113000 -0600" stop="20200128120000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128113000 -0600" stop="20200128120000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20200128120000 -0600" stop="20200128125000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128120000 -0600" stop="20200128125000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -7598,7 +7598,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200128125000 -0600" stop="20200128134500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128125000 -0600" stop="20200128134500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -7621,34 +7621,34 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200128134500 -0600" stop="20200128141000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128134500 -0600" stop="20200128141000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E19</episode-num>
   </programme>
-  <programme start="20200128141000 -0600" stop="20200128143500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128141000 -0600" stop="20200128143500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E20</episode-num>
   </programme>
-  <programme start="20200128143500 -0600" stop="20200128150000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128143500 -0600" stop="20200128150000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E41</episode-num>
   </programme>
-  <programme start="20200128150000 -0600" stop="20200128152500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128150000 -0600" stop="20200128152500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E42</episode-num>
   </programme>
-  <programme start="20200128152500 -0600" stop="20200128161500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128152500 -0600" stop="20200128161500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E54</episode-num>
   </programme>
-  <programme start="20200128161500 -0600" stop="20200128164500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128161500 -0600" stop="20200128164500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E53</episode-num>
   </programme>
-  <programme start="20200128164500 -0600" stop="20200128173500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128164500 -0600" stop="20200128173500 -0600" channel="Canal AyE">
     <title lang="es">Patrulla nocturna: Emergencias</title>
   </programme>
-  <programme start="20200128173500 -0600" stop="20200128182500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128173500 -0600" stop="20200128182500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -7673,7 +7673,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200128182500 -0600" stop="20200128191500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128182500 -0600" stop="20200128191500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -7696,91 +7696,91 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200128191500 -0600" stop="20200128210000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128191500 -0600" stop="20200128210000 -0600" channel="Canal AyE">
     <title lang="es">Peligro en Bangkok</title>
   </programme>
-  <programme start="20200128210000 -0600" stop="20200128215000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128210000 -0600" stop="20200128215000 -0600" channel="Canal AyE">
     <title lang="es">Patrulla nocturna: Emergencias</title>
   </programme>
-  <programme start="20200128215000 -0600" stop="20200128225000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128215000 -0600" stop="20200128225000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E406</episode-num>
   </programme>
-  <programme start="20200128225000 -0600" stop="20200128235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128225000 -0600" stop="20200128235000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E407</episode-num>
   </programme>
-  <programme start="20200128235000 -0600" stop="20200128235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128235000 -0600" stop="20200128235000 -0600" channel="Canal AyE">
     <title lang="es">El vengador anónimo</title>
   </programme>
-  <programme start="20200128235000 -0600" stop="20200129014500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200128235000 -0600" stop="20200129014500 -0600" channel="Canal AyE">
     <title lang="es">El vengador anónimo</title>
   </programme>
-  <programme start="20200129014500 -0600" stop="20200129021500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129014500 -0600" stop="20200129021500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E53</episode-num>
   </programme>
-  <programme start="20200129021500 -0600" stop="20200129024000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129021500 -0600" stop="20200129024000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E54</episode-num>
   </programme>
-  <programme start="20200129024000 -0600" stop="20200129033000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129024000 -0600" stop="20200129033000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E43</episode-num>
   </programme>
-  <programme start="20200129033000 -0600" stop="20200129042000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129033000 -0600" stop="20200129042000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E54</episode-num>
   </programme>
-  <programme start="20200129042000 -0600" stop="20200129051000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129042000 -0600" stop="20200129051000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E73</episode-num>
   </programme>
-  <programme start="20200129051000 -0600" stop="20200129060000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129051000 -0600" stop="20200129060000 -0600" channel="Canal AyE">
     <title lang="es">Metropoli</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200129060000 -0600" stop="20200129065000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129060000 -0600" stop="20200129065000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E74</episode-num>
   </programme>
-  <programme start="20200129065000 -0600" stop="20200129071500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129065000 -0600" stop="20200129071500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20200129071500 -0600" stop="20200129074000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129071500 -0600" stop="20200129074000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20200129074000 -0600" stop="20200129080500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129074000 -0600" stop="20200129080500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E43</episode-num>
   </programme>
-  <programme start="20200129080500 -0600" stop="20200129083000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129080500 -0600" stop="20200129083000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E44</episode-num>
   </programme>
-  <programme start="20200129083000 -0600" stop="20200129092000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129083000 -0600" stop="20200129092000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E55</episode-num>
   </programme>
-  <programme start="20200129092000 -0600" stop="20200129101000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129092000 -0600" stop="20200129101000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E44</episode-num>
   </programme>
-  <programme start="20200129101000 -0600" stop="20200129110000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129101000 -0600" stop="20200129110000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E74</episode-num>
   </programme>
-  <programme start="20200129110000 -0600" stop="20200129112500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129110000 -0600" stop="20200129112500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20200129112500 -0600" stop="20200129115000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129112500 -0600" stop="20200129115000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20200129115000 -0600" stop="20200129124000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129115000 -0600" stop="20200129124000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -7805,7 +7805,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200129124000 -0600" stop="20200129133500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129124000 -0600" stop="20200129133500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -7828,35 +7828,35 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200129133500 -0600" stop="20200129140000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129133500 -0600" stop="20200129140000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20200129140000 -0600" stop="20200129142500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129140000 -0600" stop="20200129142500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20200129142500 -0600" stop="20200129145000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129142500 -0600" stop="20200129145000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E43</episode-num>
   </programme>
-  <programme start="20200129145000 -0600" stop="20200129151500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129145000 -0600" stop="20200129151500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E44</episode-num>
   </programme>
-  <programme start="20200129151500 -0600" stop="20200129160500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129151500 -0600" stop="20200129160500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E55</episode-num>
   </programme>
-  <programme start="20200129160500 -0600" stop="20200129163000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129160500 -0600" stop="20200129163000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E55</episode-num>
   </programme>
-  <programme start="20200129163000 -0600" stop="20200129172500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129163000 -0600" stop="20200129172500 -0600" channel="Canal AyE">
     <title lang="es">Metropoli</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200129172500 -0600" stop="20200129181500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129172500 -0600" stop="20200129181500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -7881,7 +7881,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200129181500 -0600" stop="20200129190500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129181500 -0600" stop="20200129190500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -7904,10 +7904,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200129190500 -0600" stop="20200129210000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129190500 -0600" stop="20200129210000 -0600" channel="Canal AyE">
     <title lang="es">El vengador anónimo</title>
   </programme>
-  <programme start="20200129210000 -0600" stop="20200129215000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129210000 -0600" stop="20200129215000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -7932,86 +7932,86 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200129215000 -0600" stop="20200129225000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129215000 -0600" stop="20200129225000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E407</episode-num>
   </programme>
-  <programme start="20200129225000 -0600" stop="20200129235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129225000 -0600" stop="20200129235000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E408</episode-num>
   </programme>
-  <programme start="20200129235000 -0600" stop="20200130014500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200129235000 -0600" stop="20200130014500 -0600" channel="Canal AyE">
     <title lang="es">La hija de Dios</title>
   </programme>
-  <programme start="20200130014500 -0600" stop="20200130021000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130014500 -0600" stop="20200130021000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E55</episode-num>
   </programme>
-  <programme start="20200130021000 -0600" stop="20200130023500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130021000 -0600" stop="20200130023500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E56</episode-num>
   </programme>
-  <programme start="20200130023500 -0600" stop="20200130032500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130023500 -0600" stop="20200130032500 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E44</episode-num>
   </programme>
-  <programme start="20200130032500 -0600" stop="20200130041500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130032500 -0600" stop="20200130041500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E55</episode-num>
   </programme>
-  <programme start="20200130041500 -0600" stop="20200130051000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130041500 -0600" stop="20200130051000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E74</episode-num>
   </programme>
-  <programme start="20200130051000 -0600" stop="20200130053500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130051000 -0600" stop="20200130053500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20200130053500 -0600" stop="20200130060000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130053500 -0600" stop="20200130060000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20200130060000 -0600" stop="20200130065000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130060000 -0600" stop="20200130065000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E75</episode-num>
   </programme>
-  <programme start="20200130065000 -0600" stop="20200130071500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130065000 -0600" stop="20200130071500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E23</episode-num>
   </programme>
-  <programme start="20200130071500 -0600" stop="20200130074000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130071500 -0600" stop="20200130074000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20200130074000 -0600" stop="20200130080500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130074000 -0600" stop="20200130080500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20200130080500 -0600" stop="20200130083000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130080500 -0600" stop="20200130083000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20200130083000 -0600" stop="20200130092000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130083000 -0600" stop="20200130092000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E56</episode-num>
   </programme>
-  <programme start="20200130092000 -0600" stop="20200130101000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130092000 -0600" stop="20200130101000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20200130101000 -0600" stop="20200130110000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130101000 -0600" stop="20200130110000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E75</episode-num>
   </programme>
-  <programme start="20200130110000 -0600" stop="20200130112500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130110000 -0600" stop="20200130112500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E23</episode-num>
   </programme>
-  <programme start="20200130112500 -0600" stop="20200130115000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130112500 -0600" stop="20200130115000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20200130115000 -0600" stop="20200130124000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130115000 -0600" stop="20200130124000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -8036,7 +8036,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200130124000 -0600" stop="20200130133500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130124000 -0600" stop="20200130133500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -8059,31 +8059,31 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200130133500 -0600" stop="20200130140000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130133500 -0600" stop="20200130140000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E23</episode-num>
   </programme>
-  <programme start="20200130140000 -0600" stop="20200130142500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130140000 -0600" stop="20200130142500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20200130142500 -0600" stop="20200130145000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130142500 -0600" stop="20200130145000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20200130145000 -0600" stop="20200130151500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130145000 -0600" stop="20200130151500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20200130151500 -0600" stop="20200130160500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130151500 -0600" stop="20200130160500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E56</episode-num>
   </programme>
-  <programme start="20200130160500 -0600" stop="20200130163000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130160500 -0600" stop="20200130163000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E29</episode-num>
   </programme>
-  <programme start="20200130163000 -0600" stop="20200130172000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130163000 -0600" stop="20200130172000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -8108,7 +8108,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200130172000 -0600" stop="20200130181500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130172000 -0600" stop="20200130181500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -8133,7 +8133,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200130181500 -0600" stop="20200130190500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130181500 -0600" stop="20200130190500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -8156,96 +8156,96 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200130190500 -0600" stop="20200130210000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130190500 -0600" stop="20200130210000 -0600" channel="Canal AyE">
     <title lang="es">La hija de Dios</title>
   </programme>
-  <programme start="20200130210000 -0600" stop="20200130215000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130210000 -0600" stop="20200130215000 -0600" channel="Canal AyE">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">S3 E304</episode-num>
   </programme>
-  <programme start="20200130215000 -0600" stop="20200130225000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130215000 -0600" stop="20200130225000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E408</episode-num>
   </programme>
-  <programme start="20200130225000 -0600" stop="20200130235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130225000 -0600" stop="20200130235000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E409</episode-num>
   </programme>
-  <programme start="20200130235000 -0600" stop="20200130235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130235000 -0600" stop="20200130235000 -0600" channel="Canal AyE">
     <title lang="es">El Apocalipsis</title>
   </programme>
-  <programme start="20200130235000 -0600" stop="20200131014500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200130235000 -0600" stop="20200131014500 -0600" channel="Canal AyE">
     <title lang="es">El Apocalipsis</title>
   </programme>
-  <programme start="20200131014500 -0600" stop="20200131021000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131014500 -0600" stop="20200131021000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E29</episode-num>
   </programme>
-  <programme start="20200131021000 -0600" stop="20200131023500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131021000 -0600" stop="20200131023500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E30</episode-num>
   </programme>
-  <programme start="20200131023500 -0600" stop="20200131033000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131023500 -0600" stop="20200131033000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E45</episode-num>
   </programme>
-  <programme start="20200131033000 -0600" stop="20200131042500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131033000 -0600" stop="20200131042500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E56</episode-num>
   </programme>
-  <programme start="20200131042500 -0600" stop="20200131051000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131042500 -0600" stop="20200131051000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E75</episode-num>
   </programme>
-  <programme start="20200131051000 -0600" stop="20200131053500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131051000 -0600" stop="20200131053500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E23</episode-num>
   </programme>
-  <programme start="20200131053500 -0600" stop="20200131060000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131053500 -0600" stop="20200131060000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20200131060000 -0600" stop="20200131065000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131060000 -0600" stop="20200131065000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E76</episode-num>
   </programme>
-  <programme start="20200131065000 -0600" stop="20200131071500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131065000 -0600" stop="20200131071500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20200131071500 -0600" stop="20200131074000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131071500 -0600" stop="20200131074000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20200131074000 -0600" stop="20200131080500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131074000 -0600" stop="20200131080500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E47</episode-num>
   </programme>
-  <programme start="20200131080500 -0600" stop="20200131083000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131080500 -0600" stop="20200131083000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E48</episode-num>
   </programme>
-  <programme start="20200131083000 -0600" stop="20200131092000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131083000 -0600" stop="20200131092000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E57</episode-num>
   </programme>
-  <programme start="20200131092000 -0600" stop="20200131101000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131092000 -0600" stop="20200131101000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20200131101000 -0600" stop="20200131110000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131101000 -0600" stop="20200131110000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E76</episode-num>
   </programme>
-  <programme start="20200131110000 -0600" stop="20200131112500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131110000 -0600" stop="20200131112500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20200131112500 -0600" stop="20200131115000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131112500 -0600" stop="20200131115000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20200131115000 -0600" stop="20200131124000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131115000 -0600" stop="20200131124000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -8270,7 +8270,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200131124000 -0600" stop="20200131133500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131124000 -0600" stop="20200131133500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -8293,35 +8293,35 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200131133500 -0600" stop="20200131140000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131133500 -0600" stop="20200131140000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20200131140000 -0600" stop="20200131142500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131140000 -0600" stop="20200131142500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20200131142500 -0600" stop="20200131145000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131142500 -0600" stop="20200131145000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E47</episode-num>
   </programme>
-  <programme start="20200131145000 -0600" stop="20200131151500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131145000 -0600" stop="20200131151500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E48</episode-num>
   </programme>
-  <programme start="20200131151500 -0600" stop="20200131160500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131151500 -0600" stop="20200131160500 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E57</episode-num>
   </programme>
-  <programme start="20200131160500 -0600" stop="20200131163000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131160500 -0600" stop="20200131163000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E31</episode-num>
   </programme>
-  <programme start="20200131163000 -0600" stop="20200131172500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131163000 -0600" stop="20200131172500 -0600" channel="Canal AyE">
     <title lang="es">Bull</title>
     <episode-num system="onscreen">S3 E304</episode-num>
   </programme>
-  <programme start="20200131172500 -0600" stop="20200131181500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131172500 -0600" stop="20200131181500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
     <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
@@ -8346,7 +8346,7 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20200131181500 -0600" stop="20200131190500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131181500 -0600" stop="20200131190500 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -8369,10 +8369,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200131190500 -0600" stop="20200131210000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131190500 -0600" stop="20200131210000 -0600" channel="Canal AyE">
     <title lang="es">El Apocalipsis</title>
   </programme>
-  <programme start="20200131210000 -0600" stop="20200131215000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131210000 -0600" stop="20200131215000 -0600" channel="Canal AyE">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
     <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
@@ -8395,121 +8395,121 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20200131215000 -0600" stop="20200131225000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131215000 -0600" stop="20200131225000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E409</episode-num>
   </programme>
-  <programme start="20200131225000 -0600" stop="20200131235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131225000 -0600" stop="20200131235000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S4 E410</episode-num>
   </programme>
-  <programme start="20200131235000 -0600" stop="20200131235000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131235000 -0600" stop="20200131235000 -0600" channel="Canal AyE">
     <title lang="es">John Wick</title>
   </programme>
-  <programme start="20200131235000 -0600" stop="20200201014000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200131235000 -0600" stop="20200201014000 -0600" channel="Canal AyE">
     <title lang="es">John Wick</title>
   </programme>
-  <programme start="20200201014000 -0600" stop="20200201020500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201014000 -0600" stop="20200201020500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E47</episode-num>
   </programme>
-  <programme start="20200201020500 -0600" stop="20200201023000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201020500 -0600" stop="20200201023000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E48</episode-num>
   </programme>
-  <programme start="20200201023000 -0600" stop="20200201032000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201023000 -0600" stop="20200201032000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: El experimento</title>
     <episode-num system="onscreen">E46</episode-num>
   </programme>
-  <programme start="20200201032000 -0600" stop="20200201041000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201032000 -0600" stop="20200201041000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E57</episode-num>
   </programme>
-  <programme start="20200201041000 -0600" stop="20200201050000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201041000 -0600" stop="20200201050000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E76</episode-num>
   </programme>
-  <programme start="20200201050000 -0600" stop="20200201053000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201050000 -0600" stop="20200201053000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20200201053000 -0600" stop="20200201060000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201053000 -0600" stop="20200201060000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S2 E26</episode-num>
   </programme>
-  <programme start="20200201060000 -0600" stop="20200201065000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201060000 -0600" stop="20200201065000 -0600" channel="Canal AyE">
     <title lang="es">Terapia De Shock</title>
     <episode-num system="onscreen">S6 E57</episode-num>
   </programme>
-  <programme start="20200201065000 -0600" stop="20200201074000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201065000 -0600" stop="20200201074000 -0600" channel="Canal AyE">
     <title lang="es">60 días preso: Atlanta</title>
     <episode-num system="onscreen">S1 E29</episode-num>
   </programme>
-  <programme start="20200201074000 -0600" stop="20200201083000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201074000 -0600" stop="20200201083000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E68</episode-num>
   </programme>
-  <programme start="20200201083000 -0600" stop="20200201092000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201083000 -0600" stop="20200201092000 -0600" channel="Canal AyE">
     <title lang="es">Acumuladores compulsivos</title>
     <episode-num system="onscreen">S7 E69</episode-num>
   </programme>
-  <programme start="20200201092000 -0600" stop="20200201102000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201092000 -0600" stop="20200201102000 -0600" channel="Canal AyE">
     <title lang="es">Metropoli</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200201102000 -0600" stop="20200201104500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201102000 -0600" stop="20200201104500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200201104500 -0600" stop="20200201111000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201104500 -0600" stop="20200201111000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200201111000 -0600" stop="20200201113500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201111000 -0600" stop="20200201113500 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E29</episode-num>
   </programme>
-  <programme start="20200201113500 -0600" stop="20200201120000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201113500 -0600" stop="20200201120000 -0600" channel="Canal AyE">
     <title lang="es">Lo mejor de policías en vivo</title>
     <episode-num system="onscreen">E30</episode-num>
   </programme>
-  <programme start="20200201120000 -0600" stop="20200201125000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201120000 -0600" stop="20200201125000 -0600" channel="Canal AyE">
     <title lang="es">Patrulla nocturna: Emergencias</title>
   </programme>
-  <programme start="20200201125000 -0600" stop="20200201134000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201125000 -0600" stop="20200201134000 -0600" channel="Canal AyE">
     <title lang="es">Atrapadas</title>
     <episode-num system="onscreen">S13 E4</episode-num>
   </programme>
-  <programme start="20200201134000 -0600" stop="20200201144000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201134000 -0600" stop="20200201144000 -0600" channel="Canal AyE">
     <title lang="es">Las Primeras 48 Horas</title>
     <episode-num system="onscreen">E360</episode-num>
   </programme>
-  <programme start="20200201144000 -0600" stop="20200201153000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201144000 -0600" stop="20200201153000 -0600" channel="Canal AyE">
     <title lang="es">Último día en libertad</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200201153000 -0600" stop="20200201162000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201153000 -0600" stop="20200201162000 -0600" channel="Canal AyE">
     <title lang="es">Desaparecido en el paraíso</title>
   </programme>
-  <programme start="20200201162000 -0600" stop="20200201171000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201162000 -0600" stop="20200201171000 -0600" channel="Canal AyE">
     <title lang="es">Jóvenes en prisión</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200201171000 -0600" stop="20200201173500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201171000 -0600" stop="20200201173500 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200201173500 -0600" stop="20200201180000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201173500 -0600" stop="20200201180000 -0600" channel="Canal AyE">
     <title lang="es">Fronteras peligrosas</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200201180000 -0600" stop="20200201201000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201180000 -0600" stop="20200201201000 -0600" channel="Canal AyE">
     <title lang="es">Punto de Quiebre</title>
   </programme>
-  <programme start="20200201201000 -0600" stop="20200201220000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201201000 -0600" stop="20200201220000 -0600" channel="Canal AyE">
     <title lang="es">John Wick</title>
   </programme>
-  <programme start="20200201220000 -0600" stop="20200201230000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20200201220000 -0600" stop="20200201230000 -0600" channel="Canal AyE">
     <title lang="es">Narcos</title>
     <episode-num system="onscreen">S3 E306</episode-num>
   </programme>
