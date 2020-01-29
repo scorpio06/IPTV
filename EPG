@@ -516,6 +516,10 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus_hd_mexico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal HBO Plus HD México 2">
+    <display-name lang="es">Canal HBO Plus HD México</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20200129003000 -0600" stop="20200129010000 -0600" channel="Canal Boomerang">
     <title lang="es">Tío grandpa</title>
   </programme>
@@ -1919,11 +1923,11 @@
   <programme start="20200129230900 -0600" stop="20200129233400 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Polly Pocket</title>
   </programme>
-  <programme start="20200129233400 -0600" stop="20200130020400 -0600" channel="Canal Discovery Kids (México)">
+  <programme start="20200129233400 -0600" stop="20200130025000 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Mi perro Pat (Rpk 30 min)</title>
   </programme>
-  <programme start="20200130020400 -0600" stop="20200130022600 -0600" channel="Canal Discovery Kids (México)">
-    <title lang="es">Zak Storm</title>
+  <programme start="20200130025000 -0600" stop="20200130031400 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">La Calle Scream (Rpk 30 Min)</title>
   </programme>
   <programme start="20200130073200 -0600" stop="20200130080200 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Peppa T7 (Rpk 30 Min)</title>
@@ -2373,9 +2377,6 @@
     <rating>
       <value>PG</value>
     </rating>
-  </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Acampados</title>
   </programme>
   <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Disney Channel">
     <title lang="es">Jessie</title>
@@ -3166,8 +3167,8 @@
   <programme start="20200130000000 -0600" stop="20200130013000 -0600" channel="Canal Disney Junior">
     <title lang="es">La Guardia del León</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Disney Junior">
-    <title lang="es">La Guardia del León</title>
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
   </programme>
   <programme start="20200130040000 -0600" stop="20200130044500 -0600" channel="Canal Disney Junior">
     <title lang="es">Elena de Avalor</title>
@@ -3374,11 +3375,11 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Disney XD">
     <title lang="es">O11CE</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Disney XD">
+  <programme start="20200129233000 -0600" stop="20200130023000 -0600" channel="Canal Disney XD">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Disney XD">
-    <title lang="es">O11CE</title>
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Disney XD">
+    <title lang="es">Phineas y Ferb</title>
   </programme>
   <programme start="20200130080000 -0600" stop="20200130100000 -0600" channel="Canal Disney XD">
     <title lang="es">Gravity Falls: Raromageddon</title>
@@ -4265,11 +4266,11 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Nickelodeon">
+  <programme start="20200129233000 -0600" stop="20200130023000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Nickelodeon">
-    <title lang="es">Henry Danger</title>
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Nickelodeon">
+    <title lang="es">iCarly</title>
   </programme>
   <programme start="20200130170000 -0600" stop="20200130171500 -0600" channel="Canal Nickelodeon">
     <title lang="es">ALVINNN!!! and The Chipmunks</title>
@@ -4922,21 +4923,11 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Nick 2 (México)">
     <title lang="es">iCarly</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Nick 2 (México)">
+  <programme start="20200129233000 -0600" stop="20200130023000 -0600" channel="Canal Nick 2 (México)">
     <title lang="es">iCarly</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Nick 2 (México)">
-    <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”.(n)</desc>
-    <credits>
-      <actor>Tom Kenny</actor>
-      <actor>Bill Faberbakke</actor>
-      <actor>Rodger Bumpass</actor>
-    </credits>
-    <date>1999</date>
-    <category lang="es">Infantil</category>
-    <category lang="es">Caricatura</category>
-    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/bob_esponja.png" />
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Nick 2 (México)">
+    <title lang="es">Las tortugas ninja mutantes</title>
   </programme>
   <programme start="20200129003000 -0600" stop="20200129010000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Top Wing</title>
@@ -5076,11 +5067,11 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Paw Patrol</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Nick Jr.">
+  <programme start="20200129233000 -0600" stop="20200130023000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Mutt &amp; Stuff</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Nick Jr.">
-    <title lang="es">Blaze and the Monster Machine</title>
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal Nick Jr.">
+    <title lang="es">ALVINNN!!! and The Chipmunks</title>
   </programme>
   <programme start="20200130050000 -0600" stop="20200130053000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Paw Patrol</title>
@@ -5622,8 +5613,8 @@
   <programme start="20200130003000 -0600" stop="20200130005000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">Pingüinos de Madagascar</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130022500 -0600" channel="Canal Nicktoons (México)">
-    <title lang="es">Breadwinners</title>
+  <programme start="20200130024500 -0600" stop="20200130030000 -0600" channel="Canal Nicktoons (México)">
+    <title lang="es">The Adventures of Kid Danger</title>
   </programme>
   <programme start="20200130031500 -0600" stop="20200130033500 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">kung fu panda</title>
@@ -6262,8 +6253,8 @@
   <programme start="20200131013200 -0600" stop="20200131014000 -0600" channel="Canal Tooncast">
     <title lang="es">Popeye</title>
   </programme>
-  <programme start="20200131021200 -0600" stop="20200131022300 -0600" channel="Canal Tooncast">
-    <title lang="es">Autos Locos</title>
+  <programme start="20200131025200 -0600" stop="20200131030000 -0600" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
   </programme>
   <programme start="20200131060300 -0600" stop="20200131061300 -0600" channel="Canal Tooncast">
     <title lang="es">Sombrías aventuras de Billy y Mandy</title>
@@ -6926,6 +6917,9 @@
   <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal BitMe">
     <title lang="es">Agarra el control</title>
   </programme>
+  <programme start="20200130023000 -0600" stop="20200130030000 -0600" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco</title>
+  </programme>
   <programme start="20200130030000 -0600" stop="20200130033000 -0600" channel="Canal BitMe">
     <title lang="es">Campo de batalla</title>
   </programme>
@@ -7034,9 +7028,6 @@
   <programme start="20200131013000 -0600" stop="20200131020000 -0600" channel="Canal BitMe">
     <title lang="es">Arpeggio of Blue Steel</title>
     <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20200131020000 -0600" stop="20200131023000 -0600" channel="Canal BitMe">
-    <title lang="es">New challenger</title>
   </programme>
   <programme start="20200131030000 -0600" stop="20200131033000 -0600" channel="Canal BitMe">
     <title lang="es">El Top bitMe, K-pop</title>
@@ -27373,11 +27364,8 @@
   <programme start="20200129222500 -0600" stop="20200129231500 -0600" channel="Canal truTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20200129231500 -0600" stop="20200130020000 -0600" channel="Canal truTV">
+  <programme start="20200129231500 -0600" stop="20200130022500 -0600" channel="Canal truTV">
     <title lang="es">Los vídeos mas tontos</title>
-  </programme>
-  <programme start="20200130020000 -0600" stop="20200130022500 -0600" channel="Canal truTV">
-    <title lang="es">Remolcadores</title>
   </programme>
   <programme start="20200130022500 -0600" stop="20200130024500 -0600" channel="Canal truTV">
     <title lang="es">Impractical Jokers</title>
@@ -27896,7 +27884,10 @@
   <programme start="20200129203000 -0600" stop="20200129210000 -0600" channel="Canal América TeVé">
     <title lang="es">El Espejo</title>
   </programme>
-  <programme start="20200129210000 -0600" stop="20200129210000 -0600" channel="Canal América TeVé">
+  <programme start="20200129210000 -0600" stop="20200130030000 -0600" channel="Canal América TeVé">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200130030000 -0600" stop="20200130053000 -0600" channel="Canal América TeVé">
     <title lang="es">Infomerciales</title>
   </programme>
   <programme start="20200129003000 -0600" stop="20200129010000 -0600" channel="Canal Estrella TV">
@@ -27986,10 +27977,10 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Estrella TV">
+  <programme start="20200129233000 -0600" stop="20200130030000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Estrella TV">
+  <programme start="20200130030000 -0600" stop="20200130033000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20200130080000 -0600" stop="20200130100000 -0600" channel="Canal Estrella TV">
@@ -28271,8 +28262,8 @@
   <programme start="20200130003000 -0600" stop="20200130010000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Elgourmet">
-    <title lang="es">Platos de cuchara</title>
+  <programme start="20200130030000 -0600" stop="20200130033000 -0600" channel="Canal Elgourmet">
+    <title lang="es">Sazón Casero</title>
   </programme>
   <programme start="20200130053000 -0600" stop="20200130060000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición</title>
@@ -28619,11 +28610,11 @@
   <programme start="20200129214500 -0600" stop="20200129223000 -0600" channel="Canal Mega">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200129223000 -0600" stop="20200129223000 -0600" channel="Canal Mega">
+  <programme start="20200129223000 -0600" stop="20200130024500 -0600" channel="Canal Mega">
     <title lang="es">Fuera del aire</title>
   </programme>
-  <programme start="20200129223000 -0600" stop="20200130164000 -0600" channel="Canal Mega">
-    <title lang="es">Fuera del aire</title>
+  <programme start="20200130024500 -0600" stop="20200130033000 -0600" channel="Canal Mega">
+    <title lang="es">Meganoticias amanece</title>
   </programme>
   <programme start="20200130164000 -0600" stop="20200131050000 -0600" channel="Canal Mega">
     <title lang="es">Las mil y una noches</title>
@@ -28820,11 +28811,11 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20200129230000 -0600" stop="20200130013000 -0600" channel="Canal Telemundo (México)">
+  <programme start="20200129230000 -0600" stop="20200130023000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Suelta la Sopa</title>
   </programme>
-  <programme start="20200130013000 -0600" stop="20200130023000 -0600" channel="Canal Telemundo (México)">
-    <title lang="es">12 corazones</title>
+  <programme start="20200130023000 -0600" stop="20200130033000 -0600" channel="Canal Telemundo (México)">
+    <title lang="es">Sin senos si hay paraíso</title>
   </programme>
   <programme start="20200130150000 -0600" stop="20200131060000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Caso Cerrado</title>
@@ -29058,11 +29049,11 @@
   <programme start="20200129212000 -0600" stop="20200129230500 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">Bajo un Mismo Rostro</title>
   </programme>
-  <programme start="20200129230500 -0600" stop="20200130010000 -0600" channel="Canal TLNovelas (Latinoamérica)">
+  <programme start="20200129230500 -0600" stop="20200130024000 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">El extraño retorno de Diana Salazar</title>
   </programme>
-  <programme start="20200130010000 -0600" stop="20200130024000 -0600" channel="Canal TLNovelas (Latinoamérica)">
-    <title lang="es">Cuna de lobos</title>
+  <programme start="20200130024000 -0600" stop="20200130042000 -0600" channel="Canal TLNovelas (Latinoamérica)">
+    <title lang="es">Amor Bravio</title>
   </programme>
   <programme start="20200130194000 -0600" stop="20200130230500 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">Amor Bravio</title>
@@ -29130,11 +29121,8 @@
   <programme start="20200129223000 -0600" stop="20200129233000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">La 3era en discordia</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Unicable (Latinoamérica)">
+  <programme start="20200129233000 -0600" stop="20200130023000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">Sin Tetas no hay paraíso</title>
-  </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Unicable (Latinoamérica)">
-    <title lang="es">Menú del día</title>
   </programme>
   <programme start="20200130023000 -0600" stop="20200130033000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">Netas divinas</title>
@@ -29460,10 +29448,10 @@
   <programme start="20200129220000 -0600" stop="20200129230000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200129230000 -0600" stop="20200130020000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200129230000 -0600" stop="20200130030000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130030000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200130030000 -0600" stop="20200130040000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
   <programme start="20200131000000 -0600" stop="20200131020000 -0600" channel="Canal Ultra Fiesta">
@@ -29982,11 +29970,11 @@
   <programme start="20200131224500 -0600" stop="20200131224500 -0600" channel="Canal Ultra Docu">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20200131224500 -0600" stop="20200201015500 -0600" channel="Canal Ultra Docu">
+  <programme start="20200131224500 -0600" stop="20200201023000 -0600" channel="Canal Ultra Docu">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20200201015500 -0600" stop="20200201023000 -0600" channel="Canal Ultra Docu">
-    <title lang="es">Sentidos extraordinarios</title>
+  <programme start="20200201023000 -0600" stop="20200201032000 -0600" channel="Canal Ultra Docu">
+    <title lang="es">Ecohuellas</title>
   </programme>
   <programme start="20200201050000 -0600" stop="20200201053500 -0600" channel="Canal Ultra Docu">
     <title lang="es">The Boat Show</title>
@@ -30945,11 +30933,8 @@
   <programme start="20200130220000 -0600" stop="20200130230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200130230000 -0600" stop="20200131020000 -0600" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200130230000 -0600" stop="20200131025000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Que chingue su</title>
-  </programme>
-  <programme start="20200131020000 -0600" stop="20200131022500 -0600" channel="Canal Comedy Central (Latinoamérica)">
-    <title lang="es">Alternatino</title>
   </programme>
   <programme start="20200131025000 -0600" stop="20200131031500 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Key and Peele</title>
@@ -31262,8 +31247,8 @@
   <programme start="20200131001000 -0600" stop="20200131010000 -0600" channel="Canal Distrito Comedia">
     <title lang="es">Renta Congelada</title>
   </programme>
-  <programme start="20200131015000 -0600" stop="20200131030000 -0600" channel="Canal Distrito Comedia">
-    <title lang="es">La hora pico</title>
+  <programme start="20200131030000 -0600" stop="20200131035000 -0600" channel="Canal Distrito Comedia">
+    <title lang="es">Cero en conducta</title>
   </programme>
   <programme start="20200131165000 -0600" stop="20200131212500 -0600" channel="Canal Distrito Comedia">
     <title lang="es">40 y 20</title>
@@ -31430,8 +31415,8 @@
   <programme start="20200130013000 -0600" stop="20200130020000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">Deportes 360</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130030000 -0600" channel="Canal Caracol Internacional">
-    <title lang="es">Tu voz estéreo</title>
+  <programme start="20200130030000 -0600" stop="20200130033000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Diario de Diana</title>
   </programme>
   <programme start="20200130033000 -0600" stop="20200130040000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">La Dolce Vita</title>
@@ -31631,11 +31616,11 @@
   <programme start="20200129230000 -0600" stop="20200129233000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Deco Hogar</title>
   </programme>
-  <programme start="20200129233000 -0600" stop="20200130020000 -0600" channel="Canal Más Chic HD Latinoamérica">
+  <programme start="20200129233000 -0600" stop="20200130030000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Look de Fiesta</title>
   </programme>
-  <programme start="20200130020000 -0600" stop="20200130023000 -0600" channel="Canal Más Chic HD Latinoamérica">
-    <title lang="es">De compras en</title>
+  <programme start="20200130030000 -0600" stop="20200130033000 -0600" channel="Canal Más Chic HD Latinoamérica">
+    <title lang="es">Vísteme Laura</title>
   </programme>
   <programme start="20200130070000 -0600" stop="20200130073000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Decora con flores</title>
@@ -36969,11 +36954,11 @@
   <programme start="20200202010000 -0600" stop="20200202020000 -0600" channel="Canal Discovery Familia">
     <title lang="es">Kilos mortales</title>
   </programme>
-  <programme start="20200202020000 -0600" stop="20200202023000 -0600" channel="Canal Discovery Familia">
-    <title lang="es">Programa Pagado</title>
-  </programme>
   <programme start="20200202023000 -0600" stop="20200202030000 -0600" channel="Canal Discovery Familia">
     <title lang="es">¡Increíbles Resultados</title>
+  </programme>
+  <programme start="20200202030000 -0600" stop="20200202033000 -0600" channel="Canal Discovery Familia">
+    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
   </programme>
   <programme start="20200202040000 -0600" stop="20200202043000 -0600" channel="Canal Discovery Familia">
     <title lang="es">Programa Pagado</title>
@@ -46616,6 +46601,666 @@
     <title lang="es">Sherlock Holmes</title>
   </programme>
   <programme start="20200203194500 -0600" stop="20200203220000 -0600" channel="Canal HBO Plus HD México">
+    <title lang="es">Sherlock Holmes: juego de</title>
+  </programme>
+  <programme start="20200129020500 -0600" stop="20200129042000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El Legado del Diablo</title>
+    <title lang="xx">Hereditary</title>
+    <desc lang="es">Cuando la matriarca de los Graham muere, la familia de su hija descubre secretos aterradores sobre sus ancestros, pero ellos tratan de evitar su destino.(n)</desc>
+    <credits>
+      <actor>Toni Collette</actor>
+      <actor>Alex Wolff</actor>
+      <actor>Milly Shapiro</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Ann Dowd</actor>
+      <producer>Kevin Frakes</producer>
+      <producer>Lars Knudsen</producer>
+      <composer>Colin Stetson</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hereditary.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200129042000 -0600" stop="20200129062500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20200129062500 -0600" stop="20200129085500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El Abogado del diablo</title>
+  </programme>
+  <programme start="20200129085500 -0600" stop="20200129111000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Parque Jurásico</title>
+    <title lang="xx">Jurassic Park</title>
+    <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Bob Peck</actor>
+      <actor>Martin Ferrero</actor>
+      <actor>BD Wong</actor>
+      <actor>Samuel L. Jackson</actor>
+      <producer>Kathleen Kennedy</producer>
+      <producer>Gerald R. Molen</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1993</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/parque_jurasico.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200129111000 -0600" stop="20200129132500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Sherlock Holmes: juego de</title>
+  </programme>
+  <programme start="20200129132500 -0600" stop="20200129154000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20200129154000 -0600" stop="20200129175500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Batman regresa</title>
+  </programme>
+  <programme start="20200129175500 -0600" stop="20200129202500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Aquaman</title>
+    <title lang="xx">Aquaman</title>
+    <desc lang="es">Un mitad humano y mitad atlanticense es llevado al viaje de su vida donde se verá forzado a enfrentar quien es en verdad y descubrir si es digno a ser un rey.(n)</desc>
+    <credits>
+      <actor>Jason Momoa</actor>
+      <actor>Amber Heard</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Yahya Abdul-Mateen II</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Temuera Morrison</actor>
+      <producer>Peter Safran</producer>
+      <producer>Rob Cowan</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200129202500 -0600" stop="20200129211500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">The Movies</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20200129211500 -0600" stop="20200129220500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">The Movies</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200129220500 -0600" stop="20200130000000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Gremlins</title>
+  </programme>
+  <programme start="20200130000000 -0600" stop="20200130022000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Animales Fantásticos 2</title>
+  </programme>
+  <programme start="20200130022000 -0600" stop="20200130043500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+    <title lang="xx">Fast Five</title>
+    <desc lang="es">Dom y su equipo de corredores callejeros planean un masivo atraco para poder comprar su libertad mientras están en la miran de un poderoso cartel de drogas.(n)</desc>
+    <credits>
+      <actor>Vin Diesel</actor>
+      <actor>Paul Walker</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Ludacris</actor>
+      <actor>Sung Kang</actor>
+      <actor>Gal Gadot</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>Vin Diesel</producer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rapidos_y_furiosos_5.jpg" />
+    <country lang="es">Brasil</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200130043500 -0600" stop="20200130062000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">¿Qué pasó ayer</title>
+  </programme>
+  <programme start="20200130062000 -0600" stop="20200130081500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Misión Rockstar</title>
+  </programme>
+  <programme start="20200130081500 -0600" stop="20200130100000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Año uno</title>
+  </programme>
+  <programme start="20200130100000 -0600" stop="20200130114000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Celular</title>
+  </programme>
+  <programme start="20200130114000 -0600" stop="20200130131000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Cadáver</title>
+  </programme>
+  <programme start="20200130131000 -0600" stop="20200130145000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Pesadilla en la calle Elm</title>
+  </programme>
+  <programme start="20200130145000 -0600" stop="20200130164000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Furia de Titanes</title>
+  </programme>
+  <programme start="20200130164000 -0600" stop="20200130185000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Batman eternamente</title>
+  </programme>
+  <programme start="20200130185000 -0600" stop="20200130204500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20200130204500 -0600" stop="20200130215000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Ray Donovan</title>
+    <episode-num system="onscreen">S7 E10</episode-num>
+  </programme>
+  <programme start="20200130215000 -0600" stop="20200131000500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Sherlock Holmes</title>
+  </programme>
+  <programme start="20200131000500 -0600" stop="20200131000500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Sherlock Holmes: juego de</title>
+  </programme>
+  <programme start="20200131000500 -0600" stop="20200131022000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Sherlock Holmes: juego de</title>
+  </programme>
+  <programme start="20200131022000 -0600" stop="20200131032000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">La Cosa del Pantano</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200131032000 -0600" stop="20200131052500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Hellboy 2: El ejército dorado</title>
+  </programme>
+  <programme start="20200131052500 -0600" stop="20200131063000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Ramy Youssef: Sentimientos</title>
+  </programme>
+  <programme start="20200131063000 -0600" stop="20200131084000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El Espacio Entre Nosotros</title>
+    <title lang="xx">The Space Between Us</title>
+    <desc lang="es">En una misión a Marte para colonizar el planeta, una astronauta embarazada da a luz en el planeta rojo, 16 años después, él busca pistas sobre su padre.(n)</desc>
+    <credits>
+      <actor>Asa Butterfield</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Janet Montgomery</actor>
+      <actor>Britt Robertson</actor>
+      <actor>Trey Tucker</actor>
+      <actor>Scott Takeda</actor>
+      <producer>Richard B. Lewis</producer>
+      <composer>Laurent Eyquem</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_espacio_entre_nosotros.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200131084000 -0600" stop="20200131111500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Siempre hay tiempo para reir</title>
+  </programme>
+  <programme start="20200131111500 -0600" stop="20200131131500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El cazarecompensas</title>
+  </programme>
+  <programme start="20200131131500 -0600" stop="20200131152000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Hellboy 2: El ejército dorado</title>
+  </programme>
+  <programme start="20200131152000 -0600" stop="20200131165500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Cadáver</title>
+  </programme>
+  <programme start="20200131165500 -0600" stop="20200131184000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Verdad o reto</title>
+  </programme>
+  <programme start="20200131184000 -0600" stop="20200131204000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Golpe bajo: El juego final</title>
+  </programme>
+  <programme start="20200131204000 -0600" stop="20200131214500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">La Cosa del Pantano</title>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200131214500 -0600" stop="20200201000000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Parque Jurásico</title>
+    <title lang="xx">Jurassic Park</title>
+    <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Bob Peck</actor>
+      <actor>Martin Ferrero</actor>
+      <actor>BD Wong</actor>
+      <actor>Samuel L. Jackson</actor>
+      <producer>Kathleen Kennedy</producer>
+      <producer>Gerald R. Molen</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1993</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/parque_jurasico.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200201000000 -0600" stop="20200201000000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Jurassic World: El Reino Caído</title>
+    <desc lang="es">Cuando un volcán inactivo comienza a rugir en la Isla Nublar, Owen y Claire montan una campaña para salvar a los dinosaurios restantes de la extinción.(n)</desc>
+    <credits>
+      <actor>Chris Pratt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Toby Jones</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Justice Smith</actor>
+      <actor>Daniella Pineda</actor>
+      <producer>Belén Atienza</producer>
+      <producer>Frank Marshall</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_el_reino_caido.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200201000000 -0600" stop="20200201021500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Jurassic World: El Reino Caído</title>
+    <desc lang="es">Cuando un volcán inactivo comienza a rugir en la Isla Nublar, Owen y Claire montan una campaña para salvar a los dinosaurios restantes de la extinción.(n)</desc>
+    <credits>
+      <actor>Chris Pratt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Toby Jones</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Justice Smith</actor>
+      <actor>Daniella Pineda</actor>
+      <producer>Belén Atienza</producer>
+      <producer>Frank Marshall</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_el_reino_caido.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200201021500 -0600" stop="20200201043000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El mundo perdido: Jurassic P</title>
+  </programme>
+  <programme start="20200201043000 -0600" stop="20200201055000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">¿Qué Pasó Ayer? Parte III</title>
+    <desc lang="es">Esta vez, no hay boda, no hay fiesta de despedida de soltero. ¿Qué podría salir mal? ¿No es así? Pero cuando la manada toma las carreteras, todo puede pasar.(n)</desc>
+    <credits>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <producer>Todd Phillips</producer>
+      <producer>Daniel Goldberg</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/que_paso_ayer_parte_iii.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200201055000 -0600" stop="20200201061500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Proyecto X</title>
+  </programme>
+  <programme start="20200201061500 -0600" stop="20200201072500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Dan Soder: A son of Gary</title>
+  </programme>
+  <programme start="20200201072500 -0600" stop="20200201095500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Siempre hay tiempo para reir</title>
+  </programme>
+  <programme start="20200201095500 -0600" stop="20200201120500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Batman y Robin</title>
+  </programme>
+  <programme start="20200201120500 -0600" stop="20200201150000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Se busca</title>
+  </programme>
+  <programme start="20200201150000 -0600" stop="20200201154500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">The Movies</title>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20200201154500 -0600" stop="20200201163000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">The Movies</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200201163000 -0600" stop="20200201183000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">La gran estafa</title>
+  </programme>
+  <programme start="20200201183000 -0600" stop="20200201203000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Spider-Man: Un Nuevo Universo</title>
+    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe.(n)</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Brian Tyree Henry</actor>
+      <producer>Phil Lord</producer>
+      <producer>Chris Miller</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_un_nuevo_universo.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200201203000 -0600" stop="20200201221500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20200201221500 -0600" stop="20200202000000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Escape Room: Sin Salida</title>
+    <title lang="xx">Escape Room</title>
+    <desc lang="es">Para un grupo de extraños deben resolver las pistas para escapar puede ser divertido, pero cuando tu vida esta en riesgo pueda que no lo sea.(n)</desc>
+    <credits>
+      <actor>Taylor Russell</actor>
+      <actor>Logan Miller</actor>
+      <actor>Deborah Ann Woll</actor>
+      <actor>Tyler Labine</actor>
+      <actor>Jay Ellis</actor>
+      <actor>Nik Dodani</actor>
+      <producer>Neal H. Moritz</producer>
+      <producer>Ori Marmur</producer>
+      <composer>Brian Tyler</composer>
+      <composer>John Carey</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/escape_room_sin_salida.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200202000000 -0600" stop="20200202021500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El Legado del Diablo</title>
+    <title lang="xx">Hereditary</title>
+    <desc lang="es">Cuando la matriarca de los Graham muere, la familia de su hija descubre secretos aterradores sobre sus ancestros, pero ellos tratan de evitar su destino.(n)</desc>
+    <credits>
+      <actor>Toni Collette</actor>
+      <actor>Alex Wolff</actor>
+      <actor>Milly Shapiro</actor>
+      <actor>Gabriel Byrne</actor>
+      <actor>Ann Dowd</actor>
+      <producer>Kevin Frakes</producer>
+      <producer>Lars Knudsen</producer>
+      <composer>Colin Stetson</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hereditary.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200202021500 -0600" stop="20200202050000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Tú Eres el Próximo</title>
+  </programme>
+  <programme start="20200202050000 -0600" stop="20200202064500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Prueba de fe</title>
+  </programme>
+  <programme start="20200202064500 -0600" stop="20200202090000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Matrix revoluciones</title>
+  </programme>
+  <programme start="20200202090000 -0600" stop="20200202105000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">The Hurricane Heist</title>
+    <title lang="xx">The Hurricane Heist</title>
+    <desc lang="es">Un grupo de ladrones planea robar el tesoro estadounidense usando como cobertura el huracán que se acerca, pero una agente es la única que posee la clave.(n)</desc>
+    <credits>
+      <actor>Toby Kebbell</actor>
+      <actor>Leonardo Dickens</actor>
+      <actor>Luke Judy</actor>
+      <actor>Maggie Grace</actor>
+      <actor>Ryan Kwanten</actor>
+      <actor>Patrick McAuley</actor>
+      <actor>Andre Robinson</actor>
+      <actor>Ralph Ineson</actor>
+      <producer>Karen Elise Baldwin</producer>
+      <producer>Moshe Diamant</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_gran_huracan_categoria_5.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200202105000 -0600" stop="20200202130500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Parque Jurásico</title>
+    <title lang="xx">Jurassic Park</title>
+    <desc lang="es">En una isla remota donde un parque temático con dinosaurios vivos está a punto de convertirse en mortal, ahora cinco personas deben luchar para sobrevivir.(n)</desc>
+    <credits>
+      <actor>Sam Neill</actor>
+      <actor>Laura Dern</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Bob Peck</actor>
+      <actor>Martin Ferrero</actor>
+      <actor>BD Wong</actor>
+      <actor>Samuel L. Jackson</actor>
+      <producer>Kathleen Kennedy</producer>
+      <producer>Gerald R. Molen</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>1993</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/parque_jurasico.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200202130500 -0600" stop="20200202152000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El mundo perdido: Jurassic P</title>
+  </programme>
+  <programme start="20200202152000 -0600" stop="20200202170000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Parque Jurásico III</title>
+  </programme>
+  <programme start="20200202170000 -0600" stop="20200202191500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Máquinas Mortales</title>
+    <title lang="xx">Mortal Engines</title>
+    <desc lang="es">En un futuro distante donde la civilización fue destruida por un desastre catastrófico. Gigantes ciudades móviles vagan por la tierra, atacando sin piedad.(n)</desc>
+    <credits>
+      <actor>Hugo Weaving</actor>
+      <actor>Hera Hilmar</actor>
+      <actor>Robert Sheehan</actor>
+      <actor>Jihae</actor>
+      <actor>Ronan Raftery</actor>
+      <actor>Leila George</actor>
+      <actor>Patrick Malahide</actor>
+      <actor>Stephen Lang</actor>
+      <producer>Zane Weiner</producer>
+      <producer>Amanda Walker</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/maquinas_mortales.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200202191500 -0600" stop="20200202221000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Feliz Día de tu Muerte 2</title>
+    <title lang="xx">Happy Death Day 2U</title>
+    <desc lang="es">Theresa "Tree" Gelbmand tras descubrir que morir una y otra vez fue sorprendente fácil, ahora debe enfrentarse a nuevos peligros que se avecinan.(n)</desc>
+    <credits>
+      <actor>Jessica Rothe</actor>
+      <actor>Israel Broussard</actor>
+      <actor>Phi Vu</actor>
+      <actor>Suraj Sharma</actor>
+      <actor>Sarah Yarkin</actor>
+      <actor>Ruby Modine</actor>
+      <actor>Rachel Matthews</actor>
+      <producer>Jason Blum</producer>
+      <composer>Bear McCreary</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/feliz_dia_de_tu_muerte_2.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200202221000 -0600" stop="20200203000000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">No me las Toquen</title>
+    <title lang="xx">Blockers</title>
+    <desc lang="es">Tres padres descubren el pacto de sus hijas para perder su virginidad en la fiesta de graduación, buscarán la forma de evitarlo antes que lo hagan.(n)</desc>
+    <credits>
+      <actor>John Cena</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Ike Barinholtz</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Amelia Oswald</actor>
+      <actor>Audrey Casson</actor>
+      <actor>Anniston Almond</actor>
+      <actor>Aubree McGuire</actor>
+      <producer>Seth Rogen</producer>
+      <producer>Evan Goldberg</producer>
+      <composer>Tracy Bonham</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/no_me_las_toquen.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200203000000 -0600" stop="20200203013500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">¿Quién Mató a los Puppets?</title>
+    <title lang="xx">The Happytime Murders</title>
+    <desc lang="es">Dos detectives: una humana y una marioneta se ven obligados a trabajar juntos para resolver las brutales matanzas del antiguo elenco de un programa de TV.(n)</desc>
+    <credits>
+      <actor>Melissa McCarthy</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Joel McHale</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Leslie David Baker</actor>
+      <actor>Jimmy O. Yang</actor>
+      <actor>Ryan Gaul</actor>
+      <actor>Mitch Silpa</actor>
+      <producer>Brian Henson</producer>
+      <producer>Jeff Hayes</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/quien_mato_a_los_puppets.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200203013500 -0600" stop="20200203032500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">El Alma de la Fiesta</title>
+    <title lang="xx">Life of the Party</title>
+    <desc lang="es">Una ama de casa tras haber sido abandonada por su marido decide regresar a la universidad, aterrizando así en la misma clase y escuela que su hija.(n)</desc>
+    <credits>
+      <actor>Melissa McCarthy</actor>
+      <actor>Molly Gordon</actor>
+      <actor>Gillian Jacobs</actor>
+      <actor>Maya Rudolph</actor>
+      <actor>Jacki Weaver</actor>
+      <actor>Julie Bowen</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Stephen Root</actor>
+      <producer>Ben Falcone</producer>
+      <producer>Melissa McCarthy</producer>
+      <composer>Fil Eisler</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_alma_de_la_fiesta.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200203032500 -0600" stop="20200203052500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Escuela nocturna</title>
+  </programme>
+  <programme start="20200203052500 -0600" stop="20200203070000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Mentiroso, mentiroso</title>
+  </programme>
+  <programme start="20200203070000 -0600" stop="20200203084000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Celular</title>
+  </programme>
+  <programme start="20200203084000 -0600" stop="20200203110000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Mundo Acuático</title>
+    <desc lang="es">Waterworld. En un futuro donde la capa polar se ha derretido y la mayor parte de la tierra se encuentra cubierta por agua, un marino se aventura en la búsqueda de tierra firme.(n)</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>Jeanne Tripplehorn</actor>
+      <actor>Dennis Hopper</actor>
+      <producer>Kevin Costner</producer>
+      <producer>John Davis</producer>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mundo_acuatico.png" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200203110000 -0600" stop="20200203124500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">La chica de la capa roja</title>
+  </programme>
+  <programme start="20200203124500 -0600" stop="20200203151500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Aquaman</title>
+    <title lang="xx">Aquaman</title>
+    <desc lang="es">Un mitad humano y mitad atlanticense es llevado al viaje de su vida donde se verá forzado a enfrentar quien es en verdad y descubrir si es digno a ser un rey.(n)</desc>
+    <credits>
+      <actor>Jason Momoa</actor>
+      <actor>Amber Heard</actor>
+      <actor>Willem Dafoe</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Dolph Lundgren</actor>
+      <actor>Yahya Abdul-Mateen II</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Temuera Morrison</actor>
+      <producer>Peter Safran</producer>
+      <producer>Rob Cowan</producer>
+      <composer>Rupert Gregson-Williams</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/aquaman.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200203151500 -0600" stop="20200203173000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20200203173000 -0600" stop="20200203193000 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Terminator: La Salvación</title>
+    <title lang="xx">Terminator Salvation</title>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet.(n)</desc>
+    <credits>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+      <producer>Derek Anderson</producer>
+      <producer>Moritz Borman</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2009</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_la_salvacion.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200203193000 -0600" stop="20200203214500 -0600" channel="Canal HBO Plus HD México 2">
+    <title lang="es">Sherlock Holmes</title>
+  </programme>
+  <programme start="20200203214500 -0600" stop="20200204000000 -0600" channel="Canal HBO Plus HD México 2">
     <title lang="es">Sherlock Holmes: juego de</title>
   </programme>
 </tv>
