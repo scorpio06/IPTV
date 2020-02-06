@@ -270,12 +270,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/zee_mundo-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal América TeVé">
-    <display-name lang="es">Canal América TeVé</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_teve-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_teve-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal Estrella TV">
     <display-name lang="es">Canal Estrella TV </display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/estrella_tv-mediano.png" />
@@ -384,8 +378,8 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_civilization_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Discovery Home &amp; Health (México)">
-    <display-name lang="es">Canal Discovery Home &amp; Health (México)</display-name>
+  <channel id="Canal Discovery Home y Health (México)">
+    <display-name lang="es">Canal Discovery Home y Health (México)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health-mediano.png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -647,11 +641,11 @@
   <programme start="20200206223000 -0600" stop="20200206233000 -0600" channel="Canal Boomerang">
     <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal Boomerang">
+  <programme start="20200206233000 -0600" stop="20200207020000 -0600" channel="Canal Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Boomerang">
-    <title lang="es">La pandilla de la pantera rosa</title>
+  <programme start="20200207020000 -0600" stop="20200207030000 -0600" channel="Canal Boomerang">
+    <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
   <programme start="20200207134500 -0600" stop="20200207140000 -0600" channel="Canal Boomerang">
     <title lang="es">Masha: historias espeluznantes</title>
@@ -1179,11 +1173,11 @@
   <programme start="20200206221500 -0600" stop="20200206223000 -0600" channel="Canal Cartoon Network">
     <title lang="es">Mao Mao: Héroes de puro</title>
   </programme>
-  <programme start="20200206223000 -0600" stop="20200206233000 -0600" channel="Canal Cartoon Network">
+  <programme start="20200206223000 -0600" stop="20200207020000 -0600" channel="Canal Cartoon Network">
     <title lang="es">El increíble mundo de gumball</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207070000 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Escandalosos</title>
+  <programme start="20200207020000 -0600" stop="20200207030000 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Unikitty</title>
   </programme>
   <programme start="20200207070000 -0600" stop="20200207073000 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los jóvenes titanes en acción</title>
@@ -1524,11 +1518,11 @@
   <programme start="20200206230900 -0600" stop="20200206233400 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Polly Pocket</title>
   </programme>
-  <programme start="20200206233400 -0600" stop="20200207000000 -0600" channel="Canal Discovery Kids (México)">
+  <programme start="20200206233400 -0600" stop="20200207020400 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Mi perro Pat (Rpk 30 min)</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207002500 -0600" channel="Canal Discovery Kids (México)">
-    <title lang="es">La Calle Scream (Rpk 30 Min)</title>
+  <programme start="20200207020400 -0600" stop="20200207022600 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Zak Storm</title>
   </programme>
   <programme start="20200207085800 -0600" stop="20200207102800 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">¡Ups! El arca nos dejó</title>
@@ -1859,6 +1853,9 @@
   </programme>
   <programme start="20200207000000 -0600" stop="20200207020000 -0600" channel="Canal Disney Channel">
     <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
   </programme>
   <programme start="20200207120000 -0600" stop="20200207140000 -0600" channel="Canal Disney Channel">
     <title lang="es">Coco</title>
@@ -2552,6 +2549,9 @@
   <programme start="20200207000000 -0600" stop="20200207013000 -0600" channel="Canal Disney Junior">
     <title lang="es">Miles del mañana: Conectar</title>
   </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Disney Junior">
+    <title lang="es">La Guardia del León</title>
+  </programme>
   <programme start="20200207080000 -0600" stop="20200207093000 -0600" channel="Canal Disney Junior">
     <title lang="es">Tierra de osos</title>
   </programme>
@@ -3083,11 +3083,11 @@
   <programme start="20200206231500 -0600" stop="20200206234500 -0600" channel="Canal Disney XD">
     <title lang="es">O11CE</title>
   </programme>
-  <programme start="20200206234500 -0600" stop="20200207000000 -0600" channel="Canal Disney XD">
+  <programme start="20200206234500 -0600" stop="20200207020000 -0600" channel="Canal Disney XD">
     <title lang="es">Los vecinos Green</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Disney XD">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Disney XD">
+    <title lang="es">O11CE</title>
   </programme>
   <programme start="20200207080000 -0600" stop="20200207100000 -0600" channel="Canal Disney XD">
     <title lang="es">Hércules</title>
@@ -3767,9 +3767,6 @@
   <programme start="20200207001000 -0600" stop="20200207002000 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">El laboratorio secreto de Thomas Edison</title>
   </programme>
-  <programme start="20200207002000 -0600" stop="20200207003500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Pablo</title>
-  </programme>
   <programme start="20200207005000 -0600" stop="20200207010500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Zafari</title>
   </programme>
@@ -4151,11 +4148,11 @@
   <programme start="20200206230000 -0600" stop="20200206233000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal Nickelodeon">
+  <programme start="20200206233000 -0600" stop="20200207020000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Nickelodeon">
-    <title lang="es">Make It Pop</title>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Nickelodeon">
+    <title lang="es">Henry Danger</title>
   </programme>
   <programme start="20200207150000 -0600" stop="20200207151500 -0600" channel="Canal Nickelodeon">
     <title lang="es">Bob Esponja</title>
@@ -4751,6 +4748,9 @@
     <title lang="es">Breadwinners</title>
   </programme>
   <programme start="20200207013000 -0600" stop="20200207020000 -0600" channel="Canal Nick 2 (México)">
+    <title lang="es">spongebob squarepants</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Nick 2 (México)">
     <title lang="es">spongebob squarepants</title>
   </programme>
   <programme start="20200207023000 -0600" stop="20200207030000 -0600" channel="Canal Nick 2 (México)">
@@ -5530,11 +5530,11 @@
   <programme start="20200206230000 -0600" stop="20200206233000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Paw Patrol</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal Nick Jr.">
+  <programme start="20200206233000 -0600" stop="20200207020000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Mutt &amp; Stuff</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Nick Jr.">
-    <title lang="es">Rusty Rivets</title>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Nick Jr.">
+    <title lang="es">Blaze and the Monster Machine</title>
   </programme>
   <programme start="20200207050000 -0600" stop="20200207053000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Paw Patrol</title>
@@ -5909,14 +5909,14 @@
   <programme start="20200206230000 -0600" stop="20200206233000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">Henry Danger</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal Nicktoons (México)">
+  <programme start="20200206233000 -0600" stop="20200207010000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">iCarly</title>
-  </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Nicktoons (México)">
-    <title lang="es">Game shakers</title>
   </programme>
   <programme start="20200207010000 -0600" stop="20200207013000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Nicktoons (México)">
+    <title lang="es">The Thundermans</title>
   </programme>
   <programme start="20200207023000 -0600" stop="20200207030000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">The Thundermans</title>
@@ -7311,6 +7311,9 @@
   </programme>
   <programme start="20200208012400 -0600" stop="20200208013300 -0600" channel="Canal Tooncast">
     <title lang="es">Popeye</title>
+  </programme>
+  <programme start="20200208020100 -0600" stop="20200208021100 -0600" channel="Canal Tooncast">
+    <title lang="es">Los autos locos</title>
   </programme>
   <programme start="20200208025100 -0600" stop="20200208030000 -0600" channel="Canal Tooncast">
     <title lang="es">Zuzubalandia</title>
@@ -29716,8 +29719,11 @@
   <programme start="20200206230000 -0600" stop="20200206234500 -0600" channel="Canal truTV">
     <title lang="es">Los vídeos mas tontos</title>
   </programme>
-  <programme start="20200206234500 -0600" stop="20200206234500 -0600" channel="Canal truTV">
+  <programme start="20200206234500 -0600" stop="20200207020500 -0600" channel="Canal truTV">
     <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20200207020500 -0600" stop="20200207023000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
   </programme>
   <programme start="20200206020000 -0600" stop="20200206043000 -0600" channel="Canal Zee Mundo">
     <title lang="es">Así es el destino</title>
@@ -29884,225 +29890,6 @@
   <programme start="20200210210000 -0600" stop="20200210233000 -0600" channel="Canal Zee Mundo">
     <title lang="es">Comando - Ejercito de un solo</title>
   </programme>
-  <programme start="20200206003000 -0600" stop="20200206010000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206010000 -0600" stop="20200206013000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206013000 -0600" stop="20200206020000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206020000 -0600" stop="20200206023000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206023000 -0600" stop="20200206030000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206030000 -0600" stop="20200206033000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206033000 -0600" stop="20200206040000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206040000 -0600" stop="20200206043000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206043000 -0600" stop="20200206050000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206050000 -0600" stop="20200206053000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206053000 -0600" stop="20200206060000 -0600" channel="Canal América TeVé">
-    <title lang="es">La Casa Voladora</title>
-  </programme>
-  <programme start="20200206060000 -0600" stop="20200206063000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206063000 -0600" stop="20200206070000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206070000 -0600" stop="20200206073000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206073000 -0600" stop="20200206080000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206080000 -0600" stop="20200206083000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206083000 -0600" stop="20200206090000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206090000 -0600" stop="20200206093000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206093000 -0600" stop="20200206100000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206100000 -0600" stop="20200206103000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206103000 -0600" stop="20200206110000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206110000 -0600" stop="20200206113000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206113000 -0600" stop="20200206120000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206120000 -0600" stop="20200206123000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206123000 -0600" stop="20200206130000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206130000 -0600" stop="20200206133000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206133000 -0600" stop="20200206140000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206140000 -0600" stop="20200206143000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206143000 -0600" stop="20200206150000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206150000 -0600" stop="20200206160000 -0600" channel="Canal América TeVé">
-    <title lang="es">A fondo</title>
-  </programme>
-  <programme start="20200206160000 -0600" stop="20200206170000 -0600" channel="Canal América TeVé">
-    <title lang="es">TN3</title>
-  </programme>
-  <programme start="20200206170000 -0600" stop="20200206190000 -0600" channel="Canal América TeVé">
-    <title lang="es">Suerte te dé Dios</title>
-  </programme>
-  <programme start="20200206190000 -0600" stop="20200206200000 -0600" channel="Canal América TeVé">
-    <title lang="es">Esposa Joven</title>
-  </programme>
-  <programme start="20200206200000 -0600" stop="20200206210000 -0600" channel="Canal América TeVé">
-    <title lang="es">Explosivos</title>
-  </programme>
-  <programme start="20200206210000 -0600" stop="20200206213000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206213000 -0600" stop="20200206220000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200206220000 -0600" stop="20200206223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206223000 -0600" stop="20200206230000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206230000 -0600" stop="20200206233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200207170000 -0600" stop="20200207213000 -0600" channel="Canal América TeVé">
-    <title lang="es">Cantando nace el amor</title>
-  </programme>
-  <programme start="20200207213000 -0600" stop="20200207220000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200207220000 -0600" stop="20200207223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200207223000 -0600" stop="20200208040000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200208040000 -0600" stop="20200208043000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200208053000 -0600" stop="20200208060000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208060000 -0600" stop="20200208063000 -0600" channel="Canal América TeVé">
-    <title lang="es">La Casa Voladora</title>
-  </programme>
-  <programme start="20200208063000 -0600" stop="20200208070000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200208133000 -0600" stop="20200208150000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200208150000 -0600" stop="20200208153000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208153000 -0600" stop="20200208160000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200208160000 -0600" stop="20200208163000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208163000 -0600" stop="20200208170000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208170000 -0600" stop="20200208190000 -0600" channel="Canal América TeVé">
-    <title lang="es">Los tales por cuales</title>
-  </programme>
-  <programme start="20200208190000 -0600" stop="20200208210000 -0600" channel="Canal América TeVé">
-    <title lang="es">Manos de seda</title>
-  </programme>
-  <programme start="20200208210000 -0600" stop="20200208213000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208213000 -0600" stop="20200208220000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208220000 -0600" stop="20200208223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208223000 -0600" stop="20200208230000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208230000 -0600" stop="20200208233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200208233000 -0600" stop="20200209043000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200209043000 -0600" stop="20200209050000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200209123000 -0600" stop="20200209153000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200209153000 -0600" stop="20200209160000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200209160000 -0600" stop="20200209163000 -0600" channel="Canal América TeVé">
-    <title lang="es">Aquí Llegamos</title>
-  </programme>
-  <programme start="20200209163000 -0600" stop="20200209170000 -0600" channel="Canal América TeVé">
-    <title lang="es">Dra. Ana María Polo - Secretos De Salud</title>
-  </programme>
-  <programme start="20200209170000 -0600" stop="20200209190000 -0600" channel="Canal América TeVé">
-    <title lang="es">Limosneros con garrote</title>
-  </programme>
-  <programme start="20200209190000 -0600" stop="20200210030000 -0600" channel="Canal América TeVé">
-    <title lang="es">Suerte te dé Dios</title>
-  </programme>
-  <programme start="20200210030000 -0600" stop="20200210033000 -0600" channel="Canal América TeVé">
-    <title lang="es">Hempvana Gold Pain Relief Cream</title>
-  </programme>
-  <programme start="20200210033000 -0600" stop="20200210040000 -0600" channel="Canal América TeVé">
-    <title lang="es">LifeLock Protection</title>
-  </programme>
-  <programme start="20200210170000 -0600" stop="20200210230000 -0600" channel="Canal América TeVé">
-    <title lang="es">El beisbolista fenómeno</title>
-  </programme>
-  <programme start="20200210230000 -0600" stop="20200210233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Belleza Latina</title>
-  </programme>
   <programme start="20200206003000 -0600" stop="20200206010000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
@@ -30190,10 +29977,10 @@
   <programme start="20200206230000 -0600" stop="20200206233000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207000000 -0600" channel="Canal Estrella TV">
+  <programme start="20200206233000 -0600" stop="20200207020000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Estrella TV">
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Estrella TV">
     <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20200207080000 -0600" stop="20200207100000 -0600" channel="Canal Estrella TV">
@@ -30462,6 +30249,9 @@
   </programme>
   <programme start="20200207013000 -0600" stop="20200207020000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición: Méx</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Elgourmet">
+    <title lang="es">Enchilarte</title>
   </programme>
   <programme start="20200207043000 -0600" stop="20200207050000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición: Méx</title>
@@ -30916,11 +30706,11 @@
     <country lang="es">Estados Unidos</country>
     <country lang="es">Colombia</country>
   </programme>
-  <programme start="20200206230000 -0600" stop="20200207000000 -0600" channel="Canal Telemundo (México)">
+  <programme start="20200206230000 -0600" stop="20200207013000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Suelta la Sopa</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207003000 -0600" channel="Canal Telemundo (México)">
-    <title lang="es">Noticiero</title>
+  <programme start="20200207013000 -0600" stop="20200207023000 -0600" channel="Canal Telemundo (México)">
+    <title lang="es">12 corazones</title>
   </programme>
   <programme start="20200207150000 -0600" stop="20200208060000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Cuidate de la camara</title>
@@ -31160,6 +30950,9 @@
   <programme start="20200207000000 -0600" stop="20200207010000 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">El cielo y el infierno</title>
   </programme>
+  <programme start="20200207010000 -0600" stop="20200207024000 -0600" channel="Canal TLNovelas (Latinoamérica)">
+    <title lang="es">Cuna de lobos</title>
+  </programme>
   <programme start="20200208000000 -0600" stop="20200208023000 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">Confesiones</title>
   </programme>
@@ -31286,11 +31079,11 @@
   <programme start="20200206213000 -0600" stop="20200206223000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">Miembros al aire</title>
   </programme>
-  <programme start="20200206223000 -0600" stop="20200206233000 -0600" channel="Canal Unicable (Latinoamérica)">
+  <programme start="20200206223000 -0600" stop="20200207020000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">Terapia De Shock</title>
   </programme>
-  <programme start="20200206233000 -0600" stop="20200207023000 -0600" channel="Canal Unicable (Latinoamérica)">
-    <title lang="es">Sin Tetas no hay paraíso</title>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Unicable (Latinoamérica)">
+    <title lang="es">Menú del día</title>
   </programme>
   <programme start="20200207023000 -0600" stop="20200207033000 -0600" channel="Canal Unicable (Latinoamérica)">
     <title lang="es">Miembros al aire</title>
@@ -31599,10 +31392,10 @@
   <programme start="20200206220000 -0600" stop="20200206230000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200206230000 -0600" stop="20200207000000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200206230000 -0600" stop="20200207020000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200207000000 -0600" stop="20200207010000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200207020000 -0600" stop="20200207030000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
   <programme start="20200208000000 -0600" stop="20200208020000 -0600" channel="Canal Ultra Fiesta">
@@ -31968,8 +31761,11 @@
   <programme start="20200206235000 -0600" stop="20200206235000 -0600" channel="Canal Ultra Docu">
     <title lang="es">La línea del aborto</title>
   </programme>
-  <programme start="20200206235000 -0600" stop="20200207061000 -0600" channel="Canal Ultra Docu">
+  <programme start="20200206235000 -0600" stop="20200207020500 -0600" channel="Canal Ultra Docu">
     <title lang="es">La línea del aborto</title>
+  </programme>
+  <programme start="20200207020500 -0600" stop="20200207024000 -0600" channel="Canal Ultra Docu">
+    <title lang="es">Saber Más</title>
   </programme>
   <programme start="20200207061000 -0600" stop="20200207064500 -0600" channel="Canal Ultra Docu">
     <title lang="es">Matadores</title>
@@ -32808,11 +32604,8 @@
   <programme start="20200206220000 -0600" stop="20200206230000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Duelo de Comediantes</title>
   </programme>
-  <programme start="20200206230000 -0600" stop="20200207000000 -0600" channel="Canal Comedy Central (Latinoamérica)">
+  <programme start="20200206230000 -0600" stop="20200207010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Se busca comediante</title>
-  </programme>
-  <programme start="20200207000000 -0600" stop="20200207010000 -0600" channel="Canal Comedy Central (Latinoamérica)">
-    <title lang="es">Orange is the New Black</title>
   </programme>
   <programme start="20200207010000 -0600" stop="20200207013000 -0600" channel="Canal Comedy Central (Latinoamérica)">
     <title lang="es">Ren &amp; Stimpy</title>
@@ -33348,17 +33141,17 @@
   <programme start="20200206223000 -0600" stop="20200206230000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">El Diario de Diana</title>
   </programme>
-  <programme start="20200206230000 -0600" stop="20200207000000 -0600" channel="Canal Caracol Internacional">
+  <programme start="20200206230000 -0600" stop="20200207010000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">Los hombres también lloran</title>
-  </programme>
-  <programme start="20200207000000 -0600" stop="20200207010000 -0600" channel="Canal Caracol Internacional">
-    <title lang="es">Hermanitas Calle</title>
   </programme>
   <programme start="20200207010000 -0600" stop="20200207013000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">América 360</title>
   </programme>
   <programme start="20200207013000 -0600" stop="20200207020000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">Desenredese</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207030000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Tu voz estéreo</title>
   </programme>
   <programme start="20200207033000 -0600" stop="20200207040000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">Caracol cine</title>
@@ -33698,6 +33491,9 @@
   </programme>
   <programme start="20200207003000 -0600" stop="20200207010000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Colombia moda 2019</title>
+  </programme>
+  <programme start="20200207020000 -0600" stop="20200207023000 -0600" channel="Canal Más Chic HD Latinoamérica">
+    <title lang="es">Fiestas al aire libre</title>
   </programme>
   <programme start="20200207060000 -0600" stop="20200207063000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">De compras en</title>
@@ -35129,647 +34925,647 @@
   <programme start="20200207163600 -0600" stop="20200207172400 -0600" channel="Canal Discovery Civilization (Latinoamérica)">
     <title lang="es">La Colonia</title>
   </programme>
-  <programme start="20200206003200 -0600" stop="20200206005700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206003200 -0600" stop="20200206005700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20200206005700 -0600" stop="20200206012300 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206005700 -0600" stop="20200206012300 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
-  <programme start="20200206012300 -0600" stop="20200206021400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206012300 -0600" stop="20200206021400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Emergencias sexuales</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20200206021400 -0600" stop="20200206030400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206021400 -0600" stop="20200206030400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E13</episode-num>
   </programme>
-  <programme start="20200206030400 -0600" stop="20200206035400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206030400 -0600" stop="20200206035400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S8 E12</episode-num>
   </programme>
-  <programme start="20200206035400 -0600" stop="20200206044400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206035400 -0600" stop="20200206044400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20200206044400 -0600" stop="20200206050900 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206044400 -0600" stop="20200206050900 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Un hogar único</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206050900 -0600" stop="20200206053400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206050900 -0600" stop="20200206053400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Un hogar único</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200206053400 -0600" stop="20200206060000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206053400 -0600" stop="20200206060000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Yo decido cuál vestido</title>
     <episode-num system="onscreen">E13</episode-num>
   </programme>
-  <programme start="20200206060000 -0600" stop="20200206062600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206060000 -0600" stop="20200206062600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Yo decido cuál vestido</title>
     <episode-num system="onscreen">E14</episode-num>
   </programme>
-  <programme start="20200206062600 -0600" stop="20200206080600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206062600 -0600" stop="20200206080600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">MasterChef Latino</title>
     <episode-num system="onscreen">S2 E2</episode-num>
   </programme>
-  <programme start="20200206080600 -0600" stop="20200206083100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206080600 -0600" stop="20200206083100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E19</episode-num>
   </programme>
-  <programme start="20200206083100 -0600" stop="20200206085600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206083100 -0600" stop="20200206085600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E20</episode-num>
   </programme>
-  <programme start="20200206085600 -0600" stop="20200206094600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206085600 -0600" stop="20200206094600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Mi casa, tu casa</title>
     <episode-num system="onscreen">S9 E5</episode-num>
   </programme>
-  <programme start="20200206094600 -0600" stop="20200206103600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206094600 -0600" stop="20200206103600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206103600 -0600" stop="20200206112800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206103600 -0600" stop="20200206112800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Mi niña está embarazada y yo</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206112800 -0600" stop="20200206115400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206112800 -0600" stop="20200206115400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
     <episode-num system="onscreen">S4 E18</episode-num>
   </programme>
-  <programme start="20200206115400 -0600" stop="20200206122000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206115400 -0600" stop="20200206122000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20200206122000 -0600" stop="20200206131200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206122000 -0600" stop="20200206131200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cambio extremo</title>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20200206131200 -0600" stop="20200206140400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206131200 -0600" stop="20200206140400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20200206140400 -0600" stop="20200206145600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206140400 -0600" stop="20200206145600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Randy al rescate</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206145600 -0600" stop="20200206154800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206145600 -0600" stop="20200206154800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Casarse cuesta</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206154800 -0600" stop="20200206161400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206154800 -0600" stop="20200206161400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia</title>
     <episode-num system="onscreen">S13 E18</episode-num>
   </programme>
-  <programme start="20200206161400 -0600" stop="20200206164000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206161400 -0600" stop="20200206164000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E1</episode-num>
   </programme>
-  <programme start="20200206164000 -0600" stop="20200206191600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206164000 -0600" stop="20200206191600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Masterchef México</title>
     <episode-num system="onscreen">S4 E17</episode-num>
   </programme>
-  <programme start="20200206191600 -0600" stop="20200206200800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206191600 -0600" stop="20200206200800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S7 E15</episode-num>
   </programme>
-  <programme start="20200206200800 -0600" stop="20200206210000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206200800 -0600" stop="20200206210000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E14</episode-num>
   </programme>
-  <programme start="20200206210000 -0600" stop="20200206225000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206210000 -0600" stop="20200206225000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">MasterChef Latino</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20200206225000 -0600" stop="20200206231500 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206225000 -0600" stop="20200206231500 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E21</episode-num>
   </programme>
-  <programme start="20200206231500 -0600" stop="20200206234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206231500 -0600" stop="20200206234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E22</episode-num>
   </programme>
-  <programme start="20200206234100 -0600" stop="20200206234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206234100 -0600" stop="20200206234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Ace of cakes</title>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20200206234100 -0600" stop="20200207000600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200206234100 -0600" stop="20200207000600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Ace of cakes</title>
     <episode-num system="onscreen">S9 E11</episode-num>
   </programme>
-  <programme start="20200207000600 -0600" stop="20200207003200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207000600 -0600" stop="20200207003200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Ace of cakes</title>
     <episode-num system="onscreen">S9 E12</episode-num>
   </programme>
-  <programme start="20200207003200 -0600" stop="20200207005700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207003200 -0600" stop="20200207005700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
-  <programme start="20200207005700 -0600" stop="20200207012300 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207005700 -0600" stop="20200207012300 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20200207012300 -0600" stop="20200207021400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207012300 -0600" stop="20200207021400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Emergencias sexuales</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20200207021400 -0600" stop="20200207030400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207021400 -0600" stop="20200207030400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E14</episode-num>
   </programme>
-  <programme start="20200207030400 -0600" stop="20200207044400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207030400 -0600" stop="20200207044400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">MasterChef Latino</title>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
-  <programme start="20200207044400 -0600" stop="20200207050900 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207044400 -0600" stop="20200207050900 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E21</episode-num>
   </programme>
-  <programme start="20200207050900 -0600" stop="20200207053400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207050900 -0600" stop="20200207053400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S9 E22</episode-num>
   </programme>
-  <programme start="20200207053400 -0600" stop="20200207060000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207053400 -0600" stop="20200207060000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Atlanta</title>
     <episode-num system="onscreen">S8 E13</episode-num>
   </programme>
-  <programme start="20200207060000 -0600" stop="20200207062600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207060000 -0600" stop="20200207062600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Atlanta</title>
     <episode-num system="onscreen">S8 E14</episode-num>
   </programme>
-  <programme start="20200207062600 -0600" stop="20200207065100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207062600 -0600" stop="20200207065100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E3</episode-num>
   </programme>
-  <programme start="20200207065100 -0600" stop="20200207071600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207065100 -0600" stop="20200207071600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
-  <programme start="20200207071600 -0600" stop="20200207080600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207071600 -0600" stop="20200207080600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Mi casa, tu casa</title>
     <episode-num system="onscreen">S10 E5</episode-num>
   </programme>
-  <programme start="20200207080600 -0600" stop="20200207085600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207080600 -0600" stop="20200207085600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S8 E9</episode-num>
   </programme>
-  <programme start="20200207085600 -0600" stop="20200207092100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207085600 -0600" stop="20200207092100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Restaurado por los Ford</title>
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20200207092100 -0600" stop="20200207094600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207092100 -0600" stop="20200207094600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Restaurado por los Ford</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200207094600 -0600" stop="20200207103600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207094600 -0600" stop="20200207103600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Mientras no estabas</title>
     <episode-num system="onscreen">S5 E1</episode-num>
   </programme>
-  <programme start="20200207103600 -0600" stop="20200207112800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207103600 -0600" stop="20200207112800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Embarazos extraños</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200207112800 -0600" stop="20200207115400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207112800 -0600" stop="20200207115400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
     <episode-num system="onscreen">S4 E20</episode-num>
   </programme>
-  <programme start="20200207115400 -0600" stop="20200207122000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207115400 -0600" stop="20200207122000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
   </programme>
-  <programme start="20200207122000 -0600" stop="20200207131200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207122000 -0600" stop="20200207131200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">A la medida</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200207131200 -0600" stop="20200207140400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207131200 -0600" stop="20200207140400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20200207140400 -0600" stop="20200207154800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207140400 -0600" stop="20200207154800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Fábrica de bodas</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20200207154800 -0600" stop="20200207161400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207154800 -0600" stop="20200207161400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E2</episode-num>
   </programme>
-  <programme start="20200207161400 -0600" stop="20200207164000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207161400 -0600" stop="20200207164000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E3</episode-num>
   </programme>
-  <programme start="20200207164000 -0600" stop="20200207170600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207164000 -0600" stop="20200207170600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Reino Unido</title>
     <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20200207170600 -0600" stop="20200207191600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207170600 -0600" stop="20200207191600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Masterchef México</title>
     <episode-num system="onscreen">S4 E18</episode-num>
   </programme>
-  <programme start="20200207191600 -0600" stop="20200207200800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207191600 -0600" stop="20200207200800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S7 E16</episode-num>
   </programme>
-  <programme start="20200207200800 -0600" stop="20200207210000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207200800 -0600" stop="20200207210000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20200207210000 -0600" stop="20200207212700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207210000 -0600" stop="20200207212700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20200207212700 -0600" stop="20200207215500 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207212700 -0600" stop="20200207215500 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20200207215500 -0600" stop="20200207225000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207215500 -0600" stop="20200207225000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: un hogar</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200207225000 -0600" stop="20200207234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207225000 -0600" stop="20200207234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: el hogar</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200207234100 -0600" stop="20200208000600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200207234100 -0600" stop="20200208000600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Los cazahogares</title>
     <episode-num system="onscreen">S112 E3</episode-num>
   </programme>
-  <programme start="20200208000600 -0600" stop="20200208003200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208000600 -0600" stop="20200208003200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Los cazahogares</title>
     <episode-num system="onscreen">S112 E4</episode-num>
   </programme>
-  <programme start="20200208003200 -0600" stop="20200208005700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208003200 -0600" stop="20200208005700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20200208005700 -0600" stop="20200208012300 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208005700 -0600" stop="20200208012300 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20200208012300 -0600" stop="20200208021400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208012300 -0600" stop="20200208021400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Emergencias sexuales</title>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
-  <programme start="20200208021400 -0600" stop="20200208030400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208021400 -0600" stop="20200208030400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20200208030400 -0600" stop="20200208032900 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208030400 -0600" stop="20200208032900 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20200208032900 -0600" stop="20200208035400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208032900 -0600" stop="20200208035400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E6</episode-num>
   </programme>
-  <programme start="20200208035400 -0600" stop="20200208044400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208035400 -0600" stop="20200208044400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: un hogar</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200208044400 -0600" stop="20200208053400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208044400 -0600" stop="20200208053400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: el hogar</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200208053400 -0600" stop="20200208060000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208053400 -0600" stop="20200208060000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Los cazahogares</title>
     <episode-num system="onscreen">S108 E13</episode-num>
   </programme>
-  <programme start="20200208060000 -0600" stop="20200208062600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208060000 -0600" stop="20200208062600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Los cazahogares</title>
     <episode-num system="onscreen">S109 E1</episode-num>
   </programme>
-  <programme start="20200208062600 -0600" stop="20200208071600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208062600 -0600" stop="20200208071600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vívala o véndala: Vancouver</title>
     <episode-num system="onscreen">S4 E7</episode-num>
   </programme>
-  <programme start="20200208071600 -0600" stop="20200208080600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208071600 -0600" stop="20200208080600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">David Tutera: Celebraciones</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200208080600 -0600" stop="20200208083100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208080600 -0600" stop="20200208083100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestidos de novia: una segund</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20200208083100 -0600" stop="20200208085600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208083100 -0600" stop="20200208085600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestidos de novia: una segund</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200208085600 -0600" stop="20200208092100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208085600 -0600" stop="20200208092100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E1</episode-num>
   </programme>
-  <programme start="20200208092100 -0600" stop="20200208094600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208092100 -0600" stop="20200208094600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E2</episode-num>
   </programme>
-  <programme start="20200208094600 -0600" stop="20200208101100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208094600 -0600" stop="20200208101100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba embarazad</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200208101100 -0600" stop="20200208103600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208101100 -0600" stop="20200208103600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba embarazad</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200208103600 -0600" stop="20200208112800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208103600 -0600" stop="20200208112800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Embarazo secreto</title>
   </programme>
-  <programme start="20200208112800 -0600" stop="20200208122000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208112800 -0600" stop="20200208122000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Kilos mortales</title>
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
-  <programme start="20200208122000 -0600" stop="20200208131200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208122000 -0600" stop="20200208131200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200208131200 -0600" stop="20200208140400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208131200 -0600" stop="20200208140400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200208140400 -0600" stop="20200208145600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208140400 -0600" stop="20200208145600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">100% Hotter: cambio total</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20200208145600 -0600" stop="20200208154800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208145600 -0600" stop="20200208154800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Duelo de diseñadores</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200208154800 -0600" stop="20200208170600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208154800 -0600" stop="20200208170600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Bake-Off Reino Unido</title>
     <episode-num system="onscreen">S7 E5</episode-num>
   </programme>
-  <programme start="20200208170600 -0600" stop="20200208173200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208170600 -0600" stop="20200208173200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Duff: pasteles asombrosos</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200208173200 -0600" stop="20200208175800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208173200 -0600" stop="20200208175800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Pasteles de locura</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200208175800 -0600" stop="20200208182400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208175800 -0600" stop="20200208182400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Pasteles de locura</title>
     <episode-num system="onscreen">S2 E10</episode-num>
   </programme>
-  <programme start="20200208182400 -0600" stop="20200208191600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208182400 -0600" stop="20200208191600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vender para comprar</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20200208191600 -0600" stop="20200208200800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208191600 -0600" stop="20200208200800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vívala o véndala: Reino Unido</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20200208200800 -0600" stop="20200208210000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208200800 -0600" stop="20200208210000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vívala o véndala: Reino Unido</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20200208210000 -0600" stop="20200208215500 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208210000 -0600" stop="20200208215500 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20200208215500 -0600" stop="20200208225000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208215500 -0600" stop="20200208225000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20200208225000 -0600" stop="20200208234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208225000 -0600" stop="20200208234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20200208234100 -0600" stop="20200209003200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200208234100 -0600" stop="20200209003200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Juegos en el súper con Guy</title>
     <episode-num system="onscreen">S5 E5</episode-num>
   </programme>
-  <programme start="20200209003200 -0600" stop="20200209005700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209003200 -0600" stop="20200209005700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E7</episode-num>
   </programme>
-  <programme start="20200209005700 -0600" stop="20200209012300 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209005700 -0600" stop="20200209012300 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E8</episode-num>
   </programme>
-  <programme start="20200209012300 -0600" stop="20200209021400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209012300 -0600" stop="20200209021400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Emergencias sexuales</title>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
-  <programme start="20200209021400 -0600" stop="20200209030400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209021400 -0600" stop="20200209030400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vívala o véndala: Reino Unido</title>
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20200209030400 -0600" stop="20200209035400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209030400 -0600" stop="20200209035400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E4</episode-num>
   </programme>
-  <programme start="20200209035400 -0600" stop="20200209044400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209035400 -0600" stop="20200209044400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E5</episode-num>
   </programme>
-  <programme start="20200209044400 -0600" stop="20200209053400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209044400 -0600" stop="20200209053400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20200209053400 -0600" stop="20200209060000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209053400 -0600" stop="20200209060000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades: Atlan</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20200209060000 -0600" stop="20200209062600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209060000 -0600" stop="20200209062600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades: Atlan</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200209062600 -0600" stop="20200209071600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209062600 -0600" stop="20200209071600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200209071600 -0600" stop="20200209080600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209071600 -0600" stop="20200209080600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">David Tutera: El encantador d</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200209080600 -0600" stop="20200209083100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209080600 -0600" stop="20200209083100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Encontré mi vestido</title>
     <episode-num system="onscreen">S3 E11</episode-num>
   </programme>
-  <programme start="20200209083100 -0600" stop="20200209085600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209083100 -0600" stop="20200209085600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Encontré mi vestido</title>
     <episode-num system="onscreen">S3 E12</episode-num>
   </programme>
-  <programme start="20200209085600 -0600" stop="20200209092100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209085600 -0600" stop="20200209092100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Reino Unido</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20200209092100 -0600" stop="20200209094600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209092100 -0600" stop="20200209094600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Reino Unido</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200209094600 -0600" stop="20200209101100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209094600 -0600" stop="20200209101100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba embarazad</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20200209101100 -0600" stop="20200209112800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209101100 -0600" stop="20200209112800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba embarazad</title>
     <episode-num system="onscreen">E4</episode-num>
   </programme>
-  <programme start="20200209112800 -0600" stop="20200209115400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209112800 -0600" stop="20200209115400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Nuestro hogar en Hawái</title>
     <episode-num system="onscreen">S9 E9</episode-num>
   </programme>
-  <programme start="20200209115400 -0600" stop="20200209122000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209115400 -0600" stop="20200209122000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Nuestro hogar en Hawái</title>
     <episode-num system="onscreen">S9 E10</episode-num>
   </programme>
-  <programme start="20200209122000 -0600" stop="20200209124600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209122000 -0600" stop="20200209124600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Nuestro hogar en la isla</title>
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
-  <programme start="20200209124600 -0600" stop="20200209131200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209124600 -0600" stop="20200209131200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Nuestro hogar en la isla</title>
     <episode-num system="onscreen">S3 E8</episode-num>
   </programme>
-  <programme start="20200209131200 -0600" stop="20200209140400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209131200 -0600" stop="20200209140400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío</title>
     <episode-num system="onscreen">S4 E5</episode-num>
   </programme>
-  <programme start="20200209140400 -0600" stop="20200209145600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209140400 -0600" stop="20200209145600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vender para comprar</title>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
-  <programme start="20200209145600 -0600" stop="20200209154800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209145600 -0600" stop="20200209154800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S2 E1</episode-num>
   </programme>
-  <programme start="20200209154800 -0600" stop="20200209164000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209154800 -0600" stop="20200209164000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Los peores cocineros</title>
     <episode-num system="onscreen">S13 E5</episode-num>
   </programme>
-  <programme start="20200209164000 -0600" stop="20200209173200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209164000 -0600" stop="20200209173200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Sabotaje en la cocina</title>
     <episode-num system="onscreen">S13 E5</episode-num>
   </programme>
-  <programme start="20200209173200 -0600" stop="20200209175800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209173200 -0600" stop="20200209175800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S10 E9</episode-num>
   </programme>
-  <programme start="20200209175800 -0600" stop="20200209182400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209175800 -0600" stop="20200209182400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cake Boss</title>
     <episode-num system="onscreen">S10 E10</episode-num>
   </programme>
-  <programme start="20200209182400 -0600" stop="20200209191600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209182400 -0600" stop="20200209191600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E1</episode-num>
   </programme>
-  <programme start="20200209191600 -0600" stop="20200209200800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209191600 -0600" stop="20200209200800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20200209200800 -0600" stop="20200209210000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209200800 -0600" stop="20200209210000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200209210000 -0600" stop="20200209215500 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209210000 -0600" stop="20200209215500 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200209215500 -0600" stop="20200209234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209215500 -0600" stop="20200209234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Kilos mortales</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20200209234100 -0600" stop="20200209234100 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209234100 -0600" stop="20200209234100 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">A la medida</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200209234100 -0600" stop="20200210003200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200209234100 -0600" stop="20200210003200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">A la medida</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200210003200 -0600" stop="20200210005700 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210003200 -0600" stop="20200210005700 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E9</episode-num>
   </programme>
-  <programme start="20200210005700 -0600" stop="20200210012300 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210005700 -0600" stop="20200210012300 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Rescatando propiedades</title>
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
-  <programme start="20200210012300 -0600" stop="20200210021400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210012300 -0600" stop="20200210021400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Emergencias sexuales</title>
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200210021400 -0600" stop="20200210030400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210021400 -0600" stop="20200210030400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200210030400 -0600" stop="20200210035400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210030400 -0600" stop="20200210035400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200210035400 -0600" stop="20200210053400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210035400 -0600" stop="20200210053400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Kilos mortales</title>
     <episode-num system="onscreen">S7 E2</episode-num>
   </programme>
-  <programme start="20200210053400 -0600" stop="20200210060000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210053400 -0600" stop="20200210060000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Australia</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200210060000 -0600" stop="20200210062600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210060000 -0600" stop="20200210062600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Australia</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200210062600 -0600" stop="20200210071600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210062600 -0600" stop="20200210071600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Kilos mortales</title>
     <episode-num system="onscreen">S5 E10</episode-num>
   </programme>
-  <programme start="20200210071600 -0600" stop="20200210080600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210071600 -0600" stop="20200210080600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
-  <programme start="20200210080600 -0600" stop="20200210085600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210080600 -0600" stop="20200210085600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200210085600 -0600" stop="20200210094600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210085600 -0600" stop="20200210094600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra: desafío 5</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200210094600 -0600" stop="20200210103600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210094600 -0600" stop="20200210103600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vívala o véndala</title>
     <episode-num system="onscreen">S7 E6</episode-num>
   </programme>
-  <programme start="20200210103600 -0600" stop="20200210112800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210103600 -0600" stop="20200210112800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Embarazos extraños</title>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
-  <programme start="20200210112800 -0600" stop="20200210115400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210112800 -0600" stop="20200210115400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
     <episode-num system="onscreen">S4 E22</episode-num>
   </programme>
-  <programme start="20200210115400 -0600" stop="20200210122000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210115400 -0600" stop="20200210122000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">No sabía que estaba emb</title>
     <episode-num system="onscreen">S4 E23</episode-num>
   </programme>
-  <programme start="20200210122000 -0600" stop="20200210131200 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210122000 -0600" stop="20200210131200 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Mi belleza</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200210131200 -0600" stop="20200210140400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210131200 -0600" stop="20200210140400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Clínica de la piel</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200210140400 -0600" stop="20200210154800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210140400 -0600" stop="20200210154800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Cuatro bodas</title>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
-  <programme start="20200210154800 -0600" stop="20200210161400 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210154800 -0600" stop="20200210161400 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E4</episode-num>
   </programme>
-  <programme start="20200210161400 -0600" stop="20200210164000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210161400 -0600" stop="20200210164000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia - México</title>
     <episode-num system="onscreen">S14 E5</episode-num>
   </programme>
-  <programme start="20200210164000 -0600" stop="20200210170600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210164000 -0600" stop="20200210170600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Vestido de novia: Reino Unido</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20200210170600 -0600" stop="20200210191600 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210170600 -0600" stop="20200210191600 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Masterchef México</title>
     <episode-num system="onscreen">S4 E19</episode-num>
   </programme>
-  <programme start="20200210191600 -0600" stop="20200210200800 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210191600 -0600" stop="20200210200800 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Hermanos a la obra</title>
     <episode-num system="onscreen">S7 E17</episode-num>
   </programme>
-  <programme start="20200210200800 -0600" stop="20200210215500 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210200800 -0600" stop="20200210215500 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Remodelación en pareja</title>
     <episode-num system="onscreen">S3 E16</episode-num>
   </programme>
-  <programme start="20200210215500 -0600" stop="20200210225000 -0600" channel="Canal Discovery Home &amp; Health (México)">
+  <programme start="20200210215500 -0600" stop="20200210225000 -0600" channel="Canal Discovery Home y Health (México)">
     <title lang="es">Dra. Sandra Lee: Especialista</title>
   </programme>
   <programme start="20200206004400 -0600" stop="20200206013700 -0600" channel="Canal ID (Investigation Discovery) México">
@@ -40579,544 +40375,544 @@
     <title lang="es">Knightfall: la guerra</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200205234000 -0600" stop="20200206000500 -0600" channel="Canal History 2">
+  <programme start="20200205224000 -0600" stop="20200205230500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200206000500 -0600" stop="20200206005500 -0600" channel="Canal History 2">
+  <programme start="20200205230500 -0600" stop="20200205235500 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206005500 -0600" stop="20200206015000 -0600" channel="Canal History 2">
+  <programme start="20200205235500 -0600" stop="20200206005000 -0600" channel="Canal History 2">
     <title lang="es">Tesoros templarios</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206015000 -0600" stop="20200206024000 -0600" channel="Canal History 2">
+  <programme start="20200206005000 -0600" stop="20200206014000 -0600" channel="Canal History 2">
     <title lang="es">Vivir para contarlo</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200206024000 -0600" stop="20200206033500 -0600" channel="Canal History 2">
+  <programme start="20200206014000 -0600" stop="20200206023500 -0600" channel="Canal History 2">
     <title lang="es">Los Secretos de la Biblia</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200206033500 -0600" stop="20200206043000 -0600" channel="Canal History 2">
+  <programme start="20200206023500 -0600" stop="20200206033000 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20200206043000 -0600" stop="20200206050000 -0600" channel="Canal History 2">
+  <programme start="20200206033000 -0600" stop="20200206040000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200206050000 -0600" stop="20200206055000 -0600" channel="Canal History 2">
+  <programme start="20200206040000 -0600" stop="20200206045000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E69</episode-num>
   </programme>
-  <programme start="20200206055000 -0600" stop="20200206064000 -0600" channel="Canal History 2">
+  <programme start="20200206045000 -0600" stop="20200206054000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206064000 -0600" stop="20200206073000 -0600" channel="Canal History 2">
+  <programme start="20200206054000 -0600" stop="20200206063000 -0600" channel="Canal History 2">
     <title lang="es">Tesoros templarios</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206073000 -0600" stop="20200206082000 -0600" channel="Canal History 2">
+  <programme start="20200206063000 -0600" stop="20200206072000 -0600" channel="Canal History 2">
     <title lang="es">Vivir para contarlo</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200206082000 -0600" stop="20200206091500 -0600" channel="Canal History 2">
+  <programme start="20200206072000 -0600" stop="20200206081500 -0600" channel="Canal History 2">
     <title lang="es">Exploración Azteca</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206091500 -0600" stop="20200206101000 -0600" channel="Canal History 2">
+  <programme start="20200206081500 -0600" stop="20200206091000 -0600" channel="Canal History 2">
     <title lang="es">El tesoro de los templarios</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200206101000 -0600" stop="20200206103500 -0600" channel="Canal History 2">
+  <programme start="20200206091000 -0600" stop="20200206093500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200206103500 -0600" stop="20200206112500 -0600" channel="Canal History 2">
+  <programme start="20200206093500 -0600" stop="20200206102500 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206112500 -0600" stop="20200206121500 -0600" channel="Canal History 2">
+  <programme start="20200206102500 -0600" stop="20200206111500 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E69</episode-num>
   </programme>
-  <programme start="20200206121500 -0600" stop="20200206131000 -0600" channel="Canal History 2">
+  <programme start="20200206111500 -0600" stop="20200206121000 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200206131000 -0600" stop="20200206140500 -0600" channel="Canal History 2">
+  <programme start="20200206121000 -0600" stop="20200206130500 -0600" channel="Canal History 2">
     <title lang="es">El tesoro de los templarios</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200206140500 -0600" stop="20200206150000 -0600" channel="Canal History 2">
+  <programme start="20200206130500 -0600" stop="20200206140000 -0600" channel="Canal History 2">
     <title lang="es">Tesoros templarios</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206150000 -0600" stop="20200206155000 -0600" channel="Canal History 2">
+  <programme start="20200206140000 -0600" stop="20200206145000 -0600" channel="Canal History 2">
     <title lang="es">Vivir para contarlo</title>
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200206155000 -0600" stop="20200206164000 -0600" channel="Canal History 2">
+  <programme start="20200206145000 -0600" stop="20200206154000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E70</episode-num>
   </programme>
-  <programme start="20200206164000 -0600" stop="20200206174000 -0600" channel="Canal History 2">
+  <programme start="20200206154000 -0600" stop="20200206164000 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200206174000 -0600" stop="20200206183500 -0600" channel="Canal History 2">
+  <programme start="20200206164000 -0600" stop="20200206173500 -0600" channel="Canal History 2">
     <title lang="es">El tesoro de los templarios</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200206183500 -0600" stop="20200206192500 -0600" channel="Canal History 2">
+  <programme start="20200206173500 -0600" stop="20200206182500 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200206192500 -0600" stop="20200206210000 -0600" channel="Canal History 2">
+  <programme start="20200206182500 -0600" stop="20200206200000 -0600" channel="Canal History 2">
     <title lang="es">La reevolución de los autos</title>
+  </programme>
+  <programme start="20200206200000 -0600" stop="20200206210000 -0600" channel="Canal History 2">
+    <title lang="es">Silicon Valley: la revolución</title>
   </programme>
   <programme start="20200206210000 -0600" stop="20200206220000 -0600" channel="Canal History 2">
-    <title lang="es">Silicon Valley: la revolución</title>
-  </programme>
-  <programme start="20200206220000 -0600" stop="20200206230000 -0600" channel="Canal History 2">
     <title lang="es">Batalla por la luna</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200206230000 -0600" stop="20200206235000 -0600" channel="Canal History 2">
+  <programme start="20200206220000 -0600" stop="20200206225000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E70</episode-num>
   </programme>
-  <programme start="20200206235000 -0600" stop="20200207001500 -0600" channel="Canal History 2">
+  <programme start="20200206225000 -0600" stop="20200206231500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200207001500 -0600" stop="20200207010500 -0600" channel="Canal History 2">
+  <programme start="20200206231500 -0600" stop="20200207000500 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200207010500 -0600" stop="20200207023500 -0600" channel="Canal History 2">
+  <programme start="20200207000500 -0600" stop="20200207013500 -0600" channel="Canal History 2">
     <title lang="es">La reevolución de los autos</title>
   </programme>
-  <programme start="20200207023500 -0600" stop="20200207033500 -0600" channel="Canal History 2">
+  <programme start="20200207013500 -0600" stop="20200207023500 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200207033500 -0600" stop="20200207043000 -0600" channel="Canal History 2">
+  <programme start="20200207023500 -0600" stop="20200207033000 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200207043000 -0600" stop="20200207050000 -0600" channel="Canal History 2">
+  <programme start="20200207033000 -0600" stop="20200207040000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200207050000 -0600" stop="20200207055000 -0600" channel="Canal History 2">
+  <programme start="20200207040000 -0600" stop="20200207045000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E70</episode-num>
   </programme>
-  <programme start="20200207055000 -0600" stop="20200207064000 -0600" channel="Canal History 2">
+  <programme start="20200207045000 -0600" stop="20200207054000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200207064000 -0600" stop="20200207081000 -0600" channel="Canal History 2">
+  <programme start="20200207054000 -0600" stop="20200207071000 -0600" channel="Canal History 2">
     <title lang="es">La reevolución de los autos</title>
+  </programme>
+  <programme start="20200207071000 -0600" stop="20200207081000 -0600" channel="Canal History 2">
+    <title lang="es">Silicon Valley: la revolución</title>
   </programme>
   <programme start="20200207081000 -0600" stop="20200207091000 -0600" channel="Canal History 2">
-    <title lang="es">Silicon Valley: la revolución</title>
-  </programme>
-  <programme start="20200207091000 -0600" stop="20200207101000 -0600" channel="Canal History 2">
     <title lang="es">Batalla por la luna</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200207101000 -0600" stop="20200207103500 -0600" channel="Canal History 2">
+  <programme start="20200207091000 -0600" stop="20200207093500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200207103500 -0600" stop="20200207112500 -0600" channel="Canal History 2">
+  <programme start="20200207093500 -0600" stop="20200207102500 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200207112500 -0600" stop="20200207121500 -0600" channel="Canal History 2">
+  <programme start="20200207102500 -0600" stop="20200207111500 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E70</episode-num>
   </programme>
-  <programme start="20200207121500 -0600" stop="20200207131500 -0600" channel="Canal History 2">
+  <programme start="20200207111500 -0600" stop="20200207121500 -0600" channel="Canal History 2">
     <title lang="es">Silicon Valley: la revolución</title>
   </programme>
-  <programme start="20200207131500 -0600" stop="20200207141500 -0600" channel="Canal History 2">
+  <programme start="20200207121500 -0600" stop="20200207131500 -0600" channel="Canal History 2">
     <title lang="es">Batalla por la luna</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200207141500 -0600" stop="20200207151000 -0600" channel="Canal History 2">
+  <programme start="20200207131500 -0600" stop="20200207141000 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E13</episode-num>
   </programme>
-  <programme start="20200207151000 -0600" stop="20200207160500 -0600" channel="Canal History 2">
+  <programme start="20200207141000 -0600" stop="20200207150500 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E14</episode-num>
   </programme>
-  <programme start="20200207160500 -0600" stop="20200207170000 -0600" channel="Canal History 2">
+  <programme start="20200207150500 -0600" stop="20200207160000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E71</episode-num>
   </programme>
-  <programme start="20200207170000 -0600" stop="20200207183000 -0600" channel="Canal History 2">
+  <programme start="20200207160000 -0600" stop="20200207173000 -0600" channel="Canal History 2">
     <title lang="es">La reevolución de los autos</title>
   </programme>
-  <programme start="20200207183000 -0600" stop="20200207192000 -0600" channel="Canal History 2">
+  <programme start="20200207173000 -0600" stop="20200207182000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200207192000 -0600" stop="20200207201000 -0600" channel="Canal History 2">
+  <programme start="20200207182000 -0600" stop="20200207191000 -0600" channel="Canal History 2">
     <title lang="es">Granjeros</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200207201000 -0600" stop="20200207210000 -0600" channel="Canal History 2">
+  <programme start="20200207191000 -0600" stop="20200207200000 -0600" channel="Canal History 2">
     <title lang="es">Proyecto imposible</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200207210000 -0600" stop="20200207215500 -0600" channel="Canal History 2">
+  <programme start="20200207200000 -0600" stop="20200207205500 -0600" channel="Canal History 2">
     <title lang="es">Especial Hot Wheels 50 años</title>
   </programme>
-  <programme start="20200207215500 -0600" stop="20200207225000 -0600" channel="Canal History 2">
+  <programme start="20200207205500 -0600" stop="20200207215000 -0600" channel="Canal History 2">
     <title lang="es">La historia secreta de AF1</title>
   </programme>
-  <programme start="20200207225000 -0600" stop="20200207234000 -0600" channel="Canal History 2">
+  <programme start="20200207215000 -0600" stop="20200207224000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E71</episode-num>
   </programme>
-  <programme start="20200207234000 -0600" stop="20200208001000 -0600" channel="Canal History 2">
+  <programme start="20200207224000 -0600" stop="20200207231000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200208001000 -0600" stop="20200208010000 -0600" channel="Canal History 2">
+  <programme start="20200207231000 -0600" stop="20200208000000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200208010000 -0600" stop="20200208015500 -0600" channel="Canal History 2">
+  <programme start="20200208000000 -0600" stop="20200208005500 -0600" channel="Canal History 2">
     <title lang="es">Granjeros</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200208015500 -0600" stop="20200208024500 -0600" channel="Canal History 2">
+  <programme start="20200208005500 -0600" stop="20200208014500 -0600" channel="Canal History 2">
     <title lang="es">Proyecto imposible</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200208024500 -0600" stop="20200208034000 -0600" channel="Canal History 2">
+  <programme start="20200208014500 -0600" stop="20200208024000 -0600" channel="Canal History 2">
     <title lang="es">Exploración Azteca</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200208034000 -0600" stop="20200208043500 -0600" channel="Canal History 2">
+  <programme start="20200208024000 -0600" stop="20200208033500 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200208043500 -0600" stop="20200208050000 -0600" channel="Canal History 2">
+  <programme start="20200208033500 -0600" stop="20200208040000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
-  <programme start="20200208050000 -0600" stop="20200208054700 -0600" channel="Canal History 2">
+  <programme start="20200208040000 -0600" stop="20200208044700 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E71</episode-num>
   </programme>
-  <programme start="20200208054700 -0600" stop="20200208063100 -0600" channel="Canal History 2">
+  <programme start="20200208044700 -0600" stop="20200208053100 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200208063100 -0600" stop="20200208071700 -0600" channel="Canal History 2">
+  <programme start="20200208053100 -0600" stop="20200208061700 -0600" channel="Canal History 2">
     <title lang="es">La iglesia oculta</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200208071700 -0600" stop="20200208080300 -0600" channel="Canal History 2">
+  <programme start="20200208061700 -0600" stop="20200208070300 -0600" channel="Canal History 2">
     <title lang="es">Granjeros</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200208080300 -0600" stop="20200208085100 -0600" channel="Canal History 2">
+  <programme start="20200208070300 -0600" stop="20200208075100 -0600" channel="Canal History 2">
     <title lang="es">Proyecto imposible</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200208085100 -0600" stop="20200208093800 -0600" channel="Canal History 2">
+  <programme start="20200208075100 -0600" stop="20200208083800 -0600" channel="Canal History 2">
     <title lang="es">Especial Hot Wheels 50 años</title>
   </programme>
-  <programme start="20200208093800 -0600" stop="20200208102500 -0600" channel="Canal History 2">
+  <programme start="20200208083800 -0600" stop="20200208092500 -0600" channel="Canal History 2">
     <title lang="es">La historia secreta de AF1</title>
   </programme>
-  <programme start="20200208102500 -0600" stop="20200208111800 -0600" channel="Canal History 2">
+  <programme start="20200208092500 -0600" stop="20200208101800 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200208111800 -0600" stop="20200208120400 -0600" channel="Canal History 2">
+  <programme start="20200208101800 -0600" stop="20200208110400 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E7</episode-num>
   </programme>
-  <programme start="20200208120400 -0600" stop="20200208125300 -0600" channel="Canal History 2">
+  <programme start="20200208110400 -0600" stop="20200208115300 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E71</episode-num>
   </programme>
-  <programme start="20200208125300 -0600" stop="20200208134000 -0600" channel="Canal History 2">
+  <programme start="20200208115300 -0600" stop="20200208124000 -0600" channel="Canal History 2">
     <title lang="es">Especial Hot Wheels 50 años</title>
   </programme>
-  <programme start="20200208134000 -0600" stop="20200208142700 -0600" channel="Canal History 2">
+  <programme start="20200208124000 -0600" stop="20200208132700 -0600" channel="Canal History 2">
     <title lang="es">La historia secreta de AF1</title>
   </programme>
-  <programme start="20200208142700 -0600" stop="20200208151300 -0600" channel="Canal History 2">
+  <programme start="20200208132700 -0600" stop="20200208141300 -0600" channel="Canal History 2">
     <title lang="es">Granjeros</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200208151300 -0600" stop="20200208160000 -0600" channel="Canal History 2">
+  <programme start="20200208141300 -0600" stop="20200208150000 -0600" channel="Canal History 2">
     <title lang="es">Proyecto imposible</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200208160000 -0600" stop="20200208164900 -0600" channel="Canal History 2">
+  <programme start="20200208150000 -0600" stop="20200208154900 -0600" channel="Canal History 2">
     <title lang="es">La Biblia prohibida</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200208164900 -0600" stop="20200208173600 -0600" channel="Canal History 2">
+  <programme start="20200208154900 -0600" stop="20200208163600 -0600" channel="Canal History 2">
     <title lang="es">Especial Hot Wheels 50 años</title>
   </programme>
-  <programme start="20200208173600 -0600" stop="20200208182300 -0600" channel="Canal History 2">
+  <programme start="20200208163600 -0600" stop="20200208172300 -0600" channel="Canal History 2">
     <title lang="es">La historia secreta de AF1</title>
   </programme>
-  <programme start="20200208182300 -0600" stop="20200208191700 -0600" channel="Canal History 2">
+  <programme start="20200208172300 -0600" stop="20200208181700 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200208191700 -0600" stop="20200208201300 -0600" channel="Canal History 2">
+  <programme start="20200208181700 -0600" stop="20200208191300 -0600" channel="Canal History 2">
     <title lang="es">La guerra del Pacífico</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200208201300 -0600" stop="20200208210000 -0600" channel="Canal History 2">
+  <programme start="20200208191300 -0600" stop="20200208200000 -0600" channel="Canal History 2">
     <title lang="es">Los últimos días de los nazis</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200208210000 -0600" stop="20200208223200 -0600" channel="Canal History 2">
+  <programme start="20200208200000 -0600" stop="20200208213200 -0600" channel="Canal History 2">
     <title lang="es">Escape de las torres</title>
   </programme>
-  <programme start="20200208223200 -0600" stop="20200208223200 -0600" channel="Canal History 2">
+  <programme start="20200208213200 -0600" stop="20200208213200 -0600" channel="Canal History 2">
     <title lang="es">La Biblia prohibida</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200208223200 -0600" stop="20200208232100 -0600" channel="Canal History 2">
+  <programme start="20200208213200 -0600" stop="20200208222100 -0600" channel="Canal History 2">
     <title lang="es">La Biblia prohibida</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200208232100 -0600" stop="20200209001100 -0600" channel="Canal History 2">
+  <programme start="20200208222100 -0600" stop="20200208231100 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20200209001100 -0600" stop="20200209010600 -0600" channel="Canal History 2">
+  <programme start="20200208231100 -0600" stop="20200209000600 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200209010600 -0600" stop="20200209020300 -0600" channel="Canal History 2">
+  <programme start="20200209000600 -0600" stop="20200209010300 -0600" channel="Canal History 2">
     <title lang="es">La guerra del Pacífico</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200209020300 -0600" stop="20200209025100 -0600" channel="Canal History 2">
+  <programme start="20200209010300 -0600" stop="20200209015100 -0600" channel="Canal History 2">
     <title lang="es">Los últimos días de los nazis</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200209025100 -0600" stop="20200209034100 -0600" channel="Canal History 2">
+  <programme start="20200209015100 -0600" stop="20200209024100 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20200209034100 -0600" stop="20200209043400 -0600" channel="Canal History 2">
+  <programme start="20200209024100 -0600" stop="20200209033400 -0600" channel="Canal History 2">
     <title lang="es">Exploración Maya</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200209043400 -0600" stop="20200209050000 -0600" channel="Canal History 2">
+  <programme start="20200209033400 -0600" stop="20200209040000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209050000 -0600" stop="20200209054800 -0600" channel="Canal History 2">
+  <programme start="20200209040000 -0600" stop="20200209044800 -0600" channel="Canal History 2">
     <title lang="es">La Biblia prohibida</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200209054800 -0600" stop="20200209063600 -0600" channel="Canal History 2">
+  <programme start="20200209044800 -0600" stop="20200209053600 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">S2 E17</episode-num>
   </programme>
-  <programme start="20200209063600 -0600" stop="20200209070000 -0600" channel="Canal History 2">
+  <programme start="20200209053600 -0600" stop="20200209060000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209070000 -0600" stop="20200209075400 -0600" channel="Canal History 2">
+  <programme start="20200209060000 -0600" stop="20200209065400 -0600" channel="Canal History 2">
     <title lang="es">La maldad en control</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200209075400 -0600" stop="20200209084800 -0600" channel="Canal History 2">
+  <programme start="20200209065400 -0600" stop="20200209074800 -0600" channel="Canal History 2">
     <title lang="es">La maldad en control</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209084800 -0600" stop="20200209101900 -0600" channel="Canal History 2">
+  <programme start="20200209074800 -0600" stop="20200209091900 -0600" channel="Canal History 2">
     <title lang="es">Escape de las torres</title>
   </programme>
-  <programme start="20200209101900 -0600" stop="20200209104300 -0600" channel="Canal History 2">
+  <programme start="20200209091900 -0600" stop="20200209094300 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209104300 -0600" stop="20200209113600 -0600" channel="Canal History 2">
+  <programme start="20200209094300 -0600" stop="20200209103600 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200209113600 -0600" stop="20200209122500 -0600" channel="Canal History 2">
+  <programme start="20200209103600 -0600" stop="20200209112500 -0600" channel="Canal History 2">
     <title lang="es">La Biblia prohibida</title>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200209122500 -0600" stop="20200209135700 -0600" channel="Canal History 2">
+  <programme start="20200209112500 -0600" stop="20200209125700 -0600" channel="Canal History 2">
     <title lang="es">Escape de las torres</title>
   </programme>
-  <programme start="20200209135700 -0600" stop="20200209145200 -0600" channel="Canal History 2">
+  <programme start="20200209125700 -0600" stop="20200209135200 -0600" channel="Canal History 2">
     <title lang="es">La maldad en control</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200209145200 -0600" stop="20200209154700 -0600" channel="Canal History 2">
+  <programme start="20200209135200 -0600" stop="20200209144700 -0600" channel="Canal History 2">
     <title lang="es">La maldad en control</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209154700 -0600" stop="20200209161200 -0600" channel="Canal History 2">
+  <programme start="20200209144700 -0600" stop="20200209151200 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
-  <programme start="20200209161200 -0600" stop="20200209170500 -0600" channel="Canal History 2">
+  <programme start="20200209151200 -0600" stop="20200209160500 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200209170500 -0600" stop="20200209183700 -0600" channel="Canal History 2">
+  <programme start="20200209160500 -0600" stop="20200209173700 -0600" channel="Canal History 2">
     <title lang="es">Escape de las torres</title>
   </programme>
-  <programme start="20200209183700 -0600" stop="20200209192500 -0600" channel="Canal History 2">
+  <programme start="20200209173700 -0600" stop="20200209182500 -0600" channel="Canal History 2">
     <title lang="es">Ciudades Ocultas</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20200209192500 -0600" stop="20200209201200 -0600" channel="Canal History 2">
+  <programme start="20200209182500 -0600" stop="20200209191200 -0600" channel="Canal History 2">
     <title lang="es">En busca del oro perdido</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200209201200 -0600" stop="20200209210000 -0600" channel="Canal History 2">
+  <programme start="20200209191200 -0600" stop="20200209200000 -0600" channel="Canal History 2">
     <title lang="es">Persiguiendo a Hitler</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200209210000 -0600" stop="20200209214800 -0600" channel="Canal History 2">
+  <programme start="20200209200000 -0600" stop="20200209204800 -0600" channel="Canal History 2">
     <title lang="es">El tesoro del General Custer</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200209214800 -0600" stop="20200209223900 -0600" channel="Canal History 2">
+  <programme start="20200209204800 -0600" stop="20200209213900 -0600" channel="Canal History 2">
     <title lang="es">Humanidad: la historia de</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200209223900 -0600" stop="20200209233200 -0600" channel="Canal History 2">
+  <programme start="20200209213900 -0600" stop="20200209223200 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200209233200 -0600" stop="20200209235700 -0600" channel="Canal History 2">
+  <programme start="20200209223200 -0600" stop="20200209225700 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200209235700 -0600" stop="20200210004600 -0600" channel="Canal History 2">
+  <programme start="20200209225700 -0600" stop="20200209234600 -0600" channel="Canal History 2">
     <title lang="es">Ciudades Ocultas</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20200210004600 -0600" stop="20200210013400 -0600" channel="Canal History 2">
+  <programme start="20200209234600 -0600" stop="20200210003400 -0600" channel="Canal History 2">
     <title lang="es">En busca del oro perdido</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200210013400 -0600" stop="20200210022300 -0600" channel="Canal History 2">
+  <programme start="20200210003400 -0600" stop="20200210012300 -0600" channel="Canal History 2">
     <title lang="es">Persiguiendo a Hitler</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200210022300 -0600" stop="20200210031600 -0600" channel="Canal History 2">
+  <programme start="20200210012300 -0600" stop="20200210021600 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20200210031600 -0600" stop="20200210040600 -0600" channel="Canal History 2">
+  <programme start="20200210021600 -0600" stop="20200210030600 -0600" channel="Canal History 2">
     <title lang="es">Los Secretos de la Biblia</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200210040600 -0600" stop="20200210050000 -0600" channel="Canal History 2">
+  <programme start="20200210030600 -0600" stop="20200210040000 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20200210050000 -0600" stop="20200210055500 -0600" channel="Canal History 2">
+  <programme start="20200210040000 -0600" stop="20200210045500 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200210055500 -0600" stop="20200210064500 -0600" channel="Canal History 2">
+  <programme start="20200210045500 -0600" stop="20200210054500 -0600" channel="Canal History 2">
     <title lang="es">Ciudades Ocultas</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20200210064500 -0600" stop="20200210073500 -0600" channel="Canal History 2">
+  <programme start="20200210054500 -0600" stop="20200210063500 -0600" channel="Canal History 2">
     <title lang="es">En busca del oro perdido</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200210073500 -0600" stop="20200210082500 -0600" channel="Canal History 2">
+  <programme start="20200210063500 -0600" stop="20200210072500 -0600" channel="Canal History 2">
     <title lang="es">Persiguiendo a Hitler</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200210082500 -0600" stop="20200210091500 -0600" channel="Canal History 2">
+  <programme start="20200210072500 -0600" stop="20200210081500 -0600" channel="Canal History 2">
     <title lang="es">El tesoro del General Custer</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200210091500 -0600" stop="20200210101000 -0600" channel="Canal History 2">
+  <programme start="20200210081500 -0600" stop="20200210091000 -0600" channel="Canal History 2">
     <title lang="es">Humanidad: la historia de</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200210101000 -0600" stop="20200210103500 -0600" channel="Canal History 2">
+  <programme start="20200210091000 -0600" stop="20200210093500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
-  <programme start="20200210103500 -0600" stop="20200210112500 -0600" channel="Canal History 2">
+  <programme start="20200210093500 -0600" stop="20200210102500 -0600" channel="Canal History 2">
     <title lang="es">Ciudades Ocultas</title>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
-  <programme start="20200210112500 -0600" stop="20200210122000 -0600" channel="Canal History 2">
+  <programme start="20200210102500 -0600" stop="20200210112000 -0600" channel="Canal History 2">
     <title lang="es">Exploracion Inca</title>
     <episode-num system="onscreen">E2</episode-num>
   </programme>
-  <programme start="20200210122000 -0600" stop="20200210131500 -0600" channel="Canal History 2">
+  <programme start="20200210112000 -0600" stop="20200210121500 -0600" channel="Canal History 2">
     <title lang="es">El tesoro del General Custer</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200210131500 -0600" stop="20200210141000 -0600" channel="Canal History 2">
+  <programme start="20200210121500 -0600" stop="20200210131000 -0600" channel="Canal History 2">
     <title lang="es">Humanidad: la historia de</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200210141000 -0600" stop="20200210150000 -0600" channel="Canal History 2">
+  <programme start="20200210131000 -0600" stop="20200210140000 -0600" channel="Canal History 2">
     <title lang="es">En busca del oro perdido</title>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20200210150000 -0600" stop="20200210155000 -0600" channel="Canal History 2">
+  <programme start="20200210140000 -0600" stop="20200210145000 -0600" channel="Canal History 2">
     <title lang="es">Persiguiendo a Hitler</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200210155000 -0600" stop="20200210164000 -0600" channel="Canal History 2">
+  <programme start="20200210145000 -0600" stop="20200210154000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
     <episode-num system="onscreen">S6 E72</episode-num>
   </programme>
-  <programme start="20200210164000 -0600" stop="20200210173000 -0600" channel="Canal History 2">
+  <programme start="20200210154000 -0600" stop="20200210163000 -0600" channel="Canal History 2">
     <title lang="es">El tesoro del General Custer</title>
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20200210173000 -0600" stop="20200210182000 -0600" channel="Canal History 2">
+  <programme start="20200210163000 -0600" stop="20200210172000 -0600" channel="Canal History 2">
     <title lang="es">Humanidad: la historia de</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
-  <programme start="20200210182000 -0600" stop="20200210191000 -0600" channel="Canal History 2">
+  <programme start="20200210172000 -0600" stop="20200210181000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200210191000 -0600" stop="20200210201000 -0600" channel="Canal History 2">
+  <programme start="20200210181000 -0600" stop="20200210191000 -0600" channel="Canal History 2">
     <title lang="es">Jesús de Nazaret</title>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200210201000 -0600" stop="20200210210000 -0600" channel="Canal History 2">
+  <programme start="20200210191000 -0600" stop="20200210200000 -0600" channel="Canal History 2">
     <title lang="es">Los Secretos de la Biblia</title>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200210210000 -0600" stop="20200210215500 -0600" channel="Canal History 2">
+  <programme start="20200210200000 -0600" stop="20200210205500 -0600" channel="Canal History 2">
     <title lang="es">Knightfall: la guerra</title>
     <episode-num system="onscreen">E11</episode-num>
   </programme>
-  <programme start="20200210215500 -0600" stop="20200210225000 -0600" channel="Canal History 2">
+  <programme start="20200210205500 -0600" stop="20200210215000 -0600" channel="Canal History 2">
     <title lang="es">Knightfall: la guerra</title>
     <episode-num system="onscreen">E12</episode-num>
   </programme>
@@ -41249,6 +41045,10 @@
   <programme start="20200207004000 -0600" stop="20200207013000 -0600" channel="Canal National Geographic (NatGeo Latinoamérica)">
     <title lang="es">Mayday: Informe Especial</title>
     <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20200207013000 -0600" stop="20200207022000 -0600" channel="Canal National Geographic (NatGeo Latinoamérica)">
+    <title lang="es">Mayday Catástrofes Aéreas</title>
+    <episode-num system="onscreen">E6</episode-num>
   </programme>
   <programme start="20200207022000 -0600" stop="20200207031000 -0600" channel="Canal National Geographic (NatGeo Latinoamérica)">
     <title lang="es">Alerta Aeropuerto</title>
