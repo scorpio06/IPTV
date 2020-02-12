@@ -1,1067 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal History 2 (México)">
-    <display-name lang="es">Canal History 2 (México)</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2_mexico-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2_mexico-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal History 2">
     <display-name lang="es">Canal History 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2_latinoamerica-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20200212004500 -0600" stop="20200212011000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20200212011000 -0600" stop="20200212020000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212020000 -0600" stop="20200212033500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El rostro de Leonardo</title>
-  </programme>
-  <programme start="20200212033500 -0600" stop="20200212043000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200212043000 -0600" stop="20200212053000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20200212053000 -0600" stop="20200212060000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200212060000 -0600" stop="20200212065000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E73</episode-num>
-  </programme>
-  <programme start="20200212065000 -0600" stop="20200212074500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212074500 -0600" stop="20200212084000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20200212084000 -0600" stop="20200212091000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200212091000 -0600" stop="20200212100500 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212001500 -0600" stop="20200212010500 -0600" channel="Canal History 2">
     <title lang="es">Construyendo un Imperio</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212100500 -0600" stop="20200212110500 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212010500 -0600" stop="20200212020500 -0600" channel="Canal History 2">
     <title lang="es">La historia de Europa</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212110500 -0600" stop="20200212113000 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212020500 -0600" stop="20200212034500 -0600" channel="Canal History 2">
+    <title lang="es">Descubriendo el Rostro de Leonardo</title>
+  </programme>
+  <programme start="20200212034500 -0600" stop="20200212041000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20200212113000 -0600" stop="20200212122000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212122000 -0600" stop="20200212131000 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212041000 -0600" stop="20200212050000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E73</episode-num>
   </programme>
-  <programme start="20200212131000 -0600" stop="20200212140000 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212050000 -0600" stop="20200212060000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200212060000 -0600" stop="20200212070000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200212070000 -0600" stop="20200212080000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200212080000 -0600" stop="20200212090000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200212090000 -0600" stop="20200212095000 -0600" channel="Canal History 2">
     <title lang="es">Construyendo un Imperio</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212140000 -0600" stop="20200212150000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La historia de Europa</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212150000 -0600" stop="20200212155000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Los Secretos de la Biblia</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212155000 -0600" stop="20200212164000 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212095000 -0600" stop="20200212104000 -0600" channel="Canal History 2">
     <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20200212164000 -0600" stop="20200212170500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200212170500 -0600" stop="20200212175500 -0600" channel="Canal History 2 (México)">
+  <programme start="20200212104000 -0600" stop="20200212113000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200212175500 -0600" stop="20200212193000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El rostro de Leonardo</title>
-  </programme>
-  <programme start="20200212193000 -0600" stop="20200212202000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212202000 -0600" stop="20200212211000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200212211000 -0600" stop="20200212220000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20200212220000 -0600" stop="20200212225500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212225500 -0600" stop="20200212235000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200212235000 -0600" stop="20200213004000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200213004000 -0600" stop="20200213010500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200213010500 -0600" stop="20200213015500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213015500 -0600" stop="20200213025000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200213025000 -0600" stop="20200213034000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20200213034000 -0600" stop="20200213043500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Los Secretos de la Biblia</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213043500 -0600" stop="20200213053000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20200213053000 -0600" stop="20200213060000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme start="20200213060000 -0600" stop="20200213065000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200213065000 -0600" stop="20200213074000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213074000 -0600" stop="20200213083000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200213083000 -0600" stop="20200213092000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20200213092000 -0600" stop="20200213101500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200213101500 -0600" stop="20200213111000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213111000 -0600" stop="20200213113500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme start="20200213113500 -0600" stop="20200213122500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213122500 -0600" stop="20200213131500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200213131500 -0600" stop="20200213141500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213141500 -0600" stop="20200213151000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213151000 -0600" stop="20200213160000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200213160000 -0600" stop="20200213165000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20200213165000 -0600" stop="20200213174000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200213174000 -0600" stop="20200213184000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213184000 -0600" stop="20200213193000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213193000 -0600" stop="20200213202000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200213202000 -0600" stop="20200213211000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200213211000 -0600" stop="20200213220000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200213220000 -0600" stop="20200213230000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200213230000 -0600" stop="20200214000000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214000000 -0600" stop="20200214005000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200214005000 -0600" stop="20200214011500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme start="20200214011500 -0600" stop="20200214020500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214020500 -0600" stop="20200214025500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214025500 -0600" stop="20200214034500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200214034500 -0600" stop="20200214044000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20200214044000 -0600" stop="20200214053500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20200214053500 -0600" stop="20200214060000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214060000 -0600" stop="20200214065000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200214065000 -0600" stop="20200214074000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214074000 -0600" stop="20200214083500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214083500 -0600" stop="20200214090500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214090500 -0600" stop="20200214100500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200214100500 -0600" stop="20200214110500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214110500 -0600" stop="20200214113500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214113500 -0600" stop="20200214122500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214122500 -0600" stop="20200214131500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200214131500 -0600" stop="20200214141500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200214141500 -0600" stop="20200214151500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214151500 -0600" stop="20200214160500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20200214160500 -0600" stop="20200214165500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20200214165500 -0600" stop="20200214174500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200214174500 -0600" stop="20200214184000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214184000 -0600" stop="20200214193000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200214193000 -0600" stop="20200214202000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200214202000 -0600" stop="20200214211000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200214211000 -0600" stop="20200214220000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200214220000 -0600" stop="20200214233000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200214233000 -0600" stop="20200215002000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215002000 -0600" stop="20200215011500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200215011500 -0600" stop="20200215020500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215020500 -0600" stop="20200215025500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215025500 -0600" stop="20200215034500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215034500 -0600" stop="20200215044000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200215044000 -0600" stop="20200215053500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215060000 -0600" stop="20200215065000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215065000 -0600" stop="20200215073700 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215073700 -0600" stop="20200215083100 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215083100 -0600" stop="20200215091800 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215091800 -0600" stop="20200215100600 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215100600 -0600" stop="20200215113500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215113500 -0600" stop="20200215122800 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215122800 -0600" stop="20200215131500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215131500 -0600" stop="20200215140400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215140400 -0600" stop="20200215153200 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215153200 -0600" stop="20200215161800 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215161800 -0600" stop="20200215170500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215170500 -0600" stop="20200215175400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200215175400 -0600" stop="20200215192200 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215192200 -0600" stop="20200215201700 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215201700 -0600" stop="20200215211300 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La guerra del Pacífico</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20200215211300 -0600" stop="20200215220000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Los últimos días de los nazis</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200215220000 -0600" stop="20200215233400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200215233400 -0600" stop="20200216002300 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216002300 -0600" stop="20200216011300 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216011300 -0600" stop="20200216020800 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200216020800 -0600" stop="20200216030400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La guerra del Pacífico</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20200216030400 -0600" stop="20200216035100 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Los últimos días de los nazis</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216035100 -0600" stop="20200216044200 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216044200 -0600" stop="20200216053400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploración Maya</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216053400 -0600" stop="20200216060000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216060000 -0600" stop="20200216065000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216065000 -0600" stop="20200216074100 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216074100 -0600" stop="20200216083700 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20200216083700 -0600" stop="20200216093300 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216093300 -0600" stop="20200216110800 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216110800 -0600" stop="20200216113400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216113400 -0600" stop="20200216123000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200216123000 -0600" stop="20200216132000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216132000 -0600" stop="20200216145500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216145500 -0600" stop="20200216155100 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20200216155100 -0600" stop="20200216164600 -0600" channel="Canal History 2 (México)">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216164600 -0600" stop="20200216171100 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216171100 -0600" stop="20200216180300 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200216180300 -0600" stop="20200216193700 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216193700 -0600" stop="20200216202500 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme start="20200216202500 -0600" stop="20200216211200 -0600" channel="Canal History 2 (México)">
-    <title lang="es">En busca del oro perdido</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216211200 -0600" stop="20200216220000 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro del General Custer</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200216220000 -0600" stop="20200216224600 -0600" channel="Canal History 2 (México)">
-    <title lang="es">El tesoro del General Custer</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216224600 -0600" stop="20200216233400 -0600" channel="Canal History 2 (México)">
-    <title lang="es">Persiguiendo a Hitler</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212004500 -0600" stop="20200212011000 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20200212011000 -0600" stop="20200212020000 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212020000 -0600" stop="20200212033500 -0600" channel="Canal History 2">
-    <title lang="es">El rostro de Leonardo</title>
-  </programme>
-  <programme start="20200212033500 -0600" stop="20200212043000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200212043000 -0600" stop="20200212053000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20200212053000 -0600" stop="20200212060000 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200212060000 -0600" stop="20200212065000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E73</episode-num>
-  </programme>
-  <programme start="20200212065000 -0600" stop="20200212074500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212074500 -0600" stop="20200212084000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20200212084000 -0600" stop="20200212091000 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200212091000 -0600" stop="20200212100500 -0600" channel="Canal History 2">
-    <title lang="es">Construyendo un Imperio</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212100500 -0600" stop="20200212110500 -0600" channel="Canal History 2">
-    <title lang="es">La historia de Europa</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212110500 -0600" stop="20200212113000 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
   <programme start="20200212113000 -0600" stop="20200212122000 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme start="20200212122000 -0600" stop="20200212131000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E73</episode-num>
-  </programme>
-  <programme start="20200212131000 -0600" stop="20200212140000 -0600" channel="Canal History 2">
-    <title lang="es">Construyendo un Imperio</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212140000 -0600" stop="20200212150000 -0600" channel="Canal History 2">
-    <title lang="es">La historia de Europa</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200212150000 -0600" stop="20200212155000 -0600" channel="Canal History 2">
     <title lang="es">Los Secretos de la Biblia</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212155000 -0600" stop="20200212164000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20200212164000 -0600" stop="20200212170500 -0600" channel="Canal History 2">
+  <programme start="20200212122000 -0600" stop="20200212124500 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20200212170500 -0600" stop="20200212175500 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200212175500 -0600" stop="20200212193000 -0600" channel="Canal History 2">
-    <title lang="es">El rostro de Leonardo</title>
-  </programme>
-  <programme start="20200212193000 -0600" stop="20200212202000 -0600" channel="Canal History 2">
+  <programme start="20200212124500 -0600" stop="20200212133000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212202000 -0600" stop="20200212211000 -0600" channel="Canal History 2">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20200212133000 -0600" stop="20200212142000 -0600" channel="Canal History 2">
+    <title lang="es">El Universo</title>
   </programme>
-  <programme start="20200212211000 -0600" stop="20200212220000 -0600" channel="Canal History 2">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
+  <programme start="20200212142000 -0600" stop="20200212151000 -0600" channel="Canal History 2">
+    <title lang="es">Construyendo un Imperio</title>
   </programme>
-  <programme start="20200212220000 -0600" stop="20200212225500 -0600" channel="Canal History 2">
+  <programme start="20200212151000 -0600" stop="20200212161000 -0600" channel="Canal History 2">
+    <title lang="es">La historia de Europa</title>
+  </programme>
+  <programme start="20200212161000 -0600" stop="20200212163500 -0600" channel="Canal History 2">
+    <title lang="es">La gran historia</title>
+  </programme>
+  <programme start="20200212163500 -0600" stop="20200212181000 -0600" channel="Canal History 2">
+    <title lang="es">Descubriendo el Rostro de Leonardo</title>
+  </programme>
+  <programme start="20200212181000 -0600" stop="20200212190000 -0600" channel="Canal History 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20200212190000 -0600" stop="20200212195500 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200212225500 -0600" stop="20200212235000 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20200212195500 -0600" stop="20200212205000 -0600" channel="Canal History 2">
+    <title lang="es">El tesoro perdido de los templarios</title>
   </programme>
-  <programme start="20200212235000 -0600" stop="20200213004000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200213004000 -0600" stop="20200213010500 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E12</episode-num>
-  </programme>
-  <programme start="20200213010500 -0600" stop="20200213015500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213015500 -0600" stop="20200213025000 -0600" channel="Canal History 2">
+  <programme start="20200212205000 -0600" stop="20200212214000 -0600" channel="Canal History 2">
     <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20200212214000 -0600" stop="20200212223000 -0600" channel="Canal History 2">
+    <title lang="es">Vivir para contarlo historias de guerra</title>
+  </programme>
+  <programme start="20200212223000 -0600" stop="20200212232000 -0600" channel="Canal History 2">
+    <title lang="es">El Universo</title>
+  </programme>
+  <programme start="20200212232000 -0600" stop="20200212232000 -0600" channel="Canal History 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20200212232000 -0600" stop="20200213001000 -0600" channel="Canal History 2">
+    <title lang="es">Genios Ancestrales</title>
+  </programme>
+  <programme start="20200213001000 -0600" stop="20200213010500 -0600" channel="Canal History 2">
+    <title lang="es">Historia de las armas</title>
+  </programme>
+  <programme start="20200213010500 -0600" stop="20200213020000 -0600" channel="Canal History 2">
+    <title lang="es">El tesoro perdido de los templarios</title>
+  </programme>
+  <programme start="20200213020000 -0600" stop="20200213025000 -0600" channel="Canal History 2">
+    <title lang="es">Tesoros templarios</title>
   </programme>
   <programme start="20200213025000 -0600" stop="20200213034000 -0600" channel="Canal History 2">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
+    <title lang="es">Vivir para contarlo historias de guerra</title>
   </programme>
-  <programme start="20200213034000 -0600" stop="20200213043500 -0600" channel="Canal History 2">
-    <title lang="es">Los Secretos de la Biblia</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213043500 -0600" stop="20200213053000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20200213053000 -0600" stop="20200213060000 -0600" channel="Canal History 2">
+  <programme start="20200213034000 -0600" stop="20200213041000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20200213060000 -0600" stop="20200213065000 -0600" channel="Canal History 2">
+  <programme start="20200213041000 -0600" stop="20200213050000 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
   </programme>
-  <programme start="20200213065000 -0600" stop="20200213074000 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
+  <programme start="20200213050000 -0600" stop="20200213060000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20200213074000 -0600" stop="20200213083000 -0600" channel="Canal History 2">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20200213060000 -0600" stop="20200213070000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20200213083000 -0600" stop="20200213092000 -0600" channel="Canal History 2">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
+  <programme start="20200213070000 -0600" stop="20200213080000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20200213092000 -0600" stop="20200213101500 -0600" channel="Canal History 2">
+  <programme start="20200213080000 -0600" stop="20200213090000 -0600" channel="Canal History 2">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20200213090000 -0600" stop="20200213095000 -0600" channel="Canal History 2">
+    <title lang="es">Los Secretos de la Biblia</title>
+  </programme>
+  <programme start="20200213095000 -0600" stop="20200213104500 -0600" channel="Canal History 2">
     <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20200213101500 -0600" stop="20200213111000 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213111000 -0600" stop="20200213113500 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
+  <programme start="20200213104500 -0600" stop="20200213113500 -0600" channel="Canal History 2">
+    <title lang="es">Tesoros templarios</title>
   </programme>
   <programme start="20200213113500 -0600" stop="20200213122500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
+    <title lang="es">Vivir para contarlo historias de guerra</title>
   </programme>
   <programme start="20200213122500 -0600" stop="20200213131500 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E74</episode-num>
-  </programme>
-  <programme start="20200213131500 -0600" stop="20200213141500 -0600" channel="Canal History 2">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213141500 -0600" stop="20200213151000 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213151000 -0600" stop="20200213160000 -0600" channel="Canal History 2">
-    <title lang="es">Tesoros templarios</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200213160000 -0600" stop="20200213165000 -0600" channel="Canal History 2">
-    <title lang="es">Vivir para contarlo</title>
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20200213165000 -0600" stop="20200213174000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200213174000 -0600" stop="20200213184000 -0600" channel="Canal History 2">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200213184000 -0600" stop="20200213193000 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro perdido de los</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200213193000 -0600" stop="20200213202000 -0600" channel="Canal History 2">
     <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20200213202000 -0600" stop="20200213211000 -0600" channel="Canal History 2">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200213211000 -0600" stop="20200213220000 -0600" channel="Canal History 2">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200213220000 -0600" stop="20200213230000 -0600" channel="Canal History 2">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200213230000 -0600" stop="20200214000000 -0600" channel="Canal History 2">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214000000 -0600" stop="20200214005000 -0600" channel="Canal History 2">
+  <programme start="20200213131500 -0600" stop="20200213140500 -0600" channel="Canal History 2">
     <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
   </programme>
-  <programme start="20200214005000 -0600" stop="20200214011500 -0600" channel="Canal History 2">
+  <programme start="20200213140500 -0600" stop="20200213150000 -0600" channel="Canal History 2">
+    <title lang="es">El tesoro perdido de los templarios</title>
+  </programme>
+  <programme start="20200213150000 -0600" stop="20200213155000 -0600" channel="Canal History 2">
+    <title lang="es">Vivir para contarlo historias de guerra</title>
+  </programme>
+  <programme start="20200213155000 -0600" stop="20200213162000 -0600" channel="Canal History 2">
     <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1 E13</episode-num>
   </programme>
-  <programme start="20200214011500 -0600" stop="20200214020500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214020500 -0600" stop="20200214025500 -0600" channel="Canal History 2">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214025500 -0600" stop="20200214034500 -0600" channel="Canal History 2">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200214034500 -0600" stop="20200214044000 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20200214044000 -0600" stop="20200214053500 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20200214053500 -0600" stop="20200214060000 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214060000 -0600" stop="20200214065000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200214065000 -0600" stop="20200214074000 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214074000 -0600" stop="20200214083500 -0600" channel="Canal History 2">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214083500 -0600" stop="20200214090500 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214090500 -0600" stop="20200214100500 -0600" channel="Canal History 2">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200214100500 -0600" stop="20200214110500 -0600" channel="Canal History 2">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214110500 -0600" stop="20200214113500 -0600" channel="Canal History 2">
-    <title lang="es">La gran historia</title>
-    <episode-num system="onscreen">S1</episode-num>
-  </programme>
-  <programme start="20200214113500 -0600" stop="20200214122500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20200214122500 -0600" stop="20200214131500 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E75</episode-num>
-  </programme>
-  <programme start="20200214131500 -0600" stop="20200214141500 -0600" channel="Canal History 2">
-    <title lang="es">Silicon Valley: la revolución</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200214141500 -0600" stop="20200214151500 -0600" channel="Canal History 2">
-    <title lang="es">Batalla por la luna</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200214151500 -0600" stop="20200214160500 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme start="20200214160500 -0600" stop="20200214165500 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme start="20200214165500 -0600" stop="20200214174500 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200214174500 -0600" stop="20200214184000 -0600" channel="Canal History 2">
-    <title lang="es">Especial Hot Wheels 50 años</title>
-  </programme>
-  <programme start="20200214184000 -0600" stop="20200214193000 -0600" channel="Canal History 2">
-    <title lang="es">La historia secreta de AF1</title>
-  </programme>
-  <programme start="20200214193000 -0600" stop="20200214202000 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200214202000 -0600" stop="20200214211000 -0600" channel="Canal History 2">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200214211000 -0600" stop="20200214220000 -0600" channel="Canal History 2">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200214220000 -0600" stop="20200214233000 -0600" channel="Canal History 2">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200214233000 -0600" stop="20200215002000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215002000 -0600" stop="20200215011500 -0600" channel="Canal History 2">
-    <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200215011500 -0600" stop="20200215020500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215020500 -0600" stop="20200215025500 -0600" channel="Canal History 2">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215025500 -0600" stop="20200215034500 -0600" channel="Canal History 2">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215034500 -0600" stop="20200215044000 -0600" channel="Canal History 2">
-    <title lang="es">Exploración Azteca</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200215044000 -0600" stop="20200215053500 -0600" channel="Canal History 2">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215060000 -0600" stop="20200215065000 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215065000 -0600" stop="20200215073700 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215073700 -0600" stop="20200215083100 -0600" channel="Canal History 2">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215083100 -0600" stop="20200215091800 -0600" channel="Canal History 2">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215091800 -0600" stop="20200215100600 -0600" channel="Canal History 2">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215100600 -0600" stop="20200215113500 -0600" channel="Canal History 2">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215113500 -0600" stop="20200215122800 -0600" channel="Canal History 2">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200215122800 -0600" stop="20200215131500 -0600" channel="Canal History 2">
-    <title lang="es">Genios Ancestrales</title>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20200215131500 -0600" stop="20200215140400 -0600" channel="Canal History 2">
-    <title lang="es">El Universo</title>
-    <episode-num system="onscreen">S6 E76</episode-num>
-  </programme>
-  <programme start="20200215140400 -0600" stop="20200215153200 -0600" channel="Canal History 2">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215153200 -0600" stop="20200215161800 -0600" channel="Canal History 2">
-    <title lang="es">Granjeros</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215161800 -0600" stop="20200215170500 -0600" channel="Canal History 2">
-    <title lang="es">Hermanos de armas</title>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20200215170500 -0600" stop="20200215175400 -0600" channel="Canal History 2">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200215175400 -0600" stop="20200215192200 -0600" channel="Canal History 2">
-    <title lang="es">Veloces y endemoniados</title>
-  </programme>
-  <programme start="20200215192200 -0600" stop="20200215201700 -0600" channel="Canal History 2">
+  <programme start="20200213162000 -0600" stop="20200213171500 -0600" channel="Canal History 2">
     <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200215201700 -0600" stop="20200215211300 -0600" channel="Canal History 2">
-    <title lang="es">La guerra del Pacífico</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20200215211300 -0600" stop="20200215220000 -0600" channel="Canal History 2">
-    <title lang="es">Los últimos días de los nazis</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200215220000 -0600" stop="20200215233400 -0600" channel="Canal History 2">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200215233400 -0600" stop="20200216002300 -0600" channel="Canal History 2">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216002300 -0600" stop="20200216011300 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216011300 -0600" stop="20200216020800 -0600" channel="Canal History 2">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200216020800 -0600" stop="20200216030400 -0600" channel="Canal History 2">
-    <title lang="es">La guerra del Pacífico</title>
-    <episode-num system="onscreen">S1 E3</episode-num>
-  </programme>
-  <programme start="20200216030400 -0600" stop="20200216035100 -0600" channel="Canal History 2">
-    <title lang="es">Los últimos días de los nazis</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216035100 -0600" stop="20200216044200 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216044200 -0600" stop="20200216053400 -0600" channel="Canal History 2">
-    <title lang="es">Exploración Maya</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216053400 -0600" stop="20200216060000 -0600" channel="Canal History 2">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216060000 -0600" stop="20200216065000 -0600" channel="Canal History 2">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216065000 -0600" stop="20200216074100 -0600" channel="Canal History 2">
-    <title lang="es">Milagros decodificados</title>
-    <episode-num system="onscreen">S2 E18</episode-num>
-  </programme>
-  <programme start="20200216074100 -0600" stop="20200216083700 -0600" channel="Canal History 2">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20200216083700 -0600" stop="20200216093300 -0600" channel="Canal History 2">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216093300 -0600" stop="20200216110800 -0600" channel="Canal History 2">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216110800 -0600" stop="20200216113400 -0600" channel="Canal History 2">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216113400 -0600" stop="20200216123000 -0600" channel="Canal History 2">
-    <title lang="es">Historia de las armas</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20200216123000 -0600" stop="20200216132000 -0600" channel="Canal History 2">
-    <title lang="es">La Biblia prohibida</title>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200216132000 -0600" stop="20200216145500 -0600" channel="Canal History 2">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216145500 -0600" stop="20200216155100 -0600" channel="Canal History 2">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20200216155100 -0600" stop="20200216164600 -0600" channel="Canal History 2">
-    <title lang="es">La maldad en control</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216164600 -0600" stop="20200216171100 -0600" channel="Canal History 2">
-    <title lang="es">Planeta innovación</title>
-    <episode-num system="onscreen">S8 E1</episode-num>
-  </programme>
-  <programme start="20200216171100 -0600" stop="20200216180300 -0600" channel="Canal History 2">
-    <title lang="es">Exploracion Inca</title>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20200216180300 -0600" stop="20200216193700 -0600" channel="Canal History 2">
-    <title lang="es">Francotirador: Misión mortal</title>
-  </programme>
-  <programme start="20200216193700 -0600" stop="20200216202500 -0600" channel="Canal History 2">
-    <title lang="es">Ciudades Ocultas</title>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme start="20200216202500 -0600" stop="20200216211200 -0600" channel="Canal History 2">
-    <title lang="es">En busca del oro perdido</title>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20200216211200 -0600" stop="20200216220000 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro del General Custer</title>
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20200216220000 -0600" stop="20200216224600 -0600" channel="Canal History 2">
-    <title lang="es">El tesoro del General Custer</title>
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20200216224600 -0600" stop="20200216233400 -0600" channel="Canal History 2">
-    <title lang="es">Persiguiendo a Hitler</title>
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
 </tv>
