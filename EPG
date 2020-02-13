@@ -504,10 +504,14 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_mexico-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal HBO">
-    <display-name lang="es">Canal HBO</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" />
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo-mediano.png" />
+  <channel id="Canal HBO 2">
+    <display-name lang="es">Canal HBO 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO Family Latinoamérica">
+    <display-name lang="es">Canal HBO Family Latinoamérica</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family_latinoamerica-mediano.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal HBO Plus HD México">
@@ -519,6 +523,10 @@
   <channel id="Canal HBO Plus HD México 2">
     <display-name lang="es">Canal HBO Plus HD México 2</display-name>
     <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CL - HBO">
+    <display-name lang="es">CL - HBO</display-name>
+    <url>http://www.mi.tv</url>
   </channel>
   <programme start="20200212003000 -0600" stop="20200212010000 -0600" channel="Canal Boomerang">
     <title lang="es">Tío grandpa</title>
@@ -640,11 +648,8 @@
   <programme start="20200212223000 -0600" stop="20200212233000 -0600" channel="Canal Boomerang">
     <title lang="es">¡Ponte en onda, Scooby Doo</title>
   </programme>
-  <programme start="20200212233000 -0600" stop="20200213163000 -0600" channel="Canal Boomerang">
+  <programme start="20200212233000 -0600" stop="20200213180000 -0600" channel="Canal Boomerang">
     <title lang="es">Masha y el oso</title>
-  </programme>
-  <programme start="20200213163000 -0600" stop="20200213180000 -0600" channel="Canal Boomerang">
-    <title lang="es">Ben 10</title>
   </programme>
   <programme start="20200213180000 -0600" stop="20200213183000 -0600" channel="Canal Boomerang">
     <title lang="es">Dorothy y el Mago de Oz</title>
@@ -1399,11 +1404,11 @@
   <programme start="20200213073000 -0600" stop="20200213074500 -0600" channel="Canal Cartoon Network">
     <title lang="es">Beyblade Burst Turbo</title>
   </programme>
-  <programme start="20200213110000 -0600" stop="20200213164500 -0600" channel="Canal Cartoon Network">
+  <programme start="20200213110000 -0600" stop="20200213180000 -0600" channel="Canal Cartoon Network">
     <title lang="es">Mao Mao: Héroes de puro</title>
   </programme>
-  <programme start="20200213164500 -0600" stop="20200213191500 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Steven universe</title>
+  <programme start="20200213180000 -0600" stop="20200213191500 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los jóvenes titanes en acción</title>
   </programme>
   <programme start="20200213191500 -0600" stop="20200214070000 -0600" channel="Canal Cartoon Network">
     <title lang="es">Drama Total: La guardería</title>
@@ -1654,8 +1659,8 @@
   <programme start="20200213090100 -0600" stop="20200213103400 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">La princesa encantada</title>
   </programme>
-  <programme start="20200213162700 -0600" stop="20200214090100 -0600" channel="Canal Discovery Kids (México)">
-    <title lang="es">Peppa T3 (V2)</title>
+  <programme start="20200213165200 -0600" stop="20200214090100 -0600" channel="Canal Discovery Kids (México)">
+    <title lang="es">Peppa T1 (Ep. 1 - 11 V2)</title>
   </programme>
   <programme start="20200214090100 -0600" stop="20200214101900 -0600" channel="Canal Discovery Kids (México)">
     <title lang="es">Equestria Girls 2</title>
@@ -2163,11 +2168,11 @@
   <programme start="20200214143000 -0600" stop="20200214144500 -0600" channel="Canal Disney Channel">
     <title lang="es">Mickey Mouse</title>
   </programme>
-  <programme start="20200214144500 -0600" stop="20200214163000 -0600" channel="Canal Disney Channel">
+  <programme start="20200214144500 -0600" stop="20200214180000 -0600" channel="Canal Disney Channel">
     <title lang="es">Mickey Mouse</title>
   </programme>
-  <programme start="20200214163000 -0600" stop="20200214190000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
+  <programme start="20200214180000 -0600" stop="20200214190000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
   </programme>
   <programme start="20200214190000 -0600" stop="20200214200000 -0600" channel="Canal Disney Channel">
     <title lang="es">Gabby Duran: Niñera de aliens</title>
@@ -3648,11 +3653,11 @@
   <programme start="20200213111500 -0600" stop="20200213150000 -0600" channel="Canal Disney XD">
     <title lang="es">Mickey Mouse</title>
   </programme>
-  <programme start="20200213150000 -0600" stop="20200213163000 -0600" channel="Canal Disney XD">
+  <programme start="20200213150000 -0600" stop="20200213180000 -0600" channel="Canal Disney XD">
     <title lang="es">Gravity Falls: Raromageddon</title>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213203000 -0600" channel="Canal Disney XD">
-    <title lang="es">Larva (Cortos)</title>
+  <programme start="20200213180000 -0600" stop="20200213203000 -0600" channel="Canal Disney XD">
+    <title lang="es">Los vecinos Green</title>
   </programme>
   <programme start="20200213203000 -0600" stop="20200213210000 -0600" channel="Canal Disney XD">
     <title lang="es">Lego Marvel Super Heroes</title>
@@ -4753,11 +4758,8 @@
   <programme start="20200212230000 -0600" stop="20200212233000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
   </programme>
-  <programme start="20200212233000 -0600" stop="20200213163000 -0600" channel="Canal Nickelodeon">
+  <programme start="20200212233000 -0600" stop="20200213180000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
-  </programme>
-  <programme start="20200213163000 -0600" stop="20200213180000 -0600" channel="Canal Nickelodeon">
-    <title lang="es">LEGO City Adventures</title>
   </programme>
   <programme start="20200213180000 -0600" stop="20200213181500 -0600" channel="Canal Nickelodeon">
     <title lang="es">ALVINNN!!! and The Chipmunks</title>
@@ -6466,14 +6468,8 @@
   <programme start="20200212230000 -0600" stop="20200212233000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Paw Patrol</title>
   </programme>
-  <programme start="20200212233000 -0600" stop="20200213163000 -0600" channel="Canal Nick Jr.">
+  <programme start="20200212233000 -0600" stop="20200213170000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Mutt &amp; Stuff</title>
-  </programme>
-  <programme start="20200213163000 -0600" stop="20200213170000 -0600" channel="Canal Nick Jr.">
-    <title lang="es">Butterbean's Café</title>
-  </programme>
-  <programme start="20200213170000 -0600" stop="20200213170000 -0600" channel="Canal Nick Jr.">
-    <title lang="es">Regal Academy</title>
   </programme>
   <programme start="20200213170000 -0600" stop="20200213210000 -0600" channel="Canal Nick Jr.">
     <title lang="es">Dora, La Exploradora</title>
@@ -6487,6 +6483,9 @@
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/dora_la_exploradora.png" />
     <country lang="es">Canadá</country>
     <country lang="es">Estados Unidos</country>
+  </programme>
+  <programme start="20200213170000 -0600" stop="20200213180000 -0600" channel="Canal Nick Jr.">
+    <title lang="es">Regal Academy</title>
   </programme>
   <programme start="20200213210000 -0600" stop="20200213213000 -0600" channel="Canal Nick Jr.">
     <title lang="es">ALVINNN!!! and The Chipmunks</title>
@@ -7847,10 +7846,7 @@
   <programme start="20200216153000 -0600" stop="20200216160000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">The Loud House</title>
   </programme>
-  <programme start="20200216160000 -0600" stop="20200216163000 -0600" channel="Canal Nicktoons (México)">
-    <title lang="es">The Loud House</title>
-  </programme>
-  <programme start="20200216163000 -0600" stop="20200216170000 -0600" channel="Canal Nicktoons (México)">
+  <programme start="20200216160000 -0600" stop="20200216170000 -0600" channel="Canal Nicktoons (México)">
     <title lang="es">The Loud House</title>
   </programme>
   <programme start="20200216170000 -0600" stop="20200216173000 -0600" channel="Canal Nicktoons (México)">
@@ -8441,8 +8437,11 @@
   <programme start="20200213174500 -0600" stop="20200213175600 -0600" channel="Canal Tooncast">
     <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
   </programme>
-  <programme start="20200213175600 -0600" stop="20200213182400 -0600" channel="Canal Tooncast">
+  <programme start="20200213175600 -0600" stop="20200213181800 -0600" channel="Canal Tooncast">
     <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20200213181800 -0600" stop="20200213182400 -0600" channel="Canal Tooncast">
+    <title lang="es">Tom y Jerry</title>
   </programme>
   <programme start="20200213182400 -0600" stop="20200213183100 -0600" channel="Canal Tooncast">
     <title lang="es">Tom y Jerry</title>
@@ -9746,17 +9745,17 @@
   <programme start="20200213140000 -0600" stop="20200213143000 -0600" channel="Canal Ultra Kidz">
     <title lang="es">The Davincibles</title>
   </programme>
-  <programme start="20200213143000 -0600" stop="20200213163000 -0600" channel="Canal Ultra Kidz">
+  <programme start="20200213143000 -0600" stop="20200213170000 -0600" channel="Canal Ultra Kidz">
     <title lang="es">The Davincibles</title>
-  </programme>
-  <programme start="20200213163000 -0600" stop="20200213170000 -0600" channel="Canal Ultra Kidz">
-    <title lang="es">Pop Magic Street</title>
   </programme>
   <programme start="20200213170000 -0600" stop="20200213173000 -0600" channel="Canal Ultra Kidz">
     <title lang="es">Boom &amp; Reds</title>
   </programme>
-  <programme start="20200213173000 -0600" stop="20200213210000 -0600" channel="Canal Ultra Kidz">
+  <programme start="20200213173000 -0600" stop="20200213180000 -0600" channel="Canal Ultra Kidz">
     <title lang="es">Boom &amp; Reds</title>
+  </programme>
+  <programme start="20200213180000 -0600" stop="20200213210000 -0600" channel="Canal Ultra Kidz">
+    <title lang="es">FrienZoo</title>
   </programme>
   <programme start="20200213210000 -0600" stop="20200213213000 -0600" channel="Canal Ultra Kidz">
     <title lang="es">Cosmic Quantum Ray</title>
@@ -10153,8 +10152,11 @@
     <title lang="es">Caballeros del Zodiaco</title>
     <episode-num system="onscreen">E27</episode-num>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213183000 -0600" channel="Canal BitMe">
+  <programme start="20200213163000 -0600" stop="20200213173000 -0600" channel="Canal BitMe">
     <title lang="es">El Top bitMe, K-pop</title>
+  </programme>
+  <programme start="20200213173000 -0600" stop="20200213183000 -0600" channel="Canal BitMe">
+    <title lang="es">WTF, resumen semanal</title>
   </programme>
   <programme start="20200213183000 -0600" stop="20200213190000 -0600" channel="Canal BitMe">
     <title lang="es">Arpeggio of Blue Steel</title>
@@ -10257,12 +10259,9 @@
     <title lang="es">Caballeros del Zodiaco</title>
     <episode-num system="onscreen">E27</episode-num>
   </programme>
-  <programme start="20200214160000 -0600" stop="20200214163000 -0600" channel="Canal BitMe">
+  <programme start="20200214160000 -0600" stop="20200214183000 -0600" channel="Canal BitMe">
     <title lang="es">Caballeros del Zodiaco</title>
     <episode-num system="onscreen">E28</episode-num>
-  </programme>
-  <programme start="20200214163000 -0600" stop="20200214183000 -0600" channel="Canal BitMe">
-    <title lang="es">She sports</title>
   </programme>
   <programme start="20200214183000 -0600" stop="20200214190000 -0600" channel="Canal BitMe">
     <title lang="es">Strike the Blood</title>
@@ -15126,11 +15125,8 @@
   <programme start="20200213133000 -0600" stop="20200213150000 -0600" channel="Canal AZ Cinema">
     <title lang="es">Los Hijos de Satanás</title>
   </programme>
-  <programme start="20200213150000 -0600" stop="20200213163000 -0600" channel="Canal AZ Cinema">
+  <programme start="20200213150000 -0600" stop="20200213170000 -0600" channel="Canal AZ Cinema">
     <title lang="es">Vuelve el Texano</title>
-  </programme>
-  <programme start="20200213163000 -0600" stop="20200213170000 -0600" channel="Canal AZ Cinema">
-    <title lang="es">Intermedio AZ Cinema</title>
   </programme>
   <programme start="20200213170000 -0600" stop="20200213183000 -0600" channel="Canal AZ Cinema">
     <title lang="es">Gatillo veloz</title>
@@ -30375,11 +30371,11 @@
   <programme start="20200213133000 -0600" stop="20200213135500 -0600" channel="Canal truTV">
     <title lang="es">Envejeciendo con estilo</title>
   </programme>
-  <programme start="20200213135500 -0600" stop="20200213163000 -0600" channel="Canal truTV">
+  <programme start="20200213135500 -0600" stop="20200213180500 -0600" channel="Canal truTV">
     <title lang="es">Envejeciendo con estilo</title>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213213000 -0600" channel="Canal truTV">
-    <title lang="es">Los vídeos mas tontos</title>
+  <programme start="20200213180500 -0600" stop="20200213213000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
   </programme>
   <programme start="20200213213000 -0600" stop="20200213215500 -0600" channel="Canal truTV">
     <title lang="es">Envejeciendo con estilo</title>
@@ -30730,11 +30726,11 @@
   <programme start="20200213110000 -0600" stop="20200213120000 -0600" channel="Canal Estrella TV">
     <title lang="es">Lagrimita y Costel</title>
   </programme>
-  <programme start="20200213120000 -0600" stop="20200213163000 -0600" channel="Canal Estrella TV">
+  <programme start="20200213120000 -0600" stop="20200213180000 -0600" channel="Canal Estrella TV">
     <title lang="es">Las Doce Tumbas</title>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213210000 -0600" channel="Canal Estrella TV">
-    <title lang="es">Noticiero Estrella TV</title>
+  <programme start="20200213180000 -0600" stop="20200213210000 -0600" channel="Canal Estrella TV">
+    <title lang="es">100 latinos dijeron</title>
   </programme>
   <programme start="20200213210000 -0600" stop="20200214080000 -0600" channel="Canal Estrella TV">
     <title lang="es">Pepe's Office</title>
@@ -31012,14 +31008,14 @@
   <programme start="20200213110000 -0600" stop="20200213140000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición</title>
   </programme>
-  <programme start="20200213140000 -0600" stop="20200213163000 -0600" channel="Canal Elgourmet">
+  <programme start="20200213140000 -0600" stop="20200213173000 -0600" channel="Canal Elgourmet">
     <title lang="es">Los Petersen en La Patagonia</title>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213173000 -0600" channel="Canal Elgourmet">
-    <title lang="es">Maestros del taco</title>
-  </programme>
-  <programme start="20200213173000 -0600" stop="20200213210000 -0600" channel="Canal Elgourmet">
+  <programme start="20200213173000 -0600" stop="20200213180000 -0600" channel="Canal Elgourmet">
     <title lang="es">Guardianes de tradición</title>
+  </programme>
+  <programme start="20200213180000 -0600" stop="20200213210000 -0600" channel="Canal Elgourmet">
+    <title lang="es">Enchilarte</title>
   </programme>
   <programme start="20200213210000 -0600" stop="20200213233000 -0600" channel="Canal Elgourmet">
     <title lang="es">Los Petersen en La Patagonia</title>
@@ -31264,11 +31260,11 @@
   <programme start="20200212211500 -0600" stop="20200212223000 -0600" channel="Canal Mega">
     <title lang="es">Yo soy Lorenzo</title>
   </programme>
-  <programme start="20200212223000 -0600" stop="20200213164500 -0600" channel="Canal Mega">
+  <programme start="20200212223000 -0600" stop="20200213182500 -0600" channel="Canal Mega">
     <title lang="es">Cierre de estación</title>
   </programme>
-  <programme start="20200213164500 -0600" stop="20200214100000 -0600" channel="Canal Mega">
-    <title lang="es">Las mil y una noches</title>
+  <programme start="20200213182500 -0600" stop="20200214100000 -0600" channel="Canal Mega">
+    <title lang="es">Meganoticias Prime</title>
   </programme>
   <programme start="20200214100000 -0600" stop="20200214122000 -0600" channel="Canal Mega">
     <title lang="es">Meganoticias actualiza</title>
@@ -31450,11 +31446,11 @@
   <programme start="20200212230000 -0600" stop="20200213150000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Suelta la Sopa</title>
   </programme>
-  <programme start="20200213150000 -0600" stop="20200213160000 -0600" channel="Canal Telemundo (México)">
+  <programme start="20200213150000 -0600" stop="20200213180000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20200213160000 -0600" stop="20200214060000 -0600" channel="Canal Telemundo (México)">
-    <title lang="es">La bandida</title>
+  <programme start="20200213180000 -0600" stop="20200214060000 -0600" channel="Canal Telemundo (México)">
+    <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
   <programme start="20200214060000 -0600" stop="20200214070000 -0600" channel="Canal Telemundo (México)">
     <title lang="es">12 corazones</title>
@@ -31634,8 +31630,8 @@
   <programme start="20200213000000 -0600" stop="20200213010000 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">L5 Mejores</title>
   </programme>
-  <programme start="20200213162000 -0600" stop="20200214000000 -0600" channel="Canal TLNovelas (Latinoamérica)">
-    <title lang="es">Cuna de lobos</title>
+  <programme start="20200213180000 -0600" stop="20200214000000 -0600" channel="Canal TLNovelas (Latinoamérica)">
+    <title lang="es">El premio mayor</title>
   </programme>
   <programme start="20200214000000 -0600" stop="20200214010000 -0600" channel="Canal TLNovelas (Latinoamérica)">
     <title lang="es">El cielo y el infierno</title>
@@ -32048,10 +32044,10 @@
   <programme start="20200212220000 -0600" stop="20200212230000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200212230000 -0600" stop="20200213160000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200212230000 -0600" stop="20200213180000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
-  <programme start="20200213160000 -0600" stop="20200214000000 -0600" channel="Canal Ultra Fiesta">
+  <programme start="20200213180000 -0600" stop="20200214000000 -0600" channel="Canal Ultra Fiesta">
     <title lang="es">Ultra Fiesta Hitz</title>
   </programme>
   <programme start="20200214000000 -0600" stop="20200214020000 -0600" channel="Canal Ultra Fiesta">
@@ -33987,8 +33983,11 @@
   <programme start="20200214163000 -0600" stop="20200214170000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">De Moda con Ericka</title>
   </programme>
-  <programme start="20200214170000 -0600" stop="20200214213000 -0600" channel="Canal Caracol Internacional">
+  <programme start="20200214170000 -0600" stop="20200214180000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">The Suso's show</title>
+  </programme>
+  <programme start="20200214180000 -0600" stop="20200214213000 -0600" channel="Canal Caracol Internacional">
+    <title lang="es">Noticias Caracol</title>
   </programme>
   <programme start="20200214213000 -0600" stop="20200214220000 -0600" channel="Canal Caracol Internacional">
     <title lang="es">Viernes 360</title>
@@ -34266,17 +34265,14 @@
   <programme start="20200213120000 -0600" stop="20200213123000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Peinadas y divinas</title>
   </programme>
-  <programme start="20200213123000 -0600" stop="20200213163000 -0600" channel="Canal Más Chic HD Latinoamérica">
+  <programme start="20200213123000 -0600" stop="20200213180000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Fashion week: México 2018</title>
   </programme>
-  <programme start="20200213163000 -0600" stop="20200213180000 -0600" channel="Canal Más Chic HD Latinoamérica">
-    <title lang="es">Redecora con Raquel</title>
+  <programme start="20200213180000 -0600" stop="20200214000000 -0600" channel="Canal Más Chic HD Latinoamérica">
+    <title lang="es">De compras en</title>
   </programme>
   <programme start="20200213180000 -0600" stop="20200213183000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Peinadas y divinas</title>
-  </programme>
-  <programme start="20200213183000 -0600" stop="20200214000000 -0600" channel="Canal Más Chic HD Latinoamérica">
-    <title lang="es">Fashion week: México 2018</title>
   </programme>
   <programme start="20200214000000 -0600" stop="20200214003000 -0600" channel="Canal Más Chic HD Latinoamérica">
     <title lang="es">Vísteme Laura</title>
@@ -48674,314 +48670,93 @@
   <programme start="20200216215500 -0600" stop="20200216234500 -0600" channel="Canal HBO 2 (México)">
     <title lang="es">Rascacielos: Rescate en las</title>
   </programme>
-  <programme start="20200212010000 -0600" stop="20200212020000 -0600" channel="Canal HBO">
-    <title lang="es">McMillion$</title>
+  <programme start="20200211222000 -0600" stop="20200212003500 -0600" channel="Canal HBO 2">
+    <title lang="es">Espanglish</title>
   </programme>
-  <programme start="20200212020000 -0600" stop="20200212025000 -0600" channel="Canal HBO">
-    <title lang="es">La Cosa del Pantano</title>
+  <programme start="20200212003500 -0600" stop="20200212021500 -0600" channel="Canal HBO 2">
+    <title lang="es">Superagente canino</title>
   </programme>
-  <programme start="20200212025000 -0600" stop="20200212042500 -0600" channel="Canal HBO">
-    <title lang="es">Recuperando el hogar</title>
+  <programme start="20200212021500 -0600" stop="20200212035500 -0600" channel="Canal HBO 2">
+    <title lang="es">Hop: Rebelde sin pascua</title>
   </programme>
-  <programme start="20200212042500 -0600" stop="20200212060000 -0600" channel="Canal HBO">
-    <title lang="es">OVNI 2018</title>
+  <programme start="20200212035500 -0600" stop="20200212061500 -0600" channel="Canal HBO 2">
+    <title lang="es">V de venganza</title>
   </programme>
-  <programme start="20200212060000 -0600" stop="20200212101500 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
+  <programme start="20200212061500 -0600" stop="20200212081000 -0600" channel="Canal HBO 2">
+    <title lang="es">Juego de Traicion</title>
+  </programme>
+  <programme start="20200212081000 -0600" stop="20200212103000 -0600" channel="Canal HBO 2">
+    <title lang="es">El Infiltrado del KKKlan</title>
+    <title lang="xx">BlacKkKlansman</title>
+    <desc lang="es">La historia del primer detective afroamericano en servir al Departamento de Policía de Colorado Springs infiltrándose y exponiendo al Ku Klux Klan.(n)</desc>
     <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
+      <actor>John David Washington</actor>
+      <actor>Adam Driver</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Topher Grace</actor>
+      <actor>Corey Hawkins</actor>
+      <actor>Jasper Pääkkönen</actor>
+      <actor>Paul Walter Hauser</actor>
+      <actor>Ryan Eggold</actor>
+      <producer>Jason Blum</producer>
+      <producer>Spike Lee</producer>
+      <composer>Terence Blanchard</composer>
     </credits>
-    <date>2019</date>
+    <date>2018</date>
     <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg" />
     <rating>
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200212101500 -0600" stop="20200212115000 -0600" channel="Canal HBO">
-    <title lang="es">Milla 22: El escape</title>
-  </programme>
-  <programme start="20200212115000 -0600" stop="20200212123500 -0600" channel="Canal HBO">
-    <title lang="es">Curb Your Enthusiasm</title>
-  </programme>
-  <programme start="20200212123500 -0600" stop="20200212130500 -0600" channel="Canal HBO">
-    <title lang="es">Avenue 5</title>
-  </programme>
-  <programme start="20200212130500 -0600" stop="20200212153000 -0600" channel="Canal HBO">
-    <title lang="es">Nace una Estrella</title>
-    <title lang="xx">A Star Is Born</title>
-    <desc lang="es">Un musico se enamora de una artista que casi renuncia a su sueño hasta que él la ayuda a salir al público, mientras su carrera asciende su relación decae.(n)</desc>
+  <programme start="20200212103000 -0600" stop="20200212121000 -0600" channel="Canal HBO 2">
+    <title lang="es">15:17 Tren a París</title>
+    <title lang="xx">The 15:17 to Paris</title>
+    <desc lang="es">Cuenta la historia de tres jóvenes cuyo acto heroico los convirtió en héroes salvando la vida de más de 500 pasajeros de un ataque terrorista en un tren.(n)</desc>
     <credits>
-      <actor>Bradley Cooper</actor>
-      <actor>Lady Gaga</actor>
-      <actor>Andrew Dice Clay</actor>
-      <actor>Dave Chappelle</actor>
-      <actor>Sam Elliott</actor>
-      <producer>Bradley Cooper</producer>
-      <producer>Bill Gerber</producer>
+      <actor>Anthony Sadler</actor>
+      <actor>Alek Skarlatos</actor>
+      <actor>Spencer Stone</actor>
+      <actor>Judy Greer</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Ray Corasani</actor>
+      <producer>Clint Eastwood</producer>
+      <producer>Jessica Meier</producer>
+      <composer>Christian Jacob</composer>
+      <composer>Thomas Newman</composer>
     </credits>
     <date>2018</date>
     <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ha_nacido_una_estrella.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200212153000 -0600" stop="20200212163000 -0600" channel="Canal HBO">
-    <title lang="es">McMillion$</title>
-  </programme>
-  <programme start="20200212163000 -0600" stop="20200212173500 -0600" channel="Canal HBO">
-    <title lang="es">The Outsider</title>
-  </programme>
-  <programme start="20200212173500 -0600" stop="20200212194000 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/15_17_tren_a_paris.jpg" />
     <rating>
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200212194000 -0600" stop="20200212220000 -0600" channel="Canal HBO">
-    <title lang="es">Shazam!</title>
-    <title lang="xx">Shazam!</title>
-    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes.(c)</desc>
-    <credits>
-      <actor>Asher Angel</actor>
-      <actor>Zachary Levi</actor>
-      <actor>Mark Strong</actor>
-      <actor>Jack Dylan Grazer</actor>
-      <actor>Djimon Hounsou</actor>
-      <actor>Grace Fulton</actor>
-      <actor>Ian Chen</actor>
-      <actor>Jovan Armand</actor>
-      <producer>Peter Safran</producer>
-      <composer>Benjamin Wallfisch</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
+  <programme start="20200212121000 -0600" stop="20200212134500 -0600" channel="Canal HBO 2">
+    <title lang="es">Brightburn: Hijo de</title>
   </programme>
-  <programme start="20200212220000 -0600" stop="20200212235000 -0600" channel="Canal HBO">
-    <title lang="es">Intruso</title>
-    <desc lang="es">Una joven pareja de casados compra la casa a un extraño vendedor, creen haber comprado el hogar para su familia, pero el vendedor tiene otros planes.(n)</desc>
+  <programme start="20200212134500 -0600" stop="20200212155000 -0600" channel="Canal HBO 2">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
     <credits>
-      <actor>Dennis Quaid</actor>
-      <actor>Michael Ealy</actor>
-      <actor>Meagan Good</actor>
-      <actor>Joseph Sikora</actor>
-      <producer>Roxanne Avent</producer>
-      <producer>Brad Kaplan</producer>
-      <composer>Geoff Zanelli</composer>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
     </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg" />
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
     <rating>
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200212235000 -0600" stop="20200212235000 -0600" channel="Canal HBO">
-    <title lang="es">Cincuenta Sombras Liberadas</title>
-    <title lang="xx">Fifty Shades Freed</title>
-    <desc lang="es">Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey.(n)</desc>
-    <credits>
-      <actor>Dakota Johnson</actor>
-      <actor>Jamie Dornan</actor>
-      <actor>Eric Johnson</actor>
-      <actor>Eloise Mumford</actor>
-      <actor>Bella Heathcote</actor>
-      <actor>Rita Ora</actor>
-      <actor>Luke Grimes</actor>
-      <actor>Victor Rasuk</actor>
-      <producer>Dana Brunetti</producer>
-      <producer>Michael De Luca</producer>
-      <composer>Danny Elfman</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_liberadas.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200212235000 -0600" stop="20200213014000 -0600" channel="Canal HBO">
-    <title lang="es">Cincuenta Sombras Liberadas</title>
-    <title lang="xx">Fifty Shades Freed</title>
-    <desc lang="es">Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey.(n)</desc>
-    <credits>
-      <actor>Dakota Johnson</actor>
-      <actor>Jamie Dornan</actor>
-      <actor>Eric Johnson</actor>
-      <actor>Eloise Mumford</actor>
-      <actor>Bella Heathcote</actor>
-      <actor>Rita Ora</actor>
-      <actor>Luke Grimes</actor>
-      <actor>Victor Rasuk</actor>
-      <producer>Dana Brunetti</producer>
-      <producer>Michael De Luca</producer>
-      <composer>Danny Elfman</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_liberadas.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200213014000 -0600" stop="20200213041000 -0600" channel="Canal HBO">
-    <title lang="es">Sueño de fuga</title>
-  </programme>
-  <programme start="20200213041000 -0600" stop="20200213052000 -0600" channel="Canal HBO">
-    <title lang="es">Finding the Way Home</title>
-  </programme>
-  <programme start="20200213052000 -0600" stop="20200213084000 -0600" channel="Canal HBO">
-    <title lang="es">La Granja Maldita</title>
-  </programme>
-  <programme start="20200213084000 -0600" stop="20200213102500 -0600" channel="Canal HBO">
-    <title lang="es">Mis Huellas a Casa</title>
-    <title lang="xx">A Dog's Way Home</title>
-    <desc lang="es">Narra la emocionante aventura de Bella, una perra que se embarca en un viaje épico de 400 millas a casa después de que se separa de su amada familia humana.(n)</desc>
-    <credits>
-      <actor>Ashley Judd</actor>
-      <actor>Edward James Olmos</actor>
-      <actor>Alexandra Shipp</actor>
-      <actor>Bryce Dallas Howard</actor>
-      <actor>Wes Studi</actor>
-      <actor>Barry Watson</actor>
-      <actor>Chris Bauer</actor>
-      <actor>Tammy Gillis</actor>
-      <producer>W. Bruce Cameron</producer>
-      <producer>Gavin Polone</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mis_huellas_a_casa.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200213102500 -0600" stop="20200213120000 -0600" channel="Canal HBO">
-    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
-    <title lang="xx">Brightburn</title>
-    <desc lang="es">Cuando un niño de otro mundo llega a la Tierra, no se convierte en un héroe como en las historietas nos ha enseñado, si no en algo mucho más siniestro.(n)</desc>
-    <credits>
-      <actor>Elizabeth Banks</actor>
-      <actor>David Denman</actor>
-      <actor>Jackson A. Dunn</actor>
-      <actor>Matt Jones</actor>
-      <actor>Meredith Hagner</actor>
-      <producer>James Gunn</producer>
-      <producer>Kenneth Huang</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/brightburn_hijo_de_la_oscuridad.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200213120000 -0600" stop="20200213124500 -0600" channel="Canal HBO">
-    <title lang="es">The Movies</title>
-  </programme>
-  <programme start="20200213124500 -0600" stop="20200213133000 -0600" channel="Canal HBO">
-    <title lang="es">The Movies</title>
-  </programme>
-  <programme start="20200213133000 -0600" stop="20200213153000 -0600" channel="Canal HBO">
-    <title lang="es">Nosotros</title>
-  </programme>
-  <programme start="20200213153000 -0600" stop="20200213172500 -0600" channel="Canal HBO">
-    <title lang="es">Las estafadoras</title>
-  </programme>
-  <programme start="20200213172500 -0600" stop="20200213191500 -0600" channel="Canal HBO">
-    <title lang="es">Intruso</title>
-    <desc lang="es">Una joven pareja de casados compra la casa a un extraño vendedor, creen haber comprado el hogar para su familia, pero el vendedor tiene otros planes.(n)</desc>
-    <credits>
-      <actor>Dennis Quaid</actor>
-      <actor>Michael Ealy</actor>
-      <actor>Meagan Good</actor>
-      <actor>Joseph Sikora</actor>
-      <producer>Roxanne Avent</producer>
-      <producer>Brad Kaplan</producer>
-      <composer>Geoff Zanelli</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200213191500 -0600" stop="20200213210000 -0600" channel="Canal HBO">
-    <title lang="es">Ma</title>
-  </programme>
-  <programme start="20200213210000 -0600" stop="20200213220000 -0600" channel="Canal HBO">
-    <title lang="es">The Outsider</title>
-  </programme>
-  <programme start="20200213220000 -0600" stop="20200213220000 -0600" channel="Canal HBO">
-    <title lang="es">Nosotros</title>
-  </programme>
-  <programme start="20200213220000 -0600" stop="20200214000500 -0600" channel="Canal HBO">
-    <title lang="es">Nosotros</title>
-  </programme>
-  <programme start="20200214000500 -0600" stop="20200214014000 -0600" channel="Canal HBO">
-    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
-    <title lang="xx">Brightburn</title>
-    <desc lang="es">Cuando un niño de otro mundo llega a la Tierra, no se convierte en un héroe como en las historietas nos ha enseñado, si no en algo mucho más siniestro.(n)</desc>
-    <credits>
-      <actor>Elizabeth Banks</actor>
-      <actor>David Denman</actor>
-      <actor>Jackson A. Dunn</actor>
-      <actor>Matt Jones</actor>
-      <actor>Meredith Hagner</actor>
-      <producer>James Gunn</producer>
-      <producer>Kenneth Huang</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/brightburn_hijo_de_la_oscuridad.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200214014000 -0600" stop="20200214031500 -0600" channel="Canal HBO">
-    <title lang="es">Tierra de Zombies</title>
-  </programme>
-  <programme start="20200214031500 -0600" stop="20200214050500 -0600" channel="Canal HBO">
-    <title lang="es">Asesino en casa</title>
-  </programme>
-  <programme start="20200214050500 -0600" stop="20200214070500 -0600" channel="Canal HBO">
-    <title lang="es">El discípulo</title>
-  </programme>
-  <programme start="20200214070500 -0600" stop="20200214084000 -0600" channel="Canal HBO">
+  <programme start="20200212155000 -0600" stop="20200212173000 -0600" channel="Canal HBO 2">
     <title lang="es">Hotel de Criminales</title>
     <title lang="xx">Hotel Artemis</title>
     <desc lang="es">En un futuro cercano en Los Ángeles casi devastado por los disturbios, Hotel Artemis es un hospital secreto para delincuentes y miembros exclusivos.(n)</desc>
@@ -49005,56 +48780,15 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200214084000 -0600" stop="20200214110000 -0600" channel="Canal HBO">
-    <title lang="es">Nace una Estrella</title>
-    <title lang="xx">A Star Is Born</title>
-    <desc lang="es">Un musico se enamora de una artista que casi renuncia a su sueño hasta que él la ayuda a salir al público, mientras su carrera asciende su relación decae.(n)</desc>
-    <credits>
-      <actor>Bradley Cooper</actor>
-      <actor>Lady Gaga</actor>
-      <actor>Andrew Dice Clay</actor>
-      <actor>Dave Chappelle</actor>
-      <actor>Sam Elliott</actor>
-      <producer>Bradley Cooper</producer>
-      <producer>Bill Gerber</producer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ha_nacido_una_estrella.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
+  <programme start="20200212173000 -0600" stop="20200212180500 -0600" channel="Canal HBO 2">
+    <title lang="es">Avenue 5</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200214110000 -0600" stop="20200214130000 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
+  <programme start="20200212180500 -0600" stop="20200212190000 -0600" channel="Canal HBO 2">
+    <title lang="es">La Cosa del Pantano</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20200214130000 -0600" stop="20200214162500 -0600" channel="Canal HBO">
-    <title lang="es">Milla 22: El escape</title>
-  </programme>
-  <programme start="20200214162500 -0600" stop="20200214182000 -0600" channel="Canal HBO">
-    <title lang="es">Policias de repuesto</title>
-  </programme>
-  <programme start="20200214182000 -0600" stop="20200214201000 -0600" channel="Canal HBO">
+  <programme start="20200212190000 -0600" stop="20200212205000 -0600" channel="Canal HBO 2">
     <title lang="es">Te Atrapé</title>
     <title lang="xx">Tag</title>
     <desc lang="es">Cinco amigos entran en un juego de etiqueta sin limites arriesgando todo, este año el jugador invicto se casa y es la oportunidad perfecta para atraparlo.(n)</desc>
@@ -49078,293 +48812,112 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200214201000 -0600" stop="20200214220000 -0600" channel="Canal HBO">
-    <title lang="es">Rascacielos: Rescate en las Alturas</title>
-    <title lang="xx">Skyscraper</title>
-    <desc lang="es">Cuando un ex rescatista de rehenes del FBI evalúa la seguridad de un rascacielos en China, un incendio repentino hace que sea acusado injustamente.(n)</desc>
-    <credits>
-      <actor>Dwayne Johnson</actor>
-      <actor>Neve Campbell</actor>
-      <actor>Chin Han</actor>
-      <actor>Roland Møller</actor>
-      <actor>Pablo Schreiber</actor>
-      <actor>Byron Mann</actor>
-      <actor>Hannah Quinlivan</actor>
-      <actor>Noah Taylor</actor>
-      <producer>Beau Flynn</producer>
-      <producer>Dwayne Johnson</producer>
-      <composer>Steve Jablonsky</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rascacielos.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
+  <programme start="20200212205000 -0600" stop="20200212225000 -0600" channel="Canal HBO 2">
+    <title lang="es">Yo los declaro marido y Larry</title>
   </programme>
-  <programme start="20200214220000 -0600" stop="20200214225000 -0600" channel="Canal HBO">
-    <title lang="es">La Cosa del Pantano</title>
+  <programme start="20200212225000 -0600" stop="20200212235500 -0600" channel="Canal HBO 2">
+    <title lang="es">El Visitante</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20200214225000 -0600" stop="20200214225000 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
+  <programme start="20200212235500 -0600" stop="20200213020500 -0600" channel="Canal HBO 2">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
     <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
     </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200214225000 -0600" stop="20200215005500 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200215005500 -0600" stop="20200215023000 -0600" channel="Canal HBO">
-    <title lang="es">Hotel de Criminales</title>
-    <title lang="xx">Hotel Artemis</title>
-    <desc lang="es">En un futuro cercano en Los Ángeles casi devastado por los disturbios, Hotel Artemis es un hospital secreto para delincuentes y miembros exclusivos.(n)</desc>
-    <credits>
-      <actor>Jodie Foster</actor>
-      <actor>Sterling K. Brown</actor>
-      <actor>Sofia Boutella</actor>
-      <actor>Jeff Goldblum</actor>
-      <actor>Brian Tyree Henry</actor>
-      <actor>Zachary Quinto</actor>
-      <actor>Dave Bautista</actor>
-      <actor>Charlie Day</actor>
-      <producer>Adam Siegel</producer>
-      <producer>Marc Platt</producer>
-      <composer>Cliff Martinez</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_artemis.jpg" />
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
     <rating>
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200215023000 -0600" stop="20200215062000 -0600" channel="Canal HBO">
-    <title lang="es">Todo el Dinero del Mundo</title>
-    <title lang="xx">All the Money in the World</title>
-    <desc lang="es">John Paul Getty III es secuestrado, su madre Gail intenta buscar la forma de convencer a su abuelo multimillonario pague el rescate antes de que sea tarde.(n)</desc>
-    <credits>
-      <actor>Michelle Williams</actor>
-      <actor>Christopher Plummer</actor>
-      <actor>Mark Wahlberg</actor>
-      <actor>Romain Duris</actor>
-      <actor>Charlie Plummer</actor>
-      <actor>Charlie Shotwell</actor>
-      <producer>Chris Clark</producer>
-      <producer>Quentin Curtis</producer>
-      <composer>Daniel Pemberton</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/todo_el_dinero_del_mundo.jpg" />
-    <country lang="es">Estados Unidos</country>
-    <country lang="es">Reino Unido</country>
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200215062000 -0600" stop="20200215080000 -0600" channel="Canal HBO">
-    <title lang="es">Lady Bird</title>
-    <title lang="xx">Lady Bird</title>
-    <desc lang="es">Christine "Lady Bird" MacPherson discute con su madre que trabaja como enfermera para sustentar a su familia después de que su esposo perdiera su trabajo.(n)</desc>
-    <credits>
-      <actor>Saoirse Ronan</actor>
-      <actor>Laurie Metcalf</actor>
-      <actor>Tracy Letts</actor>
-      <actor>Lucas Hedges</actor>
-      <actor>Timothée Chalamet</actor>
-      <actor>Beanie Feldstein</actor>
-      <actor>Stephen McKinley Henderson</actor>
-      <actor>Lois Smith</actor>
-      <producer>Scott Rudin</producer>
-      <producer>Eli Bush</producer>
-      <composer>Jon Brion</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/lady_bird.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200215080000 -0600" stop="20200215100400 -0600" channel="Canal HBO">
-    <title lang="es">Yo, Tonya</title>
-    <title lang="xx">I, Tonya</title>
-    <desc lang="es">Tonya Harding en uno de los escándalos sensacionales en la historia del deporte en un ataque infame contra la competidora olímpica Nancy Kerrigan.(n)</desc>
-    <credits>
-      <actor>Margot Robbie</actor>
-      <actor>Sebastian Stan</actor>
-      <actor>Julianne Nicholson</actor>
-      <actor>Bobby Cannavale</actor>
-      <actor>Allison Janney</actor>
-      <actor>Caitlin Carver</actor>
-      <producer>Margot Robbie</producer>
-      <composer>Jeff Russo</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/yo_tonya.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200215100400 -0600" stop="20200215120200 -0600" channel="Canal HBO">
-    <title lang="es">Las estafadoras</title>
-  </programme>
-  <programme start="20200215120200 -0600" stop="20200215140500 -0600" channel="Canal HBO">
-    <title lang="es">Mamma Mia! Here We Go Again</title>
-    <title lang="xx">Mamma Mia! Here We Go Again</title>
-    <desc lang="es">El regreso a la mágica isla griega de Kalokairi en un nuevo musical original. Sophie está embarazada al igual que su madre Donna, tendrá que asumir riesgos.(n)</desc>
-    <credits>
-      <actor>Christine Baranski</actor>
-      <actor>Pierce Brosnan</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Colin Firth</actor>
-      <actor>Andy García</actor>
-      <actor>Lily James</actor>
-      <actor>Amanda Seyfried</actor>
-      <actor>Stellan Skarsgård</actor>
-      <producer>Judy Craymer</producer>
-      <producer>Gary Goetzman</producer>
-      <composer>Anne Dudley</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mamma_mia_vamos_otra_vez.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200215140500 -0600" stop="20200215155100 -0600" channel="Canal HBO">
-    <title lang="es">Ma</title>
-  </programme>
-  <programme start="20200215155100 -0600" stop="20200215164500 -0600" channel="Canal HBO">
-    <title lang="es">La Cosa del Pantano</title>
-  </programme>
-  <programme start="20200215164500 -0600" stop="20200215201500 -0600" channel="Canal HBO">
-    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
-    <title lang="xx">Brightburn</title>
-    <desc lang="es">Cuando un niño de otro mundo llega a la Tierra, no se convierte en un héroe como en las historietas nos ha enseñado, si no en algo mucho más siniestro.(n)</desc>
-    <credits>
-      <actor>Elizabeth Banks</actor>
-      <actor>David Denman</actor>
-      <actor>Jackson A. Dunn</actor>
-      <actor>Matt Jones</actor>
-      <actor>Meredith Hagner</actor>
-      <producer>James Gunn</producer>
-      <producer>Kenneth Huang</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/brightburn_hijo_de_la_oscuridad.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20200215201500 -0600" stop="20200215220000 -0600" channel="Canal HBO">
-    <title lang="es">Mis Huellas a Casa</title>
-    <title lang="xx">A Dog's Way Home</title>
-    <desc lang="es">Narra la emocionante aventura de Bella, una perra que se embarca en un viaje épico de 400 millas a casa después de que se separa de su amada familia humana.(n)</desc>
-    <credits>
-      <actor>Ashley Judd</actor>
-      <actor>Edward James Olmos</actor>
-      <actor>Alexandra Shipp</actor>
-      <actor>Bryce Dallas Howard</actor>
-      <actor>Wes Studi</actor>
-      <actor>Barry Watson</actor>
-      <actor>Chris Bauer</actor>
-      <actor>Tammy Gillis</actor>
-      <producer>W. Bruce Cameron</producer>
-      <producer>Gavin Polone</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mis_huellas_a_casa.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200215220000 -0600" stop="20200215235500 -0600" channel="Canal HBO">
-    <title lang="es">La Razón de Estar Contigo: Un Nuevo Viaje</title>
-    <title lang="xx">A Dog's Journey</title>
-    <desc lang="es">Cuando el alma de Bailey se prepara para dejar esta vida por una nueva, le promete a Ethan encontrar a su nieta CJ y protegerla a toda costa.(n)</desc>
-    <credits>
-      <actor>Marg Helgenberger</actor>
-      <actor>Betty Gilpin</actor>
-      <actor>Henry Lau</actor>
-      <actor>Kathryn Prescott</actor>
-      <actor>Dennis Quaid</actor>
-      <actor>Josh Gad</actor>
-      <actor>Emma Volk</actor>
-      <producer>Gavin Polone</producer>
-      <composer>Mark Isham</composer>
-      <composer>Emily Bear</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_razon_de_estar_contigo_un_nuevo_viaje.jpg" />
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200215235500 -0600" stop="20200216015400 -0600" channel="Canal HBO">
-    <title lang="es">Las estafadoras</title>
-  </programme>
-  <programme start="20200216015400 -0600" stop="20200216035800 -0600" channel="Canal HBO">
-    <title lang="es">Virgen a los 40</title>
-  </programme>
-  <programme start="20200216035800 -0600" stop="20200216095600 -0600" channel="Canal HBO">
+  <programme start="20200213020500 -0600" stop="20200213040500 -0600" channel="Canal HBO 2">
     <title lang="es">El favorito</title>
   </programme>
-  <programme start="20200216095600 -0600" stop="20200216103500 -0600" channel="Canal HBO">
-    <title lang="es">Curb Your Enthusiasm</title>
+  <programme start="20200213040500 -0600" stop="20200213060500 -0600" channel="Canal HBO 2">
+    <title lang="es">Hombres de Negro: MIB Int</title>
   </programme>
-  <programme start="20200216103500 -0600" stop="20200216111000 -0600" channel="Canal HBO">
+  <programme start="20200213060500 -0600" stop="20200213081000 -0600" channel="Canal HBO 2">
+    <title lang="es">Hellboy 2: El ejército dorado</title>
+  </programme>
+  <programme start="20200213081000 -0600" stop="20200213103000 -0600" channel="Canal HBO 2">
+    <title lang="es">Shazam!</title>
+    <title lang="xx">Shazam!</title>
+    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes.(c)</desc>
+    <credits>
+      <actor>Asher Angel</actor>
+      <actor>Zachary Levi</actor>
+      <actor>Mark Strong</actor>
+      <actor>Jack Dylan Grazer</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Grace Fulton</actor>
+      <actor>Ian Chen</actor>
+      <actor>Jovan Armand</actor>
+      <producer>Peter Safran</producer>
+      <composer>Benjamin Wallfisch</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200213103000 -0600" stop="20200213110000 -0600" channel="Canal HBO 2">
     <title lang="es">Avenue 5</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200216111000 -0600" stop="20200216125000 -0600" channel="Canal HBO">
+  <programme start="20200213110000 -0600" stop="20200213120500 -0600" channel="Canal HBO 2">
+    <title lang="es">El Visitante</title>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20200213120500 -0600" stop="20200213130000 -0600" channel="Canal HBO 2">
+    <title lang="es">La Cosa del Pantano</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200213130000 -0600" stop="20200213150500 -0600" channel="Canal HBO 2">
+    <title lang="es">La mula</title>
+  </programme>
+  <programme start="20200213150500 -0600" stop="20200213172000 -0600" channel="Canal HBO 2">
+    <title lang="es">Tropa de Héroes</title>
+    <title lang="xx">12 Strong</title>
+    <desc lang="es">Después del 9/11 un equipo de fuerzas especiales estadounidenses y la alianza del norte, deben enfrentar a un enemigo despiadado que no toma prisioneros.(n)</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Michael Peña</actor>
+      <actor>Navid Negahban</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Elsa Pataky</actor>
+      <actor>William Fichtner</actor>
+      <actor>Rob Riggle</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Molly Smith</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/12_strong.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200213172000 -0600" stop="20200213190000 -0600" channel="Canal HBO 2">
     <title lang="es">Milla 22: El escape</title>
   </programme>
-  <programme start="20200216125000 -0600" stop="20200216135500 -0600" channel="Canal HBO">
-    <title lang="es">McMillion$</title>
+  <programme start="20200213190000 -0600" stop="20200213210000 -0600" channel="Canal HBO 2">
+    <title lang="es">Hombres de Negro: MIB Int</title>
   </programme>
-  <programme start="20200216135500 -0600" stop="20200216154500 -0600" channel="Canal HBO">
+  <programme start="20200213210000 -0600" stop="20200213225000 -0600" channel="Canal HBO 2">
     <title lang="es">Miss Bala: Sin Piedad</title>
     <title lang="xx">Miss Bala</title>
     <desc lang="es">Cuando Gloria Fuentes se ve envuelta en un mundo peligroso, encuentra un poder que nunca supo que tenía, sobrevivir requerirá de toda su astucia y fuerza.(n)</desc>
@@ -49390,54 +48943,11 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20200216154500 -0600" stop="20200216175000 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-    <title lang="xx">Men in Black: International</title>
-    <desc lang="es">Un infiltrado en la organización pone en alerta máxima a los Hombres de Negro, ahora deben proteger a la tierra de esta amenaza antes de que sea tarde.(n)</desc>
-    <credits>
-      <actor>Chris Hemsworth</actor>
-      <actor>Tessa Thompson</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Kumail Nanjiani</actor>
-      <actor>Rafe Spall</actor>
-      <actor>Les Twins</actor>
-      <actor>Emma Thompson</actor>
-      <actor>Liam Neeson</actor>
-      <producer>Walter F. Parkes</producer>
-      <producer>Laurie MacDonald</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/men_in_black_international.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
+  <programme start="20200213225000 -0600" stop="20200213232000 -0600" channel="Canal HBO 2">
+    <title lang="es">Avenue 5</title>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200216175000 -0600" stop="20200216194000 -0600" channel="Canal HBO">
-    <title lang="es">Te Atrapé</title>
-    <title lang="xx">Tag</title>
-    <desc lang="es">Cinco amigos entran en un juego de etiqueta sin limites arriesgando todo, este año el jugador invicto se casa y es la oportunidad perfecta para atraparlo.(n)</desc>
-    <credits>
-      <actor>Ed Helms</actor>
-      <actor>Jeremy Renner</actor>
-      <actor>Jon Hamm</actor>
-      <actor>Jake Johnson</actor>
-      <actor>Annabelle Wallis</actor>
-      <actor>Hannibal Buress</actor>
-      <actor>Isla Fisher</actor>
-      <actor>Rashida Jones</actor>
-      <producer>Todd Garner</producer>
-      <producer>Mark Steilen</producer>
-      <composer>Germaine Franco</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/te_atrape.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20200216194000 -0600" stop="20200216220000 -0600" channel="Canal HBO">
+  <programme start="20200213232000 -0600" stop="20200214013500 -0600" channel="Canal HBO 2">
     <title lang="es">Shazam!</title>
     <title lang="xx">Shazam!</title>
     <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes.(c)</desc>
@@ -49460,11 +48970,1050 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20200216220000 -0600" stop="20200216230000 -0600" channel="Canal HBO">
-    <title lang="es">The Outsider</title>
+  <programme start="20200214013500 -0600" stop="20200214033000 -0600" channel="Canal HBO 2">
+    <title lang="es">Contrabando</title>
   </programme>
-  <programme start="20200216230000 -0600" stop="20200216233000 -0600" channel="Canal HBO">
-    <title lang="es">Avenue 5</title>
+  <programme start="20200214033000 -0600" stop="20200214053500 -0600" channel="Canal HBO 2">
+    <title lang="es">La mula</title>
+  </programme>
+  <programme start="20200214053500 -0600" stop="20200214072500 -0600" channel="Canal HBO 2">
+    <title lang="es">Miss Bala: Sin Piedad</title>
+    <title lang="xx">Miss Bala</title>
+    <desc lang="es">Cuando Gloria Fuentes se ve envuelta en un mundo peligroso, encuentra un poder que nunca supo que tenía, sobrevivir requerirá de toda su astucia y fuerza.(n)</desc>
+    <credits>
+      <actor>Gina Rodriguez</actor>
+      <actor>Ismael Cruz Córdova</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Aislinn Derbez</actor>
+      <actor>Matt Lauria</actor>
+      <actor>Cristina Rodlo</actor>
+      <actor>Ricardo Abarca</actor>
+      <actor>Thomas Dekker</actor>
+      <producer>Pablo Cruz</producer>
+      <producer>Kevin Misher</producer>
+      <composer>Alex Heffes</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/miss_bala_sin_piedad.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">México</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200214072500 -0600" stop="20200214092000 -0600" channel="Canal HBO 2">
+    <title lang="es">La Cosa del Pantano</title>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20200214092000 -0600" stop="20200214112500 -0600" channel="Canal HBO 2">
+    <title lang="es">Yo los declaro marido y Larry</title>
+  </programme>
+  <programme start="20200214112500 -0600" stop="20200214130000 -0600" channel="Canal HBO 2">
+    <title lang="es">Mi novia Polly</title>
+  </programme>
+  <programme start="20200214130000 -0600" stop="20200214150500 -0600" channel="Canal HBO 2">
+    <title lang="es">Virgen a los 40</title>
+  </programme>
+  <programme start="20200214150500 -0600" stop="20200214170000 -0600" channel="Canal HBO 2">
+    <title lang="es">Mamma Mia!</title>
+    <title lang="xx">Mamma Mia!</title>
+    <desc lang="es">Sophie tiene un solo deseo para que su boda sea perfecta: que su padre la acompañe al altar. ahora sólo tiene que descubrir quién es.(n)</desc>
+    <credits>
+      <actor>Amanda Seyfried</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Nancy Baldwin</actor>
+      <actor>Colin Firth</actor>
+      <actor>Heather Emmanuel</actor>
+      <actor>Colin Davis</actor>
+      <actor>Rachel McDowall</actor>
+      <producer>Judy Craymer</producer>
+      <producer>Gary Goetzman</producer>
+      <composer>Benny Andersson</composer>
+      <composer>Björn Ulvaeus</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mamma_mia.jpg" />
+    <country lang="es">Alemania</country>
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214170000 -0600" stop="20200214190000 -0600" channel="Canal HBO 2">
+    <title lang="es">¡Mamma Mía! Vamos Otra Vez</title>
+    <title lang="xx">Mamma Mia! Here We Go Again</title>
+    <desc lang="es">El regreso a la mágica isla griega de Kalokairi en un nuevo musical original. Sophie está embarazada al igual que su madre Donna, tendrá que asumir riesgos.(n)</desc>
+    <credits>
+      <actor>Christine Baranski</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Colin Firth</actor>
+      <actor>Andy García</actor>
+      <actor>Lily James</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Stellan Skarsgård</actor>
+      <producer>Judy Craymer</producer>
+      <producer>Gary Goetzman</producer>
+      <composer>Anne Dudley</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/mamma_mia_vamos_otra_vez.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200214190000 -0600" stop="20200214210500 -0600" channel="Canal HBO 2">
+    <title lang="es">Loco y estupido amor</title>
+  </programme>
+  <programme start="20200214210500 -0600" stop="20200214225500 -0600" channel="Canal HBO 2">
+    <title lang="es">Cincuenta Sombras Liberadas</title>
+    <title lang="xx">Fifty Shades Freed</title>
+    <desc lang="es">Christian Grey (Jamie Dornan) y Anastasia Steele (Dakota Johnson), regresan en el tercer capítulo de la saga Cincuentas Sombras de Grey.(n)</desc>
+    <credits>
+      <actor>Dakota Johnson</actor>
+      <actor>Jamie Dornan</actor>
+      <actor>Eric Johnson</actor>
+      <actor>Eloise Mumford</actor>
+      <actor>Bella Heathcote</actor>
+      <actor>Rita Ora</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Victor Rasuk</actor>
+      <producer>Dana Brunetti</producer>
+      <producer>Michael De Luca</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/cincuenta_sombras_liberadas.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200214225500 -0600" stop="20200215004500 -0600" channel="Canal HBO 2">
+    <title lang="es">Eterno resplandor de una mente</title>
+  </programme>
+  <programme start="20200215004500 -0600" stop="20200215022500 -0600" channel="Canal HBO 2">
+    <title lang="es">Un viernes de locos</title>
+  </programme>
+  <programme start="20200215022500 -0600" stop="20200215034000 -0600" channel="Canal HBO 2">
+    <title lang="es">Shopkins al estilo salvaje</title>
+  </programme>
+  <programme start="20200215034000 -0600" stop="20200215054000 -0600" channel="Canal HBO 2">
+    <title lang="es">The Post: Los Oscuros Secretos del Pentágono</title>
+    <title lang="xx">The Post</title>
+    <desc lang="es">Una asociación entre el editor Ben Bradlee y Katharine Graham del Washington Post exponiendo verdades ocultas décadas atrás sobre secretos gubernamentales.(n)</desc>
+    <credits>
+      <actor>Jennifer Dundas</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Sarah Paulson</actor>
+      <actor>Bob Odenkirk</actor>
+      <actor>Tracy Letts</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Bruce Greenwood</actor>
+      <producer>Steven Spielberg</producer>
+      <producer>Kristie Macosko Krieger</producer>
+      <composer>John Williams</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_post_los_oscuros_secretos_del_pentagono.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200215054000 -0600" stop="20200215072000 -0600" channel="Canal HBO 2">
+    <title lang="es">Hotel de Criminales</title>
+    <title lang="xx">Hotel Artemis</title>
+    <desc lang="es">En un futuro cercano en Los Ángeles casi devastado por los disturbios, Hotel Artemis es un hospital secreto para delincuentes y miembros exclusivos.(n)</desc>
+    <credits>
+      <actor>Jodie Foster</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Charlie Day</actor>
+      <producer>Adam Siegel</producer>
+      <producer>Marc Platt</producer>
+      <composer>Cliff Martinez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_artemis.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200215072000 -0600" stop="20200215085500 -0600" channel="Canal HBO 2">
+    <title lang="es">Tierra de Zombies</title>
+  </programme>
+  <programme start="20200215085500 -0600" stop="20200215105500 -0600" channel="Canal HBO 2">
+    <title lang="es">Juego de Traicion</title>
+  </programme>
+  <programme start="20200215105500 -0600" stop="20200215125000 -0600" channel="Canal HBO 2">
+    <title lang="es">Policias de repuesto</title>
+  </programme>
+  <programme start="20200215125000 -0600" stop="20200215151000 -0600" channel="Canal HBO 2">
+    <title lang="es">El Infiltrado del KKKlan</title>
+    <title lang="xx">BlacKkKlansman</title>
+    <desc lang="es">La historia del primer detective afroamericano en servir al Departamento de Policía de Colorado Springs infiltrándose y exponiendo al Ku Klux Klan.(n)</desc>
+    <credits>
+      <actor>John David Washington</actor>
+      <actor>Adam Driver</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Topher Grace</actor>
+      <actor>Corey Hawkins</actor>
+      <actor>Jasper Pääkkönen</actor>
+      <actor>Paul Walter Hauser</actor>
+      <actor>Ryan Eggold</actor>
+      <producer>Jason Blum</producer>
+      <producer>Spike Lee</producer>
+      <composer>Terence Blanchard</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_infiltrado_del_kkklan.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200215151000 -0600" stop="20200215172000 -0600" channel="Canal HBO 2">
+    <title lang="es">El Justiciero (The Equalizer)</title>
+    <title lang="xx">The Equalizer</title>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos.(n)</desc>
+    <credits>
+      <actor>Denzel Washington</actor>
+      <actor>Marton Csokas</actor>
+      <actor>Chloë Grace Moretz</actor>
+      <actor>David Harbour</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Melissa Leo</actor>
+      <producer>Todd Black</producer>
+      <producer>Jason Blumenthal</producer>
+      <composer>Harry Gregson-Williams</composer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200215172000 -0600" stop="20200215190000 -0600" channel="Canal HBO 2">
+    <title lang="es">Hotel de Criminales</title>
+    <title lang="xx">Hotel Artemis</title>
+    <desc lang="es">En un futuro cercano en Los Ángeles casi devastado por los disturbios, Hotel Artemis es un hospital secreto para delincuentes y miembros exclusivos.(n)</desc>
+    <credits>
+      <actor>Jodie Foster</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Brian Tyree Henry</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Dave Bautista</actor>
+      <actor>Charlie Day</actor>
+      <producer>Adam Siegel</producer>
+      <producer>Marc Platt</producer>
+      <composer>Cliff Martinez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_artemis.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200215190000 -0600" stop="20200215190000 -0600" channel="Canal HBO 2">
+    <title lang="es">Tropa de Héroes</title>
+    <title lang="xx">12 Strong</title>
+    <desc lang="es">Después del 9/11 un equipo de fuerzas especiales estadounidenses y la alianza del norte, deben enfrentar a un enemigo despiadado que no toma prisioneros.(n)</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Michael Peña</actor>
+      <actor>Navid Negahban</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Elsa Pataky</actor>
+      <actor>William Fichtner</actor>
+      <actor>Rob Riggle</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Molly Smith</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/12_strong.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200215190000 -0600" stop="20200215211500 -0600" channel="Canal HBO 2">
+    <title lang="es">Tropa de Héroes</title>
+    <title lang="xx">12 Strong</title>
+    <desc lang="es">Después del 9/11 un equipo de fuerzas especiales estadounidenses y la alianza del norte, deben enfrentar a un enemigo despiadado que no toma prisioneros.(n)</desc>
+    <credits>
+      <actor>Chris Hemsworth</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Michael Peña</actor>
+      <actor>Navid Negahban</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Elsa Pataky</actor>
+      <actor>William Fichtner</actor>
+      <actor>Rob Riggle</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <producer>Molly Smith</producer>
+      <composer>Lorne Balfe</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/12_strong.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200215211500 -0600" stop="20200215225300 -0600" channel="Canal HBO 2">
+    <title lang="es">Milla 22: El escape</title>
+  </programme>
+  <programme start="20200215225300 -0600" stop="20200216002800 -0600" channel="Canal HBO 2">
+    <title lang="es">15:17 Tren a París</title>
+    <title lang="xx">The 15:17 to Paris</title>
+    <desc lang="es">Cuenta la historia de tres jóvenes cuyo acto heroico los convirtió en héroes salvando la vida de más de 500 pasajeros de un ataque terrorista en un tren.(n)</desc>
+    <credits>
+      <actor>Anthony Sadler</actor>
+      <actor>Alek Skarlatos</actor>
+      <actor>Spencer Stone</actor>
+      <actor>Judy Greer</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Ray Corasani</actor>
+      <producer>Clint Eastwood</producer>
+      <producer>Jessica Meier</producer>
+      <composer>Christian Jacob</composer>
+      <composer>Thomas Newman</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/15_17_tren_a_paris.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200216002800 -0600" stop="20200216030000 -0600" channel="Canal HBO 2">
+    <title lang="es">Armageddon</title>
+  </programme>
+  <programme start="20200216030000 -0600" stop="20200216044500 -0600" channel="Canal HBO 2">
+    <title lang="es">Rascacielos: Rescate en las</title>
+  </programme>
+  <programme start="20200216044500 -0600" stop="20200216063000 -0600" channel="Canal HBO 2">
+    <title lang="es">Asesino en casa</title>
+  </programme>
+  <programme start="20200216063000 -0600" stop="20200216081500 -0600" channel="Canal HBO 2">
+    <title lang="es">Intruso</title>
+    <desc lang="es">Una joven pareja de casados compra la casa a un extraño vendedor, creen haber comprado el hogar para su familia, pero el vendedor tiene otros planes.(n)</desc>
+    <credits>
+      <actor>Dennis Quaid</actor>
+      <actor>Michael Ealy</actor>
+      <actor>Meagan Good</actor>
+      <actor>Joseph Sikora</actor>
+      <producer>Roxanne Avent</producer>
+      <producer>Brad Kaplan</producer>
+      <composer>Geoff Zanelli</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/the_intruder_2019.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200216081500 -0600" stop="20200216103500 -0600" channel="Canal HBO 2">
+    <title lang="es">Todo el Dinero del Mundo</title>
+    <title lang="xx">All the Money in the World</title>
+    <desc lang="es">John Paul Getty III es secuestrado, su madre Gail intenta buscar la forma de convencer a su abuelo multimillonario pague el rescate antes de que sea tarde.(n)</desc>
+    <credits>
+      <actor>Michelle Williams</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Romain Duris</actor>
+      <actor>Charlie Plummer</actor>
+      <actor>Charlie Shotwell</actor>
+      <producer>Chris Clark</producer>
+      <producer>Quentin Curtis</producer>
+      <composer>Daniel Pemberton</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/todo_el_dinero_del_mundo.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Reino Unido</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200216103500 -0600" stop="20200216124000 -0600" channel="Canal HBO 2">
+    <title lang="es">Hellboy 2: El ejército dorado</title>
+  </programme>
+  <programme start="20200216124000 -0600" stop="20200216144000 -0600" channel="Canal HBO 2">
+    <title lang="es">La mula</title>
+  </programme>
+  <programme start="20200216144000 -0600" stop="20200216170000 -0600" channel="Canal HBO 2">
+    <title lang="es">Nace una Estrella</title>
+    <title lang="xx">A Star Is Born</title>
+    <desc lang="es">Un musico se enamora de una artista que casi renuncia a su sueño hasta que él la ayuda a salir al público, mientras su carrera asciende su relación decae.(n)</desc>
+    <credits>
+      <actor>Bradley Cooper</actor>
+      <actor>Lady Gaga</actor>
+      <actor>Andrew Dice Clay</actor>
+      <actor>Dave Chappelle</actor>
+      <actor>Sam Elliott</actor>
+      <producer>Bradley Cooper</producer>
+      <producer>Bill Gerber</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ha_nacido_una_estrella.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20200216170000 -0600" stop="20200216185500 -0600" channel="Canal HBO 2">
+    <title lang="es">La razón de estar contigo 2</title>
+  </programme>
+  <programme start="20200216185500 -0600" stop="20200216204500 -0600" channel="Canal HBO 2">
+    <title lang="es">Rascacielos: Rescate en las</title>
+  </programme>
+  <programme start="20200212004200 -0600" stop="20200212023300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Presidente por un día</title>
+  </programme>
+  <programme start="20200212023300 -0600" stop="20200212042500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Los campeones 2</title>
+  </programme>
+  <programme start="20200212042500 -0600" stop="20200212064000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Jurassic World: El Reino Caído</title>
+    <desc lang="es">Cuando un volcán inactivo comienza a rugir en la Isla Nublar, Owen y Claire montan una campaña para salvar a los dinosaurios restantes de la extinción.(n)</desc>
+    <credits>
+      <actor>Chris Pratt</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>B. D. Wong</actor>
+      <actor>Toby Jones</actor>
+      <actor>Rafe Spall</actor>
+      <actor>Justice Smith</actor>
+      <actor>Daniella Pineda</actor>
+      <producer>Belén Atienza</producer>
+      <producer>Frank Marshall</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/jurassic_world_el_reino_caido.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200212064000 -0600" stop="20200212082900 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Corazón De Tinta</title>
+  </programme>
+  <programme start="20200212082900 -0600" stop="20200212100800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Pie Pequeño</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="es">Cuando un joven Yeti encuentra algo que creía que no existía: un humano. Estas noticias lo hacen famoso y ahora la comunidad Yeti se pregunta que hay allá.(n)</desc>
+    <credits>
+      <actor>Channing Tatum</actor>
+      <actor>James Corden</actor>
+      <actor>Zendaya</actor>
+      <actor>Common</actor>
+      <actor>LeBron James</actor>
+      <actor>GinRodriguez</actor>
+      <actor>Danny DeVito</actor>
+      <actor>YarShahidi</actor>
+      <producer>Bonne Radford</producer>
+      <producer>Glenn Ficarra</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200212100800 -0600" stop="20200212114300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Los peores años de mi vida</title>
+  </programme>
+  <programme start="20200212114300 -0600" stop="20200212140100 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">El triunfo del espíritu</title>
+  </programme>
+  <programme start="20200212140100 -0600" stop="20200212154800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20200212154800 -0600" stop="20200212172000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Johnny English 3.0</title>
+  </programme>
+  <programme start="20200212172000 -0600" stop="20200212190000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20200212190000 -0600" stop="20200212203900 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las Travesuras de Peter Rabbit</title>
+    <title lang="xx">Peter Rabbit</title>
+    <desc lang="es">Peter un héroe travieso y aventurero tiene una trifulca con el Sr. McGregor cuando compiten por el afecto de la amante a los animales, la señorita Bea.(n)</desc>
+    <credits>
+      <actor>James Corden</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Daisy Ridley</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sam Neill</actor>
+      <producer>Will Gluck</producer>
+      <producer>Zareh Nalbandian</producer>
+      <composer>Dominic Lewis</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_travesuras_de_peter_rabbit.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200212203900 -0600" stop="20200212222000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Pie Pequeño</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="es">Cuando un joven Yeti encuentra algo que creía que no existía: un humano. Estas noticias lo hacen famoso y ahora la comunidad Yeti se pregunta que hay allá.(n)</desc>
+    <credits>
+      <actor>Channing Tatum</actor>
+      <actor>James Corden</actor>
+      <actor>Zendaya</actor>
+      <actor>Common</actor>
+      <actor>LeBron James</actor>
+      <actor>GinRodriguez</actor>
+      <actor>Danny DeVito</actor>
+      <actor>YarShahidi</actor>
+      <producer>Bonne Radford</producer>
+      <producer>Glenn Ficarra</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200212222000 -0600" stop="20200212222000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">October baby</title>
+  </programme>
+  <programme start="20200212222000 -0600" stop="20200213001300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">October baby</title>
+  </programme>
+  <programme start="20200213001300 -0600" stop="20200213020600 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Arthur</title>
+  </programme>
+  <programme start="20200213020600 -0600" stop="20200213034000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">La Historia sin fin 2</title>
+  </programme>
+  <programme start="20200213034000 -0600" stop="20200213052500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20200213052500 -0600" stop="20200213061000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Nacidos para ser libres</title>
+  </programme>
+  <programme start="20200213061000 -0600" stop="20200213073800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un dulce reencuentro</title>
+  </programme>
+  <programme start="20200213073800 -0600" stop="20200213092000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Nancy Drew y el misterio de</title>
+  </programme>
+  <programme start="20200213092000 -0600" stop="20200213104500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un viaje de aquellos</title>
+  </programme>
+  <programme start="20200213104500 -0600" stop="20200213120800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Lego DC Super Hero Girls</title>
+  </programme>
+  <programme start="20200213120800 -0600" stop="20200213133100 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Lego DC comics super heroes</title>
+  </programme>
+  <programme start="20200213133100 -0600" stop="20200213145300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Lego DC Super Heroes: Aquaman</title>
+  </programme>
+  <programme start="20200213145300 -0600" stop="20200213165000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Linterna verde</title>
+  </programme>
+  <programme start="20200213165000 -0600" stop="20200213190000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20200213190000 -0600" stop="20200213211000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Batman regresa</title>
+  </programme>
+  <programme start="20200213211000 -0600" stop="20200213231500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Batman eternamente</title>
+  </programme>
+  <programme start="20200213231500 -0600" stop="20200213231500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las brujas</title>
+  </programme>
+  <programme start="20200213231500 -0600" stop="20200214005000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las brujas</title>
+  </programme>
+  <programme start="20200214005000 -0600" stop="20200214025200 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las Brujas de Eastwick</title>
+  </programme>
+  <programme start="20200214025200 -0600" stop="20200214042800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Looney Tunes: En acción</title>
+  </programme>
+  <programme start="20200214042800 -0600" stop="20200214050000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Bebés clásicos: canción cuna</title>
+  </programme>
+  <programme start="20200214050000 -0600" stop="20200214064700 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Eternamente joven</title>
+  </programme>
+  <programme start="20200214064700 -0600" stop="20200214083600 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un reencuentro inolvidable</title>
+  </programme>
+  <programme start="20200214083600 -0600" stop="20200214102500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Un adolescente vikingo y su Furia Nocturna finalmente descubrirán sus verdaderos destinos uno ser el jefe de Berk y el otro líder de su propia especie.(n)</desc>
+    <credits>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214102500 -0600" stop="20200214120700 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Pie Pequeño</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="es">Cuando un joven Yeti encuentra algo que creía que no existía: un humano. Estas noticias lo hacen famoso y ahora la comunidad Yeti se pregunta que hay allá.(n)</desc>
+    <credits>
+      <actor>Channing Tatum</actor>
+      <actor>James Corden</actor>
+      <actor>Zendaya</actor>
+      <actor>Common</actor>
+      <actor>LeBron James</actor>
+      <actor>GinRodriguez</actor>
+      <actor>Danny DeVito</actor>
+      <actor>YarShahidi</actor>
+      <producer>Bonne Radford</producer>
+      <producer>Glenn Ficarra</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214120700 -0600" stop="20200214134600 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20200214134600 -0600" stop="20200214152500 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las Travesuras de Peter Rabbit</title>
+    <title lang="xx">Peter Rabbit</title>
+    <desc lang="es">Peter un héroe travieso y aventurero tiene una trifulca con el Sr. McGregor cuando compiten por el afecto de la amante a los animales, la señorita Bea.(n)</desc>
+    <credits>
+      <actor>James Corden</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Daisy Ridley</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sam Neill</actor>
+      <producer>Will Gluck</producer>
+      <producer>Zareh Nalbandian</producer>
+      <composer>Dominic Lewis</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_travesuras_de_peter_rabbit.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214152500 -0600" stop="20200214171300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un reencuentro inolvidable</title>
+  </programme>
+  <programme start="20200214171300 -0600" stop="20200214190000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Un adolescente vikingo y su Furia Nocturna finalmente descubrirán sus verdaderos destinos uno ser el jefe de Berk y el otro líder de su propia especie.(n)</desc>
+    <credits>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214190000 -0600" stop="20200214204200 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Hotel Transylvania 3</title>
+    <desc lang="es">La familia de monstruos se embarca en unas divertidas vacaciones en un crucero, pero todo da un giro cuando la capitana esconde un terrible secreto.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>David Spade</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Kevin James</actor>
+      <producer>Michelle Murdocca</producer>
+      <composer>Mark Mothersbaugh</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_transylvania_3_monstruos_de_vacaciones.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200214204200 -0600" stop="20200214222000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Amor de Medianoche</title>
+    <title lang="xx">Midnight Sun</title>
+    <desc lang="es">Una chica con una extraña enfermedad que si recibe la más mínima cantidad de luz solar podría ser mortal, pero su vida cambia cuando conoce a un chico.(n)</desc>
+    <credits>
+      <actor>Bella Thorne</actor>
+      <actor>Patrick Schwarzenegger</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Quinn Shephard</actor>
+      <actor>Tiera Skovbye</actor>
+      <actor>Paul McGillion</actor>
+      <actor>Ken Tremblett</actor>
+      <actor>Jenn Griffin</actor>
+      <writer>"Midnight Sun" de Kenji Bando</writer>
+      <producer>Jen Gatien</producer>
+      <producer>John Rickard</producer>
+      <composer>Nate Walcott</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/amor_de_medianoche.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200214222000 -0600" stop="20200215000000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las Travesuras de Peter Rabbit</title>
+    <title lang="xx">Peter Rabbit</title>
+    <desc lang="es">Peter un héroe travieso y aventurero tiene una trifulca con el Sr. McGregor cuando compiten por el afecto de la amante a los animales, la señorita Bea.(n)</desc>
+    <credits>
+      <actor>James Corden</actor>
+      <actor>Domhnall Gleeson</actor>
+      <actor>Daisy Ridley</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Sam Neill</actor>
+      <producer>Will Gluck</producer>
+      <producer>Zareh Nalbandian</producer>
+      <composer>Dominic Lewis</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_travesuras_de_peter_rabbit.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200215000000 -0600" stop="20200215013900 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20200215013900 -0600" stop="20200215033100 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Arthur</title>
+  </programme>
+  <programme start="20200215033100 -0600" stop="20200215051800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Corazón De Tinta</title>
+  </programme>
+  <programme start="20200215051800 -0600" stop="20200215070000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Hotel Transylvania 3</title>
+    <desc lang="es">La familia de monstruos se embarca en unas divertidas vacaciones en un crucero, pero todo da un giro cuando la capitana esconde un terrible secreto.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>David Spade</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Kevin James</actor>
+      <producer>Michelle Murdocca</producer>
+      <composer>Mark Mothersbaugh</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_transylvania_3_monstruos_de_vacaciones.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200215070000 -0600" stop="20200215082900 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">El Pájaro Loco</title>
+    <title lang="xx">Woody Woodpecker</title>
+    <desc lang="es">Loquillo debe proteger su hogar de la familia Walters que desea construir una mansión en el bosque y a la vez evitar las garras de dos cazadores furtivos.(n)</desc>
+    <credits>
+      <actor>Eric Bauza</actor>
+      <actor>Timothy Omundson</actor>
+      <actor>Jakob Davies</actor>
+      <actor>Thaila Ayala</actor>
+      <actor>Graham Verchere</actor>
+      <actor>Jordana Largy</actor>
+      <actor>Emily Holmes</actor>
+      <producer>Mike Elliott</producer>
+      <composer>Chris Hajian</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_pajaro_loco.jpg" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Canadá</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200215082900 -0600" stop="20200215094800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Open Season 3</title>
+  </programme>
+  <programme start="20200215094800 -0600" stop="20200215112700 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Vientos de cambio</title>
+  </programme>
+  <programme start="20200215112700 -0600" stop="20200215132000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">La decisión más difícil</title>
+  </programme>
+  <programme start="20200215132000 -0600" stop="20200215153300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un sueño posible</title>
+  </programme>
+  <programme start="20200215153300 -0600" stop="20200215171800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Coraline y la puerta secreta</title>
+  </programme>
+  <programme start="20200215171800 -0600" stop="20200215190000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Pie Pequeño</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="es">Cuando un joven Yeti encuentra algo que creía que no existía: un humano. Estas noticias lo hacen famoso y ahora la comunidad Yeti se pregunta que hay allá.(n)</desc>
+    <credits>
+      <actor>Channing Tatum</actor>
+      <actor>James Corden</actor>
+      <actor>Zendaya</actor>
+      <actor>Common</actor>
+      <actor>LeBron James</actor>
+      <actor>GinRodriguez</actor>
+      <actor>Danny DeVito</actor>
+      <actor>YarShahidi</actor>
+      <producer>Bonne Radford</producer>
+      <producer>Glenn Ficarra</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200215190000 -0600" stop="20200215210000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Ant-Man and the Wasp</title>
+    <title lang="xx">Ant-Man and the Wasp</title>
+    <desc lang="es">Mientras lucha por reequilibrar su vida hogareña y sus responsabilidades como Ant-Man, se enfrenta Hope Van Dyne y al Dr. Hank Pym con una nueva misión.(n)</desc>
+    <credits>
+      <actor>Paul Rudd</actor>
+      <actor>Evangeline Lilly</actor>
+      <actor>Walton Goggins</actor>
+      <actor>Bobby Cannavale</actor>
+      <actor>Michael Peña</actor>
+      <actor>Tip "T.I." Harris</actor>
+      <actor>Judy Greer</actor>
+      <actor>David Dastmalchian</actor>
+      <producer>Kevin Feige</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/ant-man_and_the_wasp.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200215210000 -0600" stop="20200215223300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Johnny English 3.0</title>
+  </programme>
+  <programme start="20200215223300 -0600" stop="20200215223300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las locuras de Dick y Jane</title>
+  </programme>
+  <programme start="20200215223300 -0600" stop="20200216000600 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Las locuras de Dick y Jane</title>
+  </programme>
+  <programme start="20200216000600 -0600" stop="20200216021800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Un sueño posible</title>
+  </programme>
+  <programme start="20200216021800 -0600" stop="20200216034800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Sí, acepto</title>
+  </programme>
+  <programme start="20200216034800 -0600" stop="20200216052100 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Johnny English 3.0</title>
+  </programme>
+  <programme start="20200216052100 -0600" stop="20200216070000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">El duende</title>
+  </programme>
+  <programme start="20200216070000 -0600" stop="20200216084000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Pie Pequeño</title>
+    <title lang="xx">Smallfoot</title>
+    <desc lang="es">Cuando un joven Yeti encuentra algo que creía que no existía: un humano. Estas noticias lo hacen famoso y ahora la comunidad Yeti se pregunta que hay allá.(n)</desc>
+    <credits>
+      <actor>Channing Tatum</actor>
+      <actor>James Corden</actor>
+      <actor>Zendaya</actor>
+      <actor>Common</actor>
+      <actor>LeBron James</actor>
+      <actor>GinRodriguez</actor>
+      <actor>Danny DeVito</actor>
+      <actor>YarShahidi</actor>
+      <producer>Bonne Radford</producer>
+      <producer>Glenn Ficarra</producer>
+      <composer>Heitor Pereira</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/piepequeno.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200216084000 -0600" stop="20200216103000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Sin Reservas</title>
+  </programme>
+  <programme start="20200216103000 -0600" stop="20200216121000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20200216121000 -0600" stop="20200216135800 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Loca por las compras</title>
+  </programme>
+  <programme start="20200216135800 -0600" stop="20200216153300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Amor de Medianoche</title>
+    <title lang="xx">Midnight Sun</title>
+    <desc lang="es">Una chica con una extraña enfermedad que si recibe la más mínima cantidad de luz solar podría ser mortal, pero su vida cambia cuando conoce a un chico.(n)</desc>
+    <credits>
+      <actor>Bella Thorne</actor>
+      <actor>Patrick Schwarzenegger</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Quinn Shephard</actor>
+      <actor>Tiera Skovbye</actor>
+      <actor>Paul McGillion</actor>
+      <actor>Ken Tremblett</actor>
+      <actor>Jenn Griffin</actor>
+      <writer>"Midnight Sun" de Kenji Bando</writer>
+      <producer>Jen Gatien</producer>
+      <producer>John Rickard</producer>
+      <composer>Nate Walcott</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/amor_de_medianoche.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20200216153300 -0600" stop="20200216171200 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20200216171200 -0600" stop="20200216190000 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+    <desc lang="es">Un adolescente vikingo y su Furia Nocturna finalmente descubrirán sus verdaderos destinos uno ser el jefe de Berk y el otro líder de su propia especie.(n)</desc>
+    <credits>
+      <actor>Jay Baruchel</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Jonah Hill</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Kit Harington</actor>
+      <actor>America Ferrera</actor>
+      <actor>Christopher Mintz-Plasse</actor>
+      <producer>Bonnie Arnold</producer>
+      <producer>Brad Lewis</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_entrenar_a_tu_dragon_3.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200216190000 -0600" stop="20200216204300 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Hotel Transylvania 3</title>
+    <desc lang="es">La familia de monstruos se embarca en unas divertidas vacaciones en un crucero, pero todo da un giro cuando la capitana esconde un terrible secreto.(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>David Spade</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Molly Shannon</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Kevin James</actor>
+      <producer>Michelle Murdocca</producer>
+      <composer>Mark Mothersbaugh</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hotel_transylvania_3_monstruos_de_vacaciones.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200216204300 -0600" stop="20200216221900 -0600" channel="Canal HBO Family Latinoamérica">
+    <title lang="es">Amor de Medianoche</title>
+    <title lang="xx">Midnight Sun</title>
+    <desc lang="es">Una chica con una extraña enfermedad que si recibe la más mínima cantidad de luz solar podría ser mortal, pero su vida cambia cuando conoce a un chico.(n)</desc>
+    <credits>
+      <actor>Bella Thorne</actor>
+      <actor>Patrick Schwarzenegger</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Quinn Shephard</actor>
+      <actor>Tiera Skovbye</actor>
+      <actor>Paul McGillion</actor>
+      <actor>Ken Tremblett</actor>
+      <actor>Jenn Griffin</actor>
+      <writer>"Midnight Sun" de Kenji Bando</writer>
+      <producer>Jen Gatien</producer>
+      <producer>John Rickard</producer>
+      <composer>Nate Walcott</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/amor_de_medianoche.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
   <programme start="20200212010000 -0600" stop="20200212020500 -0600" channel="Canal HBO Plus HD México">
     <title lang="es">Euphoria</title>
