@@ -1,1 +1,235 @@
-https://raw.githubusercontent.com/scorpio06/IPTV/master/TV
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">Canal Disney Channel</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201221002400 -0600" stop="20201221005000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201221005000 -0600" stop="20201221011200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201221011200 -0600" stop="20201221013500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201221013500 -0600" stop="20201221015800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201221015800 -0600" stop="20201221022000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201221022000 -0600" stop="20201221024300 -0600" channel="Canal Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201221024300 -0600" stop="20201221030600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201221030600 -0600" stop="20201221032800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+    <title lang="xx">Big City Greens</title>
+    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa(n)</desc>
+    <credits>
+      <producer>Jason Wyatt</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_vecinos_green.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201221032800 -0600" stop="20201221035100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201221035100 -0600" stop="20201221041400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20201221041400 -0600" stop="20201221043700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221043700 -0600" stop="20201221045900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <title lang="xx">Star vs. the Forces of Evil</title>
+    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar(n)</desc>
+    <credits>
+      <producer>Aaron Hammersley</producer>
+      <producer>Dominic Bisignano</producer>
+      <composer>Brad Breeck</composer>
+      <composer>Ego Plum</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201221045900 -0600" stop="20201221052300 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201221052300 -0600" stop="20201221055900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221055900 -0600" stop="20201221062400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221062400 -0600" stop="20201221064500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201221064500 -0600" stop="20201221070000 -0600" channel="Canal Disney Channel">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20201221070000 -0600" stop="20201221080100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20201221080100 -0600" stop="20201221082800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20201221082800 -0600" stop="20201221090000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Amphibia</title>
+    <title lang="xx">Amphibia</title>
+    <desc lang="es">Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad(n)</desc>
+    <credits>
+      <producer>Jack Ferraiolo</producer>
+      <producer>Tara Badawy</producer>
+      <composer>Doug Petty</composer>
+      <composer>Anne's Theme</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201221090000 -0600" stop="20201221092600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Las aventuras enredadas de Ra</title>
+  </programme>
+  <programme start="20201221092600 -0600" stop="20201221102800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201221102800 -0600" stop="20201221110000 -0600" channel="Canal Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201221110000 -0600" stop="20201221112700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201221112700 -0600" stop="20201221115500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201221115500 -0600" stop="20201221122400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221122400 -0600" stop="20201221125900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221125900 -0600" stop="20201221133500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Disney Channel Holiday House P</title>
+  </programme>
+  <programme start="20201221133500 -0600" stop="20201221140200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201221140200 -0600" stop="20201221142500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201221142500 -0600" stop="20201221145800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201221145800 -0600" stop="20201221153000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201221153000 -0600" stop="20201221163000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Amphibia</title>
+    <title lang="xx">Amphibia</title>
+    <desc lang="es">Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad(n)</desc>
+    <credits>
+      <producer>Jack Ferraiolo</producer>
+      <producer>Tara Badawy</producer>
+      <composer>Doug Petty</composer>
+      <composer>Anne's Theme</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/anfibilandia.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201221163000 -0600" stop="20201221172700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221172700 -0600" stop="20201221175800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201221175800 -0600" stop="20201221182600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201221182600 -0600" stop="20201221185900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201221185900 -0600" stop="20201221193100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201221193100 -0600" stop="20201221200100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201221200100 -0600" stop="20201221202700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20201221202700 -0600" stop="20201221210000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201221210000 -0600" stop="20201221212800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201221212800 -0600" stop="20201221220100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+    <title lang="xx">Star vs. the Forces of Evil</title>
+    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar(n)</desc>
+    <credits>
+      <producer>Aaron Hammersley</producer>
+      <producer>Dominic Bisignano</producer>
+      <composer>Brad Breeck</composer>
+      <composer>Ego Plum</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/star_vs_las_fuerzas_del_mal.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20201221220100 -0600" stop="20201221223000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201221223000 -0600" stop="20201221225700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201221225700 -0600" stop="20201221232800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201221232800 -0600" stop="20201221235700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201221235700 -0600" stop="20201222001400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Liv y Maddie</title>
+    <title lang="xx">Liv and Maddie</title>
+    <desc lang="es">Liv, una estrella en Hollywood cuyo programa acaba de terminar tras 4 años al aire, regresa a Wisconsin para reunirse con su hermana gemela y su familia(n)</desc>
+    <credits>
+      <actor>Dove Cameron</actor>
+      <actor>Joey Bragg</actor>
+      <actor>Tenzing Norgay Trainor</actor>
+      <actor>Kali Rocha</actor>
+      <actor>Benjamin King</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/liv_y_maddie.jpg" />
+    <episode-num>S1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+</tv>
