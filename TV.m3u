@@ -259,7 +259,7 @@ http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsa
 
 
 
-#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
+#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/258
 
 
@@ -296,7 +296,7 @@ http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsa
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Colombia)" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="PLUS",CINEMAX COLOMBIA
-http://zufreelist.net:8880/crakzutvmr/crakzutvmr11921
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="PLUS",CINE DINAMITA
 
@@ -336,14 +336,14 @@ http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsa
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=3328" group-title="PLUS",FOX
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=3328" group-title="PLUS",STAR CHANNEL
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/295
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=3328" group-title="PLUS",FOX HD
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Life" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="PLUS",STAR LIFE
+#EXTINF:-1 tvg-ID="" tvg-name="STAR LIFE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="PLUS",STAR LIFE
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/296
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Life" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="PLUS",FOX LIFE COLOMBIA
@@ -361,14 +361,14 @@ http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsa
 #EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="PLUS",FXM HD
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal MC (México)" tvg-logo="" group-title="PLUS",MC
+#EXTINF:-1 tvg-ID="" tvg-name="Canal MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png" group-title="PLUS",MC
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/326
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="MULTICINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="PLUS",MULTICINEMA
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Paramount Channel Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="PLUS",PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Paramount Channel (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="PLUS",PARAMOUNT CHANNEL
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/340
 
 #EXTINF:-1 tvg-ID="" tvg-name="DAN TV" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png" group-title="PLUS",DAN TV
