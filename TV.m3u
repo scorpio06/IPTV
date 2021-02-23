@@ -374,10 +374,10 @@ http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsa
 #EXTINF:-1 tvg-ID="" tvg-name="DAN TV" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2019/05/pu%C3%B1al-tv-300x194.png" group-title="PLUS",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony Entertainment Television (Latinoamérica)" tvg-logo="" group-title="PLUS",SONY
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony (México)" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="PLUS",SONY
 http://5.9.30.198:2086/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/344
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony Entertainment Television (Latinoamérica)" tvg-logo="" group-title="PLUS",SONY HD
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony Entertainment Television (Latinoamérica)" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="PLUS",SONY HD
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="PLUS",SONY MOVIE
