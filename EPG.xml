@@ -961,173 +961,149 @@
   <programme start="20210224235800 -0600" stop="20210225003500 -0600" channel="Canal Disney XD">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20210224001500 -0600" stop="20210224004000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Opa Popa Dupa</title>
-  </programme>
-  <programme start="20210224004000 -0600" stop="20210224010000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Atchoo</title>
-  </programme>
-  <programme start="20210224010000 -0600" stop="20210224011500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Ready Jet Go</title>
-  </programme>
-  <programme start="20210224011500 -0600" stop="20210224013000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Ready Jet Go</title>
-  </programme>
-  <programme start="20210224013000 -0600" stop="20210224015500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Kingdom Force</title>
-  </programme>
-  <programme start="20210224015500 -0600" stop="20210224021000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Las Aventuras de Pilar</title>
-  </programme>
-  <programme start="20210224021000 -0600" stop="20210224025500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Las Aventuras de Pilar</title>
-  </programme>
-  <programme start="20210224025500 -0600" stop="20210224033000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Pablo</title>
-  </programme>
-  <programme start="20210224033000 -0600" stop="20210224034500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">The Jungle Bunch</title>
-  </programme>
-  <programme start="20210224034500 -0600" stop="20210224040000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">The Jungle Bunch</title>
-  </programme>
-  <programme start="20210224040000 -0600" stop="20210224051500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">ICO BIT ZIP</title>
-  </programme>
-  <programme start="20210224051500 -0600" stop="20210224053500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Raro pero Cierto</title>
-  </programme>
-  <programme start="20210224053500 -0600" stop="20210224055500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Averiguando cosas</title>
-  </programme>
-  <programme start="20210224055500 -0600" stop="20210224062000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Nat Geo Lab LatAm</title>
-  </programme>
-  <programme start="20210224062000 -0600" stop="20210224064500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Opa Popa Dupa</title>
-  </programme>
-  <programme start="20210224064500 -0600" stop="20210224070000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Mascotas en el Espacio La Fam</title>
-  </programme>
-  <programme start="20210224070000 -0600" stop="20210224074000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Yoko</title>
-  </programme>
-  <programme start="20210224074000 -0600" stop="20210224075500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224000800 -0600" stop="20210224003500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Beat Bugs</title>
   </programme>
-  <programme start="20210224075500 -0600" stop="20210224090500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224003500 -0600" stop="20210224011200 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Opa Popa Dupa</title>
   </programme>
-  <programme start="20210224090500 -0600" stop="20210224092000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224011200 -0600" stop="20210224020200 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20210224020200 -0600" stop="20210224022500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Las Aventuras de Pilar</title>
   </programme>
-  <programme start="20210224092000 -0600" stop="20210224100000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224022500 -0600" stop="20210224031200 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20210224031200 -0600" stop="20210224033600 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20210224033600 -0600" stop="20210224035800 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">The Jungle Bunch</title>
+  </programme>
+  <programme start="20210224035800 -0600" stop="20210224045700 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">ICO BIT ZIP</title>
+  </programme>
+  <programme start="20210224045700 -0600" stop="20210224052100 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
+  </programme>
+  <programme start="20210224052100 -0600" stop="20210224054300 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20210224054300 -0600" stop="20210224060500 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Averiguando cosas</title>
+  </programme>
+  <programme start="20210224060500 -0600" stop="20210224062600 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Nat Geo Lab LatAm</title>
+  </programme>
+  <programme start="20210224062600 -0600" stop="20210224070000 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20210224070000 -0600" stop="20210224072700 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Yoko</title>
+  </programme>
+  <programme start="20210224072700 -0600" stop="20210224074400 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Beat Bugs</title>
+  </programme>
+  <programme start="20210224074400 -0600" stop="20210224080700 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20210224080700 -0600" stop="20210224082800 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20210224082800 -0600" stop="20210224090400 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20210224090400 -0600" stop="20210224092800 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Las Aventuras de Pilar</title>
   </programme>
-  <programme start="20210224100000 -0600" stop="20210224101500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224092800 -0600" stop="20210224095900 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">¡Vamos Luna</title>
+  </programme>
+  <programme start="20210224095900 -0600" stop="20210224101400 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Pablo</title>
   </programme>
-  <programme start="20210224101500 -0600" stop="20210224110000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224101400 -0600" stop="20210224104100 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Jinglekids</title>
   </programme>
-  <programme start="20210224110000 -0600" stop="20210224111500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224104100 -0600" stop="20210224110700 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Dot</title>
+  </programme>
+  <programme start="20210224110700 -0600" stop="20210224113300 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">The Jungle Bunch</title>
   </programme>
-  <programme start="20210224111500 -0600" stop="20210224113000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">The Jungle Bunch</title>
-  </programme>
-  <programme start="20210224113000 -0600" stop="20210224114500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224113300 -0600" stop="20210224115500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">ICO BIT ZIP</title>
   </programme>
-  <programme start="20210224114500 -0600" stop="20210224120000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">ICO BIT ZIP</title>
-  </programme>
-  <programme start="20210224120000 -0600" stop="20210224123500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224115500 -0600" stop="20210224121000 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Kingdom Force</title>
   </programme>
-  <programme start="20210224123500 -0600" stop="20210224125000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Dino Dana</title>
+  <programme start="20210224121000 -0600" stop="20210224124500 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Kody Kapow</title>
   </programme>
-  <programme start="20210224125000 -0600" stop="20210224131000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224124500 -0600" stop="20210224133400 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Nat Geo Lab LatAm</title>
   </programme>
-  <programme start="20210224131000 -0600" stop="20210224133500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Nat Geo Lab LatAm</title>
-  </programme>
-  <programme start="20210224133500 -0600" stop="20210224135500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224133400 -0600" stop="20210224135600 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Averiguando cosas</title>
   </programme>
-  <programme start="20210224135500 -0600" stop="20210224142000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224135600 -0600" stop="20210224143600 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Animal manía</title>
   </programme>
-  <programme start="20210224142000 -0600" stop="20210224143500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Dino Dana</title>
-  </programme>
-  <programme start="20210224143500 -0600" stop="20210224151000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224143600 -0600" stop="20210224150400 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Raro pero Cierto</title>
   </programme>
-  <programme start="20210224151000 -0600" stop="20210224152500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224150400 -0600" stop="20210224153100 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Robin Hood</title>
   </programme>
-  <programme start="20210224152500 -0600" stop="20210224160000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224153100 -0600" stop="20210224164800 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Heidi 3D</title>
   </programme>
-  <programme start="20210224160000 -0600" stop="20210224161500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Furiki Wheels</title>
-  </programme>
-  <programme start="20210224161500 -0600" stop="20210224164000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Furiki Wheels</title>
-  </programme>
-  <programme start="20210224164000 -0600" stop="20210224170000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224164800 -0600" stop="20210224170800 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Nat Geo Lab LatAm</title>
   </programme>
-  <programme start="20210224170000 -0600" stop="20210224171500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224170800 -0600" stop="20210224173000 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Las Aventuras de Pilar</title>
   </programme>
-  <programme start="20210224171500 -0600" stop="20210224180000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Las Aventuras de Pilar</title>
+  <programme start="20210224173000 -0600" stop="20210224180000 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">¡Vamos Luna</title>
   </programme>
-  <programme start="20210224180000 -0600" stop="20210224181500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224180000 -0600" stop="20210224182500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Kingdom Force</title>
   </programme>
-  <programme start="20210224181500 -0600" stop="20210224183000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Dino Dana</title>
-  </programme>
-  <programme start="20210224183000 -0600" stop="20210224185500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224182500 -0600" stop="20210224185000 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Nat Geo Lab LatAm</title>
   </programme>
-  <programme start="20210224185500 -0600" stop="20210224191500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224185000 -0600" stop="20210224191500 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Averiguando cosas</title>
   </programme>
-  <programme start="20210224191500 -0600" stop="20210224193500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224191500 -0600" stop="20210224194100 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Raro pero Cierto</title>
   </programme>
-  <programme start="20210224193500 -0600" stop="20210224200000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224194100 -0600" stop="20210224200300 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Animal manía</title>
   </programme>
-  <programme start="20210224200000 -0600" stop="20210224205500 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224200300 -0600" stop="20210224202800 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Nat Geo Lab LatAm</title>
   </programme>
-  <programme start="20210224205500 -0600" stop="20210224212000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">ICO BIT ZIP</title>
-  </programme>
-  <programme start="20210224212000 -0600" stop="20210224214500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Robin Hood</title>
-  </programme>
-  <programme start="20210224214500 -0600" stop="20210224221000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Nat Geo Lab LatAm</title>
-  </programme>
-  <programme start="20210224221000 -0600" stop="20210224223000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Raro pero Cierto</title>
-  </programme>
-  <programme start="20210224223000 -0600" stop="20210224225500 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Animal manía</title>
-  </programme>
-  <programme start="20210224225500 -0600" stop="20210224232000 -0600" channel="Canal Nat Geo Kids">
+  <programme start="20210224202800 -0600" stop="20210224214300 -0600" channel="Canal Nat Geo Kids">
     <title lang="es">Dino Dana</title>
   </programme>
-  <programme start="20210224232000 -0600" stop="20210225000000 -0600" channel="Canal Nat Geo Kids">
-    <title lang="es">Yoko</title>
+  <programme start="20210224214300 -0600" stop="20210224221000 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20210224221000 -0600" stop="20210224223500 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Nat Geo Lab LatAm</title>
+  </programme>
+  <programme start="20210224223500 -0600" stop="20210224225700 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Raro pero Cierto</title>
+  </programme>
+  <programme start="20210224225700 -0600" stop="20210224232200 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Animal manía</title>
+  </programme>
+  <programme start="20210224232200 -0600" stop="20210225000000 -0600" channel="Canal Nat Geo Kids">
+    <title lang="es">Dino Dana</title>
   </programme>
   <programme start="20210224003000 -0600" stop="20210224010000 -0600" channel="Canal Nickelodeon">
     <title lang="es">The Thundermans</title>
@@ -2101,7 +2077,7 @@
   </programme>
   <programme start="20210224141500 -0600" stop="20210224160000 -0600" channel="Canal Paramount Channel (México)">
     <title lang="es">Megamente</title>
-    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City(n)</desc>
+    <desc lang="es">Megamente es un súper villano que logra deshacerse de su archienemigo "Metro Man" y ahora puede conquistar libremente Metro City</desc>
     <date>2010</date>
     <category lang="es">Película</category>
     <category lang="es">Infantil</category>
@@ -2148,7 +2124,7 @@
   </programme>
   <programme start="20210224070000 -0600" stop="20210224073000 -0600" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -2165,7 +2141,7 @@
   </programme>
   <programme start="20210224073000 -0600" stop="20210224080000 -0600" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -2193,7 +2169,7 @@
   </programme>
   <programme start="20210224104500 -0600" stop="20210224111000 -0600" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -2210,7 +2186,7 @@
   </programme>
   <programme start="20210224111000 -0600" stop="20210224113500 -0600" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -2269,7 +2245,7 @@
   <programme start="20210224095500 -0600" stop="20210224112700 -0600" channel="Canal Space (México)">
     <title lang="es">Drácula: La historia Jamás Contada</title>
     <title lang="xx">Dracula Untold</title>
-    <desc lang="es">La historia del príncipe Vlad III, el hombre que se convierte en el vampiro más temible de todos los tiempos, Drácula(n)</desc>
+    <desc lang="es">La historia del príncipe Vlad III, el hombre que se convierte en el vampiro más temible de todos los tiempos, Drácula</desc>
     <credits>
       <actor>Luke Evans</actor>
       <actor>Sarah Gadon</actor>
@@ -2294,7 +2270,7 @@
   <programme start="20210224160000 -0600" stop="20210224174400 -0600" channel="Canal Space (México)">
     <title lang="es">Después de la Tierra</title>
     <title lang="xx">After Earth</title>
-    <desc lang="es">Tras una lluvia de meteoritos Katai y Cypher se ven forzados a aterrizar en el planeta tierra que fue abandonada por los humanos hace tiempo(n)</desc>
+    <desc lang="es">Tras una lluvia de meteoritos Katai y Cypher se ven forzados a aterrizar en el planeta tierra que fue abandonada por los humanos hace tiempo</desc>
     <credits>
       <actor>Jaden Smith</actor>
       <actor>Will Smith</actor>
@@ -2314,7 +2290,7 @@
   </programme>
   <programme start="20210224174400 -0600" stop="20210224200400 -0600" channel="Canal Space (México)">
     <title lang="es">Van Helsing</title>
-    <desc lang="es">Van Helsing es enviado a Transilvania para detener a Drácula quien está utilizando las investigaciones del Dr. Frankenstein y un hombre lobo para sus planes siniestros(n)</desc>
+    <desc lang="es">Van Helsing es enviado a Transilvania para detener a Drácula quien está utilizando las investigaciones del Dr. Frankenstein y un hombre lobo para sus planes siniestros</desc>
     <credits>
       <actor>Hugh Jackman</actor>
       <actor>Kate Beckinsale</actor>
@@ -2337,7 +2313,7 @@
   <programme start="20210224220000 -0600" stop="20210225000300 -0600" channel="Canal Space (México)">
     <title lang="es">Dunkerque</title>
     <title lang="xx">Dunkirk (2017)</title>
-    <desc lang="es">Un grupo de soldados aliados son rodeados por las fuerzas alemanas en las playas de Dunkerque, Francia, entre mayo y junio de 1940, durante una batalla(n)</desc>
+    <desc lang="es">Un grupo de soldados aliados son rodeados por las fuerzas alemanas en las playas de Dunkerque, Francia, entre mayo y junio de 1940, durante una batalla</desc>
     <credits>
       <actor>Tom Hardy</actor>
       <actor>Cillian Murphy</actor>
