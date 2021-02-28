@@ -396,7 +396,7 @@ http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/346
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal SyFy" tvg-logo="" group-title="PLUS",SyFy
+#EXTINF:-1 tvg-ID="" tvg-name="Canal SyFy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" group-title="PLUS",SyFy
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/347
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal SyFy" tvg-logo="" group-title="PLUS",SyFy HD
@@ -404,7 +404,7 @@ http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/347
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="PLUS",TCM
 
-#EXTINF:-1 tvg-ID="" tvg-name="TVC" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/TVC-DEPORTES.png" group-title="PLUS",TVC
+#EXTINF:-1 tvg-ID="" tvg-name="TVC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" group-title="PLUS",TVC
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/354
 
 
@@ -422,23 +422,23 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Universal Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="PLUS",UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="Universal TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="PLUS",UNIVERSAL TV
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/355
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Warner TV (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="PLUS",WARNER
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Warner TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="PLUS",WARNER
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/359
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Warner TV (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="PLUS",WARNER HD
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime Latinoamérica" tvg-logo="" group-title="PLUS",Lifetime
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PLUS",LIFETIME
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/325
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal truTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="PLUS",TRU TV
-http://zufreelist.net:8880/crakzutvmr/crakzutvmr70
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Zee Mundo" tvg-logo="https://convergenciashow.mx/imgs/expo/ZEEMundo_sm.jpg" group-title="PLUS",Zee mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
@@ -513,14 +513,14 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedy Central (Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedy Central" tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/281
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Distrito Comedia" tvg-logo="https://cdn.mitvstatic.com/channels/mx_distrito-comedia_m.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="FRECUENCIA MUSICAL" tvg-logo="" group-title="ENTRETENIMIENTO",Frecuencia Musical Tv
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w575390351.m3u8
 
 
 
@@ -531,7 +531,7 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="USA LATINO",E!
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment Television" tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="USA LATINO",E!
 http://ztvmr.online:2086/fJ4VUcxUU7asdfvasdvcasdvc/nYXGcrAvne/290
 
 #EXTINF:-1 tvg-id="" tvg-name="GH TV" tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg" group-title="LATINOAMERICA",GH TV
