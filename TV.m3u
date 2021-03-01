@@ -551,14 +551,14 @@ http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfa
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Animal Planet" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDO Y CULTURA",ANIMAL PLANET
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/259
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Channel (México)" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Channel" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/283
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery CIVILIZATION (México)" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CIVILIZATION
@@ -568,7 +568,7 @@ http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfa
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Home y Health (México)" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-mBqdVdrE13_Tv0WU79KOo93K1ZTuaJnGPig=s900-c-k-c0xffffffff-no-rj-mo" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/284
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal ID (Investigation Discovery) México" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-id_m.png" group-title="MUNDO Y CULTURA",DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-ID="" tvg-name="canal ID" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="MUNDO Y CULTURA",DISCOVERY INVESTIGATION
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/321
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery SCIENCE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE
@@ -578,10 +578,10 @@ http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfa
 #EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal TLC (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="MUNDO Y CULTURA",TLC
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="MUNDO Y CULTURA",TLC
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/349
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Turbo (Latinoamérica)" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Turbo Latinoamérica" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/286
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery World Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/180px-World_Discovery_HD_logo.svg.png" group-title="MUNDO Y CULTURA",Discovery World
@@ -590,15 +590,15 @@ http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfa
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal History (México)" tvg-logo="https://liberador.net/media/images/History_Channel.max-640x640.jpg" group-title="MUNDO Y CULTURA",HISTORY
+#EXTINF:-1 tvg-ID="" tvg-name="canal History (México)" tvg-logo="https://liberador.net/media/images/History_Channel.max-640x640.jpg" group-title="MUNDO Y CULTURA",HISTORY
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/315
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal History 2" tvg-logo="https://s3-sa-east-1.amazonaws.com/tvquality-epg/HISTORY2.jpg" group-title="MUNDO Y CULTURA",H2
+#EXTINF:-1 tvg-ID="" tvg-name="Canal History 2 (México)" tvg-logo="https://s3-sa-east-1.amazonaws.com/tvquality-epg/HISTORY2.jpg" group-title="MUNDO Y CULTURA",H2
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/314
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal National Geographic (NatGeo Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="MUNDO Y CULTURA",NATGEO MX
+#EXTINF:-1 tvg-ID="" tvg-name="Canal National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="MUNDO Y CULTURA",NATGEO MX
 http://zutv.online:2086/asdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/afedgvaerfasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfgasdfgvasrfg/333
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="MUNDO Y CULTURA",NAT GEO WILD
