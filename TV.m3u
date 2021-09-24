@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="USA LATINO",GALAVISION
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41529
 
 #EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="" group-title="MEXICO",Imagen TV
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41049
 
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.1 GUANAJUATO" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="MEXICO",CANAL 4.1 GUANAJUATO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w1125826527.m3u8
@@ -23,10 +24,10 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w41392
 https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w1461962821.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRECEVISION YUCATAN" tvg-logo="http://www.teleyucatan.gob.mx/files-content/conf/logo_right_.png" group-title="MEXICO",TRECEVISION YUCATAN
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w1320618380.m3u8
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/media_w572956329_2817.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CANCUN" tvg-logo="http://www.lawebtv.mx/img/logo_tvcun2.png" group-title="MEXICO",SIPSE TV CANCUN
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CHETUMAL" tvg-logo="https://sipse.com/images/logo-sipse.png" group-title="MEXICO",SIPSE TV CHETUMAL
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
@@ -54,53 +55,52 @@ https://59802217c6db4.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal AZ MUNDO" tvg-logo="http://tuproduccion.com/inicio/wp-content/uploads/2017/01/logo-cinema-azteca.jpg" group-title="MEXICO",AZTECA MUNDO
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41525
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal AZ CLICK" tvg-logo="http://tuproduccion.com/inicio/wp-content/uploads/2017/01/logo-cinema-azteca.jpg" group-title="MEXICO",AZTECA CLICK
 
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdn
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Boomerang" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="NIÑOS",BOOMERANG
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/267.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41020
 
-#EXTINF:-1 tvg-ID="" tvg-name="CACHIPUM" tvg-logo="http://cachipum.tv/img/logo.png" group-title="NIÑOS",Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/chunklist_w389742582.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoon Network" tvg-logo="https://pmcvariety.files.wordpress.com/2015/06/correct-cartoon-network-logo.jpg" group-title="NIÑOS",CARTOON NETWORK
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/274.ts
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="NIÑOS",DISCOVERY KIDS
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41002
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Channel" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney11.jpg" group-title="NIÑOS",DISNEY CHANNEL
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/287.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41006
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Junior" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney-jr_m.png" group-title="NIÑOS",DISNEY JR
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/288.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41003
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Disney XD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-xd_m.png" group-title="NIÑOS",DISNEY XD
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/289.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41005
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Nat Geo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="NIÑOS",NAT GEO KIDS
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41022
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Nickelodeon" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="NIÑOS",NICKELODEON
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/336.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41004
 
 
 #EXTINF:-1 tvg-id="Canal Nick 2 (México)" tvg-name="" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=328611"group-title="NIÑOS",NICK 2
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Nick Jr." tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="NIÑOS",NICK JR
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/335.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41001
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Nicktoons (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nicktoons_mexico-mediano.png" group-title="NIÑOS",NickToons
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="NIÑOS",TOONCAST
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/41535
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Kidz" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidzLogoBlack.png" group-title="NIÑOS",ULTRA KIDZ
 
@@ -118,18 +118,17 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="https://m.diariodesevilla.es/2019/01/05/vital/pantera-rosa-clasico-porte_1315978490_93150863_667x375.jpg" group-title="24/7",LA PANTERA ROSA
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/44.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/325
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-t0FMUzmcALvQdHXr5nJlipYdJLUzeQaNzAw=s288-c-k-c0xffffffff-no-rj-mo" group-title="24/7",Caillou
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/3.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/318
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81e-eBR68SL._SY445_.jpg" group-title="24/7",Happy Tree Friends
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/36.ts
-
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/321
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 CORRE CAMINOS" tvg-logo="https://www.dibujoswiki.com/Uploads/dibujoswiki.com/ImagenesGrandes/correcaminos-8.jpg" group-title="24/7",CORRE CAMINOS
-http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/32.ts
+http://gratuita.mrzutv.net:8080/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/kjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjbhdbhdbfjdbfjbdkjbdfkjdbfjdkbfjdbfjkbdkjfbkjdbfjkdbfjkdbfjkdbfjkbdkjshdfjkshdjfnsdkjnjksdnjsndjvnsdjnjsdnkjdnjkndjncjdncndjcnjkdncjkndvjkndjknvjknnjjdnkvjkkndkjb/319
 
 #EXTINF:-1 tvg-ID="" tvg-name="simpsons" tvg-logo="https://telefe-static.akamaized.net/media/18074521/poster_los_simpson.jpg" group-title="24/7",LOS SIMPSON
 http://zutv.online:2086/live/asdccASDCadcDDCascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/asdccASDCadcDDCcccascADCadcADCadcADCwdcWDECWECWECwecWEC33333355DSFVSZDV/8.ts
