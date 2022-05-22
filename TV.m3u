@@ -43,14 +43,11 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m
 https://5e50264bd6766.streamlock.net/tabasco/videotabasco/chunklist_w2019435255.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV TLAXCALA" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-bsAC91kr87t9LHahXTsujSSNw8VQu8b44iA=s900-c-k-c0xffffffff-no-rj-mo" group-title="MEXICO",TV TLAXCALA
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988_0p14626.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TMTV" tvg-logo="http://www.transmediatelevision.com/wp-content/uploads/2017/05/logotransmedia-01-1.png" group-title="MEXICO",TMTV
-http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PMTV" tvg-logo="http://www.radioranchito.com.mx/img/LOGOPMTV.png" group-title="MEXICO",PRESUMIENDO MEXICO
-https://59802217c6db4.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w457207052_b1428000_sleng.m3u8
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w1924817410_b1428000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Azteca Corazon" tvg-logo="http://tuproduccion.com/inicio/wp-content/uploads/2017/01/logo-cinema-azteca.jpg" group-title="MEXICO",AZTECA CORAZON
@@ -74,6 +71,9 @@ http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="MEXICO",AZTECA 1 SD
 http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/82
 
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="MEXICO",AZTECA 1 SD
+http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/82
+
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7
 http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/872
 
@@ -81,7 +81,7 @@ http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/51
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Boomerang" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="NIÑOS",BOOMERANG
+#EXTINF:-1 tvg-ID="" tvg-name="Canal CARTOONITO" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
 http://gratuita.mrzutv.net:25461/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/fulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjfulcambiopjjjjjjjjjjjjjjjjj/41020
 
 
