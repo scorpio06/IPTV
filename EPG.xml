@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Mexiquense TV">
+    <display-name lang="es">Canal Mexiquense TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Azteca Mundo">
     <display-name lang="es">Canal Azteca Mundo</display-name>
     <url>http://www.gatotv.com</url>
@@ -184,6 +188,114 @@
     <display-name lang="es">Canal Nat Geo Wild</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <programme start="20220629020000 -0500" stop="20220629060000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20220629060000 -0500" stop="20220629061500 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20220629061500 -0500" stop="20220629063000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Noticiero DW</title>
+  </programme>
+  <programme start="20220629063000 -0500" stop="20220629073000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Edgar Galicia</title>
+  </programme>
+  <programme start="20220629073000 -0500" stop="20220629080000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Fit for Life</title>
+  </programme>
+  <programme start="20220629080000 -0500" stop="20220629083000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Atrévete por ti</title>
+  </programme>
+  <programme start="20220629083000 -0500" stop="20220629103000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Emociónate</title>
+  </programme>
+  <programme start="20220629103000 -0500" stop="20220629110000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20220629110000 -0500" stop="20220629120000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Noticias en Hora Buena</title>
+  </programme>
+  <programme start="20220629120000 -0500" stop="20220629123000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Porque soy mujer</title>
+  </programme>
+  <programme start="20220629123000 -0500" stop="20220629130000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Lo que nos une</title>
+  </programme>
+  <programme start="20220629130000 -0500" stop="20220629150000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20220629150000 -0500" stop="20220629160000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Marisol Ordoñez</title>
+  </programme>
+  <programme start="20220629160000 -0500" stop="20220629170000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Cultura AMX</title>
+  </programme>
+  <programme start="20220629170000 -0500" stop="20220629180000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20220629180000 -0500" stop="20220629190000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Pasión por el sabor</title>
+  </programme>
+  <programme start="20220629190000 -0500" stop="20220629200000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Profesión Héroe</title>
+  </programme>
+  <programme start="20220629200000 -0500" stop="20220629210000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Retuit TV</title>
+  </programme>
+  <programme start="20220629210000 -0500" stop="20220629220000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
+  <programme start="20220629220000 -0500" stop="20220629230000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">La Zona</title>
+  </programme>
+  <programme start="20220629230000 -0500" stop="20220630000500 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Historias del Más Allá</title>
+  </programme>
+  <programme start="20220630230000 -0500" stop="20220701000500 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Historias del Más Allá</title>
+  </programme>
+  <programme start="20220701000500 -0500" stop="20220701020000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20220701020000 -0500" stop="20220701043000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20220701043000 -0500" stop="20220701060000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">TV Mexiquense</title>
+  </programme>
+  <programme start="20220701123000 -0500" stop="20220701130000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Enjambre universitario</title>
+  </programme>
+  <programme start="20220701130000 -0500" stop="20220701140000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Pelicula del Cine Mexicano</title>
+  </programme>
+  <programme start="20220701140000 -0500" stop="20220701150000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20220701150000 -0500" stop="20220701160000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Marisol Ordoñez</title>
+  </programme>
+  <programme start="20220701160000 -0500" stop="20220701170000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Cultura AMX</title>
+  </programme>
+  <programme start="20220701170000 -0500" stop="20220701180000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Bim Bam Bum</title>
+  </programme>
+  <programme start="20220701180000 -0500" stop="20220701190000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Destino Verde</title>
+  </programme>
+  <programme start="20220701190000 -0500" stop="20220701200000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Salud en Casa</title>
+  </programme>
+  <programme start="20220701200000 -0500" stop="20220701210000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">Cinescape</title>
+  </programme>
+  <programme start="20220701210000 -0500" stop="20220701220000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">AMX con Carlos González</title>
+  </programme>
+  <programme start="20220701220000 -0500" stop="20220701230000 -0500" channel="Canal Mexiquense TV">
+    <title lang="es">100% Grupero</title>
+  </programme>
   <programme start="20220629000000 -0500" stop="20220629013000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Acércate a Rocío</title>
   </programme>
@@ -192,7 +304,7 @@
   </programme>
   <programme start="20220629023000 -0500" stop="20220629033000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -221,19 +333,19 @@
   </programme>
   <programme start="20220629090000 -0500" stop="20220629110000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20220629110000 -0500" stop="20220629130000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
   <programme start="20220629130000 -0500" stop="20220629140000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
@@ -242,7 +354,7 @@
   </programme>
   <programme start="20220629150000 -0500" stop="20220629163000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy(n)</desc>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
@@ -258,7 +370,7 @@
   </programme>
   <programme start="20220629203000 -0500" stop="20220629213000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
@@ -281,6 +393,17 @@
   </programme>
   <programme start="20220630193000 -0500" stop="20220630203000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Chisme No Like</title>
+  </programme>
+  <programme start="20220630203000 -0500" stop="20220630213000 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
   <programme start="20220629000000 -0500" stop="20220629013000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">La mujer de Judas - Semana final</title>
@@ -333,6 +456,9 @@
   <programme start="20220630193000 -0500" stop="20220630210000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Huérfanas</title>
   </programme>
+  <programme start="20220630210000 -0500" stop="20220630223000 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">Cielo Rojo</title>
+  </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Laid-Back Camp</title>
   </programme>
@@ -342,7 +468,7 @@
   <programme start="20220629005300 -0500" stop="20220629013100 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -361,7 +487,7 @@
   <programme start="20220629015300 -0500" stop="20220629030000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -380,7 +506,7 @@
   <programme start="20220629040500 -0500" stop="20220629050000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(g)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -400,7 +526,7 @@
   <programme start="20220629060000 -0500" stop="20220629070000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(g)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -426,7 +552,7 @@
   <programme start="20220629090000 -0500" stop="20220629093000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(g)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -443,7 +569,7 @@
   <programme start="20220629093000 -0500" stop="20220629103000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -474,7 +600,7 @@
   <programme start="20220629130000 -0500" stop="20220629140000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -496,7 +622,7 @@
   <programme start="20220629150000 -0500" stop="20220629154200 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -515,7 +641,7 @@
   <programme start="20220629160500 -0500" stop="20220629170000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(g)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -538,7 +664,7 @@
   <programme start="20220629180000 -0500" stop="20220629183400 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -560,7 +686,7 @@
   <programme start="20220629191500 -0500" stop="20220629194500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(g)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -579,7 +705,7 @@
   <programme start="20220629200000 -0500" stop="20220629210000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -599,7 +725,7 @@
   <programme start="20220629220000 -0500" stop="20220629230000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -615,7 +741,7 @@
   <programme start="20220629230000 -0500" stop="20220630000000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -635,7 +761,7 @@
   <programme start="20220630010000 -0500" stop="20220630020000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -651,7 +777,7 @@
   <programme start="20220630020000 -0500" stop="20220630030000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -670,7 +796,7 @@
   <programme start="20220630040000 -0500" stop="20220630050000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -690,7 +816,7 @@
   <programme start="20220630060000 -0500" stop="20220630070000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -716,7 +842,7 @@
   <programme start="20220630090000 -0500" stop="20220630093000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -733,7 +859,7 @@
   <programme start="20220630093000 -0500" stop="20220630103000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -761,7 +887,7 @@
   <programme start="20220630150000 -0500" stop="20220630160000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -777,7 +903,7 @@
   <programme start="20220630160000 -0500" stop="20220630170000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -800,7 +926,7 @@
   <programme start="20220630180000 -0500" stop="20220630183000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -822,7 +948,7 @@
   <programme start="20220630191500 -0500" stop="20220630194500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -841,7 +967,7 @@
   <programme start="20220630200000 -0500" stop="20220630210000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -861,7 +987,7 @@
   <programme start="20220630220000 -0500" stop="20220630230000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -877,7 +1003,7 @@
   <programme start="20220630230000 -0500" stop="20220701000000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1109,7 +1235,7 @@
   <programme start="20220630070300 -0500" stop="20220630073000 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1129,7 +1255,7 @@
   <programme start="20220630082600 -0500" stop="20220630085300 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1143,7 +1269,7 @@
   <programme start="20220630085300 -0500" stop="20220630091600 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1178,7 +1304,7 @@
   <programme start="20220630154400 -0500" stop="20220630161100 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1192,7 +1318,7 @@
   <programme start="20220630161100 -0500" stop="20220630163800 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1206,7 +1332,7 @@
   <programme start="20220630163800 -0500" stop="20220630174600 -0500" channel="Canal Discovery Kids">
     <title lang="es">Peppa</title>
     <title lang="xx">Peppa Pig</title>
-    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo(n)</desc>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo</desc>
     <credits>
       <producer>Phil Davies</producer>
     </credits>
@@ -1285,7 +1411,7 @@
   <programme start="20220629053000 -0500" stop="20220629060000 -0500" channel="Canal Disney Channel">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
-    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa(g)</desc>
+    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa</desc>
     <credits>
       <producer>Jason Wyatt</producer>
     </credits>
@@ -1305,7 +1431,7 @@
   <programme start="20220629070000 -0500" stop="20220629073000 -0500" channel="Canal Disney Channel">
     <title lang="es">Star vs. Las Fuerzas del Mal</title>
     <title lang="xx">Star vs. the Forces of Evil</title>
-    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar(g)</desc>
+    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar</desc>
     <credits>
       <producer>Aaron Hammersley</producer>
       <producer>Dominic Bisignano</producer>
@@ -1325,7 +1451,7 @@
   <programme start="20220629074500 -0500" stop="20220629080000 -0500" channel="Canal Disney Channel">
     <title lang="es">Phineas y Ferb</title>
     <title lang="xx">Phineas and Ferb</title>
-    <desc lang="es">Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres(g)</desc>
+    <desc lang="es">Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres</desc>
     <credits>
       <producer>Robert F. Hughes</producer>
     </credits>
@@ -1339,7 +1465,7 @@
   <programme start="20220629080000 -0500" stop="20220629083000 -0500" channel="Canal Disney Channel">
     <title lang="es">Patoaventuras</title>
     <title lang="xx">DuckTales</title>
-    <desc lang="es">Rico McPato tiene un buen sentido del olfato para los negocios, esto lo lleva a grandes aventuras por el mundo junto con sus sobrinos Hugo, Paco y Luis(g)</desc>
+    <desc lang="es">Rico McPato tiene un buen sentido del olfato para los negocios, esto lo lleva a grandes aventuras por el mundo junto con sus sobrinos Hugo, Paco y Luis</desc>
     <credits>
       <producer>Jymn Magon</producer>
       <producer>Fred Wolf</producer>
@@ -1450,7 +1576,7 @@
   <programme start="20220630090000 -0500" stop="20220630093000 -0500" channel="Canal Disney Channel">
     <title lang="es">Grandes Héroes: La Serie</title>
     <title lang="xx">Big Hero 6: The Series</title>
-    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo(n)</desc>
+    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo</desc>
     <date>2017</date>
     <category lang="es">Caricatura</category>
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/grandes_heroes_la_serie.jpg" />
@@ -1461,7 +1587,7 @@
   <programme start="20220630093000 -0500" stop="20220630100000 -0500" channel="Canal Disney Channel">
     <title lang="es">Amphibia</title>
     <title lang="xx">Amphibia</title>
-    <desc lang="es">Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad(n)</desc>
+    <desc lang="es">Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad</desc>
     <credits>
       <producer>Jack Ferraiolo</producer>
       <producer>Tara Badawy</producer>
@@ -1478,7 +1604,7 @@
   <programme start="20220630100000 -0500" stop="20220630101500 -0500" channel="Canal Disney Channel">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
-    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa(n)</desc>
+    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa</desc>
     <credits>
       <producer>Jason Wyatt</producer>
     </credits>
@@ -1531,7 +1657,7 @@
   <programme start="20220630163000 -0500" stop="20220630170000 -0500" channel="Canal Disney Channel">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
-    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa(n)</desc>
+    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa</desc>
     <credits>
       <producer>Jason Wyatt</producer>
     </credits>
@@ -1563,7 +1689,7 @@
   <programme start="20220630200000 -0500" stop="20220630203000 -0500" channel="Canal Disney Channel">
     <title lang="es">Star vs. Las Fuerzas del Mal</title>
     <title lang="xx">Star vs. the Forces of Evil</title>
-    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar(n)</desc>
+    <desc lang="es">Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar</desc>
     <credits>
       <producer>Aaron Hammersley</producer>
       <producer>Dominic Bisignano</producer>
@@ -1595,7 +1721,7 @@
   <programme start="20220630233000 -0500" stop="20220701000000 -0500" channel="Canal Disney Channel">
     <title lang="es">Grandes Héroes: La Serie</title>
     <title lang="xx">Big Hero 6: The Series</title>
-    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo(n)</desc>
+    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo</desc>
     <date>2017</date>
     <category lang="es">Caricatura</category>
     <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/grandes_heroes_la_serie.jpg" />
@@ -1615,7 +1741,7 @@
   <programme start="20220629013000 -0500" stop="20220629020000 -0500" channel="Canal Disney Junior">
     <title lang="es">Puppy Dog Pals</title>
     <title lang="xx">Puppy Dog Pals</title>
-    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
     <credits>
       <producer>Harland Williams</producer>
       <producer>Elizabeth Seidman</producer>
@@ -1640,7 +1766,7 @@
   <programme start="20220629033000 -0500" stop="20220629040000 -0500" channel="Canal Disney Junior">
     <title lang="es">Vampirina</title>
     <title lang="xx">Vampirina</title>
-    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad(g)</desc>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad</desc>
     <credits>
       <producer>Norton Virgien</producer>
     </credits>
@@ -1663,7 +1789,7 @@
   <programme start="20220629050000 -0500" stop="20220629053000 -0500" channel="Canal Disney Junior">
     <title lang="es">PJ Masks: Héroes en Pijamas</title>
     <title lang="xx">PJ Masks</title>
-    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo(g)</desc>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
     <credits>
       <producer>Guillaume Hellouin</producer>
       <producer>Corinne Kouper</producer>
@@ -1711,7 +1837,7 @@
   <programme start="20220629091500 -0500" stop="20220629093000 -0500" channel="Canal Disney Junior">
     <title lang="es">Gigantosaurus</title>
     <title lang="xx">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto(g)</desc>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
     <credits>
       <producer>Dominique Bourse</producer>
       <producer>Olivier Lelardoux</producer>
@@ -1726,7 +1852,7 @@
   <programme start="20220629093000 -0500" stop="20220629094500 -0500" channel="Canal Disney Junior">
     <title lang="es">Puppy Dog Pals</title>
     <title lang="xx">Puppy Dog Pals</title>
-    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
     <credits>
       <producer>Harland Williams</producer>
       <producer>Elizabeth Seidman</producer>
@@ -1757,7 +1883,7 @@
   <programme start="20220629110000 -0500" stop="20220629111500 -0500" channel="Canal Disney Junior">
     <title lang="es">Puppy Dog Pals</title>
     <title lang="xx">Puppy Dog Pals</title>
-    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
     <credits>
       <producer>Harland Williams</producer>
       <producer>Elizabeth Seidman</producer>
@@ -1809,7 +1935,7 @@
   <programme start="20220629153000 -0500" stop="20220629154500 -0500" channel="Canal Disney Junior">
     <title lang="es">Gigantosaurus</title>
     <title lang="xx">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto(g)</desc>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
     <credits>
       <producer>Dominique Bourse</producer>
       <producer>Olivier Lelardoux</producer>
@@ -1824,7 +1950,7 @@
   <programme start="20220629154500 -0500" stop="20220629160000 -0500" channel="Canal Disney Junior">
     <title lang="es">Puppy Dog Pals</title>
     <title lang="xx">Puppy Dog Pals</title>
-    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
     <credits>
       <producer>Harland Williams</producer>
       <producer>Elizabeth Seidman</producer>
@@ -1910,7 +2036,7 @@
   <programme start="20220630170000 -0500" stop="20220630173000 -0500" channel="Canal Disney Junior">
     <title lang="es">Princesita Sofía</title>
     <title lang="xx">Sofia the First</title>
-    <desc lang="es">La vida de Sofía cambia cuando su madre se casa con el rey, ahora con la ayuda de un conejo y un amuleto será guiada para ser una princesa de buen corazón(n)</desc>
+    <desc lang="es">La vida de Sofía cambia cuando su madre se casa con el rey, ahora con la ayuda de un conejo y un amuleto será guiada para ser una princesa de buen corazón</desc>
     <credits>
       <composer>John Kavanaugh</composer>
       <composer>Craig Gerber</composer>
@@ -1925,7 +2051,7 @@
   <programme start="20220630173000 -0500" stop="20220630180000 -0500" channel="Canal Disney Junior">
     <title lang="es">Princesita Sofía</title>
     <title lang="xx">Sofia the First</title>
-    <desc lang="es">La vida de Sofía cambia cuando su madre se casa con el rey, ahora con la ayuda de un conejo y un amuleto será guiada para ser una princesa de buen corazón(n)</desc>
+    <desc lang="es">La vida de Sofía cambia cuando su madre se casa con el rey, ahora con la ayuda de un conejo y un amuleto será guiada para ser una princesa de buen corazón</desc>
     <credits>
       <composer>John Kavanaugh</composer>
       <composer>Craig Gerber</composer>
@@ -1940,7 +2066,7 @@
   <programme start="20220630180000 -0500" stop="20220630183000 -0500" channel="Canal Disney Junior">
     <title lang="es">PJ Masks: Héroes en Pijamas</title>
     <title lang="xx">PJ Masks</title>
-    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo(n)</desc>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
     <credits>
       <producer>Guillaume Hellouin</producer>
       <producer>Corinne Kouper</producer>
@@ -1970,7 +2096,7 @@
   <programme start="20220630191500 -0500" stop="20220630193000 -0500" channel="Canal Disney Junior">
     <title lang="es">Gigantosaurus</title>
     <title lang="xx">Gigantosaurus</title>
-    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto(n)</desc>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
     <credits>
       <producer>Dominique Bourse</producer>
       <producer>Olivier Lelardoux</producer>
@@ -1991,6 +2117,9 @@
   <programme start="20220630203000 -0500" stop="20220630204500 -0500" channel="Canal Disney Junior">
     <title lang="es">Fancy Nancy Clancy</title>
   </programme>
+  <programme start="20220630210000 -0500" stop="20220630211500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Nickelodeon">
     <title lang="es">The Loud House</title>
     <title lang="xx">The Loud House</title>
@@ -2007,7 +2136,7 @@
   </programme>
   <programme start="20220629003000 -0500" stop="20220629010000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(g)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -2041,7 +2170,7 @@
   </programme>
   <programme start="20220629050000 -0500" stop="20220629053000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(g)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -2054,7 +2183,7 @@
   </programme>
   <programme start="20220629053000 -0500" stop="20220629060000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(g)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -2073,7 +2202,7 @@
   </programme>
   <programme start="20220629070000 -0500" stop="20220629073000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Bob Esponja</title>
-    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”(g)</desc>
+    <desc lang="es">Bob Esponja, la serie animada de televisión creada por el biólogo marino Stephen Hillenburg. Donde Bob vive en la ciudad submarina “Fondo de Bikini”</desc>
     <credits>
       <actor>Tom Kenny</actor>
       <actor>Bill Faberbakke</actor>
@@ -2087,7 +2216,7 @@
   <programme start="20220629073000 -0500" stop="20220629080000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Alvinnn!!! And the Chipmunks</title>
     <title lang="xx">Alvinnn!!! And the Chipmunks</title>
-    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!"(g)</desc>
+    <desc lang="es">Dave es un padre soltero que debe criar a seis ardillas hiperactivas que ponen a prueba su paciencia obligándolo a terminar cada oración en "¡ALVINN!"</desc>
     <credits>
       <producer>Vanessa Bagdasarian</producer>
       <producer>Michael Bagdasarian</producer>
@@ -2105,7 +2234,7 @@
   <programme start="20220629080000 -0500" stop="20220629083000 -0500" channel="Canal Nickelodeon">
     <title lang="es">The Loud House</title>
     <title lang="xx">The Loud House</title>
-    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas(g)</desc>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas</desc>
     <credits>
       <producer>Karen Malach</producer>
     </credits>
@@ -2119,7 +2248,7 @@
   <programme start="20220629083000 -0500" stop="20220629090000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Breadwinners</title>
     <title lang="xx">Breadwinners</title>
-    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town(g)</desc>
+    <desc lang="es">Dos patos muestran su lujoso estilo cuando se movilizan con su furgoneta propulsada por cohete entregando pan a los animales de la parte mala de Duck Town</desc>
     <credits>
       <producer>Lizabeth Velasco</producer>
     </credits>
@@ -2148,7 +2277,7 @@
   <programme start="20220629113000 -0500" stop="20220629120000 -0500" channel="Canal Nickelodeon">
     <title lang="es">The Loud House</title>
     <title lang="xx">The Loud House</title>
-    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas(g)</desc>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas</desc>
     <credits>
       <producer>Karen Malach</producer>
     </credits>
@@ -2270,6 +2399,9 @@
   </programme>
   <programme start="20220630193000 -0500" stop="20220630200000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Henry Danger</title>
+  </programme>
+  <programme start="20220630210000 -0500" stop="20220630213000 -0500" channel="Canal Nickelodeon">
+    <title lang="es">Nickelodeon's Unfiltered</title>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Nick Jr.">
     <title lang="es">Garden Academy</title>
@@ -2725,7 +2857,7 @@
   </programme>
   <programme start="20220630074700 -0500" stop="20220630084000 -0500" channel="Canal AyE">
     <title lang="es">Mente Criminal</title>
-    <desc lang="es">Una serie que busca profundizar sobre lo que hace que un asesino lo lleve a cometer sus macabros crímenes(n)</desc>
+    <desc lang="es">Una serie que busca profundizar sobre lo que hace que un asesino lo lleve a cometer sus macabros crímenes</desc>
     <category lang="es">Serie</category>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/mente_criminal.jpg" />
@@ -2797,7 +2929,7 @@
   </programme>
   <programme start="20220630190200 -0500" stop="20220630210700 -0500" channel="Canal AyE">
     <title lang="es">RoboCop</title>
-    <desc lang="es">Un policía de Detroit luego de perseguir a unos delincuentes termina gravemente herido y para salvarle la vida es transformado en un policía cibernético(n)</desc>
+    <desc lang="es">Un policía de Detroit luego de perseguir a unos delincuentes termina gravemente herido y para salvarle la vida es transformado en un policía cibernético</desc>
     <credits>
       <actor>Peter Weller</actor>
       <actor>Nancy Allen</actor>
@@ -2829,7 +2961,7 @@
   </programme>
   <programme start="20220629004000 -0500" stop="20220629013500 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -2848,7 +2980,7 @@
   <programme start="20220629013500 -0500" stop="20220629023000 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -2873,7 +3005,7 @@
   <programme start="20220629023000 -0500" stop="20220629032500 -0500" channel="CANAL AXN">
     <title lang="es">S.W.A.T.</title>
     <title lang="xx">S.W.A.T.</title>
-    <desc lang="es">Sigue al teniente afro americano de S.W.A.T. dividido entre su lealtad a las calles y sus compañeros oficiales, dirigiendo una nueva unidad de marginados(n)</desc>
+    <desc lang="es">Sigue al teniente afro americano de S.W.A.T. dividido entre su lealtad a las calles y sus compañeros oficiales, dirigiendo una nueva unidad de marginados</desc>
     <credits>
       <actor>Shemar Moore</actor>
       <actor>Stephanie Sigman</actor>
@@ -2895,7 +3027,7 @@
   <programme start="20220629032500 -0500" stop="20220629041500 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -2920,7 +3052,7 @@
   <programme start="20220629041500 -0500" stop="20220629050500 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -2945,7 +3077,7 @@
   <programme start="20220629050500 -0500" stop="20220629060000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -2970,7 +3102,7 @@
   <programme start="20220629060000 -0500" stop="20220629065000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -2995,7 +3127,7 @@
   <programme start="20220629065000 -0500" stop="20220629074000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3020,7 +3152,7 @@
   <programme start="20220629074000 -0500" stop="20220629083000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3045,7 +3177,7 @@
   <programme start="20220629083000 -0500" stop="20220629092000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3070,7 +3202,7 @@
   <programme start="20220629092000 -0500" stop="20220629101000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -3093,7 +3225,7 @@
   <programme start="20220629101000 -0500" stop="20220629110000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
-    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música(n)</desc>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música</desc>
     <credits>
       <actor>Scott Bakula</actor>
       <actor>Lucas Black</actor>
@@ -3118,7 +3250,7 @@
   <programme start="20220629110000 -0500" stop="20220629115000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -3140,7 +3272,7 @@
   <programme start="20220629115000 -0500" stop="20220629124500 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -3162,7 +3294,7 @@
   <programme start="20220629124500 -0500" stop="20220629134000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -3184,7 +3316,7 @@
   <programme start="20220629134000 -0500" stop="20220629143500 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -3209,7 +3341,7 @@
   <programme start="20220629143500 -0500" stop="20220629153000 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -3234,7 +3366,7 @@
   <programme start="20220629153000 -0500" stop="20220629162500 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -3259,7 +3391,7 @@
   <programme start="20220629162500 -0500" stop="20220629172000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3284,7 +3416,7 @@
   <programme start="20220629172000 -0500" stop="20220629181500 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3309,7 +3441,7 @@
   <programme start="20220629181500 -0500" stop="20220629191000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3334,7 +3466,7 @@
   <programme start="20220629191000 -0500" stop="20220629200500 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -3356,7 +3488,7 @@
   <programme start="20220629200500 -0500" stop="20220629210000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -3378,7 +3510,7 @@
   <programme start="20220629210000 -0500" stop="20220629215000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -3403,7 +3535,7 @@
   <programme start="20220629215000 -0500" stop="20220629224000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
-    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música(n)</desc>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música</desc>
     <credits>
       <actor>Scott Bakula</actor>
       <actor>Lucas Black</actor>
@@ -3428,7 +3560,7 @@
   <programme start="20220629224000 -0500" stop="20220629233000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -3450,7 +3582,7 @@
   </programme>
   <programme start="20220629233000 -0500" stop="20220630002500 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(c)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4107,7 +4239,7 @@
   </programme>
   <programme start="20220701002500 -0500" stop="20220701012000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4126,7 +4258,7 @@
   <programme start="20220701012000 -0500" stop="20220701021500 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -4151,7 +4283,7 @@
   <programme start="20220701021500 -0500" stop="20220701031000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -4175,7 +4307,7 @@
   </programme>
   <programme start="20220701031000 -0500" stop="20220701040500 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4193,7 +4325,7 @@
   </programme>
   <programme start="20220701040500 -0500" stop="20220701050000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4211,7 +4343,7 @@
   </programme>
   <programme start="20220701050000 -0500" stop="20220701060000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4229,7 +4361,7 @@
   </programme>
   <programme start="20220701060000 -0500" stop="20220701065000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4247,7 +4379,7 @@
   </programme>
   <programme start="20220701065000 -0500" stop="20220701074000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4265,7 +4397,7 @@
   </programme>
   <programme start="20220701074000 -0500" stop="20220701083000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4284,7 +4416,7 @@
   <programme start="20220701083000 -0500" stop="20220701092000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -4309,7 +4441,7 @@
   <programme start="20220701092000 -0500" stop="20220701101000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -4332,7 +4464,7 @@
   <programme start="20220701101000 -0500" stop="20220701110000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS: New Orleans</title>
     <title lang="xx">NCIS: New Orleans</title>
-    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música(n)</desc>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música</desc>
     <credits>
       <actor>Scott Bakula</actor>
       <actor>Lucas Black</actor>
@@ -4357,7 +4489,7 @@
   <programme start="20220701110000 -0500" stop="20220701115000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -4379,7 +4511,7 @@
   <programme start="20220701115000 -0500" stop="20220701124500 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -4401,7 +4533,7 @@
   <programme start="20220701124500 -0500" stop="20220701134000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -4423,7 +4555,7 @@
   <programme start="20220701134000 -0500" stop="20220701143500 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -4448,7 +4580,7 @@
   <programme start="20220701143500 -0500" stop="20220701153000 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -4473,7 +4605,7 @@
   <programme start="20220701153000 -0500" stop="20220701162500 -0500" channel="CANAL AXN">
     <title lang="es">CSI: Miami</title>
     <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso(n)</desc>
+    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso</desc>
     <credits>
       <actor>David Caruso</actor>
       <actor>Emily Procter</actor>
@@ -4498,7 +4630,7 @@
   <programme start="20220701162500 -0500" stop="20220701172000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -4523,7 +4655,7 @@
   <programme start="20220701172000 -0500" stop="20220701181500 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -4548,7 +4680,7 @@
   <programme start="20220701181500 -0500" stop="20220701191000 -0500" channel="CANAL AXN">
     <title lang="es">NCIS</title>
     <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar(n)</desc>
+    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar</desc>
     <credits>
       <actor>Mark Harmon</actor>
       <actor>Sasha Alexander</actor>
@@ -4573,7 +4705,7 @@
   <programme start="20220701191000 -0500" stop="20220701200500 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -4595,7 +4727,7 @@
   <programme start="20220701200500 -0500" stop="20220701210000 -0500" channel="CANAL AXN">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(n)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -4616,7 +4748,7 @@
   </programme>
   <programme start="20220701210000 -0500" stop="20220701215500 -0500" channel="CANAL AXN">
     <title lang="es">Castle</title>
-    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas(n)</desc>
+    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas</desc>
     <credits>
       <actor>Nathan Fillion</actor>
       <actor>Stana Katic</actor>
@@ -4634,7 +4766,7 @@
   </programme>
   <programme start="20220701215500 -0500" stop="20220701225000 -0500" channel="CANAL AXN">
     <title lang="es">Castle</title>
-    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas(n)</desc>
+    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas</desc>
     <credits>
       <actor>Nathan Fillion</actor>
       <actor>Stana Katic</actor>
@@ -4652,7 +4784,7 @@
   </programme>
   <programme start="20220701225000 -0500" stop="20220701234500 -0500" channel="CANAL AXN">
     <title lang="es">Castle</title>
-    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas(n)</desc>
+    <desc lang="es">Un escritor de novelas es llamado por la policía de Nueva York para solicitar de su ayuda cuando un asesinato ha sido basado una de sus novelas</desc>
     <credits>
       <actor>Nathan Fillion</actor>
       <actor>Stana Katic</actor>
@@ -4670,7 +4802,7 @@
   </programme>
   <programme start="20220701234500 -0500" stop="20220702004000 -0500" channel="CANAL AXN">
     <title lang="es">Hawaii Five-0</title>
-    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más(n)</desc>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más</desc>
     <credits>
       <actor>Alex O'Loughlin</actor>
       <actor>Scott Caan</actor>
@@ -4770,7 +4902,7 @@
   <programme start="20220629021000 -0500" stop="20220629040400 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Luz de Luna</title>
     <title lang="xx">Moonlight (2016)</title>
-    <desc lang="es">La historia de cómo un chico afroamericano tiene que enfrentar los momentos difíciles de su infancia, adolescencia y madurez(n)</desc>
+    <desc lang="es">La historia de cómo un chico afroamericano tiene que enfrentar los momentos difíciles de su infancia, adolescencia y madurez</desc>
     <credits>
       <actor>Trevante Rhodes</actor>
       <actor>André Holland</actor>
@@ -4803,7 +4935,7 @@
   <programme start="20220629061500 -0500" stop="20220629082300 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Mejor que Nunca</title>
     <title lang="xx">Poms</title>
-    <desc lang="es">Una mujer se muda a una casa de retiro y comienza a comandar a un grupo de porristas junto con sus compañeras probando así que nunca es demasiado tarde(n)</desc>
+    <desc lang="es">Una mujer se muda a una casa de retiro y comienza a comandar a un grupo de porristas junto con sus compañeras probando así que nunca es demasiado tarde</desc>
     <credits>
       <actor>Diane Keaton</actor>
       <actor>Jacki Weaver</actor>
@@ -4954,7 +5086,7 @@
   </programme>
   <programme start="20220701121900 -0500" stop="20220701135800 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Shrek 2</title>
-    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros(n)</desc>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros</desc>
     <credits>
       <actor>Mike Myers</actor>
       <actor>Eddie Murphy</actor>
@@ -4982,7 +5114,7 @@
   </programme>
   <programme start="20220701172600 -0500" stop="20220701190500 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Shrek 2</title>
-    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros(n)</desc>
+    <desc lang="es">Fiona y Shrek son invitados por los padres de la princesa a una cena para celebrar la boda de su hija, sin saber que los prometidos son ogros</desc>
     <credits>
       <actor>Mike Myers</actor>
       <actor>Eddie Murphy</actor>
@@ -5011,7 +5143,7 @@
   <programme start="20220701230100 -0500" stop="20220702004800 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Buenos Vecinos</title>
     <title lang="xx">Neighbors</title>
-    <desc lang="es">Una pareja con un bebe recién nacido deberán enfrentar la dificultad de vivir junto a una casa de fraternidad de estudiantes(n)</desc>
+    <desc lang="es">Una pareja con un bebe recién nacido deberán enfrentar la dificultad de vivir junto a una casa de fraternidad de estudiantes</desc>
     <credits>
       <actor>Seth Rogen</actor>
       <actor>Zac Efron</actor>
@@ -5268,7 +5400,7 @@
   </programme>
   <programme start="20220629220000 -0500" stop="20220630003000 -0500" channel="Canal FX">
     <title lang="es">Need for Speed: La Película</title>
-    <desc lang="es">Tras ser puesto en libertad por un crimen que no cometió, el corredor Tobey Marshall recorre todo el país para vengar la muerte de su amigo Pete(c)</desc>
+    <desc lang="es">Tras ser puesto en libertad por un crimen que no cometió, el corredor Tobey Marshall recorre todo el país para vengar la muerte de su amigo Pete</desc>
     <credits>
       <actor>Aaron Paul</actor>
       <actor>Dominic Cooper</actor>
@@ -5318,7 +5450,7 @@
   <programme start="20220630133000 -0500" stop="20220630152000 -0500" channel="Canal FX">
     <title lang="es">Crepúsculo (1998)</title>
     <title lang="xx">Twilight (1998)</title>
-    <desc lang="es">Un ex policía retirado y detective privado accede a ayudar a un amigo con un favor especial por el que se verá involucrado en una intriga criminal y de traición(c)</desc>
+    <desc lang="es">Un ex policía retirado y detective privado accede a ayudar a un amigo con un favor especial por el que se verá involucrado en una intriga criminal y de traición</desc>
     <credits>
       <actor>Paul Newman</actor>
       <actor>Susan Sarandon</actor>
@@ -5337,7 +5469,7 @@
   <programme start="20220630152000 -0500" stop="20220630171000 -0500" channel="Canal FX">
     <title lang="es">Hombres de Negro</title>
     <title lang="xx">Men in Black</title>
-    <desc lang="es">Los agentes Kay y Jay deben detener a un terrorista intergaláctico que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas(c)</desc>
+    <desc lang="es">Los agentes Kay y Jay deben detener a un terrorista intergaláctico que llegó a la Tierra para asesinar a dos embajadores de galaxias opuestas</desc>
     <credits>
       <actor>Tommy Lee Jones</actor>
       <actor>Will Smith</actor>
@@ -5361,7 +5493,7 @@
   </programme>
   <programme start="20220630194000 -0500" stop="20220630220000 -0500" channel="Canal FX">
     <title lang="es">60 Segundos</title>
-    <desc lang="es">(Gone in Sixty Seconds) Nicolas Cage, Angelina Jolie. Un retirado ladrón de auto debe robar 50 carros en una noche para salvar la vida de su hermano(c)</desc>
+    <desc lang="es">(Gone in Sixty Seconds) Nicolas Cage, Angelina Jolie. Un retirado ladrón de auto debe robar 50 carros en una noche para salvar la vida de su hermano</desc>
     <credits>
       <actor>Nicolas Cage</actor>
       <actor>Angelina Jolie</actor>
@@ -5587,7 +5719,7 @@
   </programme>
   <programme start="20220629065500 -0500" stop="20220629072000 -0500" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -5617,7 +5749,7 @@
   <programme start="20220629100000 -0500" stop="20220629105000 -0500" channel="Canal Sony (México)">
     <title lang="es">Grey's Anatomy</title>
     <title lang="xx">Grey's Anatomy</title>
-    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital(n)</desc>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital</desc>
     <credits>
       <actor>Ellen Pompeo</actor>
       <actor>Sandra Oh</actor>
@@ -5641,7 +5773,7 @@
   <programme start="20220629105000 -0500" stop="20220629114000 -0500" channel="Canal Sony (México)">
     <title lang="es">The Good Doctor</title>
     <title lang="xx">The Good Doctor</title>
-    <desc lang="es">Un joven cirujano con autismo, se traslada a una prestigiosa unidad quirúrgica, utilizando sus dones médicos para salvar vidas desafiando a sus colegas(n)</desc>
+    <desc lang="es">Un joven cirujano con autismo, se traslada a una prestigiosa unidad quirúrgica, utilizando sus dones médicos para salvar vidas desafiando a sus colegas</desc>
     <credits>
       <actor>Freddie Highmore</actor>
       <actor>Nicholas Gonzalez</actor>
@@ -5690,7 +5822,7 @@
   <programme start="20220629162500 -0500" stop="20220629182000 -0500" channel="Canal Sony (México)">
     <title lang="es">Guerra de Papás 2</title>
     <title lang="xx">Daddy's Home 2</title>
-    <desc lang="es">Dusty y Brad quieren hacer algo especial con sus hijos en las vacaciones, pero con la llegada de los abuelos Kurt y el Sr Whitaker todo termina en caos(n)</desc>
+    <desc lang="es">Dusty y Brad quieren hacer algo especial con sus hijos en las vacaciones, pero con la llegada de los abuelos Kurt y el Sr Whitaker todo termina en caos</desc>
     <date>2017</date>
     <category lang="es">Película</category>
     <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/guerra_de_papas_2.jpg" />
@@ -5869,7 +6001,7 @@
   </programme>
   <programme start="20220701025000 -0500" stop="20220701031500 -0500" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -5902,7 +6034,7 @@
   </programme>
   <programme start="20220701065500 -0500" stop="20220701072000 -0500" channel="Canal Sony (México)">
     <title lang="es">American Housewife</title>
-    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"(n)</desc>
+    <desc lang="es">Katie Otto es una madre con tres hijos y esposa de Greg, confiada y un poco sarcástica, que trata de encajar con las otras madres millonarias "perfectas"</desc>
     <credits>
       <actor>Katy Mixon</actor>
       <actor>Diedrich Bader</actor>
@@ -5932,7 +6064,7 @@
   <programme start="20220701100000 -0500" stop="20220701105000 -0500" channel="Canal Sony (México)">
     <title lang="es">Grey's Anatomy</title>
     <title lang="xx">Grey's Anatomy</title>
-    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital(n)</desc>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital</desc>
     <credits>
       <actor>Ellen Pompeo</actor>
       <actor>Sandra Oh</actor>
@@ -5956,7 +6088,7 @@
   <programme start="20220701105000 -0500" stop="20220701114000 -0500" channel="Canal Sony (México)">
     <title lang="es">The Good Doctor</title>
     <title lang="xx">The Good Doctor</title>
-    <desc lang="es">Un joven cirujano con autismo, se traslada a una prestigiosa unidad quirúrgica, utilizando sus dones médicos para salvar vidas desafiando a sus colegas(n)</desc>
+    <desc lang="es">Un joven cirujano con autismo, se traslada a una prestigiosa unidad quirúrgica, utilizando sus dones médicos para salvar vidas desafiando a sus colegas</desc>
     <credits>
       <actor>Freddie Highmore</actor>
       <actor>Nicholas Gonzalez</actor>
@@ -6017,7 +6149,7 @@
   <programme start="20220629040700 -0500" stop="20220629053800 -0500" channel="Canal Space (México)">
     <title lang="es">Las Últimas Supervivientes</title>
     <title lang="xx">The Final Girls (2015)</title>
-    <desc lang="es">Cuando Max y sus amigos asisten al aniversario de la película de terror que protagonizó su madre difunta son absorbidos por la pantalla quedando atrapados(n)</desc>
+    <desc lang="es">Cuando Max y sus amigos asisten al aniversario de la película de terror que protagonizó su madre difunta son absorbidos por la pantalla quedando atrapados</desc>
     <credits>
       <actor>Taissa Farmiga</actor>
       <actor>Malin Åkerman</actor>
@@ -6065,7 +6197,7 @@
   <programme start="20220629220000 -0500" stop="20220630003200 -0500" channel="Canal Space (México)">
     <title lang="es">El Justiciero (The Equalizer)</title>
     <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos(c)</desc>
+    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos</desc>
     <credits>
       <actor>Denzel Washington</actor>
       <actor>Marton Csokas</actor>
@@ -6160,7 +6292,7 @@
   </programme>
   <programme start="20220701003200 -0500" stop="20220701021200 -0500" channel="Canal Space (México)">
     <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(n)</desc>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Charlize Theron</actor>
@@ -6208,7 +6340,7 @@
   </programme>
   <programme start="20220701202200 -0500" stop="20220701220000 -0500" channel="Canal Space (México)">
     <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(n)</desc>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Charlize Theron</actor>
@@ -6351,7 +6483,7 @@
   <programme start="20220630013500 -0500" stop="20220630032500 -0500" channel="Canal Studio Universal">
     <title lang="es">Feliz Día de tu Muerte</title>
     <title lang="xx">Happy Death Day</title>
-    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino(n)</desc>
+    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino</desc>
     <credits>
       <actor>Jessica Rothe</actor>
       <actor>Israel Broussard</actor>
@@ -6369,7 +6501,7 @@
   <programme start="20220630032500 -0500" stop="20220630051500 -0500" channel="Canal Studio Universal">
     <title lang="es">Feliz Día de tu Muerte 2</title>
     <title lang="xx">Happy Death Day 2U</title>
-    <desc lang="es">Theresa "Tree" Gelbmand tras descubrir que morir una y otra vez fue sorprendente fácil, ahora debe enfrentarse a nuevos peligros que se avecinan(n)</desc>
+    <desc lang="es">Theresa "Tree" Gelbmand tras descubrir que morir una y otra vez fue sorprendente fácil, ahora debe enfrentarse a nuevos peligros que se avecinan</desc>
     <credits>
       <actor>Jessica Rothe</actor>
       <actor>Israel Broussard</actor>
@@ -6405,7 +6537,7 @@
   <programme start="20220630113500 -0500" stop="20220630133500 -0500" channel="Canal Studio Universal">
     <title lang="es">La Razón de Estar Contigo</title>
     <title lang="xx">A Dog's Purpose</title>
-    <desc lang="es">La perspectiva de vida de un perro narrada maravillosamente a través de su convivencia con los diferentes amos y lo que aprende de ellos(n)</desc>
+    <desc lang="es">La perspectiva de vida de un perro narrada maravillosamente a través de su convivencia con los diferentes amos y lo que aprende de ellos</desc>
     <credits>
       <actor>Dennis Quaid</actor>
       <actor>Josh Gad</actor>
@@ -6433,7 +6565,7 @@
   <programme start="20220630180000 -0500" stop="20220630200000 -0500" channel="Canal Studio Universal">
     <title lang="es">Nación Asesina</title>
     <title lang="xx">Assassination Nation</title>
-    <desc lang="es">La vida de un grupo de jóvenes de último año de secundaria que viven rodeados de selfis y chats cambia cuando un hacker comienza a invadir su privacidad(n)</desc>
+    <desc lang="es">La vida de un grupo de jóvenes de último año de secundaria que viven rodeados de selfis y chats cambia cuando un hacker comienza a invadir su privacidad</desc>
     <credits>
       <actor>Odessa Young</actor>
       <actor>Suki Waterhouse</actor>
@@ -6457,7 +6589,7 @@
   <programme start="20220630200000 -0500" stop="20220630215000 -0500" channel="Canal Studio Universal">
     <title lang="es">Feliz Día de tu Muerte</title>
     <title lang="xx">Happy Death Day</title>
-    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino(n)</desc>
+    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino</desc>
     <credits>
       <actor>Jessica Rothe</actor>
       <actor>Israel Broussard</actor>
@@ -6475,7 +6607,7 @@
   <programme start="20220630215000 -0500" stop="20220630234000 -0500" channel="Canal Studio Universal">
     <title lang="es">Feliz Día de tu Muerte 2</title>
     <title lang="xx">Happy Death Day 2U</title>
-    <desc lang="es">Theresa "Tree" Gelbmand tras descubrir que morir una y otra vez fue sorprendente fácil, ahora debe enfrentarse a nuevos peligros que se avecinan(n)</desc>
+    <desc lang="es">Theresa "Tree" Gelbmand tras descubrir que morir una y otra vez fue sorprendente fácil, ahora debe enfrentarse a nuevos peligros que se avecinan</desc>
     <credits>
       <actor>Jessica Rothe</actor>
       <actor>Israel Broussard</actor>
@@ -6811,7 +6943,7 @@
   <programme start="20220630223000 -0500" stop="20220701000500 -0500" channel="Canal SyFy">
     <title lang="es">Yo, Frankenstein</title>
     <title lang="xx">I, Frankenstein</title>
-    <desc lang="es">200 años han pasado desde la creación del Doctor Frankenstein, ahora vive entre nosotros y él es la clave que podría destruir la humanidad(n)</desc>
+    <desc lang="es">200 años han pasado desde la creación del Doctor Frankenstein, ahora vive entre nosotros y él es la clave que podría destruir la humanidad</desc>
     <credits>
       <actor>Aaron Eckhart</actor>
       <actor>Bill Nighy</actor>
@@ -6835,7 +6967,7 @@
   <programme start="20220701033000 -0500" stop="20220701042000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6857,7 +6989,7 @@
   <programme start="20220701042000 -0500" stop="20220701051000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6879,7 +7011,7 @@
   <programme start="20220701051000 -0500" stop="20220701060000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6901,7 +7033,7 @@
   <programme start="20220701060000 -0500" stop="20220701065000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6923,7 +7055,7 @@
   <programme start="20220701065000 -0500" stop="20220701074000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6945,7 +7077,7 @@
   <programme start="20220701074000 -0500" stop="20220701083000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -6967,7 +7099,7 @@
   <programme start="20220701083000 -0500" stop="20220701092500 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -7010,7 +7142,7 @@
   <programme start="20220701155000 -0500" stop="20220701164000 -0500" channel="Canal SyFy">
     <title lang="es">Grimm</title>
     <title lang="xx">Grimm</title>
-    <desc lang="es">Nick Burkhardt, un detective de homicidios de Portland, descubre que desciende de una línea de élite de perfiladores criminales conocidos como "Grimm"(n)</desc>
+    <desc lang="es">Nick Burkhardt, un detective de homicidios de Portland, descubre que desciende de una línea de élite de perfiladores criminales conocidos como "Grimm"</desc>
     <credits>
       <actor>David Giuntoli</actor>
       <actor>Russell Hornsby</actor>
@@ -7042,7 +7174,7 @@
   <programme start="20220701182000 -0500" stop="20220701191000 -0500" channel="Canal SyFy">
     <title lang="es">Lost</title>
     <title lang="xx">Lost</title>
-    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate(n)</desc>
+    <desc lang="es">Los 48 sobrevivientes del vuelo 815 del Oceanic Air se encuentran varados en una isla misteriosa no identificada con pocas esperanzas de rescate</desc>
     <credits>
       <actor>Adewale Akinnuoye-Agbaje</actor>
       <actor>Sam Anderson</actor>
@@ -7075,7 +7207,7 @@
   </programme>
   <programme start="20220629103900 -0500" stop="20220629130700 -0500" channel="Canal TNT">
     <title lang="es">El Gran Gatsby</title>
-    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario(c)</desc>
+    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario</desc>
     <credits>
       <actor>Leonardo DiCaprio</actor>
       <actor>Tobey Maguire</actor>
@@ -7127,7 +7259,7 @@
   </programme>
   <programme start="20220630080600 -0500" stop="20220630104500 -0500" channel="Canal TNT">
     <title lang="es">El Gran Gatsby</title>
-    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario(n)</desc>
+    <desc lang="es">Un veterano de la primera guerra mundial se encuentra a si mismo atraído al pasado y estilo de vida de su vecino millonario</desc>
     <credits>
       <actor>Leonardo DiCaprio</actor>
       <actor>Tobey Maguire</actor>
@@ -7178,7 +7310,7 @@
   <programme start="20220629014400 -0500" stop="20220629023000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7247,7 +7379,7 @@
   </programme>
   <programme start="20220629114200 -0500" stop="20220629123100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7268,7 +7400,7 @@
   </programme>
   <programme start="20220629123100 -0500" stop="20220629132200 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7290,7 +7422,7 @@
   <programme start="20220629132200 -0500" stop="20220629141000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7314,7 +7446,7 @@
   <programme start="20220629141000 -0500" stop="20220629145800 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7337,7 +7469,7 @@
   </programme>
   <programme start="20220629145800 -0500" stop="20220629154800 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7358,7 +7490,7 @@
   </programme>
   <programme start="20220629154800 -0500" stop="20220629163500 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7387,7 +7519,7 @@
   </programme>
   <programme start="20220629180900 -0500" stop="20220629195200 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7511,7 +7643,7 @@
   <programme start="20220630014600 -0500" stop="20220630023300 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7535,7 +7667,7 @@
   <programme start="20220630023300 -0500" stop="20220630032000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7594,7 +7726,7 @@
   </programme>
   <programme start="20220630112900 -0500" stop="20220630122000 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7615,7 +7747,7 @@
   </programme>
   <programme start="20220630122000 -0500" stop="20220630130900 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7637,7 +7769,7 @@
   <programme start="20220630130900 -0500" stop="20220630135900 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7661,7 +7793,7 @@
   <programme start="20220630135900 -0500" stop="20220630145000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7684,7 +7816,7 @@
   </programme>
   <programme start="20220630145000 -0500" stop="20220630153800 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7705,7 +7837,7 @@
   </programme>
   <programme start="20220630153800 -0500" stop="20220630163100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7734,7 +7866,7 @@
   </programme>
   <programme start="20220630180600 -0500" stop="20220630185900 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7755,7 +7887,7 @@
   </programme>
   <programme start="20220630185900 -0500" stop="20220630195200 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7777,7 +7909,7 @@
   <programme start="20220630195200 -0500" stop="20220630203900 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7801,7 +7933,7 @@
   <programme start="20220630203900 -0500" stop="20220630213000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -7824,7 +7956,7 @@
   </programme>
   <programme start="20220630213000 -0500" stop="20220630222300 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7845,7 +7977,7 @@
   </programme>
   <programme start="20220630222300 -0500" stop="20220630231200 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(n)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -7910,7 +8042,7 @@
   <programme start="20220629094000 -0500" stop="20220629103500 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -7934,7 +8066,7 @@
   <programme start="20220629103500 -0500" stop="20220629113000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -7958,7 +8090,7 @@
   <programme start="20220629113000 -0500" stop="20220629122500 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -7982,7 +8114,7 @@
   <programme start="20220629122500 -0500" stop="20220629132000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8018,7 +8150,7 @@
   <programme start="20220629160000 -0500" stop="20220629165000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8042,7 +8174,7 @@
   <programme start="20220629165000 -0500" stop="20220629174000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8066,7 +8198,7 @@
   <programme start="20220629174000 -0500" stop="20220629183000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8090,7 +8222,7 @@
   <programme start="20220629183000 -0500" stop="20220629192000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8126,7 +8258,7 @@
   <programme start="20220629215000 -0500" stop="20220629224000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8528,7 +8660,7 @@
   <programme start="20220701094000 -0500" stop="20220701103500 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8552,7 +8684,7 @@
   <programme start="20220701103500 -0500" stop="20220701113000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8576,7 +8708,7 @@
   <programme start="20220701113000 -0500" stop="20220701122500 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8600,7 +8732,7 @@
   <programme start="20220701122500 -0500" stop="20220701132000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8636,7 +8768,7 @@
   <programme start="20220701160000 -0500" stop="20220701165000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8660,7 +8792,7 @@
   <programme start="20220701165000 -0500" stop="20220701174000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8684,7 +8816,7 @@
   <programme start="20220701174000 -0500" stop="20220701183000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8708,7 +8840,7 @@
   <programme start="20220701183000 -0500" stop="20220701192000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8744,7 +8876,7 @@
   <programme start="20220701215000 -0500" stop="20220701224000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8768,7 +8900,7 @@
   <programme start="20220701224000 -0500" stop="20220701233000 -0500" channel="Universal TV">
     <title lang="es">Chicago PD</title>
     <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen(n)</desc>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen</desc>
     <credits>
       <actor>Jason Beghe</actor>
       <actor>Jon Seda</actor>
@@ -8792,7 +8924,7 @@
   <programme start="20220701233000 -0500" stop="20220702002000 -0500" channel="Universal TV">
     <title lang="es">Chicago Fire</title>
     <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros(n)</desc>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros</desc>
     <credits>
       <actor>Jesse Spencer</actor>
       <actor>Taylor Kinney</actor>
@@ -8823,7 +8955,7 @@
   </programme>
   <programme start="20220629012200 -0500" stop="20220629014400 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8843,7 +8975,7 @@
   </programme>
   <programme start="20220629014400 -0500" stop="20220629020400 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8863,7 +8995,7 @@
   </programme>
   <programme start="20220629020400 -0500" stop="20220629022600 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8883,7 +9015,7 @@
   </programme>
   <programme start="20220629022600 -0500" stop="20220629024700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8903,7 +9035,7 @@
   </programme>
   <programme start="20220629024700 -0500" stop="20220629030700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8923,7 +9055,7 @@
   </programme>
   <programme start="20220629030700 -0500" stop="20220629033000 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -8944,7 +9076,7 @@
   <programme start="20220629033000 -0500" stop="20220629035000 -0500" channel="Canal Warner TV">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
-    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas(n)</desc>
+    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas</desc>
     <credits>
       <actor>Iain Armitage</actor>
       <actor>Zoe Perry</actor>
@@ -8963,7 +9095,7 @@
   <programme start="20220629035000 -0500" stop="20220629041000 -0500" channel="Canal Warner TV">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
-    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas(n)</desc>
+    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas</desc>
     <credits>
       <actor>Iain Armitage</actor>
       <actor>Zoe Perry</actor>
@@ -8981,7 +9113,7 @@
   </programme>
   <programme start="20220629041000 -0500" stop="20220629060000 -0500" channel="Canal Warner TV">
     <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo(n)</desc>
+    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo</desc>
     <credits>
       <actor>Grant Gustin</actor>
       <actor>Jesse L. Martin</actor>
@@ -8996,7 +9128,7 @@
   </programme>
   <programme start="20220629060000 -0500" stop="20220629075500 -0500" channel="Canal Warner TV">
     <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo(n)</desc>
+    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo</desc>
     <credits>
       <actor>Grant Gustin</actor>
       <actor>Jesse L. Martin</actor>
@@ -9011,7 +9143,7 @@
   </programme>
   <programme start="20220629075500 -0500" stop="20220629082000 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9031,7 +9163,7 @@
   </programme>
   <programme start="20220629082000 -0500" stop="20220629083900 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9051,7 +9183,7 @@
   </programme>
   <programme start="20220629083900 -0500" stop="20220629090200 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9071,7 +9203,7 @@
   </programme>
   <programme start="20220629090200 -0500" stop="20220629092700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9091,7 +9223,7 @@
   </programme>
   <programme start="20220629092700 -0500" stop="20220629095100 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9131,7 +9263,7 @@
   <programme start="20220629133300 -0500" stop="20220629150400 -0500" channel="Canal Warner TV">
     <title lang="es">Hombres de Negro 2</title>
     <title lang="xx">Men in Black II</title>
-    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla(n)</desc>
+    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla</desc>
     <credits>
       <actor>Tommy Lee Jones</actor>
       <actor>Will Smith</actor>
@@ -9157,7 +9289,7 @@
   </programme>
   <programme start="20220629171300 -0500" stop="20220629173600 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9177,7 +9309,7 @@
   </programme>
   <programme start="20220629173600 -0500" stop="20220629180000 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9216,7 +9348,7 @@
   <programme start="20220629225400 -0500" stop="20220629235400 -0500" channel="Canal Warner TV">
     <title lang="es">Riverdale</title>
     <title lang="xx">Riverdale</title>
-    <desc lang="es">Un año escolar comienza, pero muchas cosas han pasado y Cherryl esconde un misterio en la muerte de su hermano gemelo(c)</desc>
+    <desc lang="es">Un año escolar comienza, pero muchas cosas han pasado y Cherryl esconde un misterio en la muerte de su hermano gemelo</desc>
     <credits>
       <actor>K.J. Apa</actor>
       <actor>Lili Reinhart</actor>
@@ -9237,7 +9369,7 @@
   <programme start="20220629235400 -0500" stop="20220630003300 -0500" channel="Canal Warner TV">
     <title lang="es">Legacies</title>
     <title lang="xx">Legacies</title>
-    <desc lang="es">Hope Mikaelson es una joven de 17 años que entra a la escuela The Salvatore para jóvenes y dotados, donde alcanzará la madurez de una manera poco común(c)</desc>
+    <desc lang="es">Hope Mikaelson es una joven de 17 años que entra a la escuela The Salvatore para jóvenes y dotados, donde alcanzará la madurez de una manera poco común</desc>
     <credits>
       <actor>Danielle Rose Russell</actor>
       <actor>Matt Davis</actor>
@@ -9701,7 +9833,7 @@
   </programme>
   <programme start="20220701012000 -0500" stop="20220701014300 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9721,7 +9853,7 @@
   </programme>
   <programme start="20220701014300 -0500" stop="20220701020700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9741,7 +9873,7 @@
   </programme>
   <programme start="20220701020700 -0500" stop="20220701022700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9761,7 +9893,7 @@
   </programme>
   <programme start="20220701022700 -0500" stop="20220701024700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9781,7 +9913,7 @@
   </programme>
   <programme start="20220701024700 -0500" stop="20220701031000 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9801,7 +9933,7 @@
   </programme>
   <programme start="20220701031000 -0500" stop="20220701033300 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9822,7 +9954,7 @@
   <programme start="20220701033300 -0500" stop="20220701035100 -0500" channel="Canal Warner TV">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
-    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas(n)</desc>
+    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas</desc>
     <credits>
       <actor>Iain Armitage</actor>
       <actor>Zoe Perry</actor>
@@ -9841,7 +9973,7 @@
   <programme start="20220701035100 -0500" stop="20220701041300 -0500" channel="Canal Warner TV">
     <title lang="es">Young Sheldon</title>
     <title lang="xx">Young Sheldon</title>
-    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas(n)</desc>
+    <desc lang="es">Un niño de 9 años con una mente única capaz de entender matemáticas y ciencias avanzadas que no siempre es de gran ayuda en el estado de Texas</desc>
     <credits>
       <actor>Iain Armitage</actor>
       <actor>Zoe Perry</actor>
@@ -9885,7 +10017,7 @@
   </programme>
   <programme start="20220701130000 -0500" stop="20220701134700 -0500" channel="Canal Warner TV">
     <title lang="es">The Flash</title>
-    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo(n)</desc>
+    <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo</desc>
     <credits>
       <actor>Grant Gustin</actor>
       <actor>Jesse L. Martin</actor>
@@ -9903,7 +10035,7 @@
   </programme>
   <programme start="20220701152200 -0500" stop="20220701155600 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9923,7 +10055,7 @@
   </programme>
   <programme start="20220701155600 -0500" stop="20220701162900 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9943,7 +10075,7 @@
   </programme>
   <programme start="20220701162900 -0500" stop="20220701165700 -0500" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -9975,7 +10107,7 @@
   <programme start="20220701195700 -0500" stop="20220701220000 -0500" channel="Canal Warner TV">
     <title lang="es">Baby Driver</title>
     <title lang="xx">Baby Driver</title>
-    <desc lang="es">Un conductor escapista que depende del ritmo de su música favorita para actuar, cuando conoce a la chica de sus sueños decide abandonar su vida criminal(n)</desc>
+    <desc lang="es">Un conductor escapista que depende del ritmo de su música favorita para actuar, cuando conoce a la chica de sus sueños decide abandonar su vida criminal</desc>
     <credits>
       <actor>Ansel Elgort</actor>
       <actor>Kevin Spacey</actor>
@@ -9996,7 +10128,7 @@
   <programme start="20220701220000 -0500" stop="20220702002900 -0500" channel="Canal Warner TV">
     <title lang="es">Mujer Maravilla</title>
     <title lang="xx">Wonder Woman</title>
-    <desc lang="es">Una guerrera amazona deja la isla para conocer el mundo y así poder evitar que la guerra del mundo destruya su hogar(n)</desc>
+    <desc lang="es">Una guerrera amazona deja la isla para conocer el mundo y así poder evitar que la guerra del mundo destruya su hogar</desc>
     <credits>
       <actor>Gal Gadot</actor>
       <actor>Chris Pine</actor>
@@ -12249,7 +12381,7 @@
   <programme start="20220629041800 -0500" stop="20220629050900 -0500" channel="canal History (México)">
     <title lang="es">El Precio de la Historia</title>
     <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia(n)</desc>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia</desc>
     <date>2009</date>
     <category lang="es">Reality Show</category>
     <category lang="es">Serie</category>
@@ -12270,7 +12402,7 @@
   <programme start="20220629070000 -0500" stop="20220629075200 -0500" channel="canal History (México)">
     <title lang="es">El Precio de la Historia</title>
     <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia(n)</desc>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia</desc>
     <date>2009</date>
     <category lang="es">Reality Show</category>
     <category lang="es">Serie</category>
@@ -12326,7 +12458,7 @@
   <programme start="20220629144200 -0500" stop="20220629153300 -0500" channel="canal History (México)">
     <title lang="es">El Precio de la Historia</title>
     <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia(n)</desc>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia</desc>
     <date>2009</date>
     <category lang="es">Reality Show</category>
     <category lang="es">Serie</category>
@@ -12379,7 +12511,7 @@
   <programme start="20220629215000 -0500" stop="20220629224000 -0500" channel="canal History (México)">
     <title lang="es">Solos</title>
     <title lang="xx">Solos</title>
-    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana(n)</desc>
+    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana</desc>
     <credits>
       <actor>Morgan Freeman</actor>
       <actor>Anne Hathaway</actor>
@@ -12613,7 +12745,7 @@
   <programme start="20220701040100 -0500" stop="20220701045000 -0500" channel="canal History (México)">
     <title lang="es">Solos</title>
     <title lang="xx">Solos</title>
-    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana(n)</desc>
+    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana</desc>
     <credits>
       <actor>Morgan Freeman</actor>
       <actor>Anne Hathaway</actor>
@@ -12649,7 +12781,7 @@
   <programme start="20220701081300 -0500" stop="20220701090500 -0500" channel="canal History (México)">
     <title lang="es">Solos</title>
     <title lang="xx">Solos</title>
-    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana(n)</desc>
+    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana</desc>
     <credits>
       <actor>Morgan Freeman</actor>
       <actor>Anne Hathaway</actor>
@@ -12705,7 +12837,7 @@
   <programme start="20220701150300 -0500" stop="20220701155700 -0500" channel="canal History (México)">
     <title lang="es">Solos</title>
     <title lang="xx">Solos</title>
-    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana(n)</desc>
+    <desc lang="es">Siete historias únicas en un futuro incierto que, a pesar de estar aislados, se darán cuenta que todos estamos conectados a través de la experiencia humana</desc>
     <credits>
       <actor>Morgan Freeman</actor>
       <actor>Anne Hathaway</actor>
@@ -12753,7 +12885,7 @@
   <programme start="20220701201000 -0500" stop="20220701210000 -0500" channel="canal History (México)">
     <title lang="es">El Precio de la Historia</title>
     <title lang="xx">Pawn Stars</title>
-    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia(n)</desc>
+    <desc lang="es">Richard, Rick y Corey Harrison administran una tienda de empeño ubicada en la ciudad de Las Vegas donde los artículos muestran su precio en la historia</desc>
     <date>2009</date>
     <category lang="es">Reality Show</category>
     <category lang="es">Serie</category>
