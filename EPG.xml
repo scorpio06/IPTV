@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Mexiquense TV">
+  <channel id="Mexiquense TV">
     <display-name lang="es">Mexiquense TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
@@ -188,112 +188,112 @@
     <display-name lang="es">Canal Nat Geo Wild</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20220629020000 -0500" stop="20220629060000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629020000 -0500" stop="20220629060000 -0500" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20220629060000 -0500" stop="20220629061500 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629060000 -0500" stop="20220629061500 -0500" channel="Mexiquense TV">
     <title lang="es">Himno Nacional</title>
   </programme>
-  <programme start="20220629061500 -0500" stop="20220629063000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629061500 -0500" stop="20220629063000 -0500" channel="Mexiquense TV">
     <title lang="es">Noticiero DW</title>
   </programme>
-  <programme start="20220629063000 -0500" stop="20220629073000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629063000 -0500" stop="20220629073000 -0500" channel="Mexiquense TV">
     <title lang="es">AMX con Edgar Galicia</title>
   </programme>
-  <programme start="20220629073000 -0500" stop="20220629080000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629073000 -0500" stop="20220629080000 -0500" channel="Mexiquense TV">
     <title lang="es">Fit for Life</title>
   </programme>
-  <programme start="20220629080000 -0500" stop="20220629083000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629080000 -0500" stop="20220629083000 -0500" channel="Mexiquense TV">
     <title lang="es">Atrévete por ti</title>
   </programme>
-  <programme start="20220629083000 -0500" stop="20220629103000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629083000 -0500" stop="20220629103000 -0500" channel="Mexiquense TV">
     <title lang="es">Emociónate</title>
   </programme>
-  <programme start="20220629103000 -0500" stop="20220629110000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629103000 -0500" stop="20220629110000 -0500" channel="Mexiquense TV">
     <title lang="es">Bionatura</title>
   </programme>
-  <programme start="20220629110000 -0500" stop="20220629120000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629110000 -0500" stop="20220629120000 -0500" channel="Mexiquense TV">
     <title lang="es">Noticias en Hora Buena</title>
   </programme>
-  <programme start="20220629120000 -0500" stop="20220629123000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629120000 -0500" stop="20220629123000 -0500" channel="Mexiquense TV">
     <title lang="es">Porque soy mujer</title>
   </programme>
-  <programme start="20220629123000 -0500" stop="20220629130000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629123000 -0500" stop="20220629130000 -0500" channel="Mexiquense TV">
     <title lang="es">Lo que nos une</title>
   </programme>
-  <programme start="20220629130000 -0500" stop="20220629150000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629130000 -0500" stop="20220629150000 -0500" channel="Mexiquense TV">
     <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20220629150000 -0500" stop="20220629160000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629150000 -0500" stop="20220629160000 -0500" channel="Mexiquense TV">
     <title lang="es">AMX con Marisol Ordoñez</title>
   </programme>
-  <programme start="20220629160000 -0500" stop="20220629170000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629160000 -0500" stop="20220629170000 -0500" channel="Mexiquense TV">
     <title lang="es">Cultura AMX</title>
   </programme>
-  <programme start="20220629170000 -0500" stop="20220629180000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629170000 -0500" stop="20220629180000 -0500" channel="Mexiquense TV">
     <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20220629180000 -0500" stop="20220629190000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629180000 -0500" stop="20220629190000 -0500" channel="Mexiquense TV">
     <title lang="es">Pasión por el sabor</title>
   </programme>
-  <programme start="20220629190000 -0500" stop="20220629200000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629190000 -0500" stop="20220629200000 -0500" channel="Mexiquense TV">
     <title lang="es">Profesión Héroe</title>
   </programme>
-  <programme start="20220629200000 -0500" stop="20220629210000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629200000 -0500" stop="20220629210000 -0500" channel="Mexiquense TV">
     <title lang="es">Retuit TV</title>
   </programme>
-  <programme start="20220629210000 -0500" stop="20220629220000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629210000 -0500" stop="20220629220000 -0500" channel="Mexiquense TV">
     <title lang="es">AMX con Carlos González</title>
   </programme>
-  <programme start="20220629220000 -0500" stop="20220629230000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629220000 -0500" stop="20220629230000 -0500" channel="Mexiquense TV">
     <title lang="es">La Zona</title>
   </programme>
-  <programme start="20220629230000 -0500" stop="20220630000500 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220629230000 -0500" stop="20220630000500 -0500" channel="Mexiquense TV">
     <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20220630230000 -0500" stop="20220701000500 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220630230000 -0500" stop="20220701000500 -0500" channel="Mexiquense TV">
     <title lang="es">Historias del Más Allá</title>
   </programme>
-  <programme start="20220701000500 -0500" stop="20220701020000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701000500 -0500" stop="20220701020000 -0500" channel="Mexiquense TV">
     <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20220701020000 -0500" stop="20220701043000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701020000 -0500" stop="20220701043000 -0500" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20220701043000 -0500" stop="20220701060000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701043000 -0500" stop="20220701060000 -0500" channel="Mexiquense TV">
     <title lang="es">TV Mexiquense</title>
   </programme>
-  <programme start="20220701123000 -0500" stop="20220701130000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701123000 -0500" stop="20220701130000 -0500" channel="Mexiquense TV">
     <title lang="es">Enjambre universitario</title>
   </programme>
-  <programme start="20220701130000 -0500" stop="20220701140000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701130000 -0500" stop="20220701140000 -0500" channel="Mexiquense TV">
     <title lang="es">Pelicula del Cine Mexicano</title>
   </programme>
-  <programme start="20220701140000 -0500" stop="20220701150000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701140000 -0500" stop="20220701150000 -0500" channel="Mexiquense TV">
     <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20220701150000 -0500" stop="20220701160000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701150000 -0500" stop="20220701160000 -0500" channel="Mexiquense TV">
     <title lang="es">AMX con Marisol Ordoñez</title>
   </programme>
-  <programme start="20220701160000 -0500" stop="20220701170000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701160000 -0500" stop="20220701170000 -0500" channel="Mexiquense TV">
     <title lang="es">Cultura AMX</title>
   </programme>
-  <programme start="20220701170000 -0500" stop="20220701180000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701170000 -0500" stop="20220701180000 -0500" channel="Mexiquense TV">
     <title lang="es">Bim Bam Bum</title>
   </programme>
-  <programme start="20220701180000 -0500" stop="20220701190000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701180000 -0500" stop="20220701190000 -0500" channel="Mexiquense TV">
     <title lang="es">Destino Verde</title>
   </programme>
-  <programme start="20220701190000 -0500" stop="20220701200000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701190000 -0500" stop="20220701200000 -0500" channel="Mexiquense TV">
     <title lang="es">Salud en Casa</title>
   </programme>
-  <programme start="20220701200000 -0500" stop="20220701210000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701200000 -0500" stop="20220701210000 -0500" channel="Mexiquense TV">
     <title lang="es">Cinescape</title>
   </programme>
-  <programme start="20220701210000 -0500" stop="20220701220000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701210000 -0500" stop="20220701220000 -0500" channel="Mexiquense TV">
     <title lang="es">AMX con Carlos González</title>
   </programme>
-  <programme start="20220701220000 -0500" stop="20220701230000 -0500" channel="Canal Mexiquense TV">
+  <programme start="20220701220000 -0500" stop="20220701230000 -0500" channel="Mexiquense TV">
     <title lang="es">100% Grupero</title>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629013000 -0500" channel="Canal Azteca Mundo">
@@ -2119,6 +2119,22 @@
   </programme>
   <programme start="20220630210000 -0500" stop="20220630211500 -0500" channel="Canal Disney Junior">
     <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
+  <programme start="20220630211500 -0500" stop="20220630213000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(n)</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Nickelodeon">
     <title lang="es">The Loud House</title>
