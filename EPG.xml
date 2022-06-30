@@ -12,6 +12,10 @@
     <display-name lang="es">Canal Azteca Corazon</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal TV Azteca Clic">
+    <display-name lang="es">Canal TV Azteca Clic</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Boomerang">
     <display-name lang="es">Canal Boomerang</display-name>
     <url>http://www.gatotv.com</url>
@@ -405,6 +409,9 @@
     <category lang="es">Serie</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
   </programme>
+  <programme start="20220630221500 -0500" stop="20220630231500 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">Noticiero Hechos</title>
+  </programme>
   <programme start="20220629000000 -0500" stop="20220629013000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">La mujer de Judas - Semana final</title>
   </programme>
@@ -458,6 +465,111 @@
   </programme>
   <programme start="20220630210000 -0500" stop="20220630223000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Cielo Rojo</title>
+  </programme>
+  <programme start="20220629010000 -0500" stop="20220629020000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Aguas con los Destrampados</title>
+  </programme>
+  <programme start="20220629020000 -0500" stop="20220629030000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">In Situ</title>
+  </programme>
+  <programme start="20220629030000 -0500" stop="20220629040000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Descobijados</title>
+  </programme>
+  <programme start="20220629040000 -0500" stop="20220629060000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Pásele, yo invito</title>
+  </programme>
+  <programme start="20220629060000 -0500" stop="20220629080000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20220629080000 -0500" stop="20220629100000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20220629100000 -0500" stop="20220629110000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">No te alejes</title>
+  </programme>
+  <programme start="20220629110000 -0500" stop="20220629140000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Extranormal</title>
+    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal(n)</desc>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
+  </programme>
+  <programme start="20220629140000 -0500" stop="20220629160000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20220629160000 -0500" stop="20220629180000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20220629180000 -0500" stop="20220629190000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">No te alejes</title>
+  </programme>
+  <programme start="20220629190000 -0500" stop="20220629200000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Furia en la Ciudad</title>
+  </programme>
+  <programme start="20220629200000 -0500" stop="20220629203000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Enigmas: El lado siniestro de la historia</title>
+  </programme>
+  <programme start="20220629203000 -0500" stop="20220629210000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Extranormal</title>
+    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal(n)</desc>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
+  </programme>
+  <programme start="20220629210000 -0500" stop="20220629230000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20220629230000 -0500" stop="20220630000000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">No te alejes</title>
+  </programme>
+  <programme start="20220630000000 -0500" stop="20220630030000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Extranormal</title>
+    <desc lang="es">Un programa donde se ven las actividades paranormales, milagros, manifestaciones fantasmagóricas, eventos religiosos y todo lo Extra Normal(n)</desc>
+    <date>2007</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/extranormal.jpg" />
+  </programme>
+  <programme start="20220630030000 -0500" stop="20220630050000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20220630050000 -0500" stop="20220630060000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">No te alejes</title>
+  </programme>
+  <programme start="20220630060000 -0500" stop="20220630070000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mentes Asesinas</title>
+  </programme>
+  <programme start="20220630070000 -0500" stop="20220630080000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220630080000 -0500" stop="20220630110000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Dificil de creer</title>
+  </programme>
+  <programme start="20220630110000 -0500" stop="20220630130000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Furia en la Ciudad</title>
+  </programme>
+  <programme start="20220630130000 -0500" stop="20220630140000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mentes Asesinas</title>
+  </programme>
+  <programme start="20220630140000 -0500" stop="20220630150000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220630150000 -0500" stop="20220630180000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Dificil de creer</title>
+  </programme>
+  <programme start="20220630180000 -0500" stop="20220630190000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Furia en la Ciudad</title>
+  </programme>
+  <programme start="20220630190000 -0500" stop="20220630200000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Epicentro con Hannia Novell</title>
+  </programme>
+  <programme start="20220630200000 -0500" stop="20220630203000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Insólito, simplemente extraordinario</title>
+  </programme>
+  <programme start="20220630203000 -0500" stop="20220630213000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Mentes Asesinas</title>
+  </programme>
+  <programme start="20220630213000 -0500" stop="20220630223000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220630223000 -0500" stop="20220701013000 -0500" channel="Canal TV Azteca Clic">
+    <title lang="es">Dificil de creer</title>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Laid-Back Camp</title>
@@ -2123,7 +2235,7 @@
   <programme start="20220630211500 -0500" stop="20220630213000 -0500" channel="Canal Disney Junior">
     <title lang="es">Puppy Dog Pals</title>
     <title lang="xx">Puppy Dog Pals</title>
-    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(n)</desc>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
     <credits>
       <producer>Harland Williams</producer>
       <producer>Elizabeth Seidman</producer>
@@ -2135,6 +2247,9 @@
     <rating>
       <value>TV-PG</value>
     </rating>
+  </programme>
+  <programme start="20220630220000 -0500" stop="20220630223000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Nickelodeon">
     <title lang="es">The Loud House</title>
@@ -2418,6 +2533,9 @@
   </programme>
   <programme start="20220630210000 -0500" stop="20220630213000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Nickelodeon's Unfiltered</title>
+  </programme>
+  <programme start="20220630220000 -0500" stop="20220630223000 -0500" channel="Canal Nickelodeon">
+    <title lang="es">iCarly</title>
   </programme>
   <programme start="20220629000000 -0500" stop="20220629003000 -0500" channel="Canal Nick Jr.">
     <title lang="es">Garden Academy</title>
@@ -6231,84 +6349,9 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220630022000 -0500" stop="20220630040800 -0500" channel="Canal Space (México)">
-    <title lang="es">La noche del demonio 2</title>
-  </programme>
-  <programme start="20220630040800 -0500" stop="20220630054000 -0500" channel="Canal Space (México)">
-    <title lang="es">Las Últimas Supervivientes</title>
-    <title lang="xx">The Final Girls (2015)</title>
-    <desc lang="es">Cuando Max y sus amigos asisten al aniversario de la película de terror que protagonizó su madre difunta son absorbidos por la pantalla quedando atrapados</desc>
-    <credits>
-      <actor>Taissa Farmiga</actor>
-      <actor>Malin Åkerman</actor>
-      <actor>Adam DeVine</actor>
-      <actor>Thomas Middleditch</actor>
-      <actor>Alia Shawkat</actor>
-      <actor>Alexander Ludwig</actor>
-      <actor>Nina Dobrev</actor>
-      <actor>Angela Trimbur</actor>
-      <producer>Michael London</producer>
-      <producer>Janice Williams</producer>
-      <composer>Gregory James Jenkins</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/las_ultimas_supervivientes.jpg" />
-    <rating>
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220630054000 -0500" stop="20220630060000 -0500" channel="Canal Space (México)">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20220630060000 -0500" stop="20220630073300 -0500" channel="Canal Space (México)">
-    <title lang="es">Gremlins</title>
-  </programme>
-  <programme start="20220630073300 -0500" stop="20220630092900 -0500" channel="Canal Space (México)">
-    <title lang="es">Gremlins 2</title>
-  </programme>
-  <programme start="20220630092900 -0500" stop="20220630112400 -0500" channel="Canal Space (México)">
-    <title lang="es">Terror a bordo</title>
-  </programme>
-  <programme start="20220630112400 -0500" stop="20220630130500 -0500" channel="Canal Space (México)">
-    <title lang="es">Mad Max</title>
-  </programme>
-  <programme start="20220630130500 -0500" stop="20220630153400 -0500" channel="Canal Space (México)">
-    <title lang="es">Momento crítico</title>
-  </programme>
-  <programme start="20220630153400 -0500" stop="20220630175200 -0500" channel="Canal Space (México)">
-    <title lang="es">Batman eternamente</title>
-  </programme>
-  <programme start="20220630175200 -0500" stop="20220630200900 -0500" channel="Canal Space (México)">
-    <title lang="es">Batman &amp; Robin</title>
-  </programme>
-  <programme start="20220630200900 -0500" stop="20220630220000 -0500" channel="Canal Space (México)">
-    <title lang="es">El infiltrado</title>
-  </programme>
-  <programme start="20220630220000 -0500" stop="20220701003200 -0500" channel="Canal Space (México)">
-    <title lang="es">El Justiciero (The Equalizer)</title>
-    <title lang="xx">The Equalizer</title>
-    <desc lang="es">Un hombre que ahora tiene una nueva y calmada vida cambia cuando conoce a una chica que se encuentra bajo el control de unos violentos mafiosos Rusos</desc>
-    <credits>
-      <actor>Denzel Washington</actor>
-      <actor>Marton Csokas</actor>
-      <actor>Chloë Grace Moretz</actor>
-      <actor>David Harbour</actor>
-      <actor>Bill Pullman</actor>
-      <actor>Melissa Leo</actor>
-      <producer>Todd Black</producer>
-      <producer>Jason Blumenthal</producer>
-      <composer>Harry Gregson-Williams</composer>
-    </credits>
-    <date>2014</date>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_justiciero_the_equalizer.jpg" />
-    <rating>
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220701003200 -0500" stop="20220701021200 -0500" channel="Canal Space (México)">
+  <programme start="20220630003200 -0500" stop="20220630021200 -0500" channel="Canal Space (México)">
     <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado</desc>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(g)</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Charlize Theron</actor>
@@ -6323,6 +6366,57 @@
     <rating>
       <value>PG-13</value>
     </rating>
+  </programme>
+  <programme start="20220630021200 -0500" stop="20220630044100 -0500" channel="Canal Space (México)">
+    <title lang="es">La última pelea</title>
+  </programme>
+  <programme start="20220630044100 -0500" stop="20220630060000 -0500" channel="Canal Space (México)">
+    <title lang="es">Pesadilla en la calle Elm</title>
+  </programme>
+  <programme start="20220630060000 -0500" stop="20220630062200 -0500" channel="Canal Space (México)">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20220630062200 -0500" stop="20220630081400 -0500" channel="Canal Space (México)">
+    <title lang="es">La gran apuesta</title>
+  </programme>
+  <programme start="20220630081400 -0500" stop="20220630094800 -0500" channel="Canal Space (México)">
+    <title lang="es">Mad Max</title>
+  </programme>
+  <programme start="20220630094800 -0500" stop="20220630121200 -0500" channel="Canal Space (México)">
+    <title lang="es">Momento crítico</title>
+  </programme>
+  <programme start="20220630121200 -0500" stop="20220630142800 -0500" channel="Canal Space (México)">
+    <title lang="es">Batman eternamente</title>
+  </programme>
+  <programme start="20220630142800 -0500" stop="20220630164800 -0500" channel="Canal Space (México)">
+    <title lang="es">Batman &amp; Robin</title>
+  </programme>
+  <programme start="20220630164800 -0500" stop="20220630182300 -0500" channel="Canal Space (México)">
+    <title lang="es">Asesinos Sustitutos</title>
+  </programme>
+  <programme start="20220630182300 -0500" stop="20220630202200 -0500" channel="Canal Space (México)">
+    <title lang="es">Policias de repuesto</title>
+  </programme>
+  <programme start="20220630202200 -0500" stop="20220630220000 -0500" channel="Canal Space (México)">
+    <title lang="es">Hancock</title>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(c)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Eddie Marsan</actor>
+      <producer>Akiva Goldsman</producer>
+      <producer>James Lassiter</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2008</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/hancock.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220630220000 -0500" stop="20220701004000 -0500" channel="Canal Space (México)">
+    <title lang="es">La última pelea</title>
   </programme>
   <programme start="20220701021200 -0500" stop="20220701044100 -0500" channel="Canal Space (México)">
     <title lang="es">La última pelea</title>
