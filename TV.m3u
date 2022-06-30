@@ -23,14 +23,14 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w41392
 #EXTINF:-1 tvg-id="" tvg-name="TELEMAR CAMPECHE" tvg-logo="https://photos.live-tv-channels.org/tv-logo/mx-telemar-campeche-5613-300x225.jpg" group-title="MEXICO",TELEMAR CAMPECHE
 https://stream-03.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2q09DOP4sumfMavAnPxIY9KcDcSrZH7lOyBxLVrlzEqI)/dm/3/x80bl3l/s/live-1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRECEVISION YUCATAN" tvg-logo="http://www.teleyucatan.gob.mx/files-content/conf/logo_right_.png" group-title="MEXICO",TRECEVISION YUCATAN
+#EXTINF:-1 tvg-id="" tvg-name="TRECEVISION YUCATAN" tvg-logo="http://www.teleyucatan.gob.mx/files-content/conf/logo_right_.png" group-title="MEXICO",TELE YUCATAN
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w769019524.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CANCUN" tvg-logo="http://www.lawebtv.mx/img/logo_tvcun2.png" group-title="MEXICO",SIPSE TV CANCUN
-#https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CHETUMAL" tvg-logo="https://sipse.com/images/logo-sipse.png" group-title="MEXICO",SIPSE TV CHETUMAL
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CHETUMAL" tvg-logo="https://sipse.com/images/logo-sipse.png" group-title="MEXICO",TV CHETUMAL
+https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/chunklist_w1721101463.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 10 CHETUMAL" tvg-logo="http://www.canal10.tv/assets/Logo2.png" group-title="MEXICO",CANAL 10 CHETUMAL
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
