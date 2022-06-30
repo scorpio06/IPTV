@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal Mexiquense TV">
-    <display-name lang="es">Canal Mexiquense TV</display-name>
+    <display-name lang="es">Mexiquense TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Azteca Mundo">
@@ -396,7 +396,7 @@
   </programme>
   <programme start="20220630203000 -0500" stop="20220630213000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema</desc>
     <credits>
       <producer>Genoveva Martínez</producer>
       <producer>María Eva Hernández</producer>
