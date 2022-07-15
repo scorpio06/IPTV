@@ -2444,6 +2444,9 @@
   <programme start="20220717011500 -0500" stop="20220717014000 -0500" channel="Canal Discovery Kids">
     <title lang="es">Las aventuras de Rocky y Bull</title>
   </programme>
+  <programme start="20220717014000 -0500" stop="20220717020400 -0500" channel="Canal Discovery Kids">
+    <title lang="es">Viva el rey Julien, en el exi</title>
+  </programme>
   <programme start="20220717025200 -0500" stop="20220717031400 -0500" channel="Canal Discovery Kids">
     <title lang="es">Team Dronix</title>
   </programme>
