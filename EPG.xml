@@ -72,6 +72,10 @@
     <display-name lang="es">Canal Tooncast</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal BitMe">
+    <display-name lang="es">Canal BitMe</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal AyE">
     <display-name lang="es">Canal AyE</display-name>
     <url>http://www.gatotv.com</url>
@@ -7054,7 +7058,7 @@
   <programme start="20220715113500 -0500" stop="20220715114600 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7068,7 +7072,7 @@
   <programme start="20220715114600 -0500" stop="20220715120000 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7238,7 +7242,7 @@
   <programme start="20220715233500 -0500" stop="20220715234600 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7252,7 +7256,7 @@
   <programme start="20220715234600 -0500" stop="20220716000000 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7416,7 +7420,7 @@
   <programme start="20220716113400 -0500" stop="20220716114600 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7430,7 +7434,7 @@
   <programme start="20220716114600 -0500" stop="20220716115900 -0500" channel="Canal Tooncast">
     <title lang="es">Mi compañero de Clase es un Mono</title>
     <title lang="xx">My Gym Partner's a Monkey</title>
-    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo</desc>
     <credits>
       <producer>Victoria McCollum</producer>
     </credits>
@@ -7551,6 +7555,246 @@
   </programme>
   <programme start="20220716223500 -0500" stop="20220716224200 -0500" channel="Canal Tooncast">
     <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715005000 -0500" stop="20220715014500 -0500" channel="Canal BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220715014500 -0500" stop="20220715023500 -0500" channel="Canal BitMe">
+    <title lang="es">Dogma</title>
+  </programme>
+  <programme start="20220715023500 -0500" stop="20220715032000 -0500" channel="Canal BitMe">
+    <title lang="es">¡Ay, güey</title>
+  </programme>
+  <programme start="20220715032000 -0500" stop="20220715041000 -0500" channel="Canal BitMe">
+    <title lang="es">Sincronía</title>
+  </programme>
+  <programme start="20220715041000 -0500" stop="20220715050500 -0500" channel="Canal BitMe">
+    <title lang="es">Login</title>
+  </programme>
+  <programme start="20220715050500 -0500" stop="20220715060000 -0500" channel="Canal BitMe">
+    <title lang="es">Dogma</title>
+  </programme>
+  <programme start="20220715060000 -0500" stop="20220715065000 -0500" channel="Canal BitMe">
+    <title lang="es">Sincronía</title>
+  </programme>
+  <programme start="20220715065000 -0500" stop="20220715073500 -0500" channel="Canal BitMe">
+    <title lang="es">¡Ay, güey</title>
+  </programme>
+  <programme start="20220715073500 -0500" stop="20220715083000 -0500" channel="Canal BitMe">
+    <title lang="es">Súper X</title>
+  </programme>
+  <programme start="20220715083000 -0500" stop="20220715092000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20220715092000 -0500" stop="20220715094500 -0500" channel="Canal BitMe">
+    <title lang="es">Furcio</title>
+  </programme>
+  <programme start="20220715094500 -0500" stop="20220715101500 -0500" channel="Canal BitMe">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20220715101500 -0500" stop="20220715104500 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20220715104500 -0500" stop="20220715122000 -0500" channel="Canal BitMe">
+    <title lang="es">Universo marcial</title>
+    <episode-num>S2</episode-num>
+  </programme>
+  <programme start="20220715122000 -0500" stop="20220715131500 -0500" channel="Canal BitMe">
+    <title lang="es">Black Jack</title>
+  </programme>
+  <programme start="20220715131500 -0500" stop="20220715140500 -0500" channel="Canal BitMe">
+    <title lang="es">Attack on Titan</title>
+    <episode-num>S3</episode-num>
+  </programme>
+  <programme start="20220715140500 -0500" stop="20220715145500 -0500" channel="Canal BitMe">
+    <title lang="es">My hero academy</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220715145500 -0500" stop="20220715155000 -0500" channel="Canal BitMe">
+    <title lang="es">Assassination classroom</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220715155000 -0500" stop="20220715161500 -0500" channel="Canal BitMe">
+    <title lang="es">Furcio</title>
+  </programme>
+  <programme start="20220715161500 -0500" stop="20220715164500 -0500" channel="Canal BitMe">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20220715164500 -0500" stop="20220715171500 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20220715171500 -0500" stop="20220715185000 -0500" channel="Canal BitMe">
+    <title lang="es">Universo marcial</title>
+    <episode-num>S2</episode-num>
+  </programme>
+  <programme start="20220715185000 -0500" stop="20220715194500 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20220715194500 -0500" stop="20220715203500 -0500" channel="Canal BitMe">
+    <title lang="es">Attack on Titan</title>
+    <episode-num>S3</episode-num>
+  </programme>
+  <programme start="20220715203500 -0500" stop="20220715212500 -0500" channel="Canal BitMe">
+    <title lang="es">My hero academy</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220715212500 -0500" stop="20220715222000 -0500" channel="Canal BitMe">
+    <title lang="es">Assassination classroom</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220715222000 -0500" stop="20220715231000 -0500" channel="Canal BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220715231000 -0500" stop="20220716005000 -0500" channel="Canal BitMe">
+    <title lang="es">Future World</title>
+    <title lang="xx">Future World</title>
+    <desc lang="es">El hijo de una reina viaja a través de tierras estériles en búsqueda una medicina casi mítica para salvarle la vida topándose con criminales motorizados(n)</desc>
+    <credits>
+      <actor>James Franco</actor>
+      <actor>Suki Waterhouse</actor>
+      <actor>Jeffrey Wahlberg</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Snoop Dogg</actor>
+      <actor>George Lewis Jr.</actor>
+      <actor>Cliff 'Method Man' Smith</actor>
+      <actor>Lucy Liu</actor>
+      <producer>Monika Bacardi</producer>
+      <producer>Jay Davis</producer>
+      <composer>Toydrum</composer>
+    </credits>
+    <date>2018</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/future_world.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220716005000 -0500" stop="20220716023500 -0500" channel="Canal BitMe">
+    <title lang="es">El Habitante</title>
+    <title lang="xx">El Habitante</title>
+    <desc lang="es">Tres ladronas, en una noche entran a robar la casa de un político, pero en el sótano descubren una niña atada y desean ayudarla sin saber que está poseída(n)</desc>
+    <credits>
+      <actor>María Evoli</actor>
+      <actor>Vanesa Restrepo</actor>
+      <actor>Carla Adell</actor>
+      <actor>Shira Barzilai</actor>
+      <actor>Fernando Becerril</actor>
+      <actor>Natasha Cubria</actor>
+      <actor>Gabriela de la Garza</actor>
+      <actor>Liz Dieppa</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_habitante.jpg" />
+    <country>México</country>
+    <country>Chile</country>
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220716023500 -0500" stop="20220716045000 -0500" channel="Canal BitMe">
+    <title lang="es">Sincronía</title>
+  </programme>
+  <programme start="20220716045000 -0500" stop="20220716070500 -0500" channel="Canal BitMe">
+    <title lang="es">Dogma</title>
+  </programme>
+  <programme start="20220716070500 -0500" stop="20220716084500 -0500" channel="Canal BitMe">
+    <title lang="es">Súper X</title>
+  </programme>
+  <programme start="20220716084500 -0500" stop="20220716102000 -0500" channel="Canal BitMe">
+    <title lang="es">Universo marcial</title>
+    <episode-num>S2</episode-num>
+  </programme>
+  <programme start="20220716102000 -0500" stop="20220716121500 -0500" channel="Canal BitMe">
+    <title lang="es">The Little Prince</title>
+  </programme>
+  <programme start="20220716121500 -0500" stop="20220716141000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20220716141000 -0500" stop="20220716154000 -0500" channel="Canal BitMe">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20220716154000 -0500" stop="20220716173500 -0500" channel="Canal BitMe">
+    <title lang="es">Un Gallo con Muchos Huevos</title>
+  </programme>
+  <programme start="20220716173500 -0500" stop="20220716193000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20220716193000 -0500" stop="20220716214000 -0500" channel="Canal BitMe">
+    <title lang="es">My hero academy</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220716214000 -0500" stop="20220716235000 -0500" channel="Canal BitMe">
+    <title lang="es">Assassination classroom</title>
+    <episode-num>S1</episode-num>
+  </programme>
+  <programme start="20220716235000 -0500" stop="20220717004000 -0500" channel="Canal BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+    <title lang="xx">Fear the Walking Dead</title>
+    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad(n)</desc>
+    <credits>
+      <actor>Kim Dickens</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Frank Dillane</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Alycia Debnam-Carey</actor>
+      <actor>Elizabeth Rodríguez</actor>
+      <actor>Mercedes Mason</actor>
+      <actor>Lorenzo James Henrie</actor>
+      <producer>Bill Johnson</producer>
+      <producer>Avram Butch Kaplan</producer>
+      <composer>Atticus Ross</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/fear_the_walking_dead.jpg" />
+    <episode-num>S2</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
   </programme>
   <programme start="20220715005500 -0500" stop="20220715015000 -0500" channel="Canal AyE">
     <title lang="es">Asesinos Seriales</title>
