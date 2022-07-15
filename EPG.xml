@@ -56,20 +56,12 @@
     <display-name lang="es">Canal Disney Junior 1</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Disney XD">
-    <display-name lang="es">Canal Disney XD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Nat Geo Kids">
-    <display-name lang="es">Canal Nat Geo Kids</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Canal Nickelodeon">
     <display-name lang="es">Canal Nickelodeon</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Nick Jr.">
-    <display-name lang="es">Canal Nick Jr.</display-name>
+  <channel id="Canal Nick Jr. (México)">
+    <display-name lang="es">Canal Nick Jr. (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal AyE">
@@ -4905,36 +4897,99 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220715003000 -0500" stop="20220715010000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220715001500 -0500" stop="20220715003000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715010000 -0500" stop="20220715013000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220715003000 -0500" stop="20220715010000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220715013000 -0500" stop="20220715020000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715010000 -0500" stop="20220715013000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
+  </programme>
+  <programme start="20220715013000 -0500" stop="20220715020000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220715020000 -0500" stop="20220715023000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715020000 -0500" stop="20220715023000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220715023000 -0500" stop="20220715030000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715023000 -0500" stop="20220715030000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715030000 -0500" stop="20220715033000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715030000 -0500" stop="20220715033000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715033000 -0500" stop="20220715040000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715033000 -0500" stop="20220715040000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715040000 -0500" stop="20220715043000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Blaze y los Monster Machines</title>
+  <programme start="20220715040000 -0500" stop="20220715043000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20220715043000 -0500" stop="20220715050000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Blaze y los Monster Machines</title>
+  <programme start="20220715043000 -0500" stop="20220715050000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20220715050000 -0500" stop="20220715053000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715050000 -0500" stop="20220715053000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Dora, La Exploradora</title>
-    <desc lang="es">Dora junto a su amigo Botas, se enfrentarán con distintos retos durante sus aventuras y juntos, con tu ayuda, lograrán llegar a su meta</desc>
+    <desc lang="es">Dora junto a su amigo Botas, se enfrentarán con distintos retos durante sus aventuras y juntos, con tu ayuda, lograrán llegar a su meta(n)</desc>
     <credits>
       <composer>Joshua Sitron</composer>
     </credits>
@@ -4945,9 +5000,9 @@
     <country>Canadá</country>
     <country>Estados Unidos</country>
   </programme>
-  <programme start="20220715053000 -0500" stop="20220715060000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715053000 -0500" stop="20220715060000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Dora, La Exploradora</title>
-    <desc lang="es">Dora junto a su amigo Botas, se enfrentarán con distintos retos durante sus aventuras y juntos, con tu ayuda, lograrán llegar a su meta</desc>
+    <desc lang="es">Dora junto a su amigo Botas, se enfrentarán con distintos retos durante sus aventuras y juntos, con tu ayuda, lograrán llegar a su meta(n)</desc>
     <credits>
       <composer>Joshua Sitron</composer>
     </credits>
@@ -4958,200 +5013,548 @@
     <country>Canadá</country>
     <country>Estados Unidos</country>
   </programme>
-  <programme start="20220715060000 -0500" stop="20220715063000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715060000 -0500" stop="20220715063000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Go, Diego! Go</title>
   </programme>
-  <programme start="20220715063000 -0500" stop="20220715070000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715063000 -0500" stop="20220715070000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Deer Squad</title>
   </programme>
-  <programme start="20220715070000 -0500" stop="20220715073000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Los ositos cariñosos</title>
+  <programme start="20220715070000 -0500" stop="20220715073000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Care Bears Unlock The Magic</title>
   </programme>
-  <programme start="20220715073000 -0500" stop="20220715080000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Los ositos cariñosos</title>
+  <programme start="20220715073000 -0500" stop="20220715080000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Care Bears Unlock The Magic</title>
   </programme>
-  <programme start="20220715080000 -0500" stop="20220715083000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
+  <programme start="20220715080000 -0500" stop="20220715083000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220715083000 -0500" stop="20220715090000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715083000 -0500" stop="20220715090000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715090000 -0500" stop="20220715093000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Santiago de los mares</title>
+  <programme start="20220715090000 -0500" stop="20220715093000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Santiago of the Seas</title>
   </programme>
-  <programme start="20220715093000 -0500" stop="20220715100000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Santiago de los mares</title>
+  <programme start="20220715093000 -0500" stop="20220715100000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Santiago of the Seas</title>
   </programme>
-  <programme start="20220715100000 -0500" stop="20220715103000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715100000 -0500" stop="20220715103000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220715103000 -0500" stop="20220715110000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715103000 -0500" stop="20220715110000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220715110000 -0500" stop="20220715113000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715110000 -0500" stop="20220715113000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715113000 -0500" stop="20220715120000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715113000 -0500" stop="20220715120000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715120000 -0500" stop="20220715123000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715120000 -0500" stop="20220715123000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">The Adventures of Paddington</title>
   </programme>
-  <programme start="20220715123000 -0500" stop="20220715130000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715123000 -0500" stop="20220715130000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">The Adventures of Paddington</title>
   </programme>
-  <programme start="20220715130000 -0500" stop="20220715131500 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715130000 -0500" stop="20220715133000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715131500 -0500" stop="20220715133000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Cat Pack</title>
+  <programme start="20220715133000 -0500" stop="20220715140000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715133000 -0500" stop="20220715140000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-  <programme start="20220715140000 -0500" stop="20220715141500 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715140000 -0500" stop="20220715141500 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Garden Academy</title>
   </programme>
-  <programme start="20220715141500 -0500" stop="20220715143000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Anna y sus amigos</title>
+  <programme start="20220715141500 -0500" stop="20220715143000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Anna &amp; Friends</title>
   </programme>
-  <programme start="20220715143000 -0500" stop="20220715150000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220715143000 -0500" stop="20220715150000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220715150000 -0500" stop="20220715153000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220715150000 -0500" stop="20220715153000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220715153000 -0500" stop="20220715160000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715153000 -0500" stop="20220715160000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715160000 -0500" stop="20220715163000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715160000 -0500" stop="20220715163000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715163000 -0500" stop="20220715170000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Santiago de los mares</title>
+  <programme start="20220715163000 -0500" stop="20220715170000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Santiago of the Seas</title>
   </programme>
-  <programme start="20220715170000 -0500" stop="20220715173000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
+  <programme start="20220715170000 -0500" stop="20220715173000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220715173000 -0500" stop="20220715180000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
+  <programme start="20220715173000 -0500" stop="20220715180000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220715180000 -0500" stop="20220715183000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715180000 -0500" stop="20220715183000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Top Wing</title>
   </programme>
-  <programme start="20220715183000 -0500" stop="20220715190000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715183000 -0500" stop="20220715190000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Top Wing</title>
   </programme>
-  <programme start="20220715190000 -0500" stop="20220715193000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220715190000 -0500" stop="20220715193000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220715193000 -0500" stop="20220715200000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Santiago de los mares</title>
+  <programme start="20220715193000 -0500" stop="20220715200000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Santiago of the Seas</title>
   </programme>
-  <programme start="20220715200000 -0500" stop="20220715203000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715200000 -0500" stop="20220715203000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715203000 -0500" stop="20220715210000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715203000 -0500" stop="20220715210000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715210000 -0500" stop="20220715211500 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220715210000 -0500" stop="20220715213000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220715211500 -0500" stop="20220715213000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Cat Pack</title>
+  <programme start="20220715213000 -0500" stop="20220715220000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Corn &amp; Peg</title>
   </programme>
-  <programme start="20220715213000 -0500" stop="20220715220000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Corn and Peg</title>
-  </programme>
-  <programme start="20220715220000 -0500" stop="20220715223000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715220000 -0500" stop="20220715223000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220715223000 -0500" stop="20220715230000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715223000 -0500" stop="20220715230000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Rugrats</title>
   </programme>
-  <programme start="20220715230000 -0500" stop="20220715233000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715230000 -0500" stop="20220715233000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Butterbean's Café</title>
   </programme>
-  <programme start="20220715233000 -0500" stop="20220716000000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220715233000 -0500" stop="20220716000000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Rusty Rivets</title>
   </programme>
-  <programme start="20220716010000 -0500" stop="20220716013000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220716050000 -0500" stop="20220716053000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716050000 -0500" stop="20220716053000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716053000 -0500" stop="20220716060000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716053000 -0500" stop="20220716060000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716060000 -0500" stop="20220716063000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716060000 -0500" stop="20220716063000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716063000 -0500" stop="20220716070000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716063000 -0500" stop="20220716070000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716070000 -0500" stop="20220716073000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716070000 -0500" stop="20220716073000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716073000 -0500" stop="20220716080000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716073000 -0500" stop="20220716080000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716080000 -0500" stop="20220716083000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716080000 -0500" stop="20220716083000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716100000 -0500" stop="20220716103000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220716100000 -0500" stop="20220716103000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220716103000 -0500" stop="20220716110000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220716103000 -0500" stop="20220716110000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
-  <programme start="20220716110000 -0500" stop="20220716113000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
+  <programme start="20220716110000 -0500" stop="20220716113000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220716113000 -0500" stop="20220716120000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
+  <programme start="20220716113000 -0500" stop="20220716120000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220716120000 -0500" stop="20220716123000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Blaze y los Monster Machines</title>
+  <programme start="20220716120000 -0500" stop="20220716123000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20220716123000 -0500" stop="20220716130000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Blaze y los Monster Machines</title>
+  <programme start="20220716123000 -0500" stop="20220716130000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
   </programme>
-  <programme start="20220716130000 -0500" stop="20220716133000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716140000 -0500" stop="20220716143000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716133000 -0500" stop="20220716140000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716143000 -0500" stop="20220716150000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Baby Shark's Big Show</title>
   </programme>
-  <programme start="20220716140000 -0500" stop="20220716143000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-  <programme start="20220716143000 -0500" stop="20220716150000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-  <programme start="20220716150000 -0500" stop="20220716153000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220716150000 -0500" stop="20220716153000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220716153000 -0500" stop="20220716160000 -0500" channel="Canal Nick Jr.">
+  <programme start="20220716153000 -0500" stop="20220716160000 -0500" channel="Canal Nick Jr. (México)">
     <title lang="es">Bubble Guppies</title>
   </programme>
-  <programme start="20220716163000 -0500" stop="20220716170000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716160000 -0500" stop="20220716163000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716170000 -0500" stop="20220716173000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716163000 -0500" stop="20220716170000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716173000 -0500" stop="20220716180000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Patrulla canina</title>
+  <programme start="20220716170000 -0500" stop="20220716173000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716180000 -0500" stop="20220716183000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220716173000 -0500" stop="20220716180000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">PAW Patrol</title>
+    <title lang="xx">PAW Patrol</title>
+    <desc lang="es">Un niño de 10 años y sus cachorros siempre están preparados para aventurarse y salvar a cualquiera que esté en peligro en la ciudad de Adventure Bay(n)</desc>
+    <credits>
+      <producer>Patricia Burns</producer>
+      <composer>Michael Smidi Smith</composer>
+      <composer>Scott Krippayne</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/patrulla_de_cachorros.jpg" />
+    <country>Canadá</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
-  <programme start="20220716183000 -0500" stop="20220716190000 -0500" channel="Canal Nick Jr.">
-    <title lang="es">Las pistas de Blue y tú</title>
+  <programme start="20220716180000 -0500" stop="20220716183000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
+  </programme>
+  <programme start="20220716183000 -0500" stop="20220716190000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
+  </programme>
+  <programme start="20220716190000 -0500" stop="20220716193000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
+  </programme>
+  <programme start="20220716193000 -0500" stop="20220716200000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
+  </programme>
+  <programme start="20220716200000 -0500" stop="20220716203000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20220716203000 -0500" stop="20220716210000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20220716210000 -0500" stop="20220716213000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20220716213000 -0500" stop="20220716220000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Abby Hatcher</title>
+  </programme>
+  <programme start="20220716220000 -0500" stop="20220716223000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Abby Hatcher</title>
+  </programme>
+  <programme start="20220716223000 -0500" stop="20220716230000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Deer Squad</title>
+  </programme>
+  <programme start="20220716230000 -0500" stop="20220716233000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Garden Academy/PAW Patrol</title>
+  </programme>
+  <programme start="20220716233000 -0500" stop="20220717000000 -0500" channel="Canal Nick Jr. (México)">
+    <title lang="es">Blue's Clues &amp; You</title>
   </programme>
   <programme start="20220715005500 -0500" stop="20220715015000 -0500" channel="Canal AyE">
     <title lang="es">Asesinos Seriales</title>
