@@ -68,6 +68,10 @@
     <display-name lang="es">Canal TeenNick</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Tooncast">
+    <display-name lang="es">Canal Tooncast</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal AyE">
     <display-name lang="es">Canal AyE</display-name>
     <url>http://www.gatotv.com</url>
@@ -5566,7 +5570,7 @@
   <programme start="20220715004500 -0500" stop="20220715011000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5588,7 +5592,7 @@
   <programme start="20220715011000 -0500" stop="20220715014000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5610,7 +5614,7 @@
   <programme start="20220715014000 -0500" stop="20220715020500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5632,7 +5636,7 @@
   <programme start="20220715020500 -0500" stop="20220715023000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5653,7 +5657,7 @@
   <programme start="20220715023000 -0500" stop="20220715025500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5673,7 +5677,7 @@
   </programme>
   <programme start="20220715025500 -0500" stop="20220715032500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -5702,7 +5706,7 @@
   <programme start="20220715050500 -0500" stop="20220715053000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5724,7 +5728,7 @@
   <programme start="20220715053000 -0500" stop="20220715055000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5746,7 +5750,7 @@
   <programme start="20220715055000 -0500" stop="20220715061500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5767,7 +5771,7 @@
   <programme start="20220715061500 -0500" stop="20220715064000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5788,7 +5792,7 @@
   <programme start="20220715064000 -0500" stop="20220715070500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5821,7 +5825,7 @@
   <programme start="20220715084500 -0500" stop="20220715091000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5843,7 +5847,7 @@
   <programme start="20220715091000 -0500" stop="20220715093000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5871,7 +5875,7 @@
   <programme start="20220715102000 -0500" stop="20220715105000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5892,7 +5896,7 @@
   <programme start="20220715105000 -0500" stop="20220715112000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5916,7 +5920,7 @@
   <programme start="20220715114500 -0500" stop="20220715121500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5938,7 +5942,7 @@
   <programme start="20220715121500 -0500" stop="20220715124000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -5960,7 +5964,7 @@
   <programme start="20220715124000 -0500" stop="20220715130000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -5981,7 +5985,7 @@
   <programme start="20220715130000 -0500" stop="20220715133000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6002,7 +6006,7 @@
   <programme start="20220715133000 -0500" stop="20220715135500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6034,7 +6038,7 @@
   </programme>
   <programme start="20220715153500 -0500" stop="20220715155500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6063,7 +6067,7 @@
   <programme start="20220715173000 -0500" stop="20220715175000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6084,7 +6088,7 @@
   <programme start="20220715175000 -0500" stop="20220715181500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6105,7 +6109,7 @@
   <programme start="20220715181500 -0500" stop="20220715183500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6127,7 +6131,7 @@
   <programme start="20220715183500 -0500" stop="20220715190000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6163,7 +6167,7 @@
   </programme>
   <programme start="20220715205000 -0500" stop="20220715211500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6179,7 +6183,7 @@
   </programme>
   <programme start="20220715211500 -0500" stop="20220715213500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6195,7 +6199,7 @@
   </programme>
   <programme start="20220715213500 -0500" stop="20220715220000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6236,7 +6240,7 @@
   <programme start="20220716011000 -0500" stop="20220716014000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6258,7 +6262,7 @@
   <programme start="20220716014000 -0500" stop="20220716020500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6280,7 +6284,7 @@
   <programme start="20220716020500 -0500" stop="20220716023000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6301,7 +6305,7 @@
   <programme start="20220716023000 -0500" stop="20220716025500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6330,7 +6334,7 @@
   </programme>
   <programme start="20220716041500 -0500" stop="20220716044500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6346,7 +6350,7 @@
   </programme>
   <programme start="20220716044500 -0500" stop="20220716051000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6390,7 +6394,7 @@
   <programme start="20220716090000 -0500" stop="20220716092500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6412,7 +6416,7 @@
   <programme start="20220716092500 -0500" stop="20220716095500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6434,7 +6438,7 @@
   <programme start="20220716095500 -0500" stop="20220716102000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6456,7 +6460,7 @@
   <programme start="20220716102000 -0500" stop="20220716105000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6478,7 +6482,7 @@
   <programme start="20220716105000 -0500" stop="20220716111500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6499,7 +6503,7 @@
   <programme start="20220716111500 -0500" stop="20220716114500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6520,7 +6524,7 @@
   <programme start="20220716114500 -0500" stop="20220716121000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6552,7 +6556,7 @@
   </programme>
   <programme start="20220716135000 -0500" stop="20220716142000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6568,7 +6572,7 @@
   </programme>
   <programme start="20220716142000 -0500" stop="20220716144500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6585,7 +6589,7 @@
   <programme start="20220716144500 -0500" stop="20220716150500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6606,7 +6610,7 @@
   <programme start="20220716150500 -0500" stop="20220716153000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6627,7 +6631,7 @@
   <programme start="20220716153000 -0500" stop="20220716155000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6648,7 +6652,7 @@
   <programme start="20220716155000 -0500" stop="20220716161000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6669,7 +6673,7 @@
   <programme start="20220716161000 -0500" stop="20220716163500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6690,7 +6694,7 @@
   <programme start="20220716163500 -0500" stop="20220716170000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6719,7 +6723,7 @@
   </programme>
   <programme start="20220716180500 -0500" stop="20220716182500 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6735,7 +6739,7 @@
   </programme>
   <programme start="20220716182500 -0500" stop="20220716185000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6760,7 +6764,7 @@
   </programme>
   <programme start="20220716195500 -0500" stop="20220716202000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6776,7 +6780,7 @@
   </programme>
   <programme start="20220716202000 -0500" stop="20220716204000 -0500" channel="Canal TeenNick">
     <title lang="es">Victorious</title>
-    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento(n)</desc>
+    <desc lang="es">Tori Vega opacada por su hermana mayor llega a una escuela de futuros artistas con estudiantes talentosos ella tratará de descubrir que tiene talento</desc>
     <credits>
       <actor>Victoria Justice</actor>
       <producer>Robin Weiner</producer>
@@ -6793,7 +6797,7 @@
   <programme start="20220716204000 -0500" stop="20220716210000 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6815,7 +6819,7 @@
   <programme start="20220716210000 -0500" stop="20220716212500 -0500" channel="Canal TeenNick">
     <title lang="es">The Thundermans</title>
     <title lang="xx">The Thundermans</title>
-    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor(n)</desc>
+    <desc lang="es">Una familia aparentemente normal cuya principal preocupación es mantener en secreto sus súper poderes de las personas que están a su alrededor</desc>
     <credits>
       <actor>Kira Kosarin</actor>
       <actor>Jack Griffo</actor>
@@ -6837,7 +6841,7 @@
   <programme start="20220716212500 -0500" stop="20220716214500 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6858,7 +6862,7 @@
   <programme start="20220716214500 -0500" stop="20220716221000 -0500" channel="Canal TeenNick">
     <title lang="es">Henry Danger</title>
     <title lang="xx">Henry Danger</title>
-    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man(n)</desc>
+    <desc lang="es">Un niño de 13 años lleva una doble vida después de conseguir un trabajo de tiempo parcial como un héroe en formación para ayudar al superhéroe Capitán Man</desc>
     <credits>
       <actor>Jace Norman</actor>
       <actor>Cooper Barnes</actor>
@@ -6890,6 +6894,663 @@
   </programme>
   <programme start="20220716233500 -0500" stop="20220717000000 -0500" channel="Canal TeenNick">
     <title lang="es">Big Time Rush</title>
+  </programme>
+  <programme start="20220715001100 -0500" stop="20220715002400 -0500" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20220715002400 -0500" stop="20220715003500 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715003500 -0500" stop="20220715004600 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715004600 -0500" stop="20220715010000 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715010000 -0500" stop="20220715010800 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715010800 -0500" stop="20220715011400 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715011400 -0500" stop="20220715012100 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715012100 -0500" stop="20220715013100 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715013100 -0500" stop="20220715014200 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715014200 -0500" stop="20220715015300 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715015300 -0500" stop="20220715020700 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715020700 -0500" stop="20220715021400 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715021400 -0500" stop="20220715022100 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715022100 -0500" stop="20220715023100 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715023100 -0500" stop="20220715024200 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220715024200 -0500" stop="20220715025700 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220715025700 -0500" stop="20220715032200 -0500" channel="Canal Tooncast">
+    <title lang="es">Dynomutt</title>
+  </programme>
+  <programme start="20220715032200 -0500" stop="20220715032900 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715032900 -0500" stop="20220715033600 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715033600 -0500" stop="20220715034300 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715034300 -0500" stop="20220715035000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715035000 -0500" stop="20220715040000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715040000 -0500" stop="20220715042100 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715042100 -0500" stop="20220715044300 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715044300 -0500" stop="20220715050500 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715050500 -0500" stop="20220715052800 -0500" channel="Canal Tooncast">
+    <title lang="es">The Real Adventures of Jonny Quest</title>
+  </programme>
+  <programme start="20220715052800 -0500" stop="20220715054900 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220715054900 -0500" stop="20220715061100 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220715061100 -0500" stop="20220715063400 -0500" channel="Canal Tooncast">
+    <title lang="es">Loonatics unleashed</title>
+  </programme>
+  <programme start="20220715063400 -0500" stop="20220715065600 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715065600 -0500" stop="20220715071900 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715071900 -0500" stop="20220715074200 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715074200 -0500" stop="20220715080900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+  </programme>
+  <programme start="20220715080900 -0500" stop="20220715083500 -0500" channel="Canal Tooncast">
+    <title lang="es">Shaggy y Scooby Doo Detectives</title>
+  </programme>
+  <programme start="20220715083500 -0500" stop="20220715084100 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715084100 -0500" stop="20220715084800 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715084800 -0500" stop="20220715085900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715085900 -0500" stop="20220715090600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715090600 -0500" stop="20220715091300 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715091300 -0500" stop="20220715092000 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715092000 -0500" stop="20220715092600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715092600 -0500" stop="20220715093600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715093600 -0500" stop="20220715100100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220715100100 -0500" stop="20220715102700 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220715102700 -0500" stop="20220715103500 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715103500 -0500" stop="20220715104200 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715104200 -0500" stop="20220715104900 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715104900 -0500" stop="20220715110000 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715110000 -0500" stop="20220715110800 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715110800 -0500" stop="20220715111600 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715111600 -0500" stop="20220715112400 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715112400 -0500" stop="20220715113500 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715113500 -0500" stop="20220715114600 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715114600 -0500" stop="20220715120000 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715120000 -0500" stop="20220715122600 -0500" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20220715122600 -0500" stop="20220715123800 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715123800 -0500" stop="20220715124900 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715124900 -0500" stop="20220715130400 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220715130400 -0500" stop="20220715131100 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715131100 -0500" stop="20220715131800 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715131800 -0500" stop="20220715132800 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220715132800 -0500" stop="20220715133800 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715133800 -0500" stop="20220715134900 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715134900 -0500" stop="20220715140300 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220715140300 -0500" stop="20220715141000 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715141000 -0500" stop="20220715141700 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715141700 -0500" stop="20220715142400 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715142400 -0500" stop="20220715143400 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220715143400 -0500" stop="20220715144400 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220715144400 -0500" stop="20220715145700 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220715145700 -0500" stop="20220715152200 -0500" channel="Canal Tooncast">
+    <title lang="es">Dynomutt</title>
+  </programme>
+  <programme start="20220715152200 -0500" stop="20220715152900 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715152900 -0500" stop="20220715153600 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715153600 -0500" stop="20220715154300 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715154300 -0500" stop="20220715155000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715155000 -0500" stop="20220715160000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220715160000 -0500" stop="20220715162100 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715162100 -0500" stop="20220715164300 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715164300 -0500" stop="20220715170500 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220715170500 -0500" stop="20220715172800 -0500" channel="Canal Tooncast">
+    <title lang="es">The Real Adventures of Jonny Quest</title>
+  </programme>
+  <programme start="20220715172800 -0500" stop="20220715174900 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220715174900 -0500" stop="20220715181100 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220715181100 -0500" stop="20220715183400 -0500" channel="Canal Tooncast">
+    <title lang="es">Loonatics unleashed</title>
+  </programme>
+  <programme start="20220715183400 -0500" stop="20220715185600 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715185600 -0500" stop="20220715191900 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715191900 -0500" stop="20220715194200 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220715194200 -0500" stop="20220715200900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+  </programme>
+  <programme start="20220715200900 -0500" stop="20220715203500 -0500" channel="Canal Tooncast">
+    <title lang="es">Shaggy y Scooby Doo Detectives</title>
+  </programme>
+  <programme start="20220715203500 -0500" stop="20220715204100 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715204100 -0500" stop="20220715204800 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715204800 -0500" stop="20220715205900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715205900 -0500" stop="20220715210600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715210600 -0500" stop="20220715211300 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715211300 -0500" stop="20220715211900 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715211900 -0500" stop="20220715212600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715212600 -0500" stop="20220715213600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220715213600 -0500" stop="20220715220100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220715220100 -0500" stop="20220715222700 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220715222700 -0500" stop="20220715223400 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715223400 -0500" stop="20220715224200 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715224200 -0500" stop="20220715224900 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715224900 -0500" stop="20220715230000 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220715230000 -0500" stop="20220715230800 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715230800 -0500" stop="20220715231600 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715231600 -0500" stop="20220715232400 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715232400 -0500" stop="20220715233500 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220715233500 -0500" stop="20220715234600 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715234600 -0500" stop="20220716000000 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716000000 -0500" stop="20220716002600 -0500" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20220716002600 -0500" stop="20220716003700 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716003700 -0500" stop="20220716004900 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716004900 -0500" stop="20220716010400 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716010400 -0500" stop="20220716011100 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716011100 -0500" stop="20220716011800 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716011800 -0500" stop="20220716012700 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716012700 -0500" stop="20220716013800 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220716013800 -0500" stop="20220716014900 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220716014900 -0500" stop="20220716020300 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220716020300 -0500" stop="20220716021000 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716021000 -0500" stop="20220716021700 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716021700 -0500" stop="20220716022400 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716022400 -0500" stop="20220716023300 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716023300 -0500" stop="20220716024400 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220716024400 -0500" stop="20220716025700 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220716025700 -0500" stop="20220716032200 -0500" channel="Canal Tooncast">
+    <title lang="es">Dynomutt</title>
+  </programme>
+  <programme start="20220716032200 -0500" stop="20220716032900 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220716032900 -0500" stop="20220716033600 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220716033600 -0500" stop="20220716034300 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220716034300 -0500" stop="20220716035000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220716035000 -0500" stop="20220716040000 -0500" channel="Canal Tooncast">
+    <title lang="es">Zuzubalandia</title>
+  </programme>
+  <programme start="20220716040000 -0500" stop="20220716042100 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220716042100 -0500" stop="20220716044300 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220716044300 -0500" stop="20220716050500 -0500" channel="Canal Tooncast">
+    <title lang="es">The Zeta Project</title>
+  </programme>
+  <programme start="20220716050500 -0500" stop="20220716052800 -0500" channel="Canal Tooncast">
+    <title lang="es">The Real Adventures of Jonny Quest</title>
+  </programme>
+  <programme start="20220716052800 -0500" stop="20220716054900 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220716054900 -0500" stop="20220716061000 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220716061000 -0500" stop="20220716063300 -0500" channel="Canal Tooncast">
+    <title lang="es">Loonatics unleashed</title>
+  </programme>
+  <programme start="20220716063300 -0500" stop="20220716065600 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220716065600 -0500" stop="20220716071900 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220716071900 -0500" stop="20220716074300 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220716074300 -0500" stop="20220716080800 -0500" channel="Canal Tooncast">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+  </programme>
+  <programme start="20220716080800 -0500" stop="20220716083200 -0500" channel="Canal Tooncast">
+    <title lang="es">Shaggy y Scooby Doo Detectives</title>
+  </programme>
+  <programme start="20220716083200 -0500" stop="20220716083900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716083900 -0500" stop="20220716084600 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716084600 -0500" stop="20220716085700 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716085700 -0500" stop="20220716090400 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716090400 -0500" stop="20220716091100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716091100 -0500" stop="20220716092100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716092100 -0500" stop="20220716094600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716094600 -0500" stop="20220716100900 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716100900 -0500" stop="20220716103500 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716103500 -0500" stop="20220716104200 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220716104200 -0500" stop="20220716104900 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220716104900 -0500" stop="20220716110000 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
+  </programme>
+  <programme start="20220716110000 -0500" stop="20220716110800 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220716110800 -0500" stop="20220716111600 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220716111600 -0500" stop="20220716112400 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220716112400 -0500" stop="20220716113400 -0500" channel="Canal Tooncast">
+    <title lang="es">Pier-No-Doyuna y Patán</title>
+  </programme>
+  <programme start="20220716113400 -0500" stop="20220716114600 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716114600 -0500" stop="20220716115900 -0500" channel="Canal Tooncast">
+    <title lang="es">Mi compañero de Clase es un Mono</title>
+    <title lang="xx">My Gym Partner's a Monkey</title>
+    <desc lang="es">Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo(n)</desc>
+    <credits>
+      <producer>Victoria McCollum</producer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/mi_companero_de_clase_es_un_mono.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716115900 -0500" stop="20220716122500 -0500" channel="Canal Tooncast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20220716122500 -0500" stop="20220716123500 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716123500 -0500" stop="20220716124600 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716124600 -0500" stop="20220716130100 -0500" channel="Canal Tooncast">
+    <title lang="es">El campamento de Lazlo</title>
+  </programme>
+  <programme start="20220716130100 -0500" stop="20220716130800 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716130800 -0500" stop="20220716131500 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716131500 -0500" stop="20220716132200 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716132200 -0500" stop="20220716132900 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716132900 -0500" stop="20220716133900 -0500" channel="Canal Tooncast">
+    <title lang="es">Hi Hi Puffy Amiyumi</title>
+  </programme>
+  <programme start="20220716133900 -0500" stop="20220716135000 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220716135000 -0500" stop="20220716140400 -0500" channel="Canal Tooncast">
+    <title lang="es">Mike, Lu y Og</title>
+  </programme>
+  <programme start="20220716140400 -0500" stop="20220716141100 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716141100 -0500" stop="20220716141900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716141900 -0500" stop="20220716142600 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716142600 -0500" stop="20220716143500 -0500" channel="Canal Tooncast">
+    <title lang="es">Las sombrías aventuras de Billy y Mandy</title>
+  </programme>
+  <programme start="20220716143500 -0500" stop="20220716144600 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220716144600 -0500" stop="20220716150000 -0500" channel="Canal Tooncast">
+    <title lang="es">Jones, el robot</title>
+  </programme>
+  <programme start="20220716150000 -0500" stop="20220716152400 -0500" channel="Canal Tooncast">
+    <title lang="es">Dynomutt</title>
+  </programme>
+  <programme start="20220716152400 -0500" stop="20220716153500 -0500" channel="Canal Tooncast">
+    <title lang="es">Haunted tales</title>
+  </programme>
+  <programme start="20220716153500 -0500" stop="20220716154600 -0500" channel="Canal Tooncast">
+    <title lang="es">Haunted tales</title>
+  </programme>
+  <programme start="20220716154600 -0500" stop="20220716160000 -0500" channel="Canal Tooncast">
+    <title lang="es">Haunted tales</title>
+  </programme>
+  <programme start="20220716174900 -0500" stop="20220716181000 -0500" channel="Canal Tooncast">
+    <title lang="es">Legión de Súper Héroes</title>
+  </programme>
+  <programme start="20220716181000 -0500" stop="20220716183300 -0500" channel="Canal Tooncast">
+    <title lang="es">Loonatics unleashed</title>
+  </programme>
+  <programme start="20220716183300 -0500" stop="20220716185600 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220716191900 -0500" stop="20220716194300 -0500" channel="Canal Tooncast">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20220716194300 -0500" stop="20220716200800 -0500" channel="Canal Tooncast">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+  </programme>
+  <programme start="20220716200800 -0500" stop="20220716203200 -0500" channel="Canal Tooncast">
+    <title lang="es">Shaggy y Scooby Doo Detectives</title>
+  </programme>
+  <programme start="20220716203200 -0500" stop="20220716203900 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716203900 -0500" stop="20220716204600 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716204600 -0500" stop="20220716205700 -0500" channel="Canal Tooncast">
+    <title lang="es">Las aventuras de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716205700 -0500" stop="20220716210400 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716210400 -0500" stop="20220716211100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716211100 -0500" stop="20220716212100 -0500" channel="Canal Tooncast">
+    <title lang="es">Los pequeños Tom y Jerry</title>
+  </programme>
+  <programme start="20220716212100 -0500" stop="20220716214600 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716214600 -0500" stop="20220716220900 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716220900 -0500" stop="20220716223500 -0500" channel="Canal Tooncast">
+    <title lang="es">Los Pequeños Picapiedras</title>
+  </programme>
+  <programme start="20220716223500 -0500" stop="20220716224200 -0500" channel="Canal Tooncast">
+    <title lang="es">Pixie y Dixie</title>
   </programme>
   <programme start="20220715005500 -0500" stop="20220715015000 -0500" channel="Canal AyE">
     <title lang="es">Asesinos Seriales</title>
