@@ -32,8 +32,8 @@
     <display-name lang="es">Canal Multimedios Plus</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Boomerang">
-    <display-name lang="es">Canal Boomerang</display-name>
+  <channel id="Canal Cartoonito (México)">
+    <display-name lang="es">Canal Cartoonito (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Cartoon Network">
@@ -50,6 +50,10 @@
   </channel>
   <channel id="Canal Disney Junior">
     <display-name lang="es">Canal Disney Junior</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior 1">
+    <display-name lang="es">Canal Disney Junior 1</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Disney XD">
@@ -452,6 +456,9 @@
   <programme start="20220716000000 -0500" stop="20220716013000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Acércate a Rocío</title>
   </programme>
+  <programme start="20220716013000 -0500" stop="20220716023000 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">Chisme No Like</title>
+  </programme>
   <programme start="20220716050000 -0500" stop="20220716060000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Fenómeno luz</title>
   </programme>
@@ -531,6 +538,9 @@
   </programme>
   <programme start="20220716000000 -0500" stop="20220716013000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Tanto Amor</title>
+  </programme>
+  <programme start="20220716013000 -0500" stop="20220716030000 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">Huérfanas</title>
   </programme>
   <programme start="20220716060000 -0500" stop="20220716064800 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Huérfanas - Parte 1</title>
@@ -1137,6 +1147,294 @@
   </programme>
   <programme start="20220717230000 -0500" stop="20220718000000 -0500" channel="Canal Multimedios Plus">
     <title lang="es">Amazon Music News</title>
+  </programme>
+  <programme start="20220715003000 -0500" stop="20220715010000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715010000 -0500" stop="20220715020000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220715020000 -0500" stop="20220715030000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220715030000 -0500" stop="20220715040000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220715040000 -0500" stop="20220715050000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220715050000 -0500" stop="20220715060000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715060000 -0500" stop="20220715063000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220715063000 -0500" stop="20220715064500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220715064500 -0500" stop="20220715070000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220715070000 -0500" stop="20220715080000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715080000 -0500" stop="20220715083000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220715083000 -0500" stop="20220715090000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220715090000 -0500" stop="20220715093000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220715093000 -0500" stop="20220715100000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220715100000 -0500" stop="20220715103000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220715103000 -0500" stop="20220715110000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Yabba-Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220715110000 -0500" stop="20220715113000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20220715113000 -0500" stop="20220715120000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mónica y su pandilla</title>
+  </programme>
+  <programme start="20220715120000 -0500" stop="20220715130000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715130000 -0500" stop="20220715133000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20220715133000 -0500" stop="20220715140000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20220715140000 -0500" stop="20220715143000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220715143000 -0500" stop="20220715150000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220715150000 -0500" stop="20220715153000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220715153000 -0500" stop="20220715160000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Yabba-Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220715160000 -0500" stop="20220715163000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220715163000 -0500" stop="20220715170000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Los pequeños Looney Tunes</title>
+  </programme>
+  <programme start="20220715170000 -0500" stop="20220715173000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Odo</title>
+  </programme>
+  <programme start="20220715173000 -0500" stop="20220715174500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220715174500 -0500" stop="20220715180000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220715180000 -0500" stop="20220715190000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715190000 -0500" stop="20220715193000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20220715193000 -0500" stop="20220715200000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220715200000 -0500" stop="20220715203000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Yabba-Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220715203000 -0500" stop="20220715210000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20220715210000 -0500" stop="20220715213000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220715213000 -0500" stop="20220715220000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220715220000 -0500" stop="20220715223000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20220715223000 -0500" stop="20220715224500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220715224500 -0500" stop="20220715230000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220715230000 -0500" stop="20220715233000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220715233000 -0500" stop="20220716000000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220716010000 -0500" stop="20220716020000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220716060000 -0500" stop="20220716070000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20220716070000 -0500" stop="20220716080000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220716080000 -0500" stop="20220716081500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220716081500 -0500" stop="20220716084500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220716084500 -0500" stop="20220716090000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20220716090000 -0500" stop="20220716093000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mundo Bita</title>
+  </programme>
+  <programme start="20220716093000 -0500" stop="20220716100000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Sésamo</title>
+  </programme>
+  <programme start="20220716100000 -0500" stop="20220716110000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716110000 -0500" stop="20220716113000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220716113000 -0500" stop="20220716120000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">WeeBoom</title>
+  </programme>
+  <programme start="20220716120000 -0500" stop="20220716123000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Yabba-Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220716123000 -0500" stop="20220716130000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220716130000 -0500" stop="20220716133000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220716133000 -0500" stop="20220716140000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20220716140000 -0500" stop="20220716143000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220716143000 -0500" stop="20220716150000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20220716150000 -0500" stop="20220716153000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20220716153000 -0500" stop="20220716154500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mundo Bita</title>
+  </programme>
+  <programme start="20220716154500 -0500" stop="20220716160000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20220716160000 -0500" stop="20220716161500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220716161500 -0500" stop="20220716163000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220716163000 -0500" stop="20220716180000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Scooby Doo Wrestlemania</title>
+  </programme>
+  <programme start="20220716190000 -0500" stop="20220716200000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20220716200000 -0500" stop="20220716203000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20220716203000 -0500" stop="20220716210000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20220716210000 -0500" stop="20220716213000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Yabba-Dabba Dinosaurs</title>
+  </programme>
+  <programme start="20220716213000 -0500" stop="20220716220000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Little Ellen</title>
+  </programme>
+  <programme start="20220716220000 -0500" stop="20220716223000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20220716223000 -0500" stop="20220716230000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220716230000 -0500" stop="20220716231500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Mundo Bita</title>
+  </programme>
+  <programme start="20220716231500 -0500" stop="20220716233000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20220716233000 -0500" stop="20220716234500 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20220716234500 -0500" stop="20220717000000 -0500" channel="Canal Cartoonito (México)">
+    <title lang="es">Morphle</title>
   </programme>
   <programme start="20220715000000 -0500" stop="20220715003000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Keep Your Hands Off Eizouken</title>
@@ -2143,6 +2441,9 @@
   <programme start="20220717005300 -0500" stop="20220717011500 -0500" channel="Canal Discovery Kids">
     <title lang="es">Mi perro Pat</title>
   </programme>
+  <programme start="20220717011500 -0500" stop="20220717014000 -0500" channel="Canal Discovery Kids">
+    <title lang="es">Las aventuras de Rocky y Bull</title>
+  </programme>
   <programme start="20220717025200 -0500" stop="20220717031400 -0500" channel="Canal Discovery Kids">
     <title lang="es">Team Dronix</title>
   </programme>
@@ -2527,6 +2828,9 @@
   </programme>
   <programme start="20220716010000 -0500" stop="20220716013000 -0500" channel="Canal Disney Channel">
     <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
   </programme>
   <programme start="20220716060000 -0500" stop="20220716063000 -0500" channel="Canal Disney Channel">
     <title lang="es">Gravity Falls</title>
@@ -3077,6 +3381,22 @@
   <programme start="20220716010000 -0500" stop="20220716013000 -0500" channel="Canal Disney Junior">
     <title lang="es">Art Attack</title>
   </programme>
+  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20220716063000 -0500" stop="20220716064500 -0500" channel="Canal Disney Junior">
     <title lang="es">MickeyAventuras sobre ruedas</title>
   </programme>
@@ -3341,6 +3661,640 @@
     <title lang="es">Spidey y sus sorprendentes ami</title>
   </programme>
   <programme start="20220716234500 -0500" stop="20220717001500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715010000 -0500" stop="20220715013000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715013000 -0500" stop="20220715020000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20220715020000 -0500" stop="20220715023000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20220715023000 -0500" stop="20220715030000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715030000 -0500" stop="20220715033000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20220715033000 -0500" stop="20220715040000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220715040000 -0500" stop="20220715043000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715043000 -0500" stop="20220715050000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country>Estados Unidos</country>
+    <country>Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715050000 -0500" stop="20220715053000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20220715053000 -0500" stop="20220715060000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20220715060000 -0500" stop="20220715063000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <title lang="xx">PJ Masks</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
+    <credits>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country>Francia</country>
+    <country>Reino Unido</country>
+    <country>Canadá</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715063000 -0500" stop="20220715070000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20220715070000 -0500" stop="20220715073000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20220715073000 -0500" stop="20220715080000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715080000 -0500" stop="20220715081500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20220715081500 -0500" stop="20220715083000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220715083000 -0500" stop="20220715090000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20220715090000 -0500" stop="20220715094500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220715094500 -0500" stop="20220715100000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20220715100000 -0500" stop="20220715101500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220715101500 -0500" stop="20220715103000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Gigantosaurus</title>
+    <title lang="xx">Gigantosaurus</title>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
+    <credits>
+      <producer>Dominique Bourse</producer>
+      <producer>Olivier Lelardoux</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715103000 -0500" stop="20220715104500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715104500 -0500" stop="20220715110000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220715110000 -0500" stop="20220715111500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220715111500 -0500" stop="20220715113000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220715113000 -0500" stop="20220715114500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Escuadrón de pollitos</title>
+  </programme>
+  <programme start="20220715114500 -0500" stop="20220715120000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20220715120000 -0500" stop="20220715121500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20220715121500 -0500" stop="20220715123000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">TOTS Servicio de entrega</title>
+  </programme>
+  <programme start="20220715123000 -0500" stop="20220715124500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mundo Perro</title>
+  </programme>
+  <programme start="20220715124500 -0500" stop="20220715130000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715130000 -0500" stop="20220715131500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220715131500 -0500" stop="20220715134500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715134500 -0500" stop="20220715140000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220715140000 -0500" stop="20220715141500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <title lang="xx">PJ Masks</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
+    <credits>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country>Francia</country>
+    <country>Reino Unido</country>
+    <country>Canadá</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715141500 -0500" stop="20220715144500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220715144500 -0500" stop="20220715150000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
+  <programme start="20220715150000 -0500" stop="20220715151500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
+  <programme start="20220715151500 -0500" stop="20220715153000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Ranger Rob</title>
+  </programme>
+  <programme start="20220715153000 -0500" stop="20220715160000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Opa Popa Dupa</title>
+  </programme>
+  <programme start="20220715160000 -0500" stop="20220715161500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220715161500 -0500" stop="20220715163000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220715163000 -0500" stop="20220715164500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Gigantosaurus</title>
+    <title lang="xx">Gigantosaurus</title>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
+    <credits>
+      <producer>Dominique Bourse</producer>
+      <producer>Olivier Lelardoux</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715164500 -0500" stop="20220715170000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715170000 -0500" stop="20220715171500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mundo Perro</title>
+  </programme>
+  <programme start="20220715171500 -0500" stop="20220715174500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715174500 -0500" stop="20220715180000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20220715180000 -0500" stop="20220715183000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Goldie y Osito</title>
+  </programme>
+  <programme start="20220715183000 -0500" stop="20220715190000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Goldie y Osito</title>
+  </programme>
+  <programme start="20220715190000 -0500" stop="20220715193000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220715193000 -0500" stop="20220715194500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220715194500 -0500" stop="20220715200000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220715200000 -0500" stop="20220715201500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220715201500 -0500" stop="20220715203000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Gigantosaurus</title>
+    <title lang="xx">Gigantosaurus</title>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
+    <credits>
+      <producer>Dominique Bourse</producer>
+      <producer>Olivier Lelardoux</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715203000 -0500" stop="20220715204500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Escuadrón de pollitos</title>
+  </programme>
+  <programme start="20220715204500 -0500" stop="20220715210000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20220715210000 -0500" stop="20220715214500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220715214500 -0500" stop="20220715220000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20220715220000 -0500" stop="20220715221500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
+  <programme start="20220715221500 -0500" stop="20220715223000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220715223000 -0500" stop="20220715224500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20220715224500 -0500" stop="20220715230000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">TOTS Servicio de entrega de</title>
+  </programme>
+  <programme start="20220715230000 -0500" stop="20220715233000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20220715233000 -0500" stop="20220716000000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220716000000 -0500" stop="20220716003000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20220716003000 -0500" stop="20220716010000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20220716020000 -0500" stop="20220716023000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20220716023000 -0500" stop="20220716030000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado(g)</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716073000 -0500" stop="20220716074500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20220716074500 -0500" stop="20220716083000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">TOTS Servicio de entrega</title>
+  </programme>
+  <programme start="20220716083000 -0500" stop="20220716090000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220716090000 -0500" stop="20220716093000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220716093000 -0500" stop="20220716094500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716094500 -0500" stop="20220716101500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220716101500 -0500" stop="20220716103000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220716103000 -0500" stop="20220716110000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20220716110000 -0500" stop="20220716113000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country>Estados Unidos</country>
+    <country>Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716113000 -0500" stop="20220716120000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220716120000 -0500" stop="20220716121500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220716121500 -0500" stop="20220716123000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20220716123000 -0500" stop="20220716124500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Escuadrón de pollitos</title>
+  </programme>
+  <programme start="20220716124500 -0500" stop="20220716130000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mundo Perro</title>
+  </programme>
+  <programme start="20220716130000 -0500" stop="20220716131500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20220716131500 -0500" stop="20220716133000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20220716133000 -0500" stop="20220716134500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220716134500 -0500" stop="20220716140000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Gigantosaurus</title>
+    <title lang="xx">Gigantosaurus</title>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
+    <credits>
+      <producer>Dominique Bourse</producer>
+      <producer>Olivier Lelardoux</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716140000 -0500" stop="20220716141500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220716141500 -0500" stop="20220716143000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country>Estados Unidos</country>
+    <country>Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716143000 -0500" stop="20220716150000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220716150000 -0500" stop="20220716153000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20220716153000 -0500" stop="20220716160000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <title lang="xx">PJ Masks</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
+    <credits>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country>Francia</country>
+    <country>Reino Unido</country>
+    <country>Canadá</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716160000 -0500" stop="20220716163000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Rocketeer</title>
+  </programme>
+  <programme start="20220716163000 -0500" stop="20220716170000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20220716170000 -0500" stop="20220716171500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20220716171500 -0500" stop="20220716173000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">TOTS Servicio de entrega de</title>
+  </programme>
+  <programme start="20220716173000 -0500" stop="20220716180000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Puppy Dog Pals</title>
+    <title lang="xx">Puppy Dog Pals</title>
+    <desc lang="es">Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado</desc>
+    <credits>
+      <producer>Harland Williams</producer>
+      <producer>Elizabeth Seidman</producer>
+      <composer>Andy Bean</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/puppy_dog_pals.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716180000 -0500" stop="20220716183000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20220716183000 -0500" stop="20220716184500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220716184500 -0500" stop="20220716191500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220716191500 -0500" stop="20220716193000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220716193000 -0500" stop="20220716200000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks Héroes en pijamas T</title>
+  </programme>
+  <programme start="20220716200000 -0500" stop="20220716211500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Princesita Sofía El hechizo</title>
+  </programme>
+  <programme start="20220716211500 -0500" stop="20220716213000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220716213000 -0500" stop="20220716220000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Escuadrón de pollitos</title>
+  </programme>
+  <programme start="20220716220000 -0500" stop="20220716221500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Gigantosaurus</title>
+    <title lang="xx">Gigantosaurus</title>
+    <desc lang="es">Cuatro jóvenes dinosaurios que exploran juntos un mundo prehistórico donde se enfrentan a Gigantosaurus, el dinosaurio más grande y feroz jamás visto</desc>
+    <credits>
+      <producer>Dominique Bourse</producer>
+      <producer>Olivier Lelardoux</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/gigantosaurus.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716221500 -0500" stop="20220716223000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Vampirina</title>
+    <title lang="xx">Vampirina</title>
+    <desc lang="es">Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad</desc>
+    <credits>
+      <producer>Norton Virgien</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/vampirina.jpg" />
+    <country>Estados Unidos</country>
+    <country>Irlanda</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716223000 -0500" stop="20220716224500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mickey Mouse Funhouse</title>
+  </programme>
+  <programme start="20220716224500 -0500" stop="20220716231500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+    <title lang="xx">PJ Masks</title>
+    <desc lang="es">Tres niños de 6 años que viven una vida normal durante el día se convierten en superhéroes por las noches para luchar contra el crimen como un equipo</desc>
+    <credits>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Corinne Kouper</producer>
+      <composer>Eric Renwart</composer>
+      <composer>David Freedman</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Animación</category>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/pj_masks_heroes_en_pijamas.jpg" />
+    <country>Francia</country>
+    <country>Reino Unido</country>
+    <country>Canadá</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220716231500 -0500" stop="20220716233000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220716233000 -0500" stop="20220716234500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Dino Ranch</title>
+  </programme>
+  <programme start="20220716234500 -0500" stop="20220717000000 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Escuadrón de pollitos</title>
+  </programme>
+  <programme start="20220717000000 -0500" stop="20220717001500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Mundo Perro</title>
+  </programme>
+  <programme start="20220717001500 -0500" stop="20220717004500 -0500" channel="Canal Disney Junior 1">
+    <title lang="es">Spidey y sus sorprendentes ami</title>
+  </programme>
+  <programme start="20220717004500 -0500" stop="20220717011500 -0500" channel="Canal Disney Junior 1">
     <title lang="es">Bluey</title>
   </programme>
   <programme start="20220715003000 -0500" stop="20220715010000 -0500" channel="Canal Nickelodeon">
@@ -3657,6 +4611,9 @@
     <title lang="es">Rugrats</title>
   </programme>
   <programme start="20220716010000 -0500" stop="20220716013000 -0500" channel="Canal Nickelodeon">
+    <title lang="es">Los Thundermans</title>
+  </programme>
+  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Los Thundermans</title>
   </programme>
   <programme start="20220716050000 -0500" stop="20220716053000 -0500" channel="Canal Nickelodeon">
@@ -4117,6 +5074,9 @@
   </programme>
   <programme start="20220716010000 -0500" stop="20220716013000 -0500" channel="Canal Nick Jr.">
     <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+  <programme start="20220716013000 -0500" stop="20220716020000 -0500" channel="Canal Nick Jr.">
+    <title lang="es">Bubble Guppies</title>
   </programme>
   <programme start="20220716050000 -0500" stop="20220716053000 -0500" channel="Canal Nick Jr.">
     <title lang="es">Patrulla canina</title>
