@@ -96,6 +96,10 @@
     <display-name lang="es">Canal Cinemax (México)</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Cinemax (Argentina)">
+    <display-name lang="es">Canal Cinemax (Argentina)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Cinelatino">
     <display-name lang="es">Canal Cinelatino</display-name>
     <url>http://www.gatotv.com</url>
@@ -399,7 +403,7 @@
     <title lang="es">Hechos A.M</title>
   </programme>
   <programme start="20220729080000 -0500" stop="20220729090000 -0500" channel="Canal Azteca Mundo">
-    <title lang="es">Hechos: Aquí entre nos</title>
+    <title lang="es">Hechos Aquí entre nos</title>
   </programme>
   <programme start="20220729090000 -0500" stop="20220729110000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Venga la alegría</title>
@@ -487,11 +491,17 @@
   <programme start="20220730140000 -0500" stop="20220730150000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Hechos Sábado</title>
   </programme>
-  <programme start="20220730150000 -0500" stop="20220730170000 -0500" channel="Canal Azteca Mundo">
-    <title lang="es">Sábado al extremo</title>
+  <programme start="20220730150000 -0500" stop="20220730173000 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">Especial boda Ana Lago</title>
   </programme>
-  <programme start="20220730170000 -0500" stop="20220730200000 -0500" channel="Canal Azteca Mundo">
+  <programme start="20220730173000 -0500" stop="20220730200000 -0500" channel="Canal Azteca Mundo">
     <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20220730200000 -0500" stop="20220730230000 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">La academia</title>
+  </programme>
+  <programme start="20220730230000 -0500" stop="20220731000000 -0500" channel="Canal Azteca Mundo">
+    <title lang="es">La Resolana nius</title>
   </programme>
   <programme start="20220729013000 -0500" stop="20220729030000 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Huérfanas</title>
@@ -588,6 +598,24 @@
   </programme>
   <programme start="20220730182400 -0500" stop="20220730191200 -0500" channel="Canal Azteca Corazon">
     <title lang="es">Cielo rojo - Parte 1</title>
+  </programme>
+  <programme start="20220730191200 -0500" stop="20220730200000 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">Cielo rojo - Parte 1</title>
+  </programme>
+  <programme start="20220730200000 -0500" stop="20220730210000 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20220730210000 -0500" stop="20220730214800 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">3 familias - Parte 1</title>
+  </programme>
+  <programme start="20220730214800 -0500" stop="20220730223600 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">3 familias - Parte 1</title>
+  </programme>
+  <programme start="20220730223600 -0500" stop="20220730232400 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">3 familias - Parte 1</title>
+  </programme>
+  <programme start="20220730232400 -0500" stop="20220731001200 -0500" channel="Canal Azteca Corazon">
+    <title lang="es">3 familias - Parte 1</title>
   </programme>
   <programme start="20220729013000 -0500" stop="20220729023000 -0500" channel="Canal TV Azteca Clic">
     <title lang="es">Mentes Asesinas</title>
@@ -836,7 +864,7 @@
     <title lang="es">Hechos AM</title>
   </programme>
   <programme start="20220729080000 -0500" stop="20220729090000 -0500" channel="Canal Azteca Uno">
-    <title lang="es">Hechos: Aquí entre nos</title>
+    <title lang="es">Hechos Aquí entre nos</title>
   </programme>
   <programme start="20220729090000 -0500" stop="20220729110000 -0500" channel="Canal Azteca Uno">
     <title lang="es">Venga la alegría</title>
@@ -1514,16 +1542,16 @@
   <programme start="20220730234500 -0500" stop="20220731000000 -0500" channel="Canal Cartoonito (México)">
     <title lang="es">Morphle</title>
   </programme>
-  <programme start="20220729003000 -0500" stop="20220729010000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729003000 -0500" stop="20220729005400 -0500" channel="Canal Cartoon Network">
     <title lang="es">Dr. Stone</title>
   </programme>
-  <programme start="20220729010000 -0500" stop="20220729020000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729005400 -0500" stop="20220729011900 -0500" channel="Canal Cartoon Network">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20220729020000 -0500" stop="20220729030000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729011900 -0500" stop="20220729025500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1536,13 +1564,13 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729030000 -0500" stop="20220729040000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729025500 -0500" stop="20220729035600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Steven universe</title>
   </programme>
-  <programme start="20220729040000 -0500" stop="20220729050000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729035600 -0500" stop="20220729050000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1576,13 +1604,13 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729070000 -0500" stop="20220729073000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729070000 -0500" stop="20220729073600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Drama total: La guardería</title>
   </programme>
-  <programme start="20220729073000 -0500" stop="20220729080000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729073600 -0500" stop="20220729080000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Power Rangers Dino Fury</title>
     <title lang="xx">Power Rangers Dino Fury</title>
-    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena</desc>
+    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena(c)</desc>
     <credits>
       <actor>Russell Curry</actor>
       <actor>Kai Moya</actor>
@@ -1601,10 +1629,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729080000 -0500" stop="20220729083000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729080000 -0500" stop="20220729082600 -0500" channel="Canal Cartoon Network">
     <title lang="es">El mundo de Craig</title>
   </programme>
-  <programme start="20220729083000 -0500" stop="20220729090000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729082600 -0500" stop="20220729090000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Manzana y Cebollín</title>
   </programme>
   <programme start="20220729090000 -0500" stop="20220729093000 -0500" channel="Canal Cartoon Network">
@@ -1640,10 +1668,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729103000 -0500" stop="20220729110000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729103000 -0500" stop="20220729105300 -0500" channel="Canal Cartoon Network">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20220729110000 -0500" stop="20220729113000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729105300 -0500" stop="20220729113000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Lego Jurassic World</title>
   </programme>
   <programme start="20220729113000 -0500" stop="20220729123000 -0500" channel="Canal Cartoon Network">
@@ -1668,14 +1696,30 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729140000 -0500" stop="20220729143000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729140000 -0500" stop="20220729142600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Drama total: La guardería</title>
   </programme>
-  <programme start="20220729143000 -0500" stop="20220729150000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729142600 -0500" stop="20220729150000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El mundo de Craig</title>
   </programme>
-  <programme start="20220729150000 -0500" stop="20220729160000 -0500" channel="Canal Cartoon Network">
-    <title lang="es">DC Super Hero Girls</title>
+  <programme start="20220729150000 -0500" stop="20220729151500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Justice league action</title>
+  </programme>
+  <programme start="20220729151500 -0500" stop="20220729160000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme start="20220729160000 -0500" stop="20220729170000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
@@ -1694,16 +1738,16 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729170000 -0500" stop="20220729174500 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729170000 -0500" stop="20220729174000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Escandalosos</title>
   </programme>
-  <programme start="20220729174500 -0500" stop="20220729180000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729174000 -0500" stop="20220729175500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Jellystone</title>
   </programme>
-  <programme start="20220729180000 -0500" stop="20220729183000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729175500 -0500" stop="20220729183000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1716,16 +1760,16 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729183000 -0500" stop="20220729190000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729183000 -0500" stop="20220729185300 -0500" channel="Canal Cartoon Network">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20220729190000 -0500" stop="20220729191500 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729185300 -0500" stop="20220729190800 -0500" channel="Canal Cartoon Network">
     <title lang="es">We Baby Bears</title>
   </programme>
-  <programme start="20220729191500 -0500" stop="20220729200000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729190800 -0500" stop="20220729200000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1738,10 +1782,10 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729200000 -0500" stop="20220729204500 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729200000 -0500" stop="20220729205100 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1755,12 +1799,12 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20220729204500 -0500" stop="20220729210000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729205100 -0500" stop="20220729210600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Victor y Valentino</title>
   </programme>
-  <programme start="20220729210000 -0500" stop="20220729230000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729210600 -0500" stop="20220729230000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Spider-Man: Un Nuevo Universo</title>
-    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe</desc>
+    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe(c)</desc>
     <credits>
       <actor>Shameik Moore</actor>
       <actor>Liev Schreiber</actor>
@@ -1777,10 +1821,10 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220729230000 -0500" stop="20220730000000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220729230000 -0500" stop="20220730000500 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1793,9 +1837,6 @@
     <rating>
       <value>TV-PG</value>
     </rating>
-  </programme>
-  <programme start="20220730000000 -0500" stop="20220730003000 -0500" channel="Canal Cartoon Network">
-    <title lang="es">Keep Your Hands Off Eizouken</title>
   </programme>
   <programme start="20220730010000 -0500" stop="20220730020000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
@@ -2063,7 +2104,310 @@
   <programme start="20220730220000 -0500" stop="20220730230000 -0500" channel="Canal Cartoon Network">
     <title lang="es">DC Super Hero Girls</title>
   </programme>
-  <programme start="20220730230000 -0500" stop="20220731000000 -0500" channel="Canal Cartoon Network">
+  <programme start="20220730230000 -0500" stop="20220731000500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country>Reino Unido</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731000500 -0500" stop="20220731003000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Keep Your Hands Off Eizouken</title>
+  </programme>
+  <programme start="20220731003000 -0500" stop="20220731010900 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Dr. Stone</title>
+  </programme>
+  <programme start="20220731010900 -0500" stop="20220731025600 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731025600 -0500" stop="20220731040000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20220731040000 -0500" stop="20220731050000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country>Reino Unido</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731060000 -0500" stop="20220731062500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country>Reino Unido</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731062500 -0500" stop="20220731071500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20220731071500 -0500" stop="20220731073000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">We Baby Bears</title>
+  </programme>
+  <programme start="20220731073000 -0500" stop="20220731074500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20220731074500 -0500" stop="20220731081000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Masha y el Oso</title>
+    <title lang="xx">Masha i Medved</title>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <credits>
+      <producer>Oleg Kuzovkov</producer>
+      <producer>Dmitrij Lovejko</producer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/masha_y_el_oso.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731081000 -0500" stop="20220731083000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20220731083000 -0500" stop="20220731090000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20220731090000 -0500" stop="20220731092400 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Power Rangers Dino Fury</title>
+    <title lang="xx">Power Rangers Dino Fury</title>
+    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena(n)</desc>
+    <credits>
+      <actor>Russell Curry</actor>
+      <actor>Kai Moya</actor>
+      <actor>Hunter Deno</actor>
+      <actor>Tessa Rao</actor>
+      <actor>Chance Pérez</actor>
+      <producer>Becca Barnes</producer>
+      <producer>Alwyn Dale</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/power_rangers_dino_fury.jpg" />
+    <country>Estados Unidos</country>
+    <country>Japón</country>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220731092400 -0500" stop="20220731100000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731100000 -0500" stop="20220731110000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country>Reino Unido</country>
+    <country>Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731110000 -0500" stop="20220731120000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20220731120000 -0500" stop="20220731123000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731123000 -0500" stop="20220731143000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Spider-Man: Un Nuevo Universo</title>
+    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe(n)</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Liev Schreiber</actor>
+      <actor>Mahershala Ali</actor>
+      <actor>Brian Tyree Henry</actor>
+      <producer>Phil Lord</producer>
+      <producer>Chris Miller</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/spider-man_un_nuevo_universo.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731143000 -0500" stop="20220731151700 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20220731151700 -0500" stop="20220731160600 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731160600 -0500" stop="20220731163000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Justice league action</title>
+  </programme>
+  <programme start="20220731163000 -0500" stop="20220731170000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Toontubers</title>
+  </programme>
+  <programme start="20220731170000 -0500" stop="20220731173000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220731173000 -0500" stop="20220731180000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20220731180000 -0500" stop="20220731190000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731190000 -0500" stop="20220731193000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20220731193000 -0500" stop="20220731194500 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731194500 -0500" stop="20220731200000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731200000 -0500" stop="20220731203000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731203000 -0500" stop="20220731220000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">Cloudy with a chance 2</title>
+  </programme>
+  <programme start="20220731220000 -0500" stop="20220731230000 -0500" channel="Canal Cartoon Network">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20220731230000 -0500" stop="20220801000000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Looney Tunes Cartoons</title>
   </programme>
   <programme start="20220729002900 -0500" stop="20220729005100 -0500" channel="Canal Discovery Kids">
@@ -7425,7 +7769,7 @@
   <programme start="20220729010600 -0500" stop="20220729015400 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -7546,7 +7890,7 @@
   <programme start="20220729210600 -0500" stop="20220729220000 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -7568,7 +7912,7 @@
   <programme start="20220729220000 -0500" stop="20220730001500 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
-    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet</desc>
     <credits>
       <actor>Christian Bale</actor>
       <actor>Sam Worthington</actor>
@@ -7650,7 +7994,7 @@
   <programme start="20220730155900 -0500" stop="20220730165400 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -7672,7 +8016,7 @@
   <programme start="20220730165400 -0500" stop="20220730174900 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">NCIS: Los Ángeles</title>
     <title lang="xx">NCIS: Los Angeles</title>
-    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país(n)</desc>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país</desc>
     <credits>
       <actor>Chris O'Donnell</actor>
       <actor>Peter Cambor</actor>
@@ -7693,6 +8037,49 @@
   </programme>
   <programme start="20220730174900 -0500" stop="20220730194500 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">Terminator el exterminador</title>
+  </programme>
+  <programme start="20220730194500 -0500" stop="20220730220000 -0500" channel="Canal AyE (Guatemala)">
+    <title lang="es">Terminator: La Salvación</title>
+    <title lang="xx">Terminator Salvation</title>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
+    <credits>
+      <actor>Christian Bale</actor>
+      <actor>Sam Worthington</actor>
+      <producer>Derek Anderson</producer>
+      <producer>Moritz Borman</producer>
+      <composer>Danny Elfman</composer>
+    </credits>
+    <date>2009</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_la_salvacion.jpg" />
+    <country>Estados Unidos</country>
+    <country>Reino Unido</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220730220000 -0500" stop="20220731000200 -0500" channel="Canal AyE (Guatemala)">
+    <title lang="es">Terminator 3: La Rebelión de las Máquinas</title>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
+    <credits>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Nick Stahl</actor>
+      <actor>Claire Danes</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Earl Boen</actor>
+      <actor>David Andrews</actor>
+      <actor>Earl Boen</actor>
+      <producer>Mario Kassar</producer>
+      <producer>Andrew G. Vajna</producer>
+      <composer>Marco Beltrami</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/terminator_3_la_rebelion_de_las_maquinas.jpg" />
+    <country>Estados Unidos</country>
+    <country>Alemania</country>
+    <rating>
+      <value>PG-13</value>
+    </rating>
   </programme>
   <programme start="20220729000500 -0500" stop="20220729015500 -0500" channel=" Canal AMC (México)">
     <title lang="es">Legión de Angeles</title>
@@ -7763,7 +8150,7 @@
   <programme start="20220731012000 -0500" stop="20220731032500 -0500" channel=" Canal AMC (México)">
     <title lang="es">Una Familia Peligrosa</title>
     <title lang="xx">The Family (2013)</title>
-    <desc lang="es">Un jefe de la mafia es trasladado a una pequeña ciudad de Francia después de dar nombres de la mafia, pero su familia no puede dejar sus viejos hábitos atrás(n)</desc>
+    <desc lang="es">Un jefe de la mafia es trasladado a una pequeña ciudad de Francia después de dar nombres de la mafia, pero su familia no puede dejar sus viejos hábitos atrás</desc>
     <credits>
       <actor>Robert De Niro</actor>
       <actor>Michelle Pfeiffer</actor>
@@ -7807,7 +8194,7 @@
   <programme start="20220731105500 -0500" stop="20220731125500 -0500" channel=" Canal AMC (México)">
     <title lang="es">Colossal (2017)</title>
     <title lang="xx">Colossal (2017)</title>
-    <desc lang="es">Gloria está a punto de perder a su novio y su trabajo por su adicción al alcohol, mientras tanto al otro lado del mundo una misteriosa criatura gigante aparece(n)</desc>
+    <desc lang="es">Gloria está a punto de perder a su novio y su trabajo por su adicción al alcohol, mientras tanto al otro lado del mundo una misteriosa criatura gigante aparece</desc>
     <credits>
       <actor>Anne Hathaway</actor>
       <actor>Jason Sudeikis</actor>
@@ -7829,7 +8216,7 @@
   </programme>
   <programme start="20220731125500 -0500" stop="20220731135500 -0500" channel=" Canal AMC (México)">
     <title lang="es">The Walking Dead: World Beyond</title>
-    <desc lang="es">La primera generación de supervivientes en un mundo postapocalíptico debe dejar su hogar cómodo y seguro para enfrentarse a diferentes peligros(n)</desc>
+    <desc lang="es">La primera generación de supervivientes en un mundo postapocalíptico debe dejar su hogar cómodo y seguro para enfrentarse a diferentes peligros</desc>
     <credits>
       <actor>Aliyah Royale</actor>
       <actor>Alexa Mansour</actor>
@@ -7849,7 +8236,7 @@
   </programme>
   <programme start="20220731135500 -0500" stop="20220731153500 -0500" channel=" Canal AMC (México)">
     <title lang="es">Inframundo: La Rebelión de los Lycans</title>
-    <desc lang="es">Los orígenes de los eventos que se llevaron a cabo que luego dieron nacimiento de la guerra entre Vampiros y Hombres Lobo(n)</desc>
+    <desc lang="es">Los orígenes de los eventos que se llevaron a cabo que luego dieron nacimiento de la guerra entre Vampiros y Hombres Lobo</desc>
     <credits>
       <actor>Michael Sheen</actor>
       <actor>Bill Nighy</actor>
@@ -9231,40 +9618,43 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729011200 -0500" stop="20220729030200 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729010600 -0500" stop="20220729025900 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Animal</title>
   </programme>
-  <programme start="20220729030200 -0500" stop="20220729043400 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729025900 -0500" stop="20220729043100 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Ghost rider</title>
   </programme>
-  <programme start="20220729043400 -0500" stop="20220729070000 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729043100 -0500" stop="20220729063900 -0500" channel="Canal Cinecanal (México">
     <title lang="es">El Planeta de los Simios</title>
   </programme>
-  <programme start="20220729070000 -0500" stop="20220729085400 -0500" channel="Canal Cinecanal (México">
-    <title lang="es">Locas vacaciones sobre ruedas</title>
-  </programme>
-  <programme start="20220729085400 -0500" stop="20220729100900 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729063900 -0500" stop="20220729070000 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Programación Especial</title>
   </programme>
-  <programme start="20220729100900 -0500" stop="20220729115900 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729070000 -0500" stop="20220729085300 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Locas vacaciones sobre ruedas</title>
+  </programme>
+  <programme start="20220729085300 -0500" stop="20220729101500 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20220729101500 -0500" stop="20220729120500 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Stargate Arca de la verdad</title>
   </programme>
-  <programme start="20220729115900 -0500" stop="20220729135500 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729120500 -0500" stop="20220729135900 -0500" channel="Canal Cinecanal (México">
     <title lang="es">The Truman Show Historia de</title>
   </programme>
-  <programme start="20220729135500 -0500" stop="20220729153400 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729135900 -0500" stop="20220729153800 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Asalto al Camión Blindado</title>
   </programme>
-  <programme start="20220729153400 -0500" stop="20220729175100 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729153800 -0500" stop="20220729175100 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Romeo + Julieta</title>
   </programme>
   <programme start="20220729175100 -0500" stop="20220729200000 -0500" channel="Canal Cinecanal (México">
     <title lang="es">El objeto de mi afecto</title>
   </programme>
-  <programme start="20220729200000 -0500" stop="20220729214500 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729200000 -0500" stop="20220729214300 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Shrek Tercero</title>
     <title lang="xx">Shrek the Third</title>
-    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono</desc>
+    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono(c)</desc>
     <credits>
       <actor>Mike Myers</actor>
       <actor>Cameron Diaz</actor>
@@ -9284,14 +9674,67 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220729214500 -0500" stop="20220729232800 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729214300 -0500" stop="20220729232400 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Shrek para siempre</title>
   </programme>
-  <programme start="20220729232800 -0500" stop="20220730020100 -0500" channel="Canal Cinecanal (México">
+  <programme start="20220729232400 -0500" stop="20220730014900 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Solo los valientes</title>
   </programme>
-  <programme start="20220730232800 -0500" stop="20220731020100 -0500" channel="Canal Cinecanal (México">
-    <title lang="es">Solo los valientes</title>
+  <programme start="20220730014900 -0500" stop="20220730032800 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Resident Evil Venganza</title>
+  </programme>
+  <programme start="20220730032800 -0500" stop="20220730052700 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Mujeres del siglo XX</title>
+  </programme>
+  <programme start="20220730052700 -0500" stop="20220730070000 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20220730070000 -0500" stop="20220730085300 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">The Truman Show Historia de</title>
+  </programme>
+  <programme start="20220730085300 -0500" stop="20220730100100 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20220730100100 -0500" stop="20220730115700 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Cartas a Julieta</title>
+  </programme>
+  <programme start="20220730115700 -0500" stop="20220730135800 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Mi papá y nuestro mundo</title>
+  </programme>
+  <programme start="20220730135800 -0500" stop="20220730155300 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Un Paseo Por Las Nubes</title>
+  </programme>
+  <programme start="20220730155300 -0500" stop="20220730173800 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20220730173800 -0500" stop="20220730195800 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Talentos Ocultos</title>
+    <title lang="xx">Hidden Figures</title>
+    <desc lang="es">Katherine, Dorothy y Mary son tres mujeres afroamericanas que la NASA necesitará para hacer los cálculos importantes para la primera misión espacial(g)</desc>
+    <credits>
+      <actor>Taraji P. Henson</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Janelle Monáe</actor>
+      <actor>Kevin Costner</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Jim Parsons</actor>
+      <producer>Donna Gigliotti</producer>
+      <producer>Peter Chernin</producer>
+      <composer>Hans Zimmer</composer>
+      <composer>Pharrell Williams</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/talentos_ocultos.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220730195800 -0500" stop="20220730220000 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">La supremacía de Bourne</title>
+  </programme>
+  <programme start="20220730220000 -0500" stop="20220731000700 -0500" channel="Canal Cinecanal (México">
+    <title lang="es">Bourne: El ultimátum</title>
   </programme>
   <programme start="20220731020100 -0500" stop="20220731034000 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Resident Evil Venganza</title>
@@ -9349,46 +9792,62 @@
   <programme start="20220731220000 -0500" stop="20220801000700 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Bourne el Ultimátum</title>
   </programme>
-  <programme start="20220729005700 -0500" stop="20220729030500 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729003900 -0500" stop="20220729024900 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Sacrificio del ciervo sagrado</title>
   </programme>
-  <programme start="20220729030500 -0500" stop="20220729044000 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729024900 -0500" stop="20220729042700 -0500" channel="Canal Cinemax (México)">
     <title lang="es">El sacrificio</title>
   </programme>
-  <programme start="20220729044000 -0500" stop="20220729060000 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729042700 -0500" stop="20220729060000 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220729060000 -0500" stop="20220729075000 -0500" channel="Canal Cinemax (México)">
-    <title lang="es">Ace Ventura Jr. Un detective</title>
+  <programme start="20220729060000 -0500" stop="20220729074800 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Fahrenheit 451</title>
+    <title lang="xx">Fahrenheit 451</title>
+    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros(c)</desc>
+    <credits>
+      <actor>Michael B. Jordan</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Sofia Boutella</actor>
+      <actor>Lilly Singh</actor>
+      <actor>Laura Harrier</actor>
+      <actor>Martin Donovan</actor>
+      <actor>Andy McQueen</actor>
+      <actor>Dylan Taylor</actor>
+      <producer>David Coatsworth</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/fahrenheit_451.jpg" />
   </programme>
-  <programme start="20220729075000 -0500" stop="20220729093300 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729074800 -0500" stop="20220729093200 -0500" channel="Canal Cinemax (México)">
     <title lang="es">La leyenda de la bruja de</title>
   </programme>
-  <programme start="20220729093300 -0500" stop="20220729110100 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729093200 -0500" stop="20220729110200 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Scooby doo</title>
   </programme>
-  <programme start="20220729110100 -0500" stop="20220729124700 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729110200 -0500" stop="20220729125100 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Pacto infernal</title>
   </programme>
-  <programme start="20220729124700 -0500" stop="20220729142800 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729125100 -0500" stop="20220729143200 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Departamento de Policía Mortal</title>
   </programme>
-  <programme start="20220729142800 -0500" stop="20220729160500 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729143200 -0500" stop="20220729161000 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Gordo Mentiroso</title>
   </programme>
-  <programme start="20220729160500 -0500" stop="20220729174200 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729161000 -0500" stop="20220729174400 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Ace ventura</title>
   </programme>
-  <programme start="20220729174200 -0500" stop="20220729192200 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729174400 -0500" stop="20220729191900 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Wallace y Gromit la batalla</title>
   </programme>
-  <programme start="20220729192200 -0500" stop="20220729210000 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729191900 -0500" stop="20220729210800 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Scooby doo</title>
   </programme>
-  <programme start="20220729210000 -0500" stop="20220729225100 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729210800 -0500" stop="20220729224600 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Departamento de Policía Mortal</title>
   </programme>
-  <programme start="20220729225100 -0500" stop="20220730010800 -0500" channel="Canal Cinemax (México)">
+  <programme start="20220729224600 -0500" stop="20220730010800 -0500" channel="Canal Cinemax (México)">
     <title lang="es">La aldea de los suicidios</title>
   </programme>
   <programme start="20220730010800 -0500" stop="20220730024500 -0500" channel="Canal Cinemax (México)">
@@ -9430,6 +9889,190 @@
   </programme>
   <programme start="20220730233800 -0500" stop="20220731013300 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Insidious</title>
+  </programme>
+  <programme start="20220729013600 -0500" stop="20220729032900 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Alerta en lo profundo</title>
+  </programme>
+  <programme start="20220729032900 -0500" stop="20220729040000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Cerca al enemigo</title>
+  </programme>
+  <programme start="20220729040000 -0500" stop="20220729045400 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">El discurso dEl Rey</title>
+  </programme>
+  <programme start="20220729045400 -0500" stop="20220729071800 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Una Guerra Brillante</title>
+    <title lang="xx">The Current War</title>
+    <desc lang="es">La feroz competencia entre los grandes de la electricidad: Thomas Edison y George Westinghouse para determinar qué sistema eléctrico alimentará al mundo(n)</desc>
+    <credits>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Tom Holland</actor>
+      <actor>Tuppence Middleton</actor>
+      <actor>Matthew Macfadyen</actor>
+      <actor>Nicholas Hoult</actor>
+      <producer>Timur Bekmambetov</producer>
+      <producer>Basil Iwanyk</producer>
+      <composer>Hauschka</composer>
+      <composer>Dustin O'Halloran</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/una_guerra_brillante.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220729071800 -0500" stop="20220729094900 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Rescate en Entebbe</title>
+    <title lang="xx">Entebbe</title>
+    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado(n)</desc>
+    <credits>
+      <actor>Rosamund Pike</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Eddie Marsan</actor>
+      <actor>Ben Schnetzer</actor>
+      <actor>Lior Ashkenazi</actor>
+      <actor>Denis Ménochet</actor>
+      <producer>Tim Bevan</producer>
+      <producer>Liza Chasin</producer>
+      <composer>Rodrigo Amarante</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/7_dias_en_entebbe.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220729094900 -0500" stop="20220729125900 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">El Fugitivo</title>
+  </programme>
+  <programme start="20220729125900 -0500" stop="20220729152600 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20220729152600 -0500" stop="20220729173600 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20220729173600 -0500" stop="20220729200000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Rambo IV</title>
+    <title lang="xx">Rambo</title>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Julie Benz</actor>
+      <actor>Paul Schulze</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Tim Kang</actor>
+      <actor>Rey Gallegos</actor>
+      <actor>Jake La Botz</actor>
+      <producer>Avi Lerner</producer>
+      <producer>Kevin King-Templeton</producer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rambo_4_regreso_al_infierno.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220729200000 -0500" stop="20220729221000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Parker</title>
+  </programme>
+  <programme start="20220729221000 -0500" stop="20220730003000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">El niño</title>
+  </programme>
+  <programme start="20220730221000 -0500" stop="20220731003000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">El niño</title>
+  </programme>
+  <programme start="20220731003000 -0500" stop="20220731024100 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">La aldea de los suicidios</title>
+  </programme>
+  <programme start="20220731024100 -0500" stop="20220731040000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Los Secretos de Stonehearst</title>
+  </programme>
+  <programme start="20220731040000 -0500" stop="20220731060700 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20220731060700 -0500" stop="20220731090000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Cazadores de Sombras: Ciudad de Huesos</title>
+  </programme>
+  <programme start="20220731090000 -0500" stop="20220731112100 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">R.I.P.D. Departamento de Policía Mortal</title>
+    <title lang="xx">R.I.P.D.</title>
+    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Stephanie Szostak</actor>
+      <producer>David Dobkin</producer>
+      <producer>Peter M. Lenkov</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2013</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/r_i_p_d_policia_del_mas_alla.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220731112100 -0500" stop="20220731132400 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20220731132400 -0500" stop="20220731152800 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20220731152800 -0500" stop="20220731173500 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Kung Fu Panda 3</title>
+    <desc lang="es">En este episodio Po deberá enfrentar dos distintas amenazas épicas, una sobrenatural y la otra muy cerca de su hogar(n)</desc>
+    <credits>
+      <actor>Jack Black</actor>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Lucy Liu</actor>
+      <actor>David Cross</actor>
+      <actor>James Hong</actor>
+      <producer>Melissa Cobb</producer>
+      <composer>Hans Zimmer</composer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kung_fu_panda_3.jpg" />
+    <country>Estados Unidos</country>
+    <country>China</country>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20220731173500 -0500" stop="20220731200000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20220731200000 -0500" stop="20220731223000 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">R.I.P.D. Departamento de Policía Mortal</title>
+    <title lang="xx">R.I.P.D.</title>
+    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Stephanie Szostak</actor>
+      <producer>David Dobkin</producer>
+      <producer>Peter M. Lenkov</producer>
+      <composer>Christophe Beck</composer>
+    </credits>
+    <date>2013</date>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/r_i_p_d_policia_del_mas_alla.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220731223000 -0500" stop="20220801002700 -0500" channel="Canal Cinemax (Argentina)">
+    <title lang="es">Priest: El vengador</title>
   </programme>
   <programme start="20220729000500 -0500" stop="20220729013500 -0500" channel="Canal Cinelatino">
     <title lang="es">Ladies Nice</title>
@@ -9518,6 +10161,15 @@
   <programme start="20220731182000 -0500" stop="20220731195500 -0500" channel="Canal Cinelatino">
     <title lang="es">El Regreso de la Suburban Dorada</title>
   </programme>
+  <programme start="20220731195500 -0500" stop="20220731212500 -0500" channel="Canal Cinelatino">
+    <title lang="es">Mentes perversas</title>
+  </programme>
+  <programme start="20220731212500 -0500" stop="20220731230000 -0500" channel="Canal Cinelatino">
+    <title lang="es">Noches violentas</title>
+  </programme>
+  <programme start="20220731230000 -0500" stop="20220801003500 -0500" channel="Canal Cinelatino">
+    <title lang="es">Un trailero mujeriego</title>
+  </programme>
   <programme start="20220729004000 -0500" stop="20220729022500 -0500" channel="MULTIPREMIER">
     <title lang="es">Amigos y amantes vol. 3</title>
   </programme>
@@ -9598,6 +10250,15 @@
   </programme>
   <programme start="20220731170000 -0500" stop="20220731191000 -0500" channel="MULTIPREMIER">
     <title lang="es">El defensor</title>
+  </programme>
+  <programme start="20220731191000 -0500" stop="20220731210000 -0500" channel="MULTIPREMIER">
+    <title lang="es">La boda de Jenny</title>
+  </programme>
+  <programme start="20220731210000 -0500" stop="20220731232000 -0500" channel="MULTIPREMIER">
+    <title lang="es">Charlatan</title>
+  </programme>
+  <programme start="20220731232000 -0500" stop="20220801011500 -0500" channel="MULTIPREMIER">
+    <title lang="es">Una</title>
   </programme>
   <programme start="20220729001000 -0500" stop="20220729030000 -0500" channel="Canal FX">
     <title lang="es">Gladiador</title>
@@ -9929,6 +10590,15 @@
   </programme>
   <programme start="20220731173000 -0500" stop="20220731191500 -0500" channel="Canal MC">
     <title lang="es">Tierra de zombies</title>
+  </programme>
+  <programme start="20220731191500 -0500" stop="20220731210000 -0500" channel="Canal MC">
+    <title lang="es">Perdidos en la noche</title>
+  </programme>
+  <programme start="20220731210000 -0500" stop="20220731232000 -0500" channel="Canal MC">
+    <title lang="es">La revuelta que cambió los rumbos de la humanidad</title>
+  </programme>
+  <programme start="20220731232000 -0500" stop="20220801013000 -0500" channel="Canal MC">
+    <title lang="es">Los misteriosos asesinatos de Limehouse</title>
   </programme>
   <programme start="20220729014500 -0500" stop="20220729031500 -0500" channel="Canal Paramount Channel (México)">
     <title lang="es">Cómo impedir una boda</title>
@@ -10343,21 +11013,21 @@
   <programme start="20220730223000 -0500" stop="20220731001000 -0500" channel="Canal Sony (México)">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20220729020400 -0500" stop="20220729045400 -0500" channel="Canal Space (México)">
+  <programme start="20220729020400 -0500" stop="20220729043000 -0500" channel="Canal Space (México)">
     <title lang="es">Aprendices de cuervos 2</title>
   </programme>
-  <programme start="20220729045400 -0500" stop="20220729060000 -0500" channel="Canal Space (México)">
-    <title lang="es">Cuervos Suzuran vs. Kurosaki</title>
+  <programme start="20220729043000 -0500" stop="20220729060000 -0500" channel="Canal Space (México)">
+    <title lang="es">Vehiculo 19</title>
   </programme>
-  <programme start="20220729060000 -0500" stop="20220729062100 -0500" channel="Canal Space (México)">
+  <programme start="20220729060000 -0500" stop="20220729062400 -0500" channel="Canal Space (México)">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20220729062100 -0500" stop="20220729081300 -0500" channel="Canal Space (México)">
+  <programme start="20220729062400 -0500" stop="20220729081200 -0500" channel="Canal Space (México)">
     <title lang="es">When the Bough Breaks</title>
   </programme>
-  <programme start="20220729081300 -0500" stop="20220729102800 -0500" channel="Canal Space (México)">
+  <programme start="20220729081200 -0500" stop="20220729102200 -0500" channel="Canal Space (México)">
     <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
-    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra</desc>
+    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra(c)</desc>
     <credits>
       <actor>Charlie Hunnam</actor>
       <actor>Astrid Bergès-Frisbey</actor>
@@ -10374,18 +11044,18 @@
     <country>Estados Unidos</country>
     <country>Reino Unido</country>
   </programme>
-  <programme start="20220729102800 -0500" stop="20220729120600 -0500" channel="Canal Space (México)">
+  <programme start="20220729102200 -0500" stop="20220729115900 -0500" channel="Canal Space (México)">
     <title lang="es">El Poder del Talismán</title>
   </programme>
-  <programme start="20220729120600 -0500" stop="20220729135000 -0500" channel="Canal Space (México)">
+  <programme start="20220729115900 -0500" stop="20220729134100 -0500" channel="Canal Space (México)">
     <title lang="es">Una pareja explosiva 2</title>
   </programme>
-  <programme start="20220729135000 -0500" stop="20220729152800 -0500" channel="Canal Space (México)">
+  <programme start="20220729134100 -0500" stop="20220729152100 -0500" channel="Canal Space (México)">
     <title lang="es">Una pareja explosiva 3</title>
   </programme>
-  <programme start="20220729152800 -0500" stop="20220729170500 -0500" channel="Canal Space (México)">
+  <programme start="20220729152100 -0500" stop="20220729170100 -0500" channel="Canal Space (México)">
     <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado</desc>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(c)</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Charlize Theron</actor>
@@ -10401,19 +11071,19 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220729170500 -0500" stop="20220729192000 -0500" channel="Canal Space (México)">
+  <programme start="20220729170100 -0500" stop="20220729191500 -0500" channel="Canal Space (México)">
     <title lang="es">Dos policías rebeldes</title>
   </programme>
-  <programme start="20220729192000 -0500" stop="20220729220000 -0500" channel="Canal Space (México)">
+  <programme start="20220729191500 -0500" stop="20220729220000 -0500" channel="Canal Space (México)">
     <title lang="es">Bad boys 2</title>
   </programme>
-  <programme start="20220729220000 -0500" stop="20220729233700 -0500" channel="Canal Space (México)">
+  <programme start="20220729220000 -0500" stop="20220729234100 -0500" channel="Canal Space (México)">
     <title lang="es">Destino Final 2</title>
   </programme>
-  <programme start="20220729233700 -0500" stop="20220730012100 -0500" channel="Canal Space (México)">
+  <programme start="20220729234100 -0500" stop="20220730012100 -0500" channel="Canal Space (México)">
     <title lang="es">Destino final 5</title>
   </programme>
-  <programme start="20220730233700 -0500" stop="20220731012100 -0500" channel="Canal Space (México)">
+  <programme start="20220730234100 -0500" stop="20220731012100 -0500" channel="Canal Space (México)">
     <title lang="es">Destino final 5</title>
   </programme>
   <programme start="20220731012100 -0500" stop="20220731031700 -0500" channel="Canal Space (México)">
@@ -11402,24 +12072,21 @@
   <programme start="20220729015600 -0500" stop="20220729033400 -0500" channel="Canal TNT">
     <title lang="es">Destino final 3</title>
   </programme>
-  <programme start="20220729033400 -0500" stop="20220729054200 -0500" channel="Canal TNT">
+  <programme start="20220729033400 -0500" stop="20220729053800 -0500" channel="Canal TNT">
     <title lang="es">Blade cazador de vampiros</title>
   </programme>
-  <programme start="20220729054200 -0500" stop="20220729060000 -0500" channel="Canal TNT">
+  <programme start="20220729053800 -0500" stop="20220729071500 -0500" channel="Canal TNT">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20220729060000 -0500" stop="20220729063600 -0500" channel="Canal TNT">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20220729063600 -0500" stop="20220729081700 -0500" channel="Canal TNT">
+  <programme start="20220729071500 -0500" stop="20220729084600 -0500" channel="Canal TNT">
     <title lang="es">Anaconda</title>
   </programme>
-  <programme start="20220729081700 -0500" stop="20220729100500 -0500" channel="Canal TNT">
+  <programme start="20220729084600 -0500" stop="20220729103100 -0500" channel="Canal TNT">
     <title lang="es">Si yo tuviera 30</title>
   </programme>
-  <programme start="20220729100500 -0500" stop="20220729115700 -0500" channel="Canal TNT">
+  <programme start="20220729103100 -0500" stop="20220729121500 -0500" channel="Canal TNT">
     <title lang="es">Venganza Letal (Faster)</title>
-    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión</desc>
+    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(c)</desc>
     <credits>
       <actor>Dwayne Johnson</actor>
       <actor>Tilly Bob Thornton</actor>
@@ -11435,22 +12102,22 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220729115700 -0500" stop="20220729134200 -0500" channel="Canal TNT">
+  <programme start="20220729121500 -0500" stop="20220729135400 -0500" channel="Canal TNT">
     <title lang="es">Matilda</title>
   </programme>
-  <programme start="20220729134200 -0500" stop="20220729152500 -0500" channel="Canal TNT">
+  <programme start="20220729135400 -0500" stop="20220729152800 -0500" channel="Canal TNT">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20220729152500 -0500" stop="20220729175400 -0500" channel="Canal TNT">
+  <programme start="20220729152800 -0500" stop="20220729175300 -0500" channel="Canal TNT">
     <title lang="es">Animales Fantásticos 2</title>
   </programme>
-  <programme start="20220729175400 -0500" stop="20220729200000 -0500" channel="Canal TNT">
+  <programme start="20220729175300 -0500" stop="20220729200000 -0500" channel="Canal TNT">
     <title lang="es">Recien Cazado</title>
   </programme>
-  <programme start="20220729200000 -0500" stop="20220729203400 -0500" channel="Canal TNT">
+  <programme start="20220729200000 -0500" stop="20220729202900 -0500" channel="Canal TNT">
     <title lang="es">Enchufe TV</title>
   </programme>
-  <programme start="20220729203400 -0500" stop="20220729230500 -0500" channel="Canal TNT">
+  <programme start="20220729202900 -0500" stop="20220729225300 -0500" channel="Canal TNT">
     <title lang="es">Shazam!</title>
     <title lang="xx">Shazam!</title>
     <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes(c)</desc>
@@ -11473,7 +12140,7 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme start="20220729230500 -0500" stop="20220730010000 -0500" channel="Canal TNT">
+  <programme start="20220729225300 -0500" stop="20220730010000 -0500" channel="Canal TNT">
     <title lang="es">¿Qué pasó ayer</title>
   </programme>
   <programme start="20220730010000 -0500" stop="20220730024100 -0500" channel="Canal TNT">
@@ -11536,7 +12203,7 @@
   <programme start="20220730124900 -0500" stop="20220730152000 -0500" channel="Canal TNT">
     <title lang="es">Shazam!</title>
     <title lang="xx">Shazam!</title>
-    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes(c)</desc>
+    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes</desc>
     <credits>
       <actor>Asher Angel</actor>
       <actor>Zachary Levi</actor>
@@ -11565,10 +12232,13 @@
   <programme start="20220730200400 -0500" stop="20220730220000 -0500" channel="Canal TNT">
     <title lang="es">¿Qué pasó ayer</title>
   </programme>
-  <programme start="20220730220000 -0500" stop="20220730234500 -0500" channel="Canal TNT">
+  <programme start="20220730225300 -0500" stop="20220731010000 -0500" channel="Canal TNT">
+    <title lang="es">¿Qué pasó ayer</title>
+  </programme>
+  <programme start="20220731010000 -0500" stop="20220731024100 -0500" channel="Canal TNT">
     <title lang="es">Rambo: Regreso al Infierno</title>
     <title lang="xx">Rambo</title>
-    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos</desc>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(c)</desc>
     <credits>
       <actor>Sylvester Stallone</actor>
       <actor>Julie Benz</actor>
@@ -11589,7 +12259,96 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20220730234500 -0500" stop="20220731015200 -0500" channel="Canal TNT">
+  <programme start="20220731024100 -0500" stop="20220731043800 -0500" channel="Canal TNT">
+    <title lang="es">El libro de los secretos</title>
+  </programme>
+  <programme start="20220731043800 -0500" stop="20220731060000 -0500" channel="Canal TNT">
+    <title lang="es">No respires</title>
+  </programme>
+  <programme start="20220731060000 -0500" stop="20220731071900 -0500" channel="Canal TNT">
+    <title lang="es">Venganza Letal (Faster)</title>
+    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(n)</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Tilly Bob Thornton</actor>
+      <actor>Maggie Grace</actor>
+      <producer>Tony Gayton</producer>
+      <producer>Liz Glotzer</producer>
+      <composer>Clint Mansell</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/venganza_letal_faster.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220731071900 -0500" stop="20220731090200 -0500" channel="Canal TNT">
+    <title lang="es">Matilda</title>
+  </programme>
+  <programme start="20220731090200 -0500" stop="20220731104200 -0500" channel="Canal TNT">
+    <title lang="es">Hotel Transylvania 2</title>
+  </programme>
+  <programme start="20220731104200 -0500" stop="20220731124900 -0500" channel="Canal TNT">
+    <title lang="es">Recien Cazado</title>
+  </programme>
+  <programme start="20220731124900 -0500" stop="20220731152000 -0500" channel="Canal TNT">
+    <title lang="es">Shazam!</title>
+    <title lang="xx">Shazam!</title>
+    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes(n)</desc>
+    <credits>
+      <actor>Asher Angel</actor>
+      <actor>Zachary Levi</actor>
+      <actor>Mark Strong</actor>
+      <actor>Jack Dylan Grazer</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Grace Fulton</actor>
+      <actor>Ian Chen</actor>
+      <actor>Jovan Armand</actor>
+      <producer>Peter Safran</producer>
+      <composer>Benjamin Wallfisch</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/shazam.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220731152000 -0500" stop="20220731173300 -0500" channel="Canal TNT">
+    <title lang="es">Luna de Miel en Familia</title>
+  </programme>
+  <programme start="20220731173300 -0500" stop="20220731200400 -0500" channel="Canal TNT">
+    <title lang="es">El útimo gran heroe</title>
+  </programme>
+  <programme start="20220731200400 -0500" stop="20220731220000 -0500" channel="Canal TNT">
+    <title lang="es">¿Qué pasó ayer</title>
+  </programme>
+  <programme start="20220731220000 -0500" stop="20220731234500 -0500" channel="Canal TNT">
+    <title lang="es">Rambo: Regreso al Infierno</title>
+    <title lang="xx">Rambo</title>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Julie Benz</actor>
+      <actor>Paul Schulze</actor>
+      <actor>Matthew Marsden</actor>
+      <actor>Graham McTavish</actor>
+      <actor>Tim Kang</actor>
+      <actor>Rey Gallegos</actor>
+      <actor>Jake La Botz</actor>
+      <producer>Avi Lerner</producer>
+      <producer>Kevin King-Templeton</producer>
+      <composer>Brian Tyler</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/rambo_4_regreso_al_infierno.jpg" />
+    <rating>
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20220731234500 -0500" stop="20220801015200 -0500" channel="Canal TNT">
     <title lang="es">El libro de los secretos</title>
   </programme>
   <programme start="20220729001500 -0500" stop="20220729010800 -0500" channel="Canal TNT Series">
@@ -11663,25 +12422,28 @@
   <programme start="20220729054400 -0500" stop="20220729060000 -0500" channel="Canal TNT Series">
     <title lang="es">Hollywood one on one</title>
   </programme>
-  <programme start="20220729060000 -0500" stop="20220729064700 -0500" channel="Canal TNT Series">
+  <programme start="20220729060000 -0500" stop="20220729065100 -0500" channel="Canal TNT Series">
     <title lang="es">Doctor Milagro</title>
     <episode-num>S1 E16</episode-num>
   </programme>
-  <programme start="20220729064700 -0500" stop="20220729073500 -0500" channel="Canal TNT Series">
+  <programme start="20220729065100 -0500" stop="20220729071100 -0500" channel="Canal TNT Series">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20220729071100 -0500" stop="20220729080000 -0500" channel="Canal TNT Series">
     <title lang="es">Doctor Milagro</title>
     <episode-num>S1 E17</episode-num>
   </programme>
-  <programme start="20220729073500 -0500" stop="20220729082300 -0500" channel="Canal TNT Series">
+  <programme start="20220729080000 -0500" stop="20220729084900 -0500" channel="Canal TNT Series">
     <title lang="es">Major crimes</title>
     <episode-num>S2 E14</episode-num>
   </programme>
-  <programme start="20220729082300 -0500" stop="20220729090800 -0500" channel="Canal TNT Series">
+  <programme start="20220729084900 -0500" stop="20220729093700 -0500" channel="Canal TNT Series">
     <title lang="es">Major crimes</title>
     <episode-num>S2 E15</episode-num>
   </programme>
-  <programme start="20220729090800 -0500" stop="20220729095900 -0500" channel="Canal TNT Series">
+  <programme start="20220729093700 -0500" stop="20220729102700 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11700,9 +12462,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729095900 -0500" stop="20220729105000 -0500" channel="Canal TNT Series">
+  <programme start="20220729102700 -0500" stop="20220729111600 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11721,18 +12483,18 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729105000 -0500" stop="20220729113700 -0500" channel="Canal TNT Series">
+  <programme start="20220729111600 -0500" stop="20220729120800 -0500" channel="Canal TNT Series">
     <title lang="es">ER</title>
     <episode-num>S3 E16</episode-num>
   </programme>
-  <programme start="20220729113700 -0500" stop="20220729122800 -0500" channel="Canal TNT Series">
+  <programme start="20220729120800 -0500" stop="20220729130200 -0500" channel="Canal TNT Series">
     <title lang="es">ER</title>
     <episode-num>S3 E17</episode-num>
   </programme>
-  <programme start="20220729122800 -0500" stop="20220729132000 -0500" channel="Canal TNT Series">
+  <programme start="20220729130200 -0500" stop="20220729135200 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -11753,10 +12515,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220729132000 -0500" stop="20220729140700 -0500" channel="Canal TNT Series">
+  <programme start="20220729135200 -0500" stop="20220729144100 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -11777,9 +12539,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220729140700 -0500" stop="20220729152000 -0500" channel="Canal TNT Series">
+  <programme start="20220729144100 -0500" stop="20220729153100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11798,9 +12560,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729152000 -0500" stop="20220729162900 -0500" channel="Canal TNT Series">
+  <programme start="20220729153100 -0500" stop="20220729162100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11819,17 +12581,17 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729162900 -0500" stop="20220729171900 -0500" channel="Canal TNT Series">
+  <programme start="20220729162100 -0500" stop="20220729171300 -0500" channel="Canal TNT Series">
     <title lang="es">Major crimes</title>
     <episode-num>S2 E14</episode-num>
   </programme>
-  <programme start="20220729171900 -0500" stop="20220729180600 -0500" channel="Canal TNT Series">
+  <programme start="20220729171300 -0500" stop="20220729180400 -0500" channel="Canal TNT Series">
     <title lang="es">Major crimes</title>
     <episode-num>S2 E15</episode-num>
   </programme>
-  <programme start="20220729180600 -0500" stop="20220729185900 -0500" channel="Canal TNT Series">
+  <programme start="20220729180400 -0500" stop="20220729185600 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11848,9 +12610,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729185900 -0500" stop="20220729195200 -0500" channel="Canal TNT Series">
+  <programme start="20220729185600 -0500" stop="20220729194700 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11869,10 +12631,10 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729195200 -0500" stop="20220729203900 -0500" channel="Canal TNT Series">
+  <programme start="20220729194700 -0500" stop="20220729203800 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -11893,10 +12655,10 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220729203900 -0500" stop="20220729213000 -0500" channel="Canal TNT Series">
+  <programme start="20220729203800 -0500" stop="20220729213000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -11917,9 +12679,9 @@
       <value>TV-MA</value>
     </rating>
   </programme>
-  <programme start="20220729213000 -0500" stop="20220729223800 -0500" channel="Canal TNT Series">
+  <programme start="20220729213000 -0500" stop="20220729222100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11938,9 +12700,9 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729223800 -0500" stop="20220729235000 -0500" channel="Canal TNT Series">
+  <programme start="20220729222100 -0500" stop="20220729231000 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -11959,13 +12721,168 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20220729235000 -0500" stop="20220730005700 -0500" channel="Canal TNT Series">
+  <programme start="20220729231000 -0500" stop="20220730001800 -0500" channel="Canal TNT Series">
     <title lang="es">Line of Duty</title>
     <episode-num>S1 E3</episode-num>
   </programme>
-  <programme start="20220730235000 -0500" stop="20220731005700 -0500" channel="Canal TNT Series">
-    <title lang="es">Line of Duty</title>
-    <episode-num>S1 E3</episode-num>
+  <programme start="20220730001800 -0500" stop="20220730011000 -0500" channel="Canal TNT Series">
+    <title lang="es">ER</title>
+    <episode-num>S3 E16</episode-num>
+  </programme>
+  <programme start="20220730011000 -0500" stop="20220730020100 -0500" channel="Canal TNT Series">
+    <title lang="es">ER</title>
+    <episode-num>S3 E17</episode-num>
+  </programme>
+  <programme start="20220730020100 -0500" stop="20220730024800 -0500" channel="Canal TNT Series">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(g)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num>S3 E10</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220730024800 -0500" stop="20220730033300 -0500" channel="Canal TNT Series">
+    <title lang="es">The Mentalist</title>
+    <title lang="xx">The Mentalist</title>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(g)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Owain Yeoman</actor>
+      <actor>Amanda Righetti</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+      <actor>Joe Adler</actor>
+      <producer>Charlie Goldstein</producer>
+      <producer>Ken Woodruff</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/the_mentalist.jpg" />
+    <episode-num>S3 E11</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220730033300 -0500" stop="20220730042000 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S2 E14</episode-num>
+  </programme>
+  <programme start="20220730042000 -0500" stop="20220730050400 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S2 E15</episode-num>
+  </programme>
+  <programme start="20220730050400 -0500" stop="20220730060000 -0500" channel="Canal TNT Series">
+    <title lang="es">Doctor Milagro</title>
+    <episode-num>S1 E17</episode-num>
+  </programme>
+  <programme start="20220730060000 -0500" stop="20220730061900 -0500" channel="Canal TNT Series">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20220730061900 -0500" stop="20220730070800 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E2</episode-num>
+  </programme>
+  <programme start="20220730070800 -0500" stop="20220730075600 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E3</episode-num>
+  </programme>
+  <programme start="20220730075600 -0500" stop="20220730084400 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E4</episode-num>
+  </programme>
+  <programme start="20220730084400 -0500" stop="20220730093300 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E5</episode-num>
+  </programme>
+  <programme start="20220730093300 -0500" stop="20220730102200 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E6</episode-num>
+  </programme>
+  <programme start="20220730102200 -0500" stop="20220730111200 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E7</episode-num>
+  </programme>
+  <programme start="20220730111200 -0500" stop="20220730115900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E8</episode-num>
+  </programme>
+  <programme start="20220730115900 -0500" stop="20220730124900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E9</episode-num>
+  </programme>
+  <programme start="20220730124900 -0500" stop="20220730133900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E10</episode-num>
+  </programme>
+  <programme start="20220730133900 -0500" stop="20220730142900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E11</episode-num>
+  </programme>
+  <programme start="20220730142900 -0500" stop="20220730151900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E12</episode-num>
+  </programme>
+  <programme start="20220730151900 -0500" stop="20220730161000 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E13</episode-num>
+  </programme>
+  <programme start="20220730161000 -0500" stop="20220730165900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E14</episode-num>
+  </programme>
+  <programme start="20220730165900 -0500" stop="20220730174900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E15</episode-num>
+  </programme>
+  <programme start="20220730174900 -0500" stop="20220730183900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E16</episode-num>
+  </programme>
+  <programme start="20220730183900 -0500" stop="20220730192900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E17</episode-num>
+  </programme>
+  <programme start="20220730192900 -0500" stop="20220730201900 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E18</episode-num>
+  </programme>
+  <programme start="20220730201900 -0500" stop="20220730211100 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E19</episode-num>
+  </programme>
+  <programme start="20220730211100 -0500" stop="20220730220000 -0500" channel="Canal TNT Series">
+    <title lang="es">Major crimes</title>
+    <episode-num>S5 E20</episode-num>
+  </programme>
+  <programme start="20220730220000 -0500" stop="20220730224700 -0500" channel="Canal TNT Series">
+    <title lang="es">Maria Marta El crimen</title>
+    <episode-num>S1 E1</episode-num>
+  </programme>
+  <programme start="20220730224700 -0500" stop="20220730234800 -0500" channel="Canal TNT Series">
+    <title lang="es">Possessions</title>
+    <episode-num>S1 E1</episode-num>
+  </programme>
+  <programme start="20220730234800 -0500" stop="20220731004500 -0500" channel="Canal TNT Series">
+    <title lang="es">Possessions</title>
+    <episode-num>S1 E2</episode-num>
   </programme>
   <programme start="20220731005700 -0500" stop="20220731014700 -0500" channel="Canal TNT Series">
     <title lang="es">ER</title>
