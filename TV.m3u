@@ -159,7 +159,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
 http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/988
 
-#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal A&E (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
+#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
 http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/4
 
 
@@ -185,9 +185,11 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EUROPA" tvg-logo="" group-title="PLUS",EUROPA EUROPA
 
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL
+http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/1048
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL MX
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL
 http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/66
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (Colombia)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL COLOMBIA
@@ -196,15 +198,15 @@ http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddffffffffffffff
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (Colombia)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL HD COLOMBIA
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="PLUS",CINEMAX
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX
 http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/65
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="PLUS",CINEMAX HD
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX HD
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Colombia)" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="PLUS",CINEMAX COLOMBIA
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Colombia)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX COLOMBIA
 
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Chile)" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="PLUS",CINEMAX CHILE
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Argentina)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX ARG
 http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUddddddddddddddddfffffffffffffffiiiiffffffdddddddddddddddddddddddddddddddddddddddddddddddddddddddddIHUHUHUHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/1049
 
 
