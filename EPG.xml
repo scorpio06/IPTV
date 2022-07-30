@@ -104,6 +104,10 @@
     <display-name lang="es">Canal Cinelatino</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Cinelatino USA">
+    <display-name lang="es">Canal Cinelatino USA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="MULTIPREMIER">
     <display-name lang="es">MULTIPREMIER</display-name>
     <url>http://www.gatotv.com</url>
@@ -1551,7 +1555,7 @@
   <programme start="20220729011900 -0500" stop="20220729025500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1570,7 +1574,7 @@
   <programme start="20220729035600 -0500" stop="20220729050000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1610,7 +1614,7 @@
   <programme start="20220729073600 -0500" stop="20220729080000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Power Rangers Dino Fury</title>
     <title lang="xx">Power Rangers Dino Fury</title>
-    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena(c)</desc>
+    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena</desc>
     <credits>
       <actor>Russell Curry</actor>
       <actor>Kai Moya</actor>
@@ -1708,7 +1712,7 @@
   <programme start="20220729151500 -0500" stop="20220729160000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1747,7 +1751,7 @@
   <programme start="20220729175500 -0500" stop="20220729183000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1769,7 +1773,7 @@
   <programme start="20220729190800 -0500" stop="20220729200000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1785,7 +1789,7 @@
   <programme start="20220729200000 -0500" stop="20220729205100 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1804,7 +1808,7 @@
   </programme>
   <programme start="20220729210600 -0500" stop="20220729230000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Spider-Man: Un Nuevo Universo</title>
-    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe(c)</desc>
+    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe</desc>
     <credits>
       <actor>Shameik Moore</actor>
       <actor>Liev Schreiber</actor>
@@ -1824,7 +1828,7 @@
   <programme start="20220729230000 -0500" stop="20220730000500 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2107,7 +2111,7 @@
   <programme start="20220730230000 -0500" stop="20220731000500 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2130,7 +2134,7 @@
   <programme start="20220731010900 -0500" stop="20220731025600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2149,7 +2153,7 @@
   <programme start="20220731040000 -0500" stop="20220731050000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2166,7 +2170,7 @@
   <programme start="20220731060000 -0500" stop="20220731062500 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2192,7 +2196,7 @@
   <programme start="20220731074500 -0500" stop="20220731081000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Masha y el Oso</title>
     <title lang="xx">Masha i Medved</title>
-    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(n)</desc>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención</desc>
     <credits>
       <producer>Oleg Kuzovkov</producer>
       <producer>Dmitrij Lovejko</producer>
@@ -2213,7 +2217,7 @@
   <programme start="20220731090000 -0500" stop="20220731092400 -0500" channel="Canal Cartoon Network">
     <title lang="es">Power Rangers Dino Fury</title>
     <title lang="xx">Power Rangers Dino Fury</title>
-    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena(n)</desc>
+    <desc lang="es">Un nuevo equipo de Power Rangers impulsados por la fuerza prehistórica de los dinosaurios debe defender la tierra de una nueva fuerza alienígena</desc>
     <credits>
       <actor>Russell Curry</actor>
       <actor>Kai Moya</actor>
@@ -2235,7 +2239,7 @@
   <programme start="20220731092400 -0500" stop="20220731100000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2251,7 +2255,7 @@
   <programme start="20220731100000 -0500" stop="20220731110000 -0500" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2271,7 +2275,7 @@
   <programme start="20220731120000 -0500" stop="20220731123000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2286,7 +2290,7 @@
   </programme>
   <programme start="20220731123000 -0500" stop="20220731143000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Spider-Man: Un Nuevo Universo</title>
-    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe(n)</desc>
+    <desc lang="es">Miles Morales, un adolescente de Brooklyn, transformándose en una de las posibilidades en el universo del hombre araña para ser el superhéroe</desc>
     <credits>
       <actor>Shameik Moore</actor>
       <actor>Liev Schreiber</actor>
@@ -2309,7 +2313,7 @@
   <programme start="20220731151700 -0500" stop="20220731160600 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2337,7 +2341,7 @@
   <programme start="20220731180000 -0500" stop="20220731190000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2356,7 +2360,7 @@
   <programme start="20220731193000 -0500" stop="20220731194500 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2372,7 +2376,7 @@
   <programme start="20220731194500 -0500" stop="20220731200000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2388,7 +2392,7 @@
   <programme start="20220731200000 -0500" stop="20220731203000 -0500" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -4841,6 +4845,9 @@
     <title lang="es">Rugrats</title>
   </programme>
   <programme start="20220730183000 -0500" stop="20220730190000 -0500" channel="Canal Nickelodeon">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20220730190000 -0500" stop="20220730193000 -0500" channel="Canal Nickelodeon">
     <title lang="es">Rugrats</title>
   </programme>
   <programme start="20220730193000 -0500" stop="20220730200000 -0500" channel="Canal Nickelodeon">
@@ -8041,7 +8048,7 @@
   <programme start="20220730194500 -0500" stop="20220730220000 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">Terminator: La Salvación</title>
     <title lang="xx">Terminator Salvation</title>
-    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet(n)</desc>
+    <desc lang="es">En el 2018, una misteriosa arma en la guerra contra las máquinas – mitad humano y mitad máquina – busca a John Connor para ayudar con la misión de atacar a Skynet</desc>
     <credits>
       <actor>Christian Bale</actor>
       <actor>Sam Worthington</actor>
@@ -8059,7 +8066,7 @@
   </programme>
   <programme start="20220730220000 -0500" stop="20220731000200 -0500" channel="Canal AyE (Guatemala)">
     <title lang="es">Terminator 3: La Rebelión de las Máquinas</title>
-    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas(n)</desc>
+    <desc lang="es">Tras haber sobrevivido años atrás a un exterminador, ahora John Connor debe enfrentarse a una nueva exterminadora con poder sobre todas las máquinas</desc>
     <credits>
       <actor>Arnold Schwarzenegger</actor>
       <actor>Nick Stahl</actor>
@@ -9654,7 +9661,7 @@
   <programme start="20220729200000 -0500" stop="20220729214300 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Shrek Tercero</title>
     <title lang="xx">Shrek the Third</title>
-    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono(c)</desc>
+    <desc lang="es">Tras la muerte del suegro de Shrek, el Rey Harold, ahora el reino de Muy Muy Lejos llama al Ogro maloliente para que tome su trono</desc>
     <credits>
       <actor>Mike Myers</actor>
       <actor>Cameron Diaz</actor>
@@ -9710,7 +9717,7 @@
   <programme start="20220730173800 -0500" stop="20220730195800 -0500" channel="Canal Cinecanal (México">
     <title lang="es">Talentos Ocultos</title>
     <title lang="xx">Hidden Figures</title>
-    <desc lang="es">Katherine, Dorothy y Mary son tres mujeres afroamericanas que la NASA necesitará para hacer los cálculos importantes para la primera misión espacial(g)</desc>
+    <desc lang="es">Katherine, Dorothy y Mary son tres mujeres afroamericanas que la NASA necesitará para hacer los cálculos importantes para la primera misión espacial</desc>
     <credits>
       <actor>Taraji P. Henson</actor>
       <actor>Octavia Spencer</actor>
@@ -9804,7 +9811,7 @@
   <programme start="20220729060000 -0500" stop="20220729074800 -0500" channel="Canal Cinemax (México)">
     <title lang="es">Fahrenheit 451</title>
     <title lang="xx">Fahrenheit 451</title>
-    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros(c)</desc>
+    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros</desc>
     <credits>
       <actor>Michael B. Jordan</actor>
       <actor>Michael Shannon</actor>
@@ -9902,7 +9909,7 @@
   <programme start="20220729045400 -0500" stop="20220729071800 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">Una Guerra Brillante</title>
     <title lang="xx">The Current War</title>
-    <desc lang="es">La feroz competencia entre los grandes de la electricidad: Thomas Edison y George Westinghouse para determinar qué sistema eléctrico alimentará al mundo(n)</desc>
+    <desc lang="es">La feroz competencia entre los grandes de la electricidad: Thomas Edison y George Westinghouse para determinar qué sistema eléctrico alimentará al mundo</desc>
     <credits>
       <actor>Benedict Cumberbatch</actor>
       <actor>Michael Shannon</actor>
@@ -9926,7 +9933,7 @@
   <programme start="20220729071800 -0500" stop="20220729094900 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">Rescate en Entebbe</title>
     <title lang="xx">Entebbe</title>
-    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado(n)</desc>
+    <desc lang="es">Basa en hechos reales del secuestro del vuelo con ruta de Tel Aviv a París en 1976, mostrando la misión de rescate más alucinante que se haya intentado</desc>
     <credits>
       <actor>Rosamund Pike</actor>
       <actor>Daniel Brühl</actor>
@@ -9957,7 +9964,7 @@
   <programme start="20220729173600 -0500" stop="20220729200000 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">Rambo IV</title>
     <title lang="xx">Rambo</title>
-    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(n)</desc>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos</desc>
     <credits>
       <actor>Sylvester Stallone</actor>
       <actor>Julie Benz</actor>
@@ -10002,7 +10009,7 @@
   <programme start="20220731090000 -0500" stop="20220731112100 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">R.I.P.D. Departamento de Policía Mortal</title>
     <title lang="xx">R.I.P.D.</title>
-    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros(n)</desc>
+    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros</desc>
     <credits>
       <actor>Jeff Bridges</actor>
       <actor>Ryan Reynolds</actor>
@@ -10027,7 +10034,7 @@
   </programme>
   <programme start="20220731152800 -0500" stop="20220731173500 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">Kung Fu Panda 3</title>
-    <desc lang="es">En este episodio Po deberá enfrentar dos distintas amenazas épicas, una sobrenatural y la otra muy cerca de su hogar(n)</desc>
+    <desc lang="es">En este episodio Po deberá enfrentar dos distintas amenazas épicas, una sobrenatural y la otra muy cerca de su hogar</desc>
     <credits>
       <actor>Jack Black</actor>
       <actor>Angelina Jolie</actor>
@@ -10054,7 +10061,7 @@
   <programme start="20220731200000 -0500" stop="20220731223000 -0500" channel="Canal Cinemax (Argentina)">
     <title lang="es">R.I.P.D. Departamento de Policía Mortal</title>
     <title lang="xx">R.I.P.D.</title>
-    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros(n)</desc>
+    <desc lang="es">Un policía asesinado recientemente se une a un equipo de policías muertos que trabajan para capturar las almas malignas que viven junto a nosotros</desc>
     <credits>
       <actor>Jeff Bridges</actor>
       <actor>Ryan Reynolds</actor>
@@ -10169,6 +10176,262 @@
   </programme>
   <programme start="20220731230000 -0500" stop="20220801003500 -0500" channel="Canal Cinelatino">
     <title lang="es">Un trailero mujeriego</title>
+  </programme>
+  <programme start="20220729013500 -0500" stop="20220729031500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Las calenturas de un fantasma</title>
+  </programme>
+  <programme start="20220729031500 -0500" stop="20220729040500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Laugh Factory en español</title>
+  </programme>
+  <programme start="20220729040500 -0500" stop="20220729060000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La peor de mis bodas 2</title>
+  </programme>
+  <programme start="20220729060000 -0500" stop="20220729071500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Septiembre, Un Llanto en Silencio</title>
+    <desc lang="es">El conflicto armado en Guatemala en los años 80's, hace que Theresa quede sorda y que su abuelo tome la batuta de ella hasta que pueda valerse por sí sola(n)</desc>
+    <credits>
+      <actor>Saúl Lisazo</actor>
+      <actor>Mario Zaragoza</actor>
+      <actor>Costanza Andrade</actor>
+      <actor>Tuti Furlán</actor>
+      <actor>Juan Pablo Olyslager</actor>
+      <actor>Camila Müller</actor>
+      <producer>Kraftlogic Studios</producer>
+      <producer>Kenneth Müller</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/septiembre_un_llanto_en_silencio.jpg" />
+  </programme>
+  <programme start="20220729071500 -0500" stop="20220729085500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Lady Rancho</title>
+    <title lang="xx">#Lady Rancho</title>
+    <desc lang="es">Después de adquirir fama gracias a un video viral, Camila es enviada a trabajar todo el verano al rancho familiar dándose cuenta que no sabe hacer nada(n)</desc>
+    <credits>
+      <actor>Azela Robinson</actor>
+      <actor>Luna Balvanera</actor>
+      <actor>Juan Carlos Colombo</actor>
+      <actor>Delia Casanova</actor>
+      <actor>Costanza Andrade</actor>
+      <actor>Iván Echeverri</actor>
+      <actor>Hoze Meléndez</actor>
+      <actor>Mario Moreno</actor>
+      <producer>Alex García</producer>
+      <producer>Alejandra González-Reygadas</producer>
+      <composer>Diego Benlliure</composer>
+      <composer>Héctor Ruíz</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/no_lady_rancho.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220729085500 -0500" stop="20220729104500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Treintona, soltera y fantástica</title>
+  </programme>
+  <programme start="20220729104500 -0500" stop="20220729124500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">El Fantasma de Mi Novia</title>
+    <title lang="xx">El Fantasma de mi Novia</title>
+    <desc lang="es">Una actriz antes de comenzar a filmar una película sufre un accidente donde queda en coma, ahora su única esperanza es un estafador con dotes de vidente(n)</desc>
+    <credits>
+      <actor>Carmen Villalobos</actor>
+      <actor>William Levy</actor>
+      <actor>Fausto Mata</actor>
+      <actor>Susana Dosamantes</actor>
+      <actor>Brandon Peniche</actor>
+      <actor>Francisca Lachapel</actor>
+      <actor>Elizabeth Gutiérrez</actor>
+      <composer>Jalsen Santana</composer>
+      <composer>David Vásquez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/el_fantasma_de_mi_novia.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220729124500 -0500" stop="20220729142500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Lady Rancho</title>
+    <title lang="xx">#Lady Rancho</title>
+    <desc lang="es">Después de adquirir fama gracias a un video viral, Camila es enviada a trabajar todo el verano al rancho familiar dándose cuenta que no sabe hacer nada(n)</desc>
+    <credits>
+      <actor>Azela Robinson</actor>
+      <actor>Luna Balvanera</actor>
+      <actor>Juan Carlos Colombo</actor>
+      <actor>Delia Casanova</actor>
+      <actor>Costanza Andrade</actor>
+      <actor>Iván Echeverri</actor>
+      <actor>Hoze Meléndez</actor>
+      <actor>Mario Moreno</actor>
+      <producer>Alex García</producer>
+      <producer>Alejandra González-Reygadas</producer>
+      <composer>Diego Benlliure</composer>
+      <composer>Héctor Ruíz</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/no_lady_rancho.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220729142500 -0500" stop="20220729163000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Recien Cazado</title>
+  </programme>
+  <programme start="20220729163000 -0500" stop="20220729183000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Nosotros Los Nobles</title>
+    <desc lang="es">Gonzalo Vega. Germán Noble es un poderoso empresario que decide darles una lección a sus hijos Javi, Bárbara y Charlie quienes no hacen nada por sus vidas(n)</desc>
+    <credits>
+      <actor>Gonzalo Vega</actor>
+      <actor>Luis Gerardo Méndez</actor>
+      <actor>Karla Souza</actor>
+      <actor>Juan Pablo Gil</actor>
+      <producer>Leonardo Zimbrón</producer>
+      <producer>Gaz Alazraki</producer>
+      <composer>Benjamín Shwartz</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg" />
+  </programme>
+  <programme start="20220729183000 -0500" stop="20220729200000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La jaula</title>
+  </programme>
+  <programme start="20220729200000 -0500" stop="20220729220000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Sangre de Valientes</title>
+  </programme>
+  <programme start="20220729220000 -0500" stop="20220730000000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La sombra de la muerte: Un mismo cártel</title>
+  </programme>
+  <programme start="20220730000000 -0500" stop="20220730014000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">El man del porno</title>
+  </programme>
+  <programme start="20220730014000 -0500" stop="20220730033500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Por mujeres como tú</title>
+  </programme>
+  <programme start="20220730033500 -0500" stop="20220730042500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Laugh Factory en español</title>
+  </programme>
+  <programme start="20220730042500 -0500" stop="20220730060000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La hija del capo mayor</title>
+  </programme>
+  <programme start="20220730060000 -0500" stop="20220730063000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Desde nuestro muxu'x</title>
+  </programme>
+  <programme start="20220730063000 -0500" stop="20220730082500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Nosotros Los Nobles</title>
+    <desc lang="es">Gonzalo Vega. Germán Noble es un poderoso empresario que decide darles una lección a sus hijos Javi, Bárbara y Charlie quienes no hacen nada por sus vidas(n)</desc>
+    <credits>
+      <actor>Gonzalo Vega</actor>
+      <actor>Luis Gerardo Méndez</actor>
+      <actor>Karla Souza</actor>
+      <actor>Juan Pablo Gil</actor>
+      <producer>Leonardo Zimbrón</producer>
+      <producer>Gaz Alazraki</producer>
+      <composer>Benjamín Shwartz</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/nosotros_los_nobles.jpg" />
+  </programme>
+  <programme start="20220730082500 -0500" stop="20220730102000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La Boda de Valentina</title>
+    <title lang="xx">La Boda de Valentina</title>
+    <desc lang="es">Valentina tiene una vida perfecta en los Estados Unidos, pero su vida cambiará cuando su novio americano Jason le propone que se casen en México(n)</desc>
+    <credits>
+      <actor>Álvaro Carcaño</actor>
+      <actor>Christian Tappan</actor>
+      <actor>Chumel Torres</actor>
+      <actor>Jesús Zavala</actor>
+      <actor>Kate Vernon</actor>
+      <actor>María Rojo</actor>
+      <actor>Marimar Vega</actor>
+      <actor>Omar Chaparro</actor>
+      <producer>Avelino Rodríguez</producer>
+      <producer>Marco Polo Constandse</producer>
+      <composer>Rodrigo Dávila Producción</composer>
+      <composer>Paulina Márquez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_boda_de_valentina.jpg" />
+  </programme>
+  <programme start="20220730102000 -0500" stop="20220730122500 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Recien Cazado</title>
+  </programme>
+  <programme start="20220730122500 -0500" stop="20220730141000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Plan V</title>
+    <desc lang="es">Cuando una chica se pretende darle una sorpresa a su novio actor, se percata que la engaña con su representante, ahora para olvidarlo buscará un virgen(n)</desc>
+    <credits>
+      <actor>Arath de la Torre</actor>
+      <actor>Jose Carlos Femat</actor>
+      <actor>José Pablo Minor</actor>
+      <actor>Kevin Holt</actor>
+      <actor>María Gabriela de Faria</actor>
+      <actor>Natasha Dupeyron</actor>
+      <actor>Stéphanie Gérard</actor>
+      <actor>Tamara Vallarta</actor>
+      <producer>Jorge Aragón</producer>
+      <producer>Pablo Martínez de Velasco</producer>
+      <composer>Rodrigo Dávila</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/plan_v.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20220730141000 -0500" stop="20220730160000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Cuernito Armani</title>
+  </programme>
+  <programme start="20220730160000 -0500" stop="20220730175000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Cómo Cortar a tu Patán</title>
+    <title lang="xx">Cómo Cortar a tu Patán</title>
+    <desc lang="es">Una exitosa terapeuta especializada ayudar mujeres con malas relaciones. Cuando descubre que su hermana está enamorada de un patán, emprenderá un plan(n)</desc>
+    <credits>
+      <actor>Mariana Treviño</actor>
+      <actor>Sebastián Zurita</actor>
+      <actor>Camila Sodi</actor>
+      <actor>Christopher Von Uckermann</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/como_cortar_a_tu_patan.jpg" />
+  </programme>
+  <programme start="20220730175000 -0500" stop="20220730200000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La Boda de Valentina</title>
+    <title lang="xx">La Boda de Valentina</title>
+    <desc lang="es">Valentina tiene una vida perfecta en los Estados Unidos, pero su vida cambiará cuando su novio americano Jason le propone que se casen en México(n)</desc>
+    <credits>
+      <actor>Álvaro Carcaño</actor>
+      <actor>Christian Tappan</actor>
+      <actor>Chumel Torres</actor>
+      <actor>Jesús Zavala</actor>
+      <actor>Kate Vernon</actor>
+      <actor>María Rojo</actor>
+      <actor>Marimar Vega</actor>
+      <actor>Omar Chaparro</actor>
+      <producer>Avelino Rodríguez</producer>
+      <producer>Marco Polo Constandse</producer>
+      <composer>Rodrigo Dávila Producción</composer>
+      <composer>Paulina Márquez</composer>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_boda_de_valentina.jpg" />
+  </programme>
+  <programme start="20220730200000 -0500" stop="20220730220000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">Sólo quiero caminar</title>
+  </programme>
+  <programme start="20220730220000 -0500" stop="20220730225000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La negociadora</title>
+  </programme>
+  <programme start="20220730225000 -0500" stop="20220731000000 -0500" channel="Canal Cinelatino USA">
+    <title lang="es">La negociadora</title>
   </programme>
   <programme start="20220729004000 -0500" stop="20220729022500 -0500" channel="MULTIPREMIER">
     <title lang="es">Amigos y amantes vol. 3</title>
@@ -11027,7 +11290,7 @@
   </programme>
   <programme start="20220729081200 -0500" stop="20220729102200 -0500" channel="Canal Space (México)">
     <title lang="es">El Rey Arturo: La Leyenda de la Espada</title>
-    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra(c)</desc>
+    <desc lang="es">Cuando el padre del pequeño Arturo es asesinado, su tío se apodera de la corona.  Pero todo está por cambiar cuando Arturo tome la espada de la piedra</desc>
     <credits>
       <actor>Charlie Hunnam</actor>
       <actor>Astrid Bergès-Frisbey</actor>
@@ -11055,7 +11318,7 @@
   </programme>
   <programme start="20220729152100 -0500" stop="20220729170100 -0500" channel="Canal Space (México)">
     <title lang="es">Hancock</title>
-    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado(c)</desc>
+    <desc lang="es">La vida de un superhéroe de la ciudad Los Ángeles está por cambiar cuando salva la vida de un hombre cuya esposa esconde un secreto sobre su misterioso pasado</desc>
     <credits>
       <actor>Will Smith</actor>
       <actor>Charlize Theron</actor>
@@ -12086,7 +12349,7 @@
   </programme>
   <programme start="20220729103100 -0500" stop="20220729121500 -0500" channel="Canal TNT">
     <title lang="es">Venganza Letal (Faster)</title>
-    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(c)</desc>
+    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión</desc>
     <credits>
       <actor>Dwayne Johnson</actor>
       <actor>Tilly Bob Thornton</actor>
@@ -12238,7 +12501,7 @@
   <programme start="20220731010000 -0500" stop="20220731024100 -0500" channel="Canal TNT">
     <title lang="es">Rambo: Regreso al Infierno</title>
     <title lang="xx">Rambo</title>
-    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(c)</desc>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos</desc>
     <credits>
       <actor>Sylvester Stallone</actor>
       <actor>Julie Benz</actor>
@@ -12267,7 +12530,7 @@
   </programme>
   <programme start="20220731060000 -0500" stop="20220731071900 -0500" channel="Canal TNT">
     <title lang="es">Venganza Letal (Faster)</title>
-    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión(n)</desc>
+    <desc lang="es">Un asalta bancos tras 10 años de condena decide vengar la muerte de su hermano por quienes lo traicionaron e hicieron que fuera a prisión</desc>
     <credits>
       <actor>Dwayne Johnson</actor>
       <actor>Tilly Bob Thornton</actor>
@@ -12295,7 +12558,7 @@
   <programme start="20220731124900 -0500" stop="20220731152000 -0500" channel="Canal TNT">
     <title lang="es">Shazam!</title>
     <title lang="xx">Shazam!</title>
-    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes(n)</desc>
+    <desc lang="es">Un niño adoptivo de 14 años adquiere el poder de convertirse en un superhéroe gracias a un antiguo mago, ahora necesita dominar rápidamente sus poderes(c)</desc>
     <credits>
       <actor>Asher Angel</actor>
       <actor>Zachary Levi</actor>
@@ -12327,7 +12590,7 @@
   <programme start="20220731220000 -0500" stop="20220731234500 -0500" channel="Canal TNT">
     <title lang="es">Rambo: Regreso al Infierno</title>
     <title lang="xx">Rambo</title>
-    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos(n)</desc>
+    <desc lang="es">En Tailandia, John Rambo es persuadido para que lleve a un grupo de mercenarios a la región fronteriza para rescatar a un grupo de misioneros cristianos</desc>
     <credits>
       <actor>Sylvester Stallone</actor>
       <actor>Julie Benz</actor>
@@ -12443,7 +12706,7 @@
   </programme>
   <programme start="20220729093700 -0500" stop="20220729102700 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12464,7 +12727,7 @@
   </programme>
   <programme start="20220729102700 -0500" stop="20220729111600 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12494,7 +12757,7 @@
   <programme start="20220729130200 -0500" stop="20220729135200 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -12518,7 +12781,7 @@
   <programme start="20220729135200 -0500" stop="20220729144100 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -12541,7 +12804,7 @@
   </programme>
   <programme start="20220729144100 -0500" stop="20220729153100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12562,7 +12825,7 @@
   </programme>
   <programme start="20220729153100 -0500" stop="20220729162100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12591,7 +12854,7 @@
   </programme>
   <programme start="20220729180400 -0500" stop="20220729185600 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12612,7 +12875,7 @@
   </programme>
   <programme start="20220729185600 -0500" stop="20220729194700 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12634,7 +12897,7 @@
   <programme start="20220729194700 -0500" stop="20220729203800 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -12658,7 +12921,7 @@
   <programme start="20220729203800 -0500" stop="20220729213000 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -12681,7 +12944,7 @@
   </programme>
   <programme start="20220729213000 -0500" stop="20220729222100 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12702,7 +12965,7 @@
   </programme>
   <programme start="20220729222100 -0500" stop="20220729231000 -0500" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -12736,7 +12999,7 @@
   <programme start="20220730020100 -0500" stop="20220730024800 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(g)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -12760,7 +13023,7 @@
   <programme start="20220730024800 -0500" stop="20220730033300 -0500" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(g)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
