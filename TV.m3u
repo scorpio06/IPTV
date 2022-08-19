@@ -1,328 +1,1012 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", AGOSTO | Latino | teleclub!
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Activar desde www.teleclub.xyz/activar
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Telegram: @teleclubxyz
-http://tv.teleclub.xyz/hls/welcome.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 01
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 02
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 03
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 04
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 05
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_05/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/2560px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",GALAVISION
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/86
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
-http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel
-http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr
-http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil", Discovery Kids
-http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nick
-http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK Jr
-http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast
-http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", Bitme
-http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito
-http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb" group-title="MEXICO",Imagen TV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/881
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
-http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
-http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz
-http://tv.teleclub.xyz/stream/Mundo/GLITZ/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español
-http://tv.teleclub.xyz/stream/Mundo/RT_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V2ViWPe.png" group-title="Mundo", TruTV
-http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png" group-title="Mundo", MasChic
-http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime
-http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40
-http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN
-http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe
-http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV
-http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
-http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E!
-http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV
-http://tv.teleclub.xyz/stream/Mundo/CARACOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo
-http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
-http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="Mundo", Univision
-http://tv.teleclub.xyz/stream/Mundo/UNIVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3
-http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.1 GUANAJUATO" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="MEXICO",CANAL 4.1 GUANAJUATO
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w1125826527.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network
-http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura", Discovery Turbo
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_SCIENCES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="Cultura", Discovery ID
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_ID/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H
-http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_HH/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura", History Channel
-http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2
-http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura", National Geographic
-http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E
-http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura", Animal Planet
-http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura", El Gourmet
-http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Cultura", TLC
-http://tv.teleclub.xyz/stream/Cultura/TLC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cultura", ComedyCentral
-http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cultura", Distrito Comedia
-http://tv.teleclub.xyz/stream/Cultura/DISTRITO_COMEDIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fCegFzr.png" group-title="Cultura", Love Nature
-http://tv.teleclub.xyz/stream/Cultura/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.2 CULTURA" tvg-logo="https://www.tvcuatro.com/images/cultura-01.png" group-title="MEXICO",CANAL 4.2 GUANAJUATO
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/chunklist_w1892638478.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel
-http://tv.teleclub.xyz/stream/Entretenimiento/STAR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV
-http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN
-http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount
-http://tv.teleclub.xyz/stream/Entretenimiento/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal
-http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX
-http://tv.teleclub.xyz/stream/Entretenimiento/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS
-http://tv.teleclub.xyz/stream/Entretenimiento/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT
-http://tv.teleclub.xyz/stream/Entretenimiento/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series
-http://tv.teleclub.xyz/stream/Entretenimiento/TNT_SERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax
-http://tv.teleclub.xyz/stream/Entretenimiento/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony
-http://tv.teleclub.xyz/stream/Entretenimiento/SONY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="Entretenimiento", DePelicula
-http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal
-http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO +
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento", HBO Mundi
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_MUNDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento", HBO Pop
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_POP/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento", HBO Signature
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="Entretenimiento", HBO Xtreme
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento", HBO Family
-http://tv.teleclub.xyz/stream/Entretenimiento/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus
-http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC
-http://tv.teleclub.xyz/stream/Entretenimiento/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE
-http://tv.teleclub.xyz/stream/Entretenimiento/SPACE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Entretenimiento", Universal Premiere
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e1Bjuah.png" group-title="Entretenimiento", Universal Reality
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bsJsBD5.png" group-title="Entretenimiento", Universal Cinema
-http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_CINEMA/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.3 DEPORTES" tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="MEXICO",CANAL 4.3 GUANAJUATO
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/chunklist_w1314913521.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV
-http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Hits
-http://tv.teleclub.xyz/stream/Musica/MTV_HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Live
-http://tv.teleclub.xyz/stream/Musica/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica", MTV Classic
-http://tv.teleclub.xyz/stream/Musica/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="Musica", Bandamax
-http://tv.teleclub.xyz/stream/Musica/BANDAMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="Musica", Nick Music
-http://tv.teleclub.xyz/stream/Musica/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 1
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="Musica", Retro Plus 2
-http://tv.teleclub.xyz/stream/Musica/RETRO_PLUS_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN
-http://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados
-http://tv.teleclub.xyz/stream/Deportes/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports
-http://tv.teleclub.xyz/stream/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV
-http://tv.teleclub.xyz/stream/Deportes/GOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv 2
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv +
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes", GolPeru
-http://tv.teleclub.xyz/stream/Deportes/GOLPERU/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 2 MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 MX
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 2 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 Sur
-http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports
-http://tv.teleclub.xyz/stream/Deportes/BEING_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports +
-http://tv.teleclub.xyz/stream/Deportes/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Extra
-http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="Deportes", TyC Sports
-http://tv.teleclub.xyz/stream/Deportes/TYC_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" group-title="Deportes", WWE & WWF
-http://tv.teleclub.xyz/stream/Deportes/WWE_WWF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="Deportes", ESPN 4
-http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29l9xsm.png" group-title="Deportes", DAZN
-http://tv.teleclub.xyz/stream/Deportes/DAZN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", DirecTV Sports (ARG)
-http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" group-title="Deportes", Real Madrid TV (ES)
-http://tv.teleclub.xyz/stream/Deportes/RM_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Deportes", Manchester United TV
-http://tv.teleclub.xyz/stream/Deportes/MAN_UNITEDTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Deportes", NFL Channel
-http://tv.teleclub.xyz/stream/Deportes/NFL_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1200px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sports BO 
-http://tv.teleclub.xyz/stream/Deportes/Tigo_Sports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TNT_Sports_Chile.svg/2560px-TNT_Sports_Chile.svg.png" group-title="Deportes", TNT Sports CL
-http://tv.teleclub.xyz/stream/Deportes/TNT_SPORTS_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes", Adrenalina Sports Network
-http://tv.teleclub.xyz/stream/Deportes/ADRENALINA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8ZlHs5.png" group-title="Paises", La Tele Uruguay
-http://tv.teleclub.xyz/stream/Paises/LATELE_UY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ajVrzon.png" group-title="Paises", Music Top | AR
-http://tv.teleclub.xyz/stream/Paises/MUSICTOP_ARG/index.m3u8
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Paises", WOW TV | SV
-http://tv.teleclub.xyz/stream/Paises/WOW_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Wuan%2B_logo.png" group-title="Paises", Wuan + | EC
-http://tv.teleclub.xyz/stream/Paises/WUAN_EC/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/800px-Cable_Noticias_logo.svg.png" group-title="Paises", Cable Noticias | CO
-http://tv.teleclub.xyz/stream/Paises/CABLE_CO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png/935px-Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Paises", Caracol | CO
-http://tv.teleclub.xyz/stream/Paises/CARACOL_CO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.asomedios.com/wp-content/uploads/2017/08/logo-rcn.png" group-title="Paises", RCN (Nuestra Tele) | CO
-http://tv.teleclub.xyz/stream/Paises/RCN_CO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1016px-RCN_Novelas_logo_2019.png" group-title="Paises", RCN Novelas | CO
-http://tv.teleclub.xyz/stream/Paises/RCN_NOVELAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Paises", Telemundo | INT
-http://tv.teleclub.xyz/stream/Paises/TELEMUNDO_INT/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Paises", Canal Uno | CO
-http://tv.teleclub.xyz/stream/Paises/UNO_CO/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Paises", Telemundo (Puerto Rico)
-http://tv.teleclub.xyz/stream/Paises/TELEMUNDO_PR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="Paises", C9N (PY)
-http://tv.teleclub.xyz/stream/Paises/C9N_PY/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch711_425_305" group-title="Paises", NHK World Premium (JP)
-http://tv.teleclub.xyz/stream/Paises/NHK_WORLD_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nhk-world-japan-logo-CB3D1956DE-seeklogo.com.png" group-title="Paises", NHK World (JP)
-http://tv.teleclub.xyz/stream/Paises/NHK_World/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" group-title="Paises", Televen (VE)
-http://tv.teleclub.xyz/stream/Paises/TELEVEN_VE/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/TLT-Ocasional.png" group-title="Paises", TLT (VE)
-http://tv.teleclub.xyz/stream/Paises/TLT/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1708px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Paises", Venevision
-http://tv.teleclub.xyz/stream/Paises/VENEVISION/index.m3u8
-#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Paises", Panamericana TV
-http://tv.teleclub.xyz/stream/Paises/PANAMERICANA_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/886px-Logo_Panamericana_2020.png" group-title="Paises", Panamericana  PE (OP2)
-http://tv.teleclub.xyz/stream/Paises/PANAMERICANA_PE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VTV_HN_logo_2019.png/792px-VTV_HN_logo_2019.png" group-title="Paises", VTV | HN
-http://tv.teleclub.xyz/stream/Paises/VTV_HN/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" group-title="Paises", Canal 5 | MX
-http://tv.teleclub.xyz/stream/Paises/CANAL5_MX/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Mexiquense TV" tvg-logo="https://radioytvmexiquense.mx/wp-content/uploads/2019/10/200X100-MX-1.png" group-title="MEXICO",MEXIQUENSE TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w413924476.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Los Simpsons 1
-http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Los Simpsons 2
-http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Principe del Rap
-http://tv.teleclub.xyz/stream/24_7/PRINCIPE_DEL_RAP/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Correcaminos
-http://tv.teleclub.xyz/stream/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Dinosaurios
-http://tv.teleclub.xyz/stream/24_7/DINOSAURIOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Ben 10
-http://tv.teleclub.xyz/stream/24_7/BEN_10/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Los Simpsons 247
-http://tv.teleclub.xyz/stream/24_7/SIMPSONS_247/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Dragon Ball
-http://tv.teleclub.xyz/stream/24_7/DRAGON_BALL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", South Park
-http://tv.teleclub.xyz/stream/24_7/SOUTH_PARK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", ALF
-http://tv.teleclub.xyz/stream/24_7/ALF/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24_7", Familia Peluche
-http://tv.teleclub.xyz/stream/24_7/FAMILIA_PELUCHE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEMAR CAMPECHE" tvg-logo="https://photos.live-tv-channels.org/tv-logo/mx-telemar-campeche-5613-300x225.jpg" group-title="MEXICO",TELEMAR CAMPECHE
+https://stream-03.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2q09DOP4sumfMavAnPxIY9KcDcSrZH7lOyBxLVrlzEqI)/dm/3/x80bl3l/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRECEVISION YUCATAN" tvg-logo="http://www.teleyucatan.gob.mx/files-content/conf/logo_right_.png" group-title="MEXICO",TELE YUCATAN
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/chunklist_w769019524.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CANCUN" tvg-logo="http://www.lawebtv.mx/img/logo_tvcun2.png" group-title="MEXICO",SIPSE TV CANCUN
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SIPSE TV CHETUMAL" tvg-logo="https://yt3.ggpht.com/PLt6XNjdioq2-pTULpFYak3ilmH6XWbXY9fZ3gIfGXfjGh0JhBG92bDwgoZRszv_7cBsqS5x7A=s900-c-k-c0x00ffffff-no-rj" group-title="MEXICO",TV CHETUMAL
+https://5ca3e84a76d30.streamlock.net/sqcs/videosqcs/chunklist_w1721101463.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 CHETUMAL" tvg-logo="https://image.roku.com/channels/images/b92d2fd6644c45bb819a51d167d3bc36-hd.png" group-title="MEXICO",CANAL 10 CHETUMAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 10 CHIAPAS" tvg-logo="https://i.pinimg.com/originals/14/63/7b/14637b4e3d64661b5e1ecab7c917f02d.png" group-title="MEXICO",CANAL 10 CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVT TABASCO" tvg-logo="https://corat.mx/wp-content/uploads/2019/06/logo_tvt_corat-300x300.png" group-title="MEXICO",TVT TABASCO
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/chunklist_w2019435255.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV TLAXCALA" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-bsAC91kr87t9LHahXTsujSSNw8VQu8b44iA=s900-c-k-c0xffffffff-no-rj-mo" group-title="MEXICO",TV TLAXCALA
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PMTV" tvg-logo="http://www.radioranchito.com.mx/img/LOGOPMTV.png" group-title="MEXICO",PRESUMIENDO MEXICO
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w1924817410_b1428000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Azteca Corazon" tvg-logo="http://tuproduccion.com/inicio/wp-content/uploads/2017/01/logo-cinema-azteca.jpg" group-title="MEXICO",AZTECA CORAZON
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/993
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Azteca Mundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="MEXICO",AZTECA MUNDO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/994
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TV Azteca Clic" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_clic-mediano.png" group-title="MEXICO",AZTECA CLIC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/992
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal TV Azteca Cinema" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="MEXICO",AZTECA CINEMA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1046
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="MEXICO",AZTECA 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/873
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotipo_de_TV_Azteca.png/1200px-Logotipo_de_TV_Azteca.png" group-title="MEXICO",AZTECA 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/82
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/872
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",AZTECA 7
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/51
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Multimedios Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO",MULTIMEDIOS MTY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/885
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Multimedios Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO",MULTIMEDIOS MTY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/61
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoonito (México)" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1036
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoonito (México)" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/37
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="NIÑOS",CARTOON NETWORK
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1037
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="NIÑOS",DISCOVERY KIDS MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/21
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="NIÑOS",DISCOVERY KIDS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1038
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Channel" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney11.jpg" group-title="NIÑOS",DISNEY CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1039
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Channel" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney11.jpg" group-title="NIÑOS",DISNEY CHANNEL SD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/25
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Junior 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney-jr_m.png" group-title="NIÑOS",DISNEY JR
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1040
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Junior 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney-jr_m.png" group-title="NIÑOS",DISNEY JR
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/22
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney XD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-xd_m.png" group-title="NIÑOS",DISNEY XD
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Nat Geo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="NIÑOS",NAT GEO KIDS
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Nickelodeon" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="NIÑOS",NICKELODEON
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1041
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Nickelodeon" tvg-logo="https://www.paredro.com/wp-content/uploads/2019/04/Evolucio%CC%81n-del-logo-Nickelodeon-el-naranja-explosivo.jpg" group-title="NIÑOS",NICKELODEON SD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/23
+
+#EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png"group-title="NIÑOS",NICK JR
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1043
+
+#EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png"group-title="NIÑOS",NICK JR SD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/20
+
+
+
+#EXTINF:-1 tvg-id="Canal TeenNick" tvg-name="" tvg-logo="http://51.222.152.107:81/posters/1502829332271.jpg"group-title="NIÑOS",TEENNICK
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1042
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Nicktoons (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/nicktoons_mexico-mediano.png" group-title="NIÑOS",NickToons
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="NIÑOS",TOONCAST
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1045	
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Kidz" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraKidzLogoBlack.png" group-title="NIÑOS",ULTRA KIDZ
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BitMelogo.png/640px-BitMelogo.png" group-title="NIÑOS",BITME
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/995
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="LOCOMOTION" tvg-logo="https://lh3.googleusercontent.com/-FLvPUqc-seM/W15n9C2cisI/AAAAAAAAkqM/H3PFkx-peyQiIFQnPPHDlOxc80H5fHDgwCK8BGAs/s250/2018-07-29.png" group-title="NIÑOS",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/988
+
+#EXTINF:-1 tvg-ID="Canal AyE" tvg-name="Canal AyE (Guatemala)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="PLUS",A&E
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/4
+
+
+#EXTINF:-1 tvg-ID="" tvg-name=" Canal AMC (México)" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0051754.png" group-title="PLUS",AMC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/989
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="PLUS",AXN MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/991
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL AXN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" group-title="PLUS",AXN
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/366f33df3dbfb786579cb2984e8fe536.webp" group-title="PLUS",DAN TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="" group-title="PLUS",EUROCHANNEL
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA" tvg-logo="" group-title="PLUS",EUROPA EUROPA
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1048
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/66
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (Colombia)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL COLOMBIA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinecanal (Colombia)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="PLUS",CINECANAL HD COLOMBIA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/65
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Colombia)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX COLOMBIA
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinemax (Argentina)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" group-title="PLUS",CINEMAX ARG
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1049
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="PLUS",CINE DINAMITA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinelatino" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="PLUS",CINE LATINO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/68
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cinelatino USA" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="PLUS",CINE LATINO USA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1047
+
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIPREMIER" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1539802729906-Imagen.png" group-title="PLUS",MULTIPREMIER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/88
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal AZ Cinema" tvg-logo="http://tuproduccion.com/inicio/wp-content/uploads/2017/01/logo-cinema-azteca.jpg" group-title="PLUS",AZTECA CINEMA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="PLUS",CLARO CINEMA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal De Película" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="PLUS",DE PELICULA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1050
+
+#EXTINF:-1 tvg-ID="" tvg-name="MX - De Película HD" tvg-logo="https://farm1.static.flickr.com/871/40587920114_afa303deb7.jpg" group-title="PLUS",DE PELICULA PLUS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1052
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal De Película Clásico" tvg-logo="http://www.gorseandco.com/img/ch-home/depelicula-logo.jpg" group-title="PLUS",DE PELICULA CLASICO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1051
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Golden (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="PLUS",GOLDEN
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1054
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Golden Edge" tvg-logo="http://51.222.152.107:81/posters/1502829658462.jpg" group-title="PLUS",GOLDEN EDGE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1055
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PLUS",GOLDEN PREMIER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1057
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Golden Premier" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="PLUS",GOLDEN PREMIER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/73
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Golden Plus" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="PLUS",GOLDEN PLUS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1056
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Film y Arts" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=2501" group-title="PLUS",Films y Arts
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1053
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Star Channel (México)" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=3328" group-title="PLUS",STAR CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1004
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Star Channel (México)" tvg-logo="https://totalgo.totalplay.com.mx:444/TPCOREWeb/MasterImage?mimId=3328" group-title="PLUS",STAR CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/2
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Star Life (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="PLUS",STAR LIFE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/5
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Life" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png" group-title="PLUS",FOX LIFE COLOMBIA
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="PLUS",FX HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1005
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal FX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png" group-title="PLUS",FX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/3
+
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="PLUS",FXM
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="PLUS",FXM HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png" group-title="PLUS",MC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/87
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal MC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png" group-title="PLUS",MC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/107
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MULTICINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/fx-movies-m.png" group-title="PLUS",MULTICINEMA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Paramount Channel (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="PLUS",PARAMOUNT CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1066
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Paramount Channel (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png" group-title="PLUS",PARAMOUNT CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/70
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony (Argentina)" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="PLUS",SONY HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1013
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony (México)" tvg-logo="https://la.sonychannel.com/sites/all/themes/responsive/responsive_sony_channel/logo.png" group-title="PLUS",SONY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/11
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="PLUS",SONY MOVIE
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Space (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="PLUS",SPACE HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1067
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Space (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_space_m.png" group-title="PLUS",SPACE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/41
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="PLUS",STUDIO UNIVERSAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1068
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Studio Universal" tvg-logo="https://cdn.mitvstatic.com/channels/cl_studio-universal_m.png" group-title="PLUS",STUDIO UNIVERSAL
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal SyFy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" group-title="PLUS",SyFy HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1070
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal SyFy" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" group-title="PLUS",SyFy
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/7
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal TBS (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="PLUS",TBS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1014
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal TBS (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png" group-title="PLUS",TBS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/6
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="PLUS",TCM
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1071
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVC" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png" group-title="PLUS",TVC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/888
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PLUS",TNT
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1072
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="PLUS",TNT
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/31
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="PLUS",TNT SERIES
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1017
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="PLUS",TNT SERIES
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/13
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVS" tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title="PLUS",TVS DE TODOS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Universal TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="PLUS",UNIVERSAL TV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1073
+
+#EXTINF:-1 tvg-ID="" tvg-name="Universal TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png" group-title="PLUS",UNIVERSAL TV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/12
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Warner TV (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="PLUS",WARNER HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1021
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Warner TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png" group-title="PLUS",WARNER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/10
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PLUS",LIFETIME
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1009
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PLUS",LIFETIME
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/83
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal truTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="PLUS",TRU TV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1018
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Estrella TV" tvg-logo="http://www.estrellatv.com/assets/images/HeaderLogo.png" group-title="USA LATINO",ESTRELLA TV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1002
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOODNETWORK  ESP" tvg-logo="https://foodnetworklatam.com/wp-content/themes/webfatorial-foodnetwork/assets/img/logo-food-network.png" group-title="USA LATINO",FOODNETWORK  ESP
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1003
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Elgourmet" tvg-logo="http://television.com.ar/wp-content/uploads/2010/06/EL-GOURMET.jpg" group-title="LATINOAMERICA",EL GOURMET
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1001
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Telemundo (México)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="USA LATINO",TELEMUNDO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1015
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Telemundo (Puerto Rico)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telemundo_m.png" group-title="USA LATINO",TELEMUNDO PR
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/89
+
+
+#EXTINF:462 tvg-id="Telemundo 47 Nueva York" tvg-logo="http://5.189.168.251:80/stalker_portal/misc/logos/240/" group-title="USA LATINO",Telemundo HD
+
+#EXTINF:462 tvg-id="Canal NBC Universo (Este)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png" group-title="USA LATINO",NBC UNIVERSO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/99
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="ESPAÑA",DW NOTICIAS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/63
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TLNovelas (Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tlnovelas_m.png" group-title="USA LATINO",TLNOVELAS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1016
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Unicable (Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="USA LATINO",UNICABLE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/84
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Unicable (Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="USA LATINO",UNICABLE SD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1019
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA LATINO",UNIVISION
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1020
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA LATINO",UNIVISION SD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1
+
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="USA LATINO",UNIVISION NY
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA LUNA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="USA LATINO",ULTRA LUNA
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="USA LATINO",ULTRA CINE
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA MEX" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="USA LATINO",ULTRA MEX
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Fiesta" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFiestaLogoBlack.png" group-title="USA LATINO",ULTRA FIESTA
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Film" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFilmLogoBlack.png" group-title="USA LATINO",ULTRA FILM
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA MACHO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="USA LATINO",ULTRA MACHO
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA CLASICO" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="USA LATINO",ULTRA CLASICO
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA FAMILIA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamiliaLogoBlack.png" group-title="USA LATINO",ULTRA FAMILIA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Docu" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="USA LATINO",ULTRA DOCU
+
+#EXTINF:-1 tvg-id="" tvg-name="ULTRA BANDA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/ultraBanda_NLogo.png" group-title="USA LATINO",ULTRA BANDA
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Ultra Tainment" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraTainmentLogoBlack.png" group-title="USA LATINO",ULTRA TAINMENT
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedy Central" tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/997
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Comedy Central" tvg-logo="https://cdn.mitvstatic.com/channels/mx_comedy-central_m.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/15
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Distrito Comedia" tvg-logo="https://cdn.mitvstatic.com/channels/mx_distrito-comedia_m.png" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/999
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Caracol Internacional" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mALJau56TwjEoQrR0GPmNAhuwNL8I9tFO9XKQ=s288-mo-c-c0xffffffff-rj-k-no" group-title="LATINOAMERICA",CARACOL COLOMBIA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/996
+
+#EXTINF:-1 tvg-id="" tvg-name="DHE SD*" tvg-logo="https://www.ipuntotv.com/IMAGES/DHE-logo.png" group-title="LATINOAMERICA",DHE COLOMBIA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/998
+
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment Television" tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="USA LATINO",E!
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1000
+
+#EXTINF:-1 tvg-id="" tvg-name="Entertainment Television" tvg-logo="https://cdn.mitvstatic.com/channels/mx_entertainment_m.png" group-title="USA LATINO",E!
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/14
+
+#EXTINF:-1 tvg-id="" tvg-name="GH TV" tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg" group-title="LATINOAMERICA",GH TV REPUBLICA DOMINICANA
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="https://lh3.googleusercontent.com/AlUK3kT2VNq7-QVHj6ev0BwEsj8gM4cYgqbmSJZKi-KQxoSCualdChk4wwprBADu2Ho=w300" group-title="LATINOAMERICA",LATINA TV
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Más Chic HD Latinoamérica" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mas-chic_m.png" group-title="LATINOAMERICA",MAS CHIC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1010
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Animal Planet (México)" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDO Y CULTURA",ANIMAL PLANET HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1022
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Animal Planet" tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/19
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Channel" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1023
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Channel" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/18
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery CIVILIZATION (México)" tvg-logo="http://www.plimsollproductions.com/wp-content/uploads/2018/07/discovery-channel-logo-21D063E22D-seeklogo.com_.jpg" group-title="MUNDO Y CULTURA",DISCOVERY CIVILIZATION
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Home y Health (México)" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-mBqdVdrE13_Tv0WU79KOo93K1ZTuaJnGPig=s900-c-k-c0xffffffff-no-rj-mo" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1024
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Home y Health (México)" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-mBqdVdrE13_Tv0WU79KOo93K1ZTuaJnGPig=s900-c-k-c0xffffffff-no-rj-mo" group-title="MUNDO Y CULTURA",DISCOVERY HOME & HEALTH
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/91
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="canal ID" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="MUNDO Y CULTURA",DISCOVERY INVESTIGATION
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1033
+
+#EXTINF:-1 tvg-ID="" tvg-name="canal ID" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png" group-title="MUNDO Y CULTURA",DISCOVERY INVESTIGATION
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/92
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Discovery SCIENCE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="MUNDO Y CULTURA",DISCOVERY SCIENCE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1025
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1026
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/94
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="MUNDO Y CULTURA",TLC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1027
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="MUNDO Y CULTURA",TLC
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/93
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Turbo Latinoamérica" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Turbo Latinoamérica" tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-turbo.jpg" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/90
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery World Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/180px-World_Discovery_HD_logo.svg.png" group-title="MUNDO Y CULTURA",Discovery World
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1029
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="MUNDO Y CULTURA",HGTV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1031
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="canal History (México)" tvg-logo="https://liberador.net/media/images/History_Channel.max-640x640.jpg" group-title="MUNDO Y CULTURA",HISTORY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1032
+
+#EXTINF:-1 tvg-ID="" tvg-name="canal History (México)" tvg-logo="https://liberador.net/media/images/History_Channel.max-640x640.jpg" group-title="MUNDO Y CULTURA",HISTORY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/16
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal History 2 (México)" tvg-logo="https://s3-sa-east-1.amazonaws.com/tvquality-epg/HISTORY2.jpg" group-title="MUNDO Y CULTURA",H2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1030
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal History 2 (México)" tvg-logo="https://s3-sa-east-1.amazonaws.com/tvquality-epg/HISTORY2.jpg" group-title="MUNDO Y CULTURA",H2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/95
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="MUNDO Y CULTURA",NATGEO MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1034
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="MUNDO Y CULTURA",NATGEO MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/17
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal National Geographic" tvg-logo="https://cdn.mitvstatic.com/channels/cl_national-geographic_m.png" group-title="MUNDO Y CULTURA",NATGEO MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/40
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="MUNDO Y CULTURA",NAT GEO WILD
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV" tvg-logo="http://radioextremacr.com/img/logo.png" group-title="PREMIUM",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="https://wowelsalvador.com/imagenes/logooff.fw.png" group-title="PREMIUM",Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Series (Este)" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" group-title="PREMIUM",STAR SERIES
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Action (Este)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="PREMIUM",STAR ACTION
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Cinéma" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="PREMIUM",STAR CINEMA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Classics" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="PREMIUM",STAR CLASSICS
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Comedy" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-comedy-hd_m.png" group-title="PREMIUM",STAR COMEDY
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Family (Oeste)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="PREMIUM",STAR FAMILY
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Fox Premium Movies" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" group-title="PREMIUM",STAR HITS
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO" tvg-logo="" group-title="PREMIUM",HBO LATINOAMERICA
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO HD Latinoamérica" tvg-logo="" group-title="PREMIUM",HBO HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1058
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO HD Latinoamérica" tvg-logo="" group-title="PREMIUM",HBO
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/80
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO 2" tvg-logo="" group-title="PREMIUM",HBO 2 HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1059
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO 2" tvg-logo="" group-title="PREMIUM",HBO 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/32
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO Family Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO FAMILY HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1060
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO Family Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM",HBO FAMILY
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/33
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO Plus HD México 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PREMIUM",HBO PLUS HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1062
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HBO Plus HD México 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="PREMIUM",HBO PLUS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/81
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-signature-hd_m.png" group-title="PREMIUM",HBO SIGNATURE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1063
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/125px-HBO_Mundi.svg.png" group-title="PREMIUM",HBO MUNDI
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1061
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/150px-HBO_Pop.svg.png" group-title="PREMIUM",HBO POP
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1065
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/170px-HBO_Xtreme.svg.png" group-title="PREMIUM",HBO XTREME HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1064
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/170px-HBO_Xtreme.svg.png" group-title="PREMIUM",HBO XTREME
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/35
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ADRENALINA SPORTS" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-ufchd.jpg" group-title="DEPORTES",ADRENALINA SPORTS
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AFIZZIONADOS" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/44/ff/c444ffb7-2e47-e9de-2da0-3d832b13086e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" group-title="DEPORTES",AFIZZIONADOS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/890
+
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORTS" tvg-logo="https://2.bp.blogspot.com/-GlMfY_kp8HI/W93h2uhCxqI/AAAAAAAAB94/WF131x7k-Zc1QclVtVkruY_LWdWbg1LiwCLcBGAs/s320/CLARO.png" group-title="DEPORTES",CLARO SPORTS HD
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/895
+
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORTS" tvg-logo="https://2.bp.blogspot.com/-GlMfY_kp8HI/W93h2uhCxqI/AAAAAAAAB94/WF131x7k-Zc1QclVtVkruY_LWdWbg1LiwCLcBGAs/s320/CLARO.png" group-title="DEPORTES",CLARO SPORTS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/29
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVC DEPORTES" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/TVC-DEPORTES.png" group-title="DEPORTES",TVC DEPORTES
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/913
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TUDN MX" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/64/bc/6b/64bc6b26-599f-1831-c5dc-b1f43c2a8e7e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/350x350.png" group-title="DEPORTES",TUDN MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/911
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION TUDN" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/64/bc/6b/64bc6b26-599f-1831-c5dc-b1f43c2a8e7e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/350x350.png" group-title="DEPORTES",UNIVISION TUDN
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/912
+
+
+
+#EXTINF:-1 tvg-ID="5829ddf42dc2490a978e970a2e011ebc" tvg-name="FOX SPORTS MEX 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports_m.png" group-title="DEPORTES",FOX SPORTS MEX 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/902
+
+
+#EXTINF:-1 tvg-ID="B6b9799fc4f147fbb7eb35e52e5986d5" tvg-name="FOX SPORTS MEX 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-2_m.png" group-title="DEPORTES",FOX SPORTS MEX 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/903
+
+
+#EXTINF:-1 tvg-ID="523477507ca64f3298bc157b1619e1cd" tvg-name="FOX SPORTS MEX 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png" group-title="DEPORTES",FOX SPORTS MEX 3
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/904
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT premium" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="DEPORTES",FOX SPORT premium
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/102
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="DEPORTES",ESPN MEX 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/896
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="DEPORTES",ESPN MEX 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/58
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 1" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="DEPORTES",ESPN MEX 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/27
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="DEPORTES",ESPN MEX 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/897
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="DEPORTES",ESPN MEX 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/60
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 2" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="DEPORTES",ESPN MEX 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/28
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_m.png" group-title="DEPORTES",ESPN MEX 3
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/898
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_m.png" group-title="DEPORTES",ESPN MEX 3
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/104
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN MEX 3" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-3_m.png" group-title="DEPORTES",ESPN MEX 3
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/26
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN PLUS" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-hd-1_m.png" group-title="DEPORTES",ESPN PLUS
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal ESPN Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-hd-1_m.png" group-title="DEPORTES",ESPN DEPORTES INTERNACIONAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/900
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal ESPN Internacional" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-hd-1_m.png" group-title="DEPORTES",ESPN DEPORTES INTERNACIONAL
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/39
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal ESPN Extra (Latinoamérica)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-hd-1_m.png" group-title="DEPORTES",ESPN EXTRA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/59
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORT  ESPAÑA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/892
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORT  ESPAÑA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/100
+
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS" tvg-logo="https://www.winsports.co/assets/img/win/winsports-logo280x150_2017.png" group-title="DEPORTES",WIN SPORTS COLOMBIA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/937
+
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS" tvg-logo="https://www.winsports.co/assets/img/win/winsports-logo280x150_2017.png" group-title="DEPORTES",WIN SPORTS COLOMBIA
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/916
+
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS +" tvg-logo="https://www.winsports.co/assets/img/win/winsports-logo280x150_2017.png" group-title="DEPORTES",WIN SPORTS +
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/933
+
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 1" tvg-logo="" group-title="DEPORTES",EUROSPORT 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/918
+
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="DEPORTES",EUROSPORT 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/919
+
+#EXTINF:-1 tvg-ID="" tvg-name="(DOUBTFUL) DEPORTES EUR | LaLigaTV Bar HD (P)" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="DEPORTES",LaLigaTV Bar 
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="LIGA 123 TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES",MOVISTAR LA LIGA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="LIGA 123 TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES",MOVISTAR LIGA DE CAMPEONES
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES",MOVISTAR DEPORTES 1
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/920
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR DEPORTES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="DEPORTES",MOVISTAR DEPORTES 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/921
+
+#EXTINF:-1 tvg-ID="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/934
+
+#EXTINF:-1 tvg-ID="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS 2
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/935
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DIRECTV SPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS +
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/936
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-en-vivo-830.png" group-title="DEPORTES",TYC SPORT
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/914
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2 MX" tvg-logo="" group-title="DEPORTES",*TNT SPORT 2 MX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/108
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SPORT ARG" tvg-logo="https://tntsports.com/__export/1565373169000/sites/tntsports/arte/apps/twitter_summary_card.jpg" group-title="DEPORTES",TNT SPORT ARG
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/931
+
+#EXTINF:-1 tvg-ID="" tvg-name="TELEHIT" tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-telehit-logo-1.jpg" group-title="MUSICA",TELEHIT
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1079
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BANDAMAX" tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="MUSICA",BANDAMAX
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1074
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="MUSICA",MTV
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS" tvg-logo="https://1.bp.blogspot.com/-FKqzNOZULM8/W7EkaKycAZI/AAAAAAAAIoI/8JdNrqBx4Ts8B4pHy9RHli0-f7Lr2SnmACLcBGAs/s620/f81yQzER_400x400.jpg" group-title="MUSICA",MTV HITS
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA",VH1
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="MUSICA",VH1 CLASSIC
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DNpGvYVIMniWHPd_-dNFWkPKa8vUOb2klYWgkn9ULcZlJKNix2bFMf5_BbIZKavavKwB=w300" group-title="MUSICA",PORTAL FOXMIX 
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1121952567880245250/bGmzZPDG.jpg",MAXIMA FM Video/Radio
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CANNEL HD" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney11.jpg" group-title="ESPAÑA",DISNEY CANNEL HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="#0 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvIua4SWzqdVdS_x0hObwu_0rgH9E-JfzKAMTvgcPjqTVAu3nd&s" group-title="ESPAÑA",#0 HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPAÑA: ANTENA 3" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ESPAÑA",ESPAÑA: ANTENA 3
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/990
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPAÑA: A3S" tvg-logo="https://i.imgur.com/LBJmDSy.png" group-title="ESPAÑA",ESPAÑA: A3S SERIES
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/987
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA A3CINE" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/02/18/F2C8FE77-D93B-459D-9A68-4A8980323640//720x540.jpg" group-title="ESPAÑA",A3CINE
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1047
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" group-title="ESPAÑA",A&E
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN WHITE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/SET.png" group-title="ESPAÑA",AXN WHITE HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/AXN.png" group-title="ESPAÑA",AXN
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="ESPAÑA",FOX ESPAÑA
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPAÑA : LA SEXTA" tvg-logo="https://i.imgur.com/ymBrz5l.png" group-title="ESPAÑA",ESPAÑA : LA SEXTA
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA SUNDANCETV" tvg-logo="http://51.222.152.107:81/posters/1493248891520.jpg" group-title="ESPAÑA",SUNDANCETV
+http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/1069
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="ESPAÑA",TNT
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/HIST.png" group-title="ESPAÑA",HISTORIA HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="ESPAÑA",NAT GEO WILD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="ESPAÑA", Paramount Channel España
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="ESPAÑA",TCM HD
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÑA",VIAJAR HD
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="ASIA", K Plus (+15 hrs)
+http://210.210.155.35:80/session/0c338296-303c-11e9-bdab-b82a72d63267/uq2663/h/h08/index2.m3u8
+
+#EXTINF:0 tvg-logo="http://www.espai.jazztel.es/images/nhkworld.png" group-title="ASIA", NHK World JAPON
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+
+#EXTINF:-1,Travel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="https://m.diariodesevilla.es/2019/01/05/vital/pantera-rosa-clasico-porte_1315978490_93150863_667x375.jpg" group-title="24/7",LA PANTERA ROSA
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-t0FMUzmcALvQdHXr5nJlipYdJLUzeQaNzAw=s288-c-k-c0xffffffff-no-rj-mo" group-title="24/7",Caillou
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81e-eBR68SL._SY445_.jpg" group-title="24/7",Happy Tree Friends
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 CORRE CAMINOS" tvg-logo="https://www.dibujoswiki.com/Uploads/dibujoswiki.com/ImagenesGrandes/correcaminos-8.jpg" group-title="24/7",CORRE CAMINOS
+
+#EXTINF:-1 tvg-ID="" tvg-name="simpsons" tvg-logo="https://telefe-static.akamaized.net/media/18074521/poster_los_simpson.jpg" group-title="24/7",LOS SIMPSON
+
+#EXTINF:-1 tvg-ID="" tvg-name="caballeros del zodiaco" tvg-logo="https://i2.wp.com/codigoespagueti.com/wp-content/uploads/2017/06/caballeros-del-zodiaco.png" group-title="24/7",caballeros del zodiaco
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToS4ey1EkKi4fpLgq2PvaJzacRzd0XB3_7vO8IVUqpCWZoH1y8" group-title="24/7",HÉROES EN PIJAMAS
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",BATMAN 1966 RETRO
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dinosaurios" tvg-logo="https://image.tmdb.org/t/p/w342/xk1u5JGA8KU7nyg7aIaVFiCM6OT.jpg" group-title="24/7",Dinosaurios
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Dragon Ball" tvg-logo="https://img-cdn.hipertextual.com/files/2014/11/dragon-ball-hairstyles-2.jpg" group-title="24/7",Dragon Ball 1984
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z" tvg-logo="https://i.ytimg.com/vi/pit7Ul73Q2g/maxresdefault.jpg" group-title="24/7",Dragon Ball Z 1989
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball GT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dragon_Ball_GT_logo.png/250px-Dragon_Ball_GT_logo.png" group-title="24/7",Dragon Ball GT 1996
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Super" tvg-logo="https://3.bp.blogspot.com/-hJc8uUiOtzI/VnWlXkk7biI/AAAAAAAABrw/_RG-KfrVcmc/s1600/Foto%2BDBS.png" group-title="24/7",Dragon Ball Super
+
+#EXTINF:-1 tvg-ID="" tvg-name="he man" tvg-logo="https://cdn11.bigcommerce.com/s-lj8wphc2lt/images/stencil/1280x1280/products/225/577/heman-cover-Web__48092.1525983657.jpg?c=2&imbypass=on" group-title="24/7",he man
+
+#EXTINF:-1 tvg-ID="" tvg-name="shera" tvg-logo="https://vignette.wikia.nocookie.net/heman/images/e/e7/She-ha-em-png-queroimagem-cei%C3%A7a-crispim.png/revision/latest?cb=20161202003426" group-title="24/7",shera
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="naruto" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2019/09/naruto-20-aniversario-masashi-kishimoto-mercancia.jpg?resize=1080%2C600&quality=80&ssl=1" group-title="24/7",naruto
+
+#EXTINF:-1 tvg-ID="" tvg-name="pinky y cerebro" tvg-logo="https://www.pinkypinkytheband.com/img/pinky-logo-final.png" group-title="24/7",pinky y cerebro
+
+#EXTINF:-1 tvg-ID="" tvg-name="pokemon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" group-title="24/7",pokemon
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Thundercats" tvg-logo="https://i.ytimg.com/sh/FPx2gAa03e79LWYXQp5sdw/market.jpg" group-title="24/7",Thundercats
+
+#EXTINF:-1 tvg-ID="" tvg-name="robotech" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/742921/742921._SX1280_QL80_TTD_.jpg" group-title="24/7",robotech
+
+#EXTINF:-1 tvg-ID="" tvg-name="sailor" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/718yE7GNQwL._SX522_.jpg" group-title="24/7",SAILOR MOON
+
+#EXTINF:-1 tvg-ID="" tvg-name="spiderman" tvg-logo="https://heroichollywood.com/wp-content/uploads/2019/08/Tom_Holland_Spider-Man_Sony_Marvel.jpg" group-title="24/7",spiderman
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="https://images.mediotiempo.com/z2IsOib0d2SSF-aI6LRSWJ9qaqk=/958x596/uploads/media/2018/05/30/supercampeones.jpg" group-title="24/7",SUPER CAMPEONES
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="xmen" tvg-logo="https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/03/Disney-and-Fox-a65b.jpg?quality=90&strip=all&zoom=1&resize=644%2C338&ssl=1" group-title="24/7",xmen
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 Futurama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="24/7",Futurama
+
+#EXTINF:-1 tvg-ID="" tvg-name="Death Note" tvg-logo="https://pbs.twimg.com/profile_images/644930684835000320/SaCz-EPr.jpg" group-title="24/7",Death Note
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Avispón Verde" tvg-logo="" group-title="24/7",24/7 El Avispón Verde
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Chapulín Colorado" tvg-logo="http://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg" group-title="24/7",El Chapulín Colorado
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Chavo del 8" tvg-logo="https://www.miluana.com/wp-content/uploads/2018/08/el-chavo-del-8-en-vivo.jpg" group-title="24/7",El Chavo del 8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="CSI: Miami" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91b5WLBX0VL._RI_.jpg" group-title="24/7",CSI: Miami
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hora pico" tvg-logo="https://laverdadnoticias.com/export/sites/laverdad/img/2019/07/08/la_hora_pico_1000x1400_main.jpg_861770137.jpg" group-title="24/7",La hora pico
+
+#EXTINF:-1 tvg-ID="" tvg-name="malcolm" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_711539-MLM40357385670_012020-W.jpg" group-title="24/7",MALCOLM EL DE ENMEDIO
+
+#EXTINF:-1 tvg-ID="" tvg-name="24/7 La rosa de Guadalupe" tvg-logo="https://media.metrolatam.com/2019/06/05/capturadepantall-1f2ed3d4768891ce3bb9ed2770a6cd94-1200x600.jpg" group-title="24/7",La rosa de Guadalupe
+
+#EXTINF:-1 tvg-ID="" tvg-name="Escobar el patrón del mal" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video7/v4/02/d1/3c/02d13c93-453c-46ef-881b-5bd261ad2ef1/mzl.tqoiqrpc.jpg/268x0w.jpg" group-title="24/7",Escobar el patrón del mal
+
+#EXTINF:-1 tvg-ID="" tvg-name="El señor de los cielos" tvg-logo="https://i.ytimg.com/vi/1Sp1sEntc9Y/maxresdefault.jpg" group-title="24/7",El señor de los cielos
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Chema" tvg-logo="https://static.wixstatic.com/media/617c9a_fe58ab5e9245457f8c56ac7a605197d3~mv2.jpg" group-title="24/7",El Chema
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Familia Monster" tvg-logo="http://4.bp.blogspot.com/-oBeYA7iGW7A/Te2uV0VJA6I/AAAAAAAABes/4d_QMHpjVys/s1600/Addams+Family.jpg" group-title="24/7",La Familia Monster 1964
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Addams_Family_main_cast_1964.JPG" group-title="24/7",Los locos Addams
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",CANTINFLAS
+
+
+
