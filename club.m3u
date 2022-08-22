@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", AGOSTO | Latino | teleclub!
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Activar desde www.teleclub.xyz/activar
-http://tv.teleclub.xyz/hls/welcome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Telegram: @teleclubxyz
-http://tv.teleclub.xyz/hls/welcome.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 01
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 02
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_02/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 03
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 04
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", Teleclub | EVENTO 05
-http://tv.teleclub.xyz/stream/Eventos/EVENTO_05/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network
 http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
