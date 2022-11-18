@@ -10,7 +10,7 @@ http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantil", Nick
 http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantil", NICK Jr
+#EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png"group-title="NIÑOS",NICK JR
 http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast
 http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
