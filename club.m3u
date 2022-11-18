@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoon Network" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="NIÑOS",CARTOON NETWORK
 http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Channel" tvg-logo="https://www.dossiernet.com/assets/uploads/images/disney11.jpg" group-title="NIÑOS",DISNEY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" group-title="NIÑOS",DISNEY CHANNEL
 http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Disney Junior" tvg-logo="https://cdn.mitvstatic.com/channels/mx_disney-jr_m.png" group-title="NIÑOS",DISNEY JR
 http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
