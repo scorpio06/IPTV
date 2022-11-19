@@ -22,7 +22,6 @@ http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="PLUS",CNN EN ESPAÑOL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
 http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
