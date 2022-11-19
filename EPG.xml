@@ -80,6 +80,14 @@
     <display-name lang="es">Canal CNN en Español</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal CNN Internacional">
+    <display-name lang="es">Canal CNN Internacional</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal truTV">
+    <display-name lang="es">Canal truTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal AyE (Guatemala)">
     <display-name lang="es">Canal AyE (Guatemala)</display-name>
     <url>http://www.gatotv.com</url>
@@ -210,6 +218,14 @@
   </channel>
   <channel id="Canal Lifetime">
     <display-name lang="es">Canal Lifetime</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Glitz">
+    <display-name lang="es">Canal Glitz</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Más Chic Latinoamérica">
+    <display-name lang="es">Canal Más Chic Latinoamérica</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Comedy Central">
@@ -1626,7 +1642,7 @@
   <programme start="20221119180000 -0600" stop="20221119190000 -0600" channel="Canal Cartoonito (México)">
     <title lang="es">Masha y el Oso</title>
     <title lang="xx">Masha i Medved</title>
-    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención(g)</desc>
+    <desc lang="es">Un oso conoce a Masha, una niña traviesa que al principio no la soporta, pero con el paso del tiempo se da cuenta que solo necesita su cuidado y atención</desc>
     <credits>
       <producer>Oleg Kuzovkov</producer>
       <producer>Dmitrij Lovejko</producer>
@@ -5604,6 +5620,9 @@
   <programme start="20221119181000 -0600" stop="20221119183300 -0600" channel="Canal Tooncast">
     <title lang="es">Batman: La Serie Animada</title>
   </programme>
+  <programme start="20221119183300 -0600" stop="20221119185900 -0600" channel="Canal Tooncast">
+    <title lang="es">Las Nuevas Aventuras de Scooby Doo</title>
+  </programme>
   <programme start="20221119192400 -0600" stop="20221119193200 -0600" channel="Canal Tooncast">
     <title lang="es">Las aventuras de Tom y Jerry</title>
   </programme>
@@ -6036,6 +6055,333 @@
   </programme>
   <programme start="20221119230000 -0600" stop="20221120000000 -0600" channel="Canal CNN en Español">
     <title lang="es">Cnn dinero</title>
+  </programme>
+  <programme start="20221118014500 -0600" stop="20221118020000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport</title>
+  </programme>
+  <programme start="20221118020000 -0600" stop="20221118040000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221118040000 -0600" stop="20221118050000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Early Start</title>
+  </programme>
+  <programme start="20221118050000 -0600" stop="20221118073000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">New Day</title>
+  </programme>
+  <programme start="20221118073000 -0600" stop="20221118080000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport</title>
+  </programme>
+  <programme start="20221118080000 -0600" stop="20221118090000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">First Move</title>
+  </programme>
+  <programme start="20221118090000 -0600" stop="20221118094500 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Connect the world</title>
+  </programme>
+  <programme start="20221118094500 -0600" stop="20221118100000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport</title>
+  </programme>
+  <programme start="20221118100000 -0600" stop="20221118110000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Connect the world</title>
+  </programme>
+  <programme start="20221118110000 -0600" stop="20221118120000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">One World with Zain Asher</title>
+  </programme>
+  <programme start="20221118120000 -0600" stop="20221118130000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Amanpour</title>
+  </programme>
+  <programme start="20221118130000 -0600" stop="20221118140000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Hala Gorani tonight</title>
+  </programme>
+  <programme start="20221118140000 -0600" stop="20221118150000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Quest Means Business</title>
+  </programme>
+  <programme start="20221118150000 -0600" stop="20221118160000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">The Lead with Jake Tapper</title>
+  </programme>
+  <programme start="20221118160000 -0600" stop="20221118163000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">The Global Brief</title>
+  </programme>
+  <programme start="20221118163000 -0600" stop="20221118180000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport</title>
+  </programme>
+  <programme start="20221118180000 -0600" stop="20221118190000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Erin Burnett OutFront</title>
+  </programme>
+  <programme start="20221118190000 -0600" stop="20221118200000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Anderson Cooper 360 En Vivo</title>
+  </programme>
+  <programme start="20221118200000 -0600" stop="20221118210000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Cuomo Prime Time</title>
+  </programme>
+  <programme start="20221118210000 -0600" stop="20221118230000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Don Lemon Tonight</title>
+  </programme>
+  <programme start="20221118230000 -0600" stop="20221118231500 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN News Room</title>
+  </programme>
+  <programme start="20221118231500 -0600" stop="20221118233000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Marketplace Africa</title>
+  </programme>
+  <programme start="20221118233000 -0600" stop="20221119000000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+  <programme start="20221119000000 -0600" stop="20221119010000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+  <programme start="20221119010000 -0600" stop="20221119014500 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN News Room</title>
+  </programme>
+  <programme start="20221119014500 -0600" stop="20221119020000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Marketplace Africa</title>
+  </programme>
+  <programme start="20221119020000 -0600" stop="20221119023000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119023000 -0600" stop="20221119030000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">African voices</title>
+  </programme>
+  <programme start="20221119030000 -0600" stop="20221119040000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119040000 -0600" stop="20221119050000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119050000 -0600" stop="20221119053000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+  <programme start="20221119053000 -0600" stop="20221119060000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+  <programme start="20221119060000 -0600" stop="20221119080000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">New Day Saturday</title>
+  </programme>
+  <programme start="20221119080000 -0600" stop="20221119090000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Smerconish</title>
+  </programme>
+  <programme start="20221119090000 -0600" stop="20221119100000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119100000 -0600" stop="20221119110000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119110000 -0600" stop="20221119113000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport En Vivo</title>
+  </programme>
+  <programme start="20221119113000 -0600" stop="20221119120000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+  <programme start="20221119120000 -0600" stop="20221119130000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119130000 -0600" stop="20221119140000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119140000 -0600" stop="20221119150000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119150000 -0600" stop="20221119160000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119160000 -0600" stop="20221119163000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">World Sport En Vivo</title>
+  </programme>
+  <programme start="20221119163000 -0600" stop="20221119170000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+  <programme start="20221119170000 -0600" stop="20221119200000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+  <programme start="20221119200000 -0600" stop="20221119210000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+  <programme start="20221119210000 -0600" stop="20221119213000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+  <programme start="20221119213000 -0600" stop="20221119220000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">African voices</title>
+  </programme>
+  <programme start="20221119220000 -0600" stop="20221119223000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+  <programme start="20221119223000 -0600" stop="20221119224500 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Marketplace Africa</title>
+  </programme>
+  <programme start="20221119224500 -0600" stop="20221119230000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">Marketplace Africa</title>
+  </programme>
+  <programme start="20221119230000 -0600" stop="20221120000000 -0600" channel="Canal CNN Internacional">
+    <title lang="es">CNN News Room</title>
+  </programme>
+  <programme start="20221118002000 -0600" stop="20221118004000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221118004000 -0600" stop="20221118010500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118010500 -0600" stop="20221118012500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118012500 -0600" stop="20221118015000 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118015000 -0600" stop="20221118021500 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118021500 -0600" stop="20221118024000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118024000 -0600" stop="20221118030000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118030000 -0600" stop="20221118032500 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118032500 -0600" stop="20221118035000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118035000 -0600" stop="20221118041000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118041000 -0600" stop="20221118043500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118043500 -0600" stop="20221118045500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118045500 -0600" stop="20221118052000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221118052000 -0600" stop="20221118054000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221118054000 -0600" stop="20221118062500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118062500 -0600" stop="20221118071000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118071000 -0600" stop="20221118075500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118075500 -0600" stop="20221118084000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118084000 -0600" stop="20221118090500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118090500 -0600" stop="20221118092500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118092500 -0600" stop="20221118095000 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118095000 -0600" stop="20221118101500 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118101500 -0600" stop="20221118104000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118104000 -0600" stop="20221118110000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118110000 -0600" stop="20221118112500 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118112500 -0600" stop="20221118115000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118115000 -0600" stop="20221118121000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118121000 -0600" stop="20221118125500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118125500 -0600" stop="20221118134000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118134000 -0600" stop="20221118142500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118142500 -0600" stop="20221118151000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118151000 -0600" stop="20221118153500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118153500 -0600" stop="20221118155500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118155500 -0600" stop="20221118162000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221118162000 -0600" stop="20221118164000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221118164000 -0600" stop="20221118170500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118170500 -0600" stop="20221118172500 -0600" channel="Canal truTV">
+    <title lang="es">El mejor precio Chicago</title>
+  </programme>
+  <programme start="20221118172500 -0600" stop="20221118175000 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118175000 -0600" stop="20221118181500 -0600" channel="Canal truTV">
+    <title lang="es">Arreglame la vida</title>
+  </programme>
+  <programme start="20221118181500 -0600" stop="20221118184000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118184000 -0600" stop="20221118190000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221118190000 -0600" stop="20221118192500 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118192500 -0600" stop="20221118195000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118195000 -0600" stop="20221118201000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Especial</title>
+  </programme>
+  <programme start="20221118201000 -0600" stop="20221118203500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118203500 -0600" stop="20221118205500 -0600" channel="Canal truTV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20221118205500 -0600" stop="20221118214000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118214000 -0600" stop="20221118222500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118222500 -0600" stop="20221118231000 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118231000 -0600" stop="20221118235500 -0600" channel="Canal truTV">
+    <title lang="es">Los vídeos mas tontos</title>
+  </programme>
+  <programme start="20221118235500 -0600" stop="20221119002000 -0600" channel="Canal truTV">
+    <title lang="es">Remolcadores</title>
+  </programme>
+  <programme start="20221119035000 -0600" stop="20221119041000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Olympics</title>
+  </programme>
+  <programme start="20221119095000 -0600" stop="20221119101500 -0600" channel="Canal truTV">
+    <title lang="es">Arréglame la vida especiales</title>
+  </programme>
+  <programme start="20221119115000 -0600" stop="20221119121000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Olympics</title>
+  </programme>
+  <programme start="20221119175000 -0600" stop="20221119181500 -0600" channel="Canal truTV">
+    <title lang="es">Arréglame la vida especiales</title>
+  </programme>
+  <programme start="20221119184000 -0600" stop="20221119190000 -0600" channel="Canal truTV">
+    <title lang="es">Efecto carbonaro</title>
+  </programme>
+  <programme start="20221119195000 -0600" stop="20221119201000 -0600" channel="Canal truTV">
+    <title lang="es">Impractical Jokers Olympics</title>
   </programme>
   <programme start="20221118001000 -0600" stop="20221118011400 -0600" channel="Canal AyE (Guatemala)">
     <title lang="es">Narcos México</title>
