@@ -32,6 +32,10 @@
     <display-name lang="es">Canal Multimedios Plus</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">Canal ADN 40</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Cartoonito (México)">
     <display-name lang="es">Canal Cartoonito (México)</display-name>
     <url>http://www.gatotv.com</url>
@@ -812,7 +816,7 @@
   </programme>
   <programme start="20221119210000 -0600" stop="20221119214800 -0600" channel="Canal Azteca Corazon">
     <title lang="es">La Loba</title>
-    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario(n)</desc>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
     <credits>
       <actor>Mauricio Islas</actor>
       <actor>Ivonne Montero</actor>
@@ -828,7 +832,7 @@
   </programme>
   <programme start="20221119214800 -0600" stop="20221119223600 -0600" channel="Canal Azteca Corazon">
     <title lang="es">La Loba</title>
-    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario(n)</desc>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
     <credits>
       <actor>Mauricio Islas</actor>
       <actor>Ivonne Montero</actor>
@@ -844,7 +848,7 @@
   </programme>
   <programme start="20221119223600 -0600" stop="20221119232400 -0600" channel="Canal Azteca Corazon">
     <title lang="es">La Loba</title>
-    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario(n)</desc>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
     <credits>
       <actor>Mauricio Islas</actor>
       <actor>Ivonne Montero</actor>
@@ -860,7 +864,7 @@
   </programme>
   <programme start="20221119232400 -0600" stop="20221120001200 -0600" channel="Canal Azteca Corazon">
     <title lang="es">La Loba</title>
-    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario(n)</desc>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
     <credits>
       <actor>Mauricio Islas</actor>
       <actor>Ivonne Montero</actor>
@@ -1463,6 +1467,138 @@
   <programme start="20221120220000 -0600" stop="20221121000000 -0600" channel="Canal Multimedios Plus">
     <title lang="es">Las Noches del Fútbol</title>
   </programme>
+  <programme start="20221118020000 -0600" stop="20221118040000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221118040000 -0600" stop="20221118053000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221118053000 -0600" stop="20221118063000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20221118063000 -0600" stop="20221118070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20221118070000 -0600" stop="20221118080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20221118080000 -0600" stop="20221118090000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias a ras de tierra</title>
+  </programme>
+  <programme start="20221118090000 -0600" stop="20221118093000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Valentina Rodríguez</title>
+  </programme>
+  <programme start="20221118093000 -0600" stop="20221118100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tren del Meme</title>
+  </programme>
+  <programme start="20221118100000 -0600" stop="20221118120000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Conmigo</title>
+  </programme>
+  <programme start="20221118120000 -0600" stop="20221118130000 -0600" channel="Canal ADN 40">
+    <title lang="es">México en Tiempo Real</title>
+  </programme>
+  <programme start="20221118130000 -0600" stop="20221118140000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Alejandra Molina</title>
+  </programme>
+  <programme start="20221118140000 -0600" stop="20221118143000 -0600" channel="Canal ADN 40">
+    <title lang="es">A quien corresponda</title>
+  </programme>
+  <programme start="20221118143000 -0600" stop="20221118150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Negocio con Carlos Mota</title>
+  </programme>
+  <programme start="20221118150000 -0600" stop="20221118160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia Jose Luis Mora</title>
+  </programme>
+  <programme start="20221118160000 -0600" stop="20221118170000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Romina Ramos</title>
+  </programme>
+  <programme start="20221118170000 -0600" stop="20221118180000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Luciana Wainer</title>
+  </programme>
+  <programme start="20221118180000 -0600" stop="20221118190000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Alejandro Brofft</title>
+  </programme>
+  <programme start="20221118190000 -0600" stop="20221118200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20221118200000 -0600" stop="20221118210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Red 360 con Lucy Bravo</title>
+  </programme>
+  <programme start="20221118210000 -0600" stop="20221118220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20221118220000 -0600" stop="20221118230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20221118230000 -0600" stop="20221118233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20221118233000 -0600" stop="20221118234500 -0600" channel="Canal ADN 40">
+    <title lang="es">Al filo</title>
+  </programme>
+  <programme start="20221118234500 -0600" stop="20221119000000 -0600" channel="Canal ADN 40">
+    <title lang="es">La de 8</title>
+  </programme>
+  <programme start="20221119000000 -0600" stop="20221119040000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221119040000 -0600" stop="20221119080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221119080000 -0600" stop="20221119100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana</title>
+  </programme>
+  <programme start="20221119100000 -0600" stop="20221119110000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Óscar Hernández</title>
+  </programme>
+  <programme start="20221119110000 -0600" stop="20221119120000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221119120000 -0600" stop="20221119130000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Óscar Hernández</title>
+  </programme>
+  <programme start="20221119130000 -0600" stop="20221119140000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221119140000 -0600" stop="20221119150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221119150000 -0600" stop="20221119160000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221119160000 -0600" stop="20221119170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221119170000 -0600" stop="20221119180000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221119180000 -0600" stop="20221119190000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20221119190000 -0600" stop="20221119193000 -0600" channel="Canal ADN 40">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20221119193000 -0600" stop="20221119200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Participación Empresarial</title>
+  </programme>
+  <programme start="20221119200000 -0600" stop="20221119210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge Rocha</title>
+  </programme>
+  <programme start="20221119210000 -0600" stop="20221119220000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20221119220000 -0600" stop="20221119230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge Rocha</title>
+  </programme>
+  <programme start="20221119230000 -0600" stop="20221119231500 -0600" channel="Canal ADN 40">
+    <title lang="es">No hay lugar común</title>
+  </programme>
+  <programme start="20221119231500 -0600" stop="20221119233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Ahora, Futuro México</title>
+  </programme>
+  <programme start="20221119233000 -0600" stop="20221120000000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
   <programme start="20221118003000 -0600" stop="20221118010000 -0600" channel="Canal Cartoonito (México)">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
@@ -1820,7 +1956,7 @@
   <programme start="20221118060000 -0600" stop="20221118070300 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1846,7 +1982,7 @@
   <programme start="20221118085500 -0600" stop="20221118093300 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1863,7 +1999,7 @@
   <programme start="20221118093300 -0600" stop="20221118103400 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1891,7 +2027,7 @@
   <programme start="20221118125900 -0600" stop="20221118140200 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1916,7 +2052,7 @@
   <programme start="20221118160500 -0600" stop="20221118170200 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1936,7 +2072,7 @@
   <programme start="20221118174600 -0600" stop="20221118183300 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1955,7 +2091,7 @@
   <programme start="20221118190100 -0600" stop="20221118195400 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(c)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -1971,7 +2107,7 @@
   <programme start="20221118195400 -0600" stop="20221118211100 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -1987,7 +2123,7 @@
   </programme>
   <programme start="20221118211100 -0600" stop="20221118230200 -0600" channel="Canal Cartoon Network">
     <title lang="es">The Lego Movie 2</title>
-    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor(c)</desc>
+    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor</desc>
     <credits>
       <actor>Chris Pratt</actor>
       <actor>Elizabeth Banks</actor>
@@ -2013,7 +2149,7 @@
   <programme start="20221118230200 -0600" stop="20221118235700 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(c)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2246,7 +2382,7 @@
   <programme start="20221120020300 -0600" stop="20221120025500 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2265,7 +2401,7 @@
   <programme start="20221120035600 -0600" stop="20221120045800 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2285,7 +2421,7 @@
   <programme start="20221120060000 -0600" stop="20221120062500 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2317,7 +2453,7 @@
   <programme start="20221120083200 -0600" stop="20221120085800 -0600" channel="Canal Cartoon Network">
     <title lang="es">Batwheels</title>
     <title lang="xx">Batwheels</title>
-    <desc lang="es">Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día(n)</desc>
+    <desc lang="es">Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día</desc>
     <credits>
       <actor>Ethan Hawk</actor>
       <actor>Xolo Maridueña</actor>
@@ -2346,7 +2482,7 @@
   <programme start="20221120093500 -0600" stop="20221120100000 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2362,7 +2498,7 @@
   <programme start="20221120100000 -0600" stop="20221120105400 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -2382,7 +2518,7 @@
   <programme start="20221120115600 -0600" stop="20221120122300 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2397,7 +2533,7 @@
   </programme>
   <programme start="20221120122300 -0600" stop="20221120143000 -0600" channel="Canal Cartoon Network">
     <title lang="es">The Lego Movie 2</title>
-    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor(n)</desc>
+    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor</desc>
     <credits>
       <actor>Chris Pratt</actor>
       <actor>Elizabeth Banks</actor>
@@ -2426,7 +2562,7 @@
   <programme start="20221120151300 -0600" stop="20221120160600 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2454,7 +2590,7 @@
   <programme start="20221120175700 -0600" stop="20221120190200 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2473,7 +2609,7 @@
   <programme start="20221120193000 -0600" stop="20221120202400 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2498,7 +2634,7 @@
   <programme start="20221120233000 -0600" stop="20221120235600 -0600" channel="Canal Cartoon Network">
     <title lang="es">Los Jóvenes Titanes En Acción</title>
     <title lang="xx">Teen Titans Go!</title>
-    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa(n)</desc>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa</desc>
     <credits>
       <producer>Aaron Horvath</producer>
       <producer>Michael Jelenic</producer>
@@ -2514,7 +2650,7 @@
   <programme start="20221120235600 -0600" stop="20221121010000 -0600" channel="Canal Cartoon Network">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <title lang="xx">The Amazing World of Gumball</title>
-    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore(n)</desc>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore</desc>
     <credits>
       <producer>Joanna Beresford</producer>
       <producer>Sarah Fell</producer>
@@ -8451,7 +8587,7 @@
   </programme>
   <programme start="20221118041800 -0600" stop="20221118060200 -0600" channel="Canal Cinecanal (México">
     <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(c)</desc>
+    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Ali Larter</actor>
@@ -8508,7 +8644,7 @@
   </programme>
   <programme start="20221118235300 -0600" stop="20221119015700 -0600" channel="Canal Cinecanal (México">
     <title lang="es">T2 Trainspotting: La Vida en el Abismo</title>
-    <desc lang="es">Después de veinte años, Mark decide regresar al lugar que llamó hogar, sus amigos: Daniel, Simon y Francis y otros amigos los están esperando(c)</desc>
+    <desc lang="es">Después de veinte años, Mark decide regresar al lugar que llamó hogar, sus amigos: Daniel, Simon y Francis y otros amigos los están esperando</desc>
     <credits>
       <actor>Ewan McGregor</actor>
       <actor>Ewen Bremner</actor>
@@ -8554,7 +8690,7 @@
   </programme>
   <programme start="20221119175900 -0600" stop="20221119183000 -0600" channel="Canal Cinecanal (México">
     <title lang="es">Sing: ¡Ven y Canta!</title>
-    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad(g)</desc>
+    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad</desc>
     <credits>
       <actor>Scarlett Johansson</actor>
       <actor>Taron Egerton</actor>
@@ -8577,7 +8713,7 @@
   </programme>
   <programme start="20221119183000 -0600" stop="20221119200200 -0600" channel="Canal Cinecanal (México">
     <title lang="es">Sing: ¡Ven y Canta!</title>
-    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad(g)</desc>
+    <desc lang="es">Buster es un talentoso empresario de teatro que para salvarlo crea una competencia de canto, convirtiéndose en el evento más esperado de la ciudad</desc>
     <credits>
       <actor>Scarlett Johansson</actor>
       <actor>Taron Egerton</actor>
@@ -8601,7 +8737,7 @@
   <programme start="20221119200200 -0600" stop="20221119220000 -0600" channel="Canal Cinecanal (México">
     <title lang="es">El Último Cazador de Brujas</title>
     <title lang="xx">The Last Witch Hunter</title>
-    <desc lang="es">Kaulder el último cazador de brujas, es todo lo que se interpone entre la humanidad y las fuerzas combinadas de las más aterradoras brujas de la historia(g)</desc>
+    <desc lang="es">Kaulder el último cazador de brujas, es todo lo que se interpone entre la humanidad y las fuerzas combinadas de las más aterradoras brujas de la historia</desc>
     <credits>
       <actor>Vin Diesel</actor>
       <actor>Rose Leslie</actor>
@@ -8727,7 +8863,7 @@
   <programme start="20221118030100 -0600" stop="20221118045400 -0600" channel="Canal Cinemax (México)">
     <title lang="es">Colette: Liberación y Deseo</title>
     <title lang="xx">Colette</title>
-    <desc lang="es">Una chica poco común se casa con un hombre que le lleva 14 años, bajo la sombra de su marido ella empieza mostrar su talento escribiendo novelas exitosas(c)</desc>
+    <desc lang="es">Una chica poco común se casa con un hombre que le lleva 14 años, bajo la sombra de su marido ella empieza mostrar su talento escribiendo novelas exitosas</desc>
     <credits>
       <actor>Keira Knightley</actor>
       <actor>Dominic West</actor>
@@ -8773,7 +8909,7 @@
   <programme start="20221118144900 -0600" stop="20221118172900 -0600" channel="Canal Cinemax (México)">
     <title lang="es">El Robo Perfecto</title>
     <title lang="xx">Den of Thieves</title>
-    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad(c)</desc>
+    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad</desc>
     <credits>
       <actor>Gerard Butler</actor>
       <actor>50 Cent</actor>
@@ -8909,7 +9045,7 @@
   <programme start="20221118222700 -0600" stop="20221119002300 -0600" channel="Canal Cinemax (Argentina)">
     <title lang="es">Fahrenheit 451</title>
     <title lang="xx">Fahrenheit 451</title>
-    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros(n)</desc>
+    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros</desc>
     <credits>
       <actor>Michael B. Jordan</actor>
       <actor>Michael Shannon</actor>
@@ -8928,7 +9064,7 @@
   <programme start="20221119222700 -0600" stop="20221120002300 -0600" channel="Canal Cinemax (Argentina)">
     <title lang="es">Fahrenheit 451</title>
     <title lang="xx">Fahrenheit 451</title>
-    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros(n)</desc>
+    <desc lang="es">En un futuro donde los medios son un narcótico, la historia es reescrita y los "bomberos" queman libros</desc>
     <credits>
       <actor>Michael B. Jordan</actor>
       <actor>Michael Shannon</actor>
@@ -8947,7 +9083,7 @@
   <programme start="20221120002300 -0600" stop="20221120030000 -0600" channel="Canal Cinemax (Argentina)">
     <title lang="es">El Robo Perfecto</title>
     <title lang="xx">Den of Thieves</title>
-    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad(n)</desc>
+    <desc lang="es">Una unidad de élite del condado de Los Ángeles persigue a una banda de asaltantes que planean un robo en la Reserva Federal en el centro de la ciudad</desc>
     <credits>
       <actor>Gerard Butler</actor>
       <actor>50 Cent</actor>
@@ -8974,7 +9110,7 @@
   <programme start="20221120040200 -0600" stop="20221120055600 -0600" channel="Canal Cinemax (Argentina)">
     <title lang="es">La Navidad de las Madres Rebeldes</title>
     <title lang="xx">A Bad Moms Christmas</title>
-    <desc lang="es">Sigue los desafíos de tres madres que tienen que hacer de todo para que las vacaciones familiares sean perfectas mientras reciben visitas inesperadas(n)</desc>
+    <desc lang="es">Sigue los desafíos de tres madres que tienen que hacer de todo para que las vacaciones familiares sean perfectas mientras reciben visitas inesperadas</desc>
     <credits>
       <actor>Mila Kunis</actor>
       <actor>Kristen Bell</actor>
@@ -9005,7 +9141,7 @@
   <programme start="20221120130000 -0600" stop="20221120153200 -0600" channel="Canal Cinemax (Argentina)">
     <title lang="es">Nueva York Sin Salida</title>
     <title lang="xx">21 Bridges</title>
-    <desc lang="es">Tras una serie de asesinatos de policías, André Davis ve la oportunidad de redimir su pasado cuando descubre que algunos de sus compañeros están implicados(n)</desc>
+    <desc lang="es">Tras una serie de asesinatos de policías, André Davis ve la oportunidad de redimir su pasado cuando descubre que algunos de sus compañeros están implicados</desc>
     <credits>
       <actor>Chadwick Boseman</actor>
       <actor>Sienna Miller</actor>
@@ -10601,7 +10737,7 @@
   </programme>
   <programme start="20221118102600 -0600" stop="20221118121200 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Monster Trucks</title>
-    <desc lang="es">Tripp es un estudiante de secundaria que construye un vehículo automotor con partes del deshuesadero de automóviles y con la ayuda de un monstruo(c)</desc>
+    <desc lang="es">Tripp es un estudiante de secundaria que construye un vehículo automotor con partes del deshuesadero de automóviles y con la ayuda de un monstruo</desc>
     <credits>
       <actor>Jane Levy</actor>
       <actor>Lucas Till</actor>
@@ -10630,7 +10766,7 @@
   </programme>
   <programme start="20221118145500 -0600" stop="20221118165500 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Dora y la Ciudad Perdida</title>
-    <desc lang="es">Dora, Diego, Boots y un grupo de amigos se aventuran para salvar a los padres de Dora y resolver el misterio detrás de una ciudad de oro perdida(c)</desc>
+    <desc lang="es">Dora, Diego, Boots y un grupo de amigos se aventuran para salvar a los padres de Dora y resolver el misterio detrás de una ciudad de oro perdida</desc>
     <credits>
       <actor>Isabela Moner</actor>
       <actor>Eugenio Derbez</actor>
@@ -10652,7 +10788,7 @@
   <programme start="20221118165500 -0600" stop="20221118174700 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Grey's Anatomy</title>
     <title lang="xx">Grey's Anatomy</title>
-    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital(c)</desc>
+    <desc lang="es">Una brillante pasante quirúrgica en el Seattle Grace Hospital, navega a través de los traumas diarios y su vida social dentro y fuera del hospital</desc>
     <credits>
       <actor>Ellen Pompeo</actor>
       <actor>Sandra Oh</actor>
@@ -10676,7 +10812,7 @@
   <programme start="20221118174700 -0600" stop="20221118183800 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(c)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -10697,7 +10833,7 @@
   </programme>
   <programme start="20221118183800 -0600" stop="20221118205800 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Damas en Guerra</title>
-    <desc lang="es">Annie es elegida como dama de honor de su mejor amiga, pero hay un problema, ella está en banca rota, aun así se aventura en juntar este grupo de damas(c)</desc>
+    <desc lang="es">Annie es elegida como dama de honor de su mejor amiga, pero hay un problema, ella está en banca rota, aun así se aventura en juntar este grupo de damas</desc>
     <credits>
       <actor>Kristen Wiig</actor>
       <actor>Maya Rudolph</actor>
@@ -10714,7 +10850,7 @@
   </programme>
   <programme start="20221118205800 -0600" stop="20221118212700 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Los Simpson</title>
-    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(c)</desc>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield</desc>
     <date>1989</date>
     <category lang="es">Caricatura</category>
     <category lang="es">Programa</category>
@@ -10724,7 +10860,7 @@
   </programme>
   <programme start="20221118212700 -0600" stop="20221118215500 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Los Simpson</title>
-    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield(c)</desc>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield</desc>
     <date>1989</date>
     <category lang="es">Caricatura</category>
     <category lang="es">Programa</category>
@@ -10742,7 +10878,7 @@
   <programme start="20221119005900 -0600" stop="20221119015000 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Criminal Minds</title>
     <title lang="xx">Criminal Minds</title>
-    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar(c)</desc>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar</desc>
     <credits>
       <actor>Mandy Patinkin</actor>
       <actor>Thomas Gibson</actor>
@@ -10767,7 +10903,7 @@
   <programme start="20221119034800 -0600" stop="20221119054000 -0600" channel="Canal Star Channel (México)">
     <title lang="es">El Apostador</title>
     <title lang="xx">The Gambler</title>
-    <desc lang="es">Un catedrático de literatura que además es un destacado apostador se mete en problemas con un grupo de mafiosos mientras tiene una aventura con una de sus estudiantes(c)</desc>
+    <desc lang="es">Un catedrático de literatura que además es un destacado apostador se mete en problemas con un grupo de mafiosos mientras tiene una aventura con una de sus estudiantes</desc>
     <credits>
       <actor>Mark Wahlberg</actor>
       <actor>Brie Larson</actor>
@@ -10789,7 +10925,7 @@
   <programme start="20221119054000 -0600" stop="20221119062300 -0600" channel="Canal Star Channel (México)">
     <title lang="es">Bones</title>
     <title lang="xx">Bones</title>
-    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver(c)</desc>
+    <desc lang="es">Una antropóloga forense experta en encontrar pistas en los huesos y un agente especial del FBI hacen un equipo para investigar casos difíciles de resolver</desc>
     <credits>
       <actor>Emily Deschanel</actor>
       <actor>David Boreanaz</actor>
@@ -10818,7 +10954,7 @@
   <programme start="20221119070000 -0600" stop="20221119100000 -0600" channel="Canal Star Channel (México)">
     <title lang="es">El Apostador</title>
     <title lang="xx">The Gambler</title>
-    <desc lang="es">Un catedrático de literatura que además es un destacado apostador se mete en problemas con un grupo de mafiosos mientras tiene una aventura con una de sus estudiantes(c)</desc>
+    <desc lang="es">Un catedrático de literatura que además es un destacado apostador se mete en problemas con un grupo de mafiosos mientras tiene una aventura con una de sus estudiantes</desc>
     <credits>
       <actor>Mark Wahlberg</actor>
       <actor>Brie Larson</actor>
@@ -11077,7 +11213,7 @@
   <programme start="20221118155200 -0600" stop="20221118175400 -0600" channel="Canal FX">
     <title lang="es">XXX: Reactivado</title>
     <title lang="xx">xXx: Return of Xander Cage</title>
-    <desc lang="es">Xander Cage es dado por muerto luego de un aparatoso accidente, sin embargo, aparece nuevamente en una nueva misión(c)</desc>
+    <desc lang="es">Xander Cage es dado por muerto luego de un aparatoso accidente, sin embargo, aparece nuevamente en una nueva misión</desc>
     <credits>
       <actor>Vin Diesel</actor>
       <actor>Donnie Yen</actor>
@@ -11895,7 +12031,7 @@
   <programme start="20221118135700 -0600" stop="20221118155300 -0600" channel="Canal Space (México)">
     <title lang="es">Dunkerque</title>
     <title lang="xx">Dunkirk (2017)</title>
-    <desc lang="es">Un grupo de soldados aliados son rodeados por las fuerzas alemanas en las playas de Dunkerque, Francia, entre mayo y junio de 1940, durante una batalla(c)</desc>
+    <desc lang="es">Un grupo de soldados aliados son rodeados por las fuerzas alemanas en las playas de Dunkerque, Francia, entre mayo y junio de 1940, durante una batalla</desc>
     <credits>
       <actor>Tom Hardy</actor>
       <actor>Cillian Murphy</actor>
@@ -13000,7 +13136,7 @@
   </programme>
   <programme start="20221118035200 -0600" stop="20221118053300 -0600" channel="Canal TNT">
     <title lang="es">Resident Evil: Capítulo Final</title>
-    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó(c)</desc>
+    <desc lang="es">Alice es la única sobreviviente de lo que suponía iba a ser la última parada contra los zombis. Ahora, ella deberá regresar a donde todo comenzó</desc>
     <credits>
       <actor>Milla Jovovich</actor>
       <actor>Ali Larter</actor>
@@ -13033,7 +13169,7 @@
   </programme>
   <programme start="20221118095800 -0600" stop="20221118120000 -0600" channel="Canal TNT">
     <title lang="es">Jack El Cazagigantes</title>
-    <desc lang="es">(Jack the Giant Slayer) Un joven granjero se ve involucrado en la tarea de viajar al reino de los gigantes con la esperanza de rescatar a una princesa(c)</desc>
+    <desc lang="es">(Jack the Giant Slayer) Un joven granjero se ve involucrado en la tarea de viajar al reino de los gigantes con la esperanza de rescatar a una princesa</desc>
     <credits>
       <actor>Nicholas Hoult</actor>
       <actor>Eleanor Tomlinson</actor>
@@ -13058,7 +13194,7 @@
   </programme>
   <programme start="20221118130200 -0600" stop="20221118152700 -0600" channel="Canal TNT">
     <title lang="es">Titanes del Pacífico</title>
-    <desc lang="es">(Pacific Rim) Robots gigantes piloteados por humanos pelean para salvar el planeta de un ataque alienígena(c)</desc>
+    <desc lang="es">(Pacific Rim) Robots gigantes piloteados por humanos pelean para salvar el planeta de un ataque alienígena</desc>
     <credits>
       <actor>Charlie Hunnam</actor>
       <actor>Idris Elba</actor>
@@ -13165,7 +13301,7 @@
   <programme start="20221118012800 -0600" stop="20221118021300 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13189,7 +13325,7 @@
   <programme start="20221118021300 -0600" stop="20221118025700 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13213,7 +13349,7 @@
   <programme start="20221118025700 -0600" stop="20221118034200 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13235,7 +13371,7 @@
   <programme start="20221118034200 -0600" stop="20221118042700 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13271,7 +13407,7 @@
   <programme start="20221118071400 -0600" stop="20221118080400 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13293,7 +13429,7 @@
   <programme start="20221118080400 -0600" stop="20221118085500 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13314,7 +13450,7 @@
   </programme>
   <programme start="20221118085500 -0600" stop="20221118094600 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13335,7 +13471,7 @@
   </programme>
   <programme start="20221118094600 -0600" stop="20221118103700 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13365,7 +13501,7 @@
   <programme start="20221118121800 -0600" stop="20221118130900 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13389,7 +13525,7 @@
   <programme start="20221118130900 -0600" stop="20221118140000 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13416,7 +13552,7 @@
   </programme>
   <programme start="20221118145100 -0600" stop="20221118154300 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13437,7 +13573,7 @@
   </programme>
   <programme start="20221118154300 -0600" stop="20221118163000 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13459,7 +13595,7 @@
   <programme start="20221118163000 -0600" stop="20221118172000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13481,7 +13617,7 @@
   <programme start="20221118172000 -0600" stop="20221118181000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(c)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -13502,7 +13638,7 @@
   </programme>
   <programme start="20221118181000 -0600" stop="20221118190200 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13523,7 +13659,7 @@
   </programme>
   <programme start="20221118190200 -0600" stop="20221118195600 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13549,7 +13685,7 @@
   <programme start="20221118204700 -0600" stop="20221118213800 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13573,7 +13709,7 @@
   <programme start="20221118213800 -0600" stop="20221118223000 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(c)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -13596,7 +13732,7 @@
   </programme>
   <programme start="20221118223000 -0600" stop="20221118232100 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -13617,7 +13753,7 @@
   </programme>
   <programme start="20221118232100 -0600" stop="20221119001300 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -14159,7 +14295,7 @@
   </programme>
   <programme start="20221119232100 -0600" stop="20221120001300 -0600" channel="Canal TNT Series">
     <title lang="es">Law &amp; Order: SVU</title>
-    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones(c)</desc>
+    <desc lang="es">La Unidad de Víctimas Especiales del departamento de policía de Nueva York se encarga de investigar los crímenes relacionados con violaciones</desc>
     <credits>
       <actor>Christopher Meloni</actor>
       <actor>Mariska Hargitay</actor>
@@ -14189,7 +14325,7 @@
   <programme start="20221120015500 -0600" stop="20221120024100 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -14213,7 +14349,7 @@
   <programme start="20221120024100 -0600" stop="20221120032600 -0600" channel="Canal TNT Series">
     <title lang="es">The Mentalist</title>
     <title lang="xx">The Mentalist</title>
-    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon(n)</desc>
+    <desc lang="es">Patrick Jane, un consultor independiente que usa su intelecto para resolver casos difíciles es asignado a la unidad de crímenes de la agente Teresa Lisbon</desc>
     <credits>
       <actor>Simon Baker</actor>
       <actor>Robin Tunney</actor>
@@ -14237,7 +14373,7 @@
   <programme start="20221120032600 -0600" stop="20221120040300 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14259,7 +14395,7 @@
   <programme start="20221120040300 -0600" stop="20221120050000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14288,7 +14424,7 @@
   <programme start="20221120064000 -0600" stop="20221120073000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14310,7 +14446,7 @@
   <programme start="20221120073000 -0600" stop="20221120082000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14332,7 +14468,7 @@
   <programme start="20221120082000 -0600" stop="20221120091000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14354,7 +14490,7 @@
   <programme start="20221120091000 -0600" stop="20221120100100 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14376,7 +14512,7 @@
   <programme start="20221120100100 -0600" stop="20221120105100 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14398,7 +14534,7 @@
   <programme start="20221120105100 -0600" stop="20221120114100 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14420,7 +14556,7 @@
   <programme start="20221120114100 -0600" stop="20221120123200 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14442,7 +14578,7 @@
   <programme start="20221120123200 -0600" stop="20221120132200 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14464,7 +14600,7 @@
   <programme start="20221120132200 -0600" stop="20221120141500 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14486,7 +14622,7 @@
   <programme start="20221120141500 -0600" stop="20221120150800 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14508,7 +14644,7 @@
   <programme start="20221120150800 -0600" stop="20221120155900 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14530,7 +14666,7 @@
   <programme start="20221120155900 -0600" stop="20221120165200 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14552,7 +14688,7 @@
   <programme start="20221120165200 -0600" stop="20221120174400 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14574,7 +14710,7 @@
   <programme start="20221120174400 -0600" stop="20221120183200 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14596,7 +14732,7 @@
   <programme start="20221120183200 -0600" stop="20221120192300 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14618,7 +14754,7 @@
   <programme start="20221120192300 -0600" stop="20221120201500 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14640,7 +14776,7 @@
   <programme start="20221120201500 -0600" stop="20221120210700 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14662,7 +14798,7 @@
   <programme start="20221120210700 -0600" stop="20221120220000 -0600" channel="Canal TNT Series">
     <title lang="es">The Closer</title>
     <title lang="xx">The Closer</title>
-    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles(n)</desc>
+    <desc lang="es">Una interrogadora de clase mundial con una personalidad fuera de común, traída desde Atlanta para dirigir la unidad de élite de homicidios de Los Ángeles</desc>
     <credits>
       <actor>Kyra Sedgwick</actor>
       <actor>J. K. Simmons</actor>
@@ -14684,7 +14820,7 @@
   <programme start="20221120220000 -0600" stop="20221120230900 -0600" channel="Canal TNT Series">
     <title lang="es">¡García!</title>
     <title lang="xx">¡García!</title>
-    <desc lang="es">Una periodista en busca de una historia y un hombre que acaba de ser descongelado tras 60 años se unen para detener una conspiración que se ha desatado(n)</desc>
+    <desc lang="es">Una periodista en busca de una historia y un hombre que acaba de ser descongelado tras 60 años se unen para detener una conspiración que se ha desatado(c)</desc>
     <credits>
       <actor>Veki Velilla</actor>
       <actor>Curro Ortiz</actor>
@@ -15486,7 +15622,7 @@
   <programme start="20221118045700 -0600" stop="20221118055000 -0600" channel="Canal Warner TV">
     <title lang="es">Riverdale</title>
     <title lang="xx">Riverdale</title>
-    <desc lang="es">Un año escolar comienza, pero muchas cosas han pasado y Cherryl esconde un misterio en la muerte de su hermano gemelo(c)</desc>
+    <desc lang="es">Un año escolar comienza, pero muchas cosas han pasado y Cherryl esconde un misterio en la muerte de su hermano gemelo</desc>
     <credits>
       <actor>K.J. Apa</actor>
       <actor>Lili Reinhart</actor>
@@ -15543,7 +15679,7 @@
   <programme start="20221118092600 -0600" stop="20221118105700 -0600" channel="Canal Warner TV">
     <title lang="es">Men in Black 2</title>
     <title lang="xx">Men in Black II</title>
-    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla(c)</desc>
+    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla</desc>
     <credits>
       <actor>Tommy Lee Jones</actor>
       <actor>Will Smith</actor>
@@ -15569,7 +15705,7 @@
   </programme>
   <programme start="20221118130600 -0600" stop="20221118151200 -0600" channel="Canal Warner TV">
     <title lang="es">The Lego Movie 2</title>
-    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor(c)</desc>
+    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor</desc>
     <credits>
       <actor>Chris Pratt</actor>
       <actor>Elizabeth Banks</actor>
@@ -15598,7 +15734,7 @@
   <programme start="20221118175600 -0600" stop="20221118201300 -0600" channel="Canal Warner TV">
     <title lang="es">Just Go with It</title>
     <title lang="xx">Just Go with It</title>
-    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa(c)</desc>
+    <desc lang="es">Un cirujano plástico desea conquistar a una maestra de escuela mucho más joven que él con la ayuda de su fiel asistente que se hará pasar por su ex esposa</desc>
     <credits>
       <actor>Adam Sandler</actor>
       <actor>Jennifer Aniston</actor>
@@ -15804,7 +15940,7 @@
   </programme>
   <programme start="20221120072500 -0600" stop="20221120074500 -0600" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -15824,7 +15960,7 @@
   </programme>
   <programme start="20221120074500 -0600" stop="20221120080700 -0600" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -15844,7 +15980,7 @@
   </programme>
   <programme start="20221120080700 -0600" stop="20221120083000 -0600" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -15864,7 +16000,7 @@
   </programme>
   <programme start="20221120083000 -0600" stop="20221120085200 -0600" channel="Canal Warner TV">
     <title lang="es">The Big Bang Theory</title>
-    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos(n)</desc>
+    <desc lang="es">La vida de dos brillantes pero socialmente inadaptados físicos esta por cambiar cuando una hermosa vecina llega al edificio de apartamentos de estos</desc>
     <credits>
       <actor>Johnny Galecki</actor>
       <actor>Jim Parsons</actor>
@@ -15891,7 +16027,7 @@
   </programme>
   <programme start="20221120120600 -0600" stop="20221120140700 -0600" channel="Canal Warner TV">
     <title lang="es">The Lego Movie 2</title>
-    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor(n)</desc>
+    <desc lang="es">Cinco años pasaron desde que Bricksburg estuviera tranquilo, ahora una nueva amenaza llega del espacio exterior destruyendo todo a su alrededor</desc>
     <credits>
       <actor>Chris Pratt</actor>
       <actor>Elizabeth Banks</actor>
@@ -15920,7 +16056,7 @@
   <programme start="20221120162300 -0600" stop="20221120175400 -0600" channel="Canal Warner TV">
     <title lang="es">Men in Black 2</title>
     <title lang="xx">Men in Black II</title>
-    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla(n)</desc>
+    <desc lang="es">Cuando el cuartel general esta bajo ataque por una modelo de lencería que amenaza la supervivencia de la raza humana, ahora Kay y Jay deben detenerla</desc>
     <credits>
       <actor>Tommy Lee Jones</actor>
       <actor>Will Smith</actor>
@@ -16229,6 +16365,9 @@
     <title lang="es">Cartas del corazón</title>
   </programme>
   <programme start="20221119180000 -0600" stop="20221119190000 -0600" channel="Canal Glitz">
+    <title lang="es">Cartas del corazón</title>
+  </programme>
+  <programme start="20221119190000 -0600" stop="20221119200000 -0600" channel="Canal Glitz">
     <title lang="es">Cartas del corazón</title>
   </programme>
   <programme start="20221119200000 -0600" stop="20221119210000 -0600" channel="Canal Glitz">
