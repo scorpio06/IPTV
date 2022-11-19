@@ -33,9 +33,9 @@ http://tv.teleclub.xyz/stream/Mundo/RT_ESPANOL/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Más Chic Latinoamérica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png" group-title="PLUS",MAS CHIC
 http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PLUS",LIFETIME
 http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40
+#EXTINF:-1 tvg-ID="" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="PLUS",ADN 40
 http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN
 http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
