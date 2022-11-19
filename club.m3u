@@ -12,15 +12,16 @@ http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png"group-title="NIÑOS",NICK JR
 http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil", Tooncast
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="NIÑOS",TOONCAST
 http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil", Bitme
+#EXTINF:-1 tvg-ID="" tvg-name="Canal BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BitMelogo.png/640px-BitMelogo.png" group-title="NIÑOS",BITME
 http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantil", Cartoonito
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoonito (México)" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
 http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Canal CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="PLUS",CNN EN ESPAÑOL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
