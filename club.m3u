@@ -23,9 +23,9 @@ http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Canal CNN en Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png" group-title="PLUS",CNN EN ESPAÑOL
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN
+#EXTINF:-1 tvg-ID="" tvg-name="Canal CNN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" group-title="PLUS",CNN
 http://tv.teleclub.xyz/stream/Mundo/CNN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Glitz" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/glitz-mediano.png" group-title="PLUS",GLITZ
 http://tv.teleclub.xyz/stream/Mundo/GLITZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español
 http://tv.teleclub.xyz/stream/Mundo/RT_ESPANOL/index.m3u8
