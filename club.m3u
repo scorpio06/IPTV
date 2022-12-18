@@ -1,10 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/2560px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",GALAVISION
-http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/86
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="MEXICO",LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
+http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb" group-title="MEXICO",Imagen TV
-http://gratuita.mrzutv.net:25461/SF64YGj25qdV/kkqXAPLL8dbt/881
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.1 GUANAJUATO" tvg-logo="https://www.tvcuatro.com/images/noticias-01.png" group-title="MEXICO",CANAL 4.1 GUANAJUATO
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w1125826527.m3u8
@@ -90,12 +93,10 @@ http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal RCN Nuestra Tele Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele-mediano.png" group-title="PLUS",RCN INTERNACIONAL
 http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Telefe Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_internacional-mediano.png" group-title="PLUS",TELEFE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe
 http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV
+#EXTINF:-1 tvg-ID="" tvg-name="Canal HOLA TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png" group-title="PLUS",HOLA TV
 http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
-http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E!
 http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV
