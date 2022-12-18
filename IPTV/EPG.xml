@@ -1,0 +1,1397 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Mexiquense TV">
+    <display-name lang="es">Mexiquense TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Mundo">
+    <display-name lang="es">Canal Azteca Mundo</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Corazon">
+    <display-name lang="es">Canal Azteca Corazon</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Azteca Clic">
+    <display-name lang="es">Canal TV Azteca Clic</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TV Azteca Cinema">
+    <display-name lang="es">Canal TV Azteca Cinema</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca 7 (México)">
+    <display-name lang="es">Canal Azteca 7 (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Multimedios Plus">
+    <display-name lang="es">Canal Multimedios Plus</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">Canal ADN 40</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoonito (México)">
+    <display-name lang="es">Canal Cartoonito (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network">
+    <display-name lang="es">Canal Cartoon Network</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Kids">
+    <display-name lang="es">Canal Discovery Kids</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">Canal Disney Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior">
+    <display-name lang="es">Canal Disney Junior</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior 1">
+    <display-name lang="es">Canal Disney Junior 1</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nickelodeon">
+    <display-name lang="es">Canal Nickelodeon</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nick Jr. (México)">
+    <display-name lang="es">Canal Nick Jr. (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TeenNick">
+    <display-name lang="es">Canal TeenNick</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Tooncast">
+    <display-name lang="es">Canal Tooncast</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BitMe">
+    <display-name lang="es">Canal BitMe</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN en Español">
+    <display-name lang="es">Canal CNN en Español</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CNN Internacional">
+    <display-name lang="es">Canal CNN Internacional</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal truTV">
+    <display-name lang="es">Canal truTV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AyE (Guatemala)">
+    <display-name lang="es">Canal AyE (Guatemala)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id=" Canal AMC (México)">
+    <display-name lang="es"> Canal AMC (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CANAL AXN">
+    <display-name lang="es">CANAL AXN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal (México">
+    <display-name lang="es">Canal Cinecanal (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">Canal Cinemax (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (Argentina)">
+    <display-name lang="es">Canal Cinemax (Argentina)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinelatino">
+    <display-name lang="es">Canal Cinelatino</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinelatino USA">
+    <display-name lang="es">Canal Cinelatino USA</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MULTIPREMIER">
+    <display-name lang="es">MULTIPREMIER</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película">
+    <display-name lang="es">Canal De Película</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Película Clásico">
+    <display-name lang="es">Canal De Película Clásico</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden (México)">
+    <display-name lang="es">Canal Golden (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Edge">
+    <display-name lang="es">Canal Golden Edge</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Plus">
+    <display-name lang="es">Canal Golden Plus</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Golden Premier">
+    <display-name lang="es">Canal Golden Premier</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Film y Arts">
+    <display-name lang="es">Canal Film y Arts</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Channel (México)">
+    <display-name lang="es">Canal Star Channel (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Star Life (México)">
+    <display-name lang="es">Canal Star Life (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX">
+    <display-name lang="es">Canal FX</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FXM">
+    <display-name lang="es">FXM</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal MC">
+    <display-name lang="es">Canal MC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Paramount Channel (México)">
+    <display-name lang="es">Canal Paramount Channel (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sony (Argentina)">
+    <display-name lang="es">Canal Sony (Argentina)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Sony (México)">
+    <display-name lang="es">Canal Sony (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Space (México)">
+    <display-name lang="es">Canal Space (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Studio Universal">
+    <display-name lang="es">Canal Studio Universal</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal SyFy">
+    <display-name lang="es">Canal SyFy</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TVC">
+    <display-name lang="es">TVC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT">
+    <display-name lang="es">Canal TNT</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TNT Series">
+    <display-name lang="es">Canal TNT Series</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="es">Universal TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Warner TV">
+    <display-name lang="es">Canal Warner TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Lifetime">
+    <display-name lang="es">Canal Lifetime</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Glitz">
+    <display-name lang="es">Canal Glitz</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Más Chic Latinoamérica">
+    <display-name lang="es">Canal Más Chic Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central">
+    <display-name lang="es">Canal Comedy Central</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Entertainment Television">
+    <display-name lang="es">Entertainment Television</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet">
+    <display-name lang="es">Canal Animal Planet</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Channel">
+    <display-name lang="es">Canal Discovery Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Home y Health (México)">
+    <display-name lang="es">Canal Discovery Home y Health (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="canal ID">
+    <display-name lang="es">canal ID</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TLC">
+    <display-name lang="es">Canal TLC</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Turbo Latinoamérica">
+    <display-name lang="es">Canal Discovery Turbo Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="canal History (México)">
+    <display-name lang="es">canal History (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal History 2 (México)">
+    <display-name lang="es">Canal History 2 (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal National Geographic">
+    <display-name lang="es">Canal National Geographic</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Nat Geo Wild">
+    <display-name lang="es">Canal Nat Geo Wild</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RCN Nuestra Tele (Internacional)">
+    <display-name lang="es">Canal RCN Nuestra Tele (Internacional)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal RCN Nuestra Tele Internacional">
+    <display-name lang="es">Canal RCN Nuestra Tele Internacional</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20221217000500 -0600" stop="20221217020000 -0600" channel="Mexiquense TV">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20221217020000 -0600" stop="20221217060000 -0600" channel="Mexiquense TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217061000 -0600" channel="Mexiquense TV">
+    <title lang="es">Himno del Estado de México</title>
+  </programme>
+  <programme start="20221217061000 -0600" stop="20221217061500 -0600" channel="Mexiquense TV">
+    <title lang="es">Tiempos oficiales RTC</title>
+  </programme>
+  <programme start="20221217061500 -0600" stop="20221217063000 -0600" channel="Mexiquense TV">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20221217063000 -0600" stop="20221217070000 -0600" channel="Mexiquense TV">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20221217070000 -0600" stop="20221217073000 -0600" channel="Mexiquense TV">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20221217073000 -0600" stop="20221217080000 -0600" channel="Mexiquense TV">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217090000 -0600" channel="Mexiquense TV">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20221217090000 -0600" stop="20221217100000 -0600" channel="Mexiquense TV">
+    <title lang="es">Diablos Rojos TV</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217110000 -0600" channel="Mexiquense TV">
+    <title lang="es">Otro Stylo para Cocinar</title>
+  </programme>
+  <programme start="20221217110000 -0600" stop="20221217120000 -0600" channel="Mexiquense TV">
+    <title lang="es">Bionatura</title>
+  </programme>
+  <programme start="20221217120000 -0600" stop="20221217130000 -0600" channel="Mexiquense TV">
+    <title lang="es">Concierto O.S.E.M</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217140000 -0600" channel="Mexiquense TV">
+    <title lang="es">Palabra de cine</title>
+  </programme>
+  <programme start="20221217140000 -0600" stop="20221217141500 -0600" channel="Mexiquense TV">
+    <title lang="es">Imagen magisterial</title>
+  </programme>
+  <programme start="20221217141500 -0600" stop="20221217143000 -0600" channel="Mexiquense TV">
+    <title lang="es">Patrimonio mundial</title>
+  </programme>
+  <programme start="20221217143000 -0600" stop="20221217150000 -0600" channel="Mexiquense TV">
+    <title lang="es">Fuerza TV</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217153000 -0600" channel="Mexiquense TV">
+    <title lang="es">Cleo &amp; Cuquín</title>
+  </programme>
+  <programme start="20221217153000 -0600" stop="20221217160000 -0600" channel="Mexiquense TV">
+    <title lang="es">Piny, instituto de Nueva York</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217170000 -0600" channel="Mexiquense TV">
+    <title lang="es">Profesión Héroe</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217180000 -0600" channel="Mexiquense TV">
+    <title lang="es">Salud en Casa</title>
+  </programme>
+  <programme start="20221217180000 -0600" stop="20221217190000 -0600" channel="Mexiquense TV">
+    <title lang="es">Nuestra chamba</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217200000 -0600" channel="Mexiquense TV">
+    <title lang="es">100% grupero</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217220000 -0600" channel="Mexiquense TV">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221217230000 -0600" channel="Mexiquense TV">
+    <title lang="es">Ni mas ni menos</title>
+  </programme>
+  <programme start="20221217230000 -0600" stop="20221218000000 -0600" channel="Mexiquense TV">
+    <title lang="es">Mirada Global</title>
+  </programme>
+  <programme start="20221218000500 -0600" stop="20221218010000 -0600" channel="Mexiquense TV">
+    <title lang="es">Cóncavo y Consexo</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218060000 -0600" channel="Mexiquense TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20221218061500 -0600" stop="20221218063000 -0600" channel="Mexiquense TV">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20221218063000 -0600" stop="20221218073000 -0600" channel="Mexiquense TV">
+    <title lang="es">Patrimonio Mundial Natural en México</title>
+  </programme>
+  <programme start="20221218073000 -0600" stop="20221218080000 -0600" channel="Mexiquense TV">
+    <title lang="es">Arki, el guardacuentos</title>
+  </programme>
+  <programme start="20221218080000 -0600" stop="20221218090000 -0600" channel="Mexiquense TV">
+    <title lang="es">Panda Fanfare</title>
+  </programme>
+  <programme start="20221218090000 -0600" stop="20221218093000 -0600" channel="Mexiquense TV">
+    <title lang="es">Tayo</title>
+  </programme>
+  <programme start="20221218093000 -0600" stop="20221218100000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pororo</title>
+  </programme>
+  <programme start="20221218100000 -0600" stop="20221218110000 -0600" channel="Mexiquense TV">
+    <title lang="es">Ver y creer</title>
+  </programme>
+  <programme start="20221218120000 -0600" stop="20221218130000 -0600" channel="Mexiquense TV">
+    <title lang="es">Emprendedores</title>
+  </programme>
+  <programme start="20221218130000 -0600" stop="20221218140000 -0600" channel="Mexiquense TV">
+    <title lang="es">Sobremesa con Lulu Medina</title>
+  </programme>
+  <programme start="20221218140000 -0600" stop="20221218143000 -0600" channel="Mexiquense TV">
+    <title lang="es">Las mil y una notas</title>
+  </programme>
+  <programme start="20221218143000 -0600" stop="20221218150000 -0600" channel="Mexiquense TV">
+    <title lang="es">Abierto al Publico</title>
+  </programme>
+  <programme start="20221218150000 -0600" stop="20221218160000 -0600" channel="Mexiquense TV">
+    <title lang="es">Su casa EDOMEX</title>
+  </programme>
+  <programme start="20221218160000 -0600" stop="20221218170000 -0600" channel="Mexiquense TV">
+    <title lang="es">Pasión por el sabor</title>
+  </programme>
+  <programme start="20221218170000 -0600" stop="20221218173000 -0600" channel="Mexiquense TV">
+    <title lang="es">Ingredientes</title>
+  </programme>
+  <programme start="20221218173000 -0600" stop="20221218180000 -0600" channel="Mexiquense TV">
+    <title lang="es">Denominación de origen</title>
+  </programme>
+  <programme start="20221218180000 -0600" stop="20221218190000 -0600" channel="Mexiquense TV">
+    <title lang="es">Cinescape</title>
+  </programme>
+  <programme start="20221218190000 -0600" stop="20221218200000 -0600" channel="Mexiquense TV">
+    <title lang="es">Genio y Figura</title>
+  </programme>
+  <programme start="20221218200000 -0600" stop="20221218210000 -0600" channel="Mexiquense TV">
+    <title lang="es">Los colores de mi tierra</title>
+  </programme>
+  <programme start="20221218210000 -0600" stop="20221218220000 -0600" channel="Mexiquense TV">
+    <title lang="es">En la cima con Roa</title>
+  </programme>
+  <programme start="20221218220000 -0600" stop="20221218230000 -0600" channel="Mexiquense TV">
+    <title lang="es">Noches en vela</title>
+  </programme>
+  <programme start="20221218230000 -0600" stop="20221219000000 -0600" channel="Mexiquense TV">
+    <title lang="es">Destino Verde</title>
+  </programme>
+  <programme start="20221217030000 -0600" stop="20221217040000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Ventaneando</title>
+    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy</desc>
+    <date>1996</date>
+    <category lang="es">Programa</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
+  </programme>
+  <programme start="20221217040000 -0600" stop="20221217050000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20221217050000 -0600" stop="20221217060000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Fenómeno luz</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217070000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Creaciones mágicas</title>
+  </programme>
+  <programme start="20221217070000 -0600" stop="20221217080000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217090000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Historias Engarzadas</title>
+  </programme>
+  <programme start="20221217090000 -0600" stop="20221217100000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">La historia detrás del mito</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217120000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Ventaneando - Lo mejor</title>
+  </programme>
+  <programme start="20221217120000 -0600" stop="20221217130000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Mimí Contigo</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217160000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217170000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Lo mejor de Acércate a Rocío</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217180000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Dificil de creer</title>
+  </programme>
+  <programme start="20221217180000 -0600" stop="20221217190000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217200000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Mentes Asesinas</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217220000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Al extremo - Fin de semana</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221217230000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20221217230000 -0600" stop="20221218010000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20221218230000 -0600" stop="20221219010000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Terrores nocturnos</title>
+  </programme>
+  <programme start="20221219010000 -0600" stop="20221219040000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Maratón Extranormal</title>
+  </programme>
+  <programme start="20221219040000 -0600" stop="20221219050000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20221219180000 -0600" stop="20221219200000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Cine a la Mexicana</title>
+  </programme>
+  <programme start="20221219200000 -0600" stop="20221219220000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Al extremo - Fin de semana</title>
+  </programme>
+  <programme start="20221219220000 -0600" stop="20221219230000 -0600" channel="Canal Azteca Mundo">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20221217004500 -0600" stop="20221217013000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217013000 -0600" stop="20221217021500 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217021500 -0600" stop="20221217030000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217030000 -0600" stop="20221217034500 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217034500 -0600" stop="20221217043000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217043000 -0600" stop="20221217051500 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217051500 -0600" stop="20221217060000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217064800 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217064800 -0600" stop="20221217073600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217073600 -0600" stop="20221217082400 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217082400 -0600" stop="20221217091200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217091200 -0600" stop="20221217100000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217110000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20221217110000 -0600" stop="20221217114800 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217114800 -0600" stop="20221217123600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217123600 -0600" stop="20221217132400 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217132400 -0600" stop="20221217141200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217141200 -0600" stop="20221217150000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">UEPA</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217160000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Mujeres RS</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217164800 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217164800 -0600" stop="20221217173600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217173600 -0600" stop="20221217182400 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217182400 -0600" stop="20221217191200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217191200 -0600" stop="20221217200000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Vivir a Destiempo</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217210000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20221217210000 -0600" stop="20221217214800 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217214800 -0600" stop="20221217223600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217223600 -0600" stop="20221217232400 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217232400 -0600" stop="20221218001200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221218232400 -0600" stop="20221219001200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221219001200 -0600" stop="20221219010000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221219010000 -0600" stop="20221219020000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Mujeres RS</title>
+  </programme>
+  <programme start="20221219020000 -0600" stop="20221219024800 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221219024800 -0600" stop="20221219033600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221219033600 -0600" stop="20221219042400 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221219042400 -0600" stop="20221219051200 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221219051200 -0600" stop="20221219060000 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">Bajo el alma</title>
+  </programme>
+  <programme start="20221219214800 -0600" stop="20221219223600 -0600" channel="Canal Azteca Corazon">
+    <title lang="es">La Loba</title>
+    <desc lang="es">¡Una mujer que defiende lo suyo!  Ivonne Montero y Mauricio Islas. Una historia donde Ángeles Fernández logra cautivar a Emiliano Alcázar, un empresario</desc>
+    <credits>
+      <actor>Mauricio Islas</actor>
+      <actor>Ivonne Montero</actor>
+      <actor>Regina Torné</actor>
+      <actor>Omar Fierro</actor>
+      <actor>Gabriela Roel</actor>
+      <producer>Maricarmen Marcos</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/la_loba.jpg" />
+  </programme>
+  <programme start="20221217010000 -0600" stop="20221217020000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20221217020000 -0600" stop="20221217030000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Un dia a la vez</title>
+  </programme>
+  <programme start="20221217030000 -0600" stop="20221217040000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20221217040000 -0600" stop="20221217043000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Circuito Argentina</title>
+  </programme>
+  <programme start="20221217043000 -0600" stop="20221217050000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Transformarte</title>
+  </programme>
+  <programme start="20221217050000 -0600" stop="20221217053000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Kitchen Power</title>
+  </programme>
+  <programme start="20221217053000 -0600" stop="20221217060000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217070000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Fragamente hablando</title>
+  </programme>
+  <programme start="20221217070000 -0600" stop="20221217080000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217083000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20221217083000 -0600" stop="20221217090000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20221217090000 -0600" stop="20221217093000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Yoga y tu</title>
+  </programme>
+  <programme start="20221217093000 -0600" stop="20221217100000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">X fit</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217130000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217133000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20221217133000 -0600" stop="20221217140000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20221217140000 -0600" stop="20221217150000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Kitchen Power</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217153000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20221217153000 -0600" stop="20221217160000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Pase de abordar</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217190000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217193000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20221217193000 -0600" stop="20221217200000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217210000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Argentinos en la Antártida</title>
+  </programme>
+  <programme start="20221217210000 -0600" stop="20221217220000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221218010000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218020000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Kitchen Power</title>
+  </programme>
+  <programme start="20221218020000 -0600" stop="20221218030000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Artivistas, el arte a la calle</title>
+  </programme>
+  <programme start="20221218030000 -0600" stop="20221218060000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20221218090000 -0600" stop="20221218093000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20221218093000 -0600" stop="20221218100000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">My New Ride</title>
+  </programme>
+  <programme start="20221218100000 -0600" stop="20221218130000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20221218140000 -0600" stop="20221218150000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">El sabor de la historia</title>
+  </programme>
+  <programme start="20221218160000 -0600" stop="20221218190000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20221218200000 -0600" stop="20221218210000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Circuito Argentina</title>
+  </programme>
+  <programme start="20221218220000 -0600" stop="20221219010000 -0600" channel="Canal TV Azteca Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20221217010000 -0600" stop="20221217023000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Dos Gallos en Palenque</title>
+  </programme>
+  <programme start="20221217023000 -0600" stop="20221217040000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Los Placeres Ocultos</title>
+  </programme>
+  <programme start="20221217040000 -0600" stop="20221217053000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20221217053000 -0600" stop="20221217060000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217063000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217063000 -0600" stop="20221217080000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Qué hombre tan sin embargo</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217093000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Tu vida contra mi vida</title>
+  </programme>
+  <programme start="20221217093000 -0600" stop="20221217100000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217113000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Recién casados, no molestar</title>
+  </programme>
+  <programme start="20221217113000 -0600" stop="20221217130000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Remolino de Pasiones</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217133000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217133000 -0600" stop="20221217150000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Doña Clarines</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217163000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Rapto al Sol</title>
+  </programme>
+  <programme start="20221217163000 -0600" stop="20221217170000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217183000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Yo vendo unos ojos negros</title>
+  </programme>
+  <programme start="20221217183000 -0600" stop="20221217200000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">La Virgen Morena</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217203000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20221217203000 -0600" stop="20221217220000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">El marido de mi novia</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221217233000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Napoleoncito</title>
+  </programme>
+  <programme start="20221217233000 -0600" stop="20221218010000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Enamorándome de Abril</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218023000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Los dos apostoles</title>
+  </programme>
+  <programme start="20221218023000 -0600" stop="20221218040000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Rumbera caliente</title>
+  </programme>
+  <programme start="20221218040000 -0600" stop="20221218053000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">El gran relajo mexicano</title>
+  </programme>
+  <programme start="20221218063000 -0600" stop="20221218080000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Entre Bala y Bala</title>
+  </programme>
+  <programme start="20221218080000 -0600" stop="20221218093000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Dos caballeros de espada</title>
+  </programme>
+  <programme start="20221218100000 -0600" stop="20221218113000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">La cabeza viviente</title>
+  </programme>
+  <programme start="20221218113000 -0600" stop="20221218130000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Las Leandras</title>
+  </programme>
+  <programme start="20221218133000 -0600" stop="20221218150000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Te ví en televisión</title>
+  </programme>
+  <programme start="20221218150000 -0600" stop="20221218163000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">El rapto de las sabinas</title>
+  </programme>
+  <programme start="20221218170000 -0600" stop="20221218183000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Las Cinco advertencias de Satanás</title>
+  </programme>
+  <programme start="20221218183000 -0600" stop="20221218200000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">El niño y la estrella</title>
+  </programme>
+  <programme start="20221218203000 -0600" stop="20221218220000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Dos Gallos en Palenque</title>
+  </programme>
+  <programme start="20221218220000 -0600" stop="20221218233000 -0600" channel="Canal TV Azteca Cinema">
+    <title lang="es">Una mujer sin destino</title>
+  </programme>
+  <programme start="20221217001500 -0600" stop="20221217003000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20221217003000 -0600" stop="20221217040000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217040000 -0600" stop="20221217041500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20221217041500 -0600" stop="20221217050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217050000 -0600" stop="20221217053000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20221217053000 -0600" stop="20221217060000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217090000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20221217090000 -0600" stop="20221217130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217150000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217170000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217190000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Sábado al extremo</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217210000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Mi Fiesta Favorita</title>
+  </programme>
+  <programme start="20221217210000 -0600" stop="20221218000000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Rosario tijeras</title>
+  </programme>
+  <programme start="20221218000000 -0600" stop="20221218010000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Play Music</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218050000 -0600" stop="20221218053000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20221218053000 -0600" stop="20221218060000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221218060000 -0600" stop="20221218080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Yo soy muy macho</title>
+  </programme>
+  <programme start="20221218080000 -0600" stop="20221218090000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20221218090000 -0600" stop="20221218110000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20221218110000 -0600" stop="20221218130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20221218130000 -0600" stop="20221218140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula(n)</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20221218140000 -0600" stop="20221218153000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20221218153000 -0600" stop="20221218173000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20221218173000 -0600" stop="20221218200000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema(n)</desc>
+    <credits>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20221218200000 -0600" stop="20221218231500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">MasterChef Celebrity</title>
+  </programme>
+  <programme start="20221218231500 -0600" stop="20221219001500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20221217003000 -0600" stop="20221217023000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217023000 -0600" stop="20221217043000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217043000 -0600" stop="20221217051500 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20221217051500 -0600" stop="20221217053000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20221217053000 -0600" stop="20221217060000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217070000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">El show de Scooby Doo</title>
+  </programme>
+  <programme start="20221217070000 -0600" stop="20221217080000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Pasión Deportiva</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217083000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Vamos Pocoyo</title>
+  </programme>
+  <programme start="20221217083000 -0600" stop="20221217104500 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Un equipo milagroso</title>
+  </programme>
+  <programme start="20221217104500 -0600" stop="20221217130000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">10 cosas que odio de ti</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217160000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Crepúsculo (2008)</title>
+    <title lang="xx">Twilight (2008)</title>
+    <desc lang="es">Bella Swan es una chica adolescente lo arriesga todo cuando se enamora de un apuesto chico que en realidad es un vampiro(n)</desc>
+    <credits>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Billy Burke</actor>
+      <actor>Peter Facinelli</actor>
+      <producer>Wyck Godfrey</producer>
+      <producer>Greg Mooradian</producer>
+      <composer>Carter Burwell</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/crepusculo_2008.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217190000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Crepúsculo (2008)</title>
+    <title lang="xx">Twilight (2008)</title>
+    <desc lang="es">Bella Swan es una chica adolescente lo arriesga todo cuando se enamora de un apuesto chico que en realidad es un vampiro(n)</desc>
+    <credits>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Billy Burke</actor>
+      <actor>Peter Facinelli</actor>
+      <producer>Wyck Godfrey</producer>
+      <producer>Greg Mooradian</producer>
+      <composer>Carter Burwell</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/crepusculo_2008.jpg" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217220000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">La saga Crepúsculo Eclipse</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221218000000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Protagonistas de Qatar 2022</title>
+  </programme>
+  <programme start="20221218003000 -0600" stop="20221218023000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218023000 -0600" stop="20221218043000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218043000 -0600" stop="20221218064500 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Arthur y los Minimoys</title>
+  </programme>
+  <programme start="20221218064500 -0600" stop="20221218084500 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">La Era de Hielo 2</title>
+    <title lang="xx">Ice Age: The Meltdown</title>
+    <desc lang="es">Manny, Sid y Diego descubren que la era del hielo está por terminar y se unen junto al resto de los animales en un viaje a la superficie(n)</desc>
+    <credits>
+      <actor>Ray Romano</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Denis Leary</actor>
+      <actor>Seann William Scott</actor>
+      <actor>Josh Peck</actor>
+      <actor>Queen Latifah</actor>
+      <producer>Lori Forte</producer>
+      <composer>John Powell</composer>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Película</category>
+    <category lang="es">Animación</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_era_de_hielo_2.jpg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20221218084500 -0600" stop="20221218113000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Argentina vs. Francia En Vivo</title>
+  </programme>
+  <programme start="20221218113000 -0600" stop="20221218123000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Protagonistas de Qatar 2022</title>
+  </programme>
+  <programme start="20221218123000 -0600" stop="20221218150000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Cuidado Bebé Suelto</title>
+  </programme>
+  <programme start="20221218150000 -0600" stop="20221218171500 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">WALL-E</title>
+  </programme>
+  <programme start="20221218171500 -0600" stop="20221218193000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Happy Feet 2 El pingüino</title>
+  </programme>
+  <programme start="20221218193000 -0600" stop="20221218213000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Vida secreta de tus mascotas</title>
+  </programme>
+  <programme start="20221218213000 -0600" stop="20221219000000 -0600" channel="Canal Azteca 7 (México)">
+    <title lang="es">Dumbo</title>
+  </programme>
+  <programme start="20221217003000 -0600" stop="20221217020000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20221217020000 -0600" stop="20221217030000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20221217030000 -0600" stop="20221217043000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20221217043000 -0600" stop="20221217050000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">TLR</title>
+  </programme>
+  <programme start="20221217050000 -0600" stop="20221217060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">TD Nocturno CDMX</title>
+  </programme>
+  <programme start="20221217060000 -0600" stop="20221217100000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario matutino FS CDMX</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">VIvalavi CDMX</title>
+  </programme>
+  <programme start="20221217110000 -0600" stop="20221217120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Amazon Music News</title>
+  </programme>
+  <programme start="20221217120000 -0600" stop="20221217140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Vespertino FS CDMX</title>
+  </programme>
+  <programme start="20221217140000 -0600" stop="20221217150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">FAD Mty</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Especial de Homenajes</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217180000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">MT Mundialista CDMX</title>
+  </programme>
+  <programme start="20221217180000 -0600" stop="20221217190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">C4 En Alerta, el resumen</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217220000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Telediario Nocturno FS CDMX</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221218000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Noches del Fútbol</title>
+  </programme>
+  <programme start="20221218000000 -0600" stop="20221218010000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218020000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Buenas Noches Don Fematt</title>
+  </programme>
+  <programme start="20221218020000 -0600" stop="20221218040000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Es Show, el musical</title>
+  </programme>
+  <programme start="20221218040000 -0600" stop="20221218060000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Las Noches del Fútbol</title>
+  </programme>
+  <programme start="20221218100000 -0600" stop="20221218110000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Resumen Vivalavi CDMX</title>
+  </programme>
+  <programme start="20221218110000 -0600" stop="20221218120000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Lo mejor de Chismorreo</title>
+  </programme>
+  <programme start="20221218120000 -0600" stop="20221218140000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Aficionados</title>
+  </programme>
+  <programme start="20221218140000 -0600" stop="20221218150000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">PakTEMOciones</title>
+  </programme>
+  <programme start="20221218150000 -0600" stop="20221218160000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Orbital</title>
+  </programme>
+  <programme start="20221218160000 -0600" stop="20221218170000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Resumen Las Rapiditas</title>
+  </programme>
+  <programme start="20221218180000 -0600" stop="20221218190000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Lucha libre AAA</title>
+  </programme>
+  <programme start="20221218220000 -0600" stop="20221218230000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Pantallazo MTY</title>
+  </programme>
+  <programme start="20221218230000 -0600" stop="20221218233000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">MD Express</title>
+  </programme>
+  <programme start="20221218233000 -0600" stop="20221219000000 -0600" channel="Canal Multimedios Plus">
+    <title lang="es">Fuera del control</title>
+  </programme>
+  <programme start="20221217040000 -0600" stop="20221217080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221217080000 -0600" stop="20221217100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana</title>
+  </programme>
+  <programme start="20221217100000 -0600" stop="20221217110000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Óscar Hernández</title>
+  </programme>
+  <programme start="20221217110000 -0600" stop="20221217120000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221217120000 -0600" stop="20221217130000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Óscar Hernández</title>
+  </programme>
+  <programme start="20221217130000 -0600" stop="20221217140000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221217140000 -0600" stop="20221217150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221217150000 -0600" stop="20221217160000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221217160000 -0600" stop="20221217170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221217170000 -0600" stop="20221217180000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221217180000 -0600" stop="20221217190000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20221217190000 -0600" stop="20221217193000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN 40 De la historia</title>
+  </programme>
+  <programme start="20221217193000 -0600" stop="20221217200000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN 40 Documentales</title>
+  </programme>
+  <programme start="20221217200000 -0600" stop="20221217210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge Rocha</title>
+  </programme>
+  <programme start="20221217210000 -0600" stop="20221217220000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20221217220000 -0600" stop="20221217230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Charlas con Mónica Garza</title>
+  </programme>
+  <programme start="20221217230000 -0600" stop="20221217231500 -0600" channel="Canal ADN 40">
+    <title lang="es">No hay lugar común</title>
+  </programme>
+  <programme start="20221217231500 -0600" stop="20221217233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Ahora, Futuro México</title>
+  </programme>
+  <programme start="20221217233000 -0600" stop="20221218000000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN 40 Documentales</title>
+  </programme>
+  <programme start="20221218000000 -0600" stop="20221218001500 -0600" channel="Canal ADN 40">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20221218001500 -0600" stop="20221218003000 -0600" channel="Canal ADN 40">
+    <title lang="es">Ruta ADN 40</title>
+  </programme>
+  <programme start="20221218003000 -0600" stop="20221218004500 -0600" channel="Canal ADN 40">
+    <title lang="es">Frente a frente</title>
+  </programme>
+  <programme start="20221218004500 -0600" stop="20221218010000 -0600" channel="Canal ADN 40">
+    <title lang="es">Punto de Fuga</title>
+  </programme>
+  <programme start="20221218010000 -0600" stop="20221218040000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218040000 -0600" stop="20221218070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218070000 -0600" stop="20221218080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20221218080000 -0600" stop="20221218100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana</title>
+  </programme>
+  <programme start="20221218100000 -0600" stop="20221218110000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20221218110000 -0600" stop="20221218120000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221218120000 -0600" stop="20221218130000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Max Espejel</title>
+  </programme>
+  <programme start="20221218130000 -0600" stop="20221218140000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221218140000 -0600" stop="20221218150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221218150000 -0600" stop="20221218160000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Viridiana Hernández</title>
+  </programme>
+  <programme start="20221218160000 -0600" stop="20221218170000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20221218170000 -0600" stop="20221218180000 -0600" channel="Canal ADN 40">
+    <title lang="es">El Foco</title>
+  </programme>
+  <programme start="20221218180000 -0600" stop="20221218183000 -0600" channel="Canal ADN 40">
+    <title lang="es">El Refugio</title>
+  </programme>
+  <programme start="20221218183000 -0600" stop="20221218190000 -0600" channel="Canal ADN 40">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20221218190000 -0600" stop="20221218200000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20221218200000 -0600" stop="20221218210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20221218210000 -0600" stop="20221218220000 -0600" channel="Canal ADN 40">
+    <title lang="es">En Resumidas Cuentas</title>
+  </programme>
+  <programme start="20221218220000 -0600" stop="20221218230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge Rocha</title>
+  </programme>
+  <programme start="20221218230000 -0600" stop="20221218233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20221218233000 -0600" stop="20221219033000 -0600" channel="Canal ADN 40">
+    <title lang="es">En Resumidas Cuentas</title>
+  </programme>
+</tv>
