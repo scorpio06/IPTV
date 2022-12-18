@@ -87,7 +87,7 @@ http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="PLUS",ADN 40
 http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCNjj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN
 http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe
 http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
