@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="CANAL GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/2560px-Galavision_Logo_2013.svg.png" group-title="USA LATINO",GALAVISION
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL LAS ESTRELLAS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" group-title="MEXICO",LAS ESTRELLAS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="Mundo", Las Estrellas
 http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Imagen TV" tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/imagen-tv-200x300.png?itok=2YZVNHgb" group-title="MEXICO",Imagen TV
