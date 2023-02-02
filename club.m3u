@@ -17,10 +17,15 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/chunklist_w1892638478.m
 #EXTINF:-1 tvg-ID="" tvg-name="CANAL 4.3 DEPORTES" tvg-logo="https://www.tvcuatro.com/images/deportes-02.png" group-title="MEXICO",CANAL 4.3 GUANAJUATO
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/chunklist_w1314913521.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Azteca 7 (México)" tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="MEXICO",AZTECA 7
+http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Mexiquense TV" tvg-logo="https://radioytvmexiquense.mx/wp-content/uploads/2019/10/200X100-MX-1.png" group-title="MEXICO",MEXIQUENSE TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w413924476.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="PLUS",ADN 40
+http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEMAR CAMPECHE" tvg-logo="https://photos.live-tv-channels.org/tv-logo/mx-telemar-campeche-5613-300x225.jpg" group-title="MEXICO",TELEMAR CAMPECHE
 https://stream-03.sv4.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2q09DOP4sumfMavAnPxIY9KcDcSrZH7lOyBxLVrlzEqI)/dm/3/x80bl3l/s/live-1.m3u8
@@ -60,7 +65,7 @@ http://tv.teleclub.xyz/stream/Infantil/DISNEY_CHANNEL/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Kids" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-kids_m.png" group-title="NIÑOS",DISCOVERY KIDS
 http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Kids" tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="NIÑOS", Nick
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Nickelodeon (Colombia)" tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="NIÑOS", Nick
 http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Canal Nick Jr. (México)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png"group-title="NIÑOS",NICK JR
 http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
@@ -68,7 +73,7 @@ http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
 http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal BitMe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BitMelogo.png/640px-BitMelogo.png" group-title="NIÑOS",BITME
 http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoonito (México)" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Cartoonito (Colombia)" tvg-logo="https://static.wikia.nocookie.net/cartoonnetwork/images/8/83/Cartoonito_Logo_2021.png/revision/latest?cb=20211203224901&path-prefix=es" group-title="NIÑOS",CARTOONITO
 http://tv.teleclub.xyz/stream/Infantil/CARTOONITO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Infantil", Gogoplay TV
 http://tv.teleclub.xyz/stream/Infantil/GOGOPLAY/index.m3u8
@@ -87,8 +92,7 @@ http://tv.teleclub.xyz/stream/Mundo/TRUTV/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/MASCHIC/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Lifetime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png" group-title="PLUS",LIFETIME
 http://tv.teleclub.xyz/stream/Mundo/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canal ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" group-title="PLUS",ADN 40
-http://tv.teleclub.xyz/stream/Mundo/ADN40/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="Canal RCN Nuestra Tele Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele-mediano.png" group-title="PLUS",RCN INTERNACIONAL
 http://tv.teleclub.xyz/stream/Mundo/RCN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Telefe Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_internacional-mediano.png" group-title="PLUS",TELEFE
@@ -97,12 +101,12 @@ http://tv.teleclub.xyz/stream/Mundo/TELEFE/index.m3u8
 http://tv.teleclub.xyz/stream/Mundo/HOLATV/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal E Entertainment Television (México)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" group-title="PLUS",CANAL E
 http://tv.teleclub.xyz/stream/Mundo/CANAL_E/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Caracol Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png" group-title="PLUS",CARACOL TV
 http://tv.teleclub.xyz/stream/Mundo/CARACOLTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="PLUS",TELEMUNDO
 http://tv.teleclub.xyz/stream/Mundo/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7
-http://tv.teleclub.xyz/stream/Mundo/AZTECA7/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="Mundo", Univision
 http://tv.teleclub.xyz/stream/Mundo/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3
