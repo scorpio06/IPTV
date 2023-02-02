@@ -114,10 +114,9 @@ http://tv.teleclub.xyz/stream/Mundo/ANTENA3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="Cultura", Food Network
 http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura", Discovery Channel
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Channel" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" group-title="PLUS",DISCOVERY CHANNEL
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" group-title="PLUS",DISCOVERY THEATER
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
