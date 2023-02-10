@@ -118,7 +118,7 @@ http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png" group-title="PLUS",DISCOVERY THEATER
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_THEATER/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Theater (Latinoamérica)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" group-title="PLUS",DISCOVERY WORLD
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery World Latinoamérica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png" group-title="PLUS",DISCOVERY WORLD
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_WORLD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Canal Discovery Turbo Latinoamérica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" group-title="PLUS",DISCOVERY TURBO
 http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_TURBO/index.m3u8
